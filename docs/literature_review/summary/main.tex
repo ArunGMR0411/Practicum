@@ -1,0 +1,169 @@
+\documentclass[10pt, twocolumn]{IEEEtran}
+
+% ── Packages ─────────────────────────────────────────────────
+\usepackage{times}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{microtype}
+\usepackage{hyperref}
+\usepackage[backend=biber,style=ieee,doi=true,url=false,isbn=false,maxbibnames=1,minbibnames=1]{biblatex}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{flushend}
+\addbibresource{references.bib}
+\hypersetup{
+    colorlinks = true,
+    linkcolor  = black,
+    citecolor  = black,
+    urlcolor   = black
+}
+
+% ── Title ─────────────────────────────────────────────────────
+\title{Automated Multi-Modal Privacy Protection Framework for Personal Image Data Sharing: Literature Review}
+
+% ── Custom two-column author block ───────────────────────────
+\author{
+\begin{tabular}{@{}>{\centering\arraybackslash}p{0.48\columnwidth}>{\centering\arraybackslash}p{0.48\columnwidth}@{}}
+\textbf{Arun Narayanan} & \textbf{Vaseekaran Krishnan Vinodhan} \\
+A00048672 & A00050240 \\
+School of Computing & School of Computing \\
+Dublin City University (AI) & Dublin City University (AI) \\
+Dublin, Ireland & Dublin, Ireland \\
+\footnotesize arun.narayanan2@mail.dcu.ie & \footnotesize vaseekaran.krishnanvinodhan2@mail.dcu.ie \\
+\end{tabular}
+\vspace{0.2\baselineskip}
+}
+
+\IEEEspecialpapernotice{Supervised by Dr.~Liting Zhou, School of Computing,
+Dublin City University.}
+
+\begin{document}
+
+\maketitle
+% ── Abstract ──────────────────────────────────────────────────
+\begin{abstract}
+This review synthesises 34 papers across four themes (egocentric face detection, generative face anonymisation, multimodal screen/text privacy, and privacy evaluation), anchored by the CASTLE 2024 dataset as used in this practicum: 416,542 offline-extracted WebP still frames across 16 streams and four recording days, with 11 unique participant identifiers and 10 active participants per day. The raw 8.22\,TB video collection is not processed. The field advances individual sub-problems yet offers limited evidence of integrated performance under realistic egocentric conditions. Many generative methods achieve strong results on controlled portrait datasets but remain unevaluated under motion blur, non-frontal viewpoints, and lossy WebP compression. Privacy evaluation predominantly relies on face-level re-identification, while contextual and demographic channels (which can reach 65--80\% attack accuracy without face access) receive inconsistent treatment. Screen and text privacy and face anonymisation are not evaluated jointly within the reviewed corpus, and utility metric reporting remains inconsistent across methods. Three gaps are formalised: (G1) no quality-aware adaptive strategy selection; (G2) no cross-view identity-consistency evaluation using filename-derived temporal alignment; and (G3) no unified multimodal privacy pipeline validated on egocentric lifelog data. These gaps motivate four research questions addressed in the methodology.
+\end{abstract}
+
+\begin{IEEEkeywords}
+Egocentric vision, lifelog privacy, face anonymisation, multimodal
+privacy, generative models, re-identification, CASTLE dataset.
+\end{IEEEkeywords}
+
+% ══════════════════════════════════════════════════════════════
+\section{Introduction}
+\label{sec:introduction}
+
+Wearable cameras now capture continuous first-person footage at 4K resolution, accumulating terabytes per session. Grauman et al.\ demonstrated the scope with Ego4D (3,670 hours, 931 participants, 74 locations)~\cite{grauman2022ego4d}, establishing egocentric vision as a productive research discipline. Yet a single lifelog frame may simultaneously expose biometric identities of bystanders, sensitive screen content, and handwritten notes, constituting a compound multimodal disclosure that no existing system addresses in full. Under EU GDPR (Art.~9(1)), distributing unanonymised biometric data without lawful basis is potentially unlawful, making privacy protection an obligation rather than an option.
+
+The egocentric setting invalidates assumptions underlying standard face anonymisation. Person faces appear non-frontally, at variable distances, in motion, and under uncontrolled illumination. Khan et al.~\cite{khan2024survey} confirm that robust evaluation under degraded conditions remains the exception, with most methods assessed on CelebA-HQ, FFHQ, or LFW, none of which approximate egocentric capture. Beyond face identity, Li et al.~\cite{li2025egoprivacy} demonstrate that zero-shot foundation models recover demographic attributes at peak accuracies of 73.15\% (gender), 79.64\% (age), and 65.36\% (race) from egocentric video without any face access (Tab.~2 of~\cite{li2025egoprivacy}), establishing that comprehensive privacy must address face, screen, and text as an integrated multimodal problem.
+
+\textbf{CASTLE 2024}~\cite{rossetto2025castle} provides the anchoring context. Captured using GoPro HERO10 Black cameras at 3,840$\times$2,160 UHD 4K/50\,fps, the original CASTLE release comprises 8.22\,TB of multi-view lifelog footage. This practicum accesses the offline-extracted WebP still-frame corpus: 416,542 frames across 16 streams (10 egocentric, 5 fixed exocentric, and 1 additional egocentric stream from a Day~4 participant substitution), 11 unique participant identifiers, 10 active participants per day, and four recording days. The raw video collection is not processed. The dataset contains unblurred faces and screens, and its closed per-day identity pool enables closed-set re-identification evaluation. Cross-view evaluation uses filename-derived `HHNNNN' alignment rather than separate video synchronisation metadata.
+
+\textit{Survey Question:} ``What is the state of the art in automated, adaptive, multimodal privacy protection for high-resolution egocentric lifelog imagery, with respect to privacy-utility trade-offs under real-world capture conditions?'' This structures four research questions: \textbf{RQ1}: Which detection architectures achieve the highest robustness on 4K egocentric frames under practical compute constraints?\ \textbf{RQ2}: How do GAN-based, diffusion-based, and standard perturbation face anonymisation methods compare with respect to privacy-utility trade-offs when applied to egocentric lifelog imagery under a standardised evaluation protocol?\ \textbf{RQ3}: Can a single multimodal pipeline protect privacy more completely by handling faces, visible text, and screens together rather than faces alone?\ \textbf{RQ4}: Can quality-aware adaptive method selection outperform fixed anonymisation strategies in this egocentric setting? The review draws from 34 peer-reviewed papers via IEEE Xplore, ACM DL, CVF Open Access, and Web of Science, bounded by CORE A*/A/B venues and Q1/Q2 journals (2020--2026), with pre-2020 foundational works~\cite{deng2019arcface,baek2019craft,heusel2017fid,zhang2018lpips,wang2004ssim} retained under documented exception. ArXiv-only papers are excluded unless a confirmed peer-reviewed proceedings or journal version is available.
+
+The review is organised into four thematic sections concluding with gap analysis; privacy evaluation frameworks and utility metrics are treated alongside adversarial re-identification tools~\cite{li2025egoprivacy,kim2022adaface,deng2019arcface}.
+
+% ══════════════════════════════════════════════════════════════
+\section{Face Detection for Egocentric Data}
+\label{sec:facedetection}
+
+Face detection is the prerequisite for all downstream anonymisation: an undetected face is an irreversible privacy failure. CASTLE introduces four constraints beyond standard benchmarks: (i) 4K resolution creating extreme face-scale range, (ii) systematic wearable-camera motion blur, (iii) WebP compression artefacts at face boundaries, and (iv) frequent non-frontal angles from head-mounted capture~\cite{rossetto2025castle}.
+
+\textbf{RetinaFace}~\cite{deng2020retinaface} employs ResNet-50 with FPN and joint landmark regression, achieving 91.4\% AP on WIDER FACE Hard (Tab.~1 of~\cite{deng2020retinaface}). However, WIDER FACE is a still-image web dataset lacking egocentric angles, motion blur, and WebP inputs. \textbf{YOLOv9}~\cite{wang2024yolov9} introduces GELAN for multi-scale aggregation and PGI for gradient preservation, achieving 53.0--55.6\% mAP@0.5:0.95 on MS COCO (YOLOv9-C/E). GELAN's multi-scale architecture is suited to CASTLE's extreme face-scale variation, and COCO's naturalistic diversity provides broader augmentation than WIDER FACE. However, YOLOv9 lacks a face-specific head and requires fine-tuning. \textbf{Li et al.}~\cite{li2025lightweight} propose the only corpus-internal egocentric PII detection framework, targeting MCU-class edge hardware; the accessible abstract reports face detection mAP of 41.38\% (Sec.~IV) on a custom egocentric dataset, but the work does not report CASTLE evaluation.
+
+\textbf{Synthesis.} No detector in the corpus reports performance on CASTLE, on motion-blurred sets, or on WebP-compressed images. Every reported metric was measured under conditions categorically different from CASTLE deployment. YOLOv9 is the preferred candidate based on architectural multi-scale superiority, broader training diversity, and higher general performance, but must be fine-tuned with a dedicated face class and evaluated on CASTLE frames. RetinaFace is retained as a comparison baseline. This benchmark gap constitutes Gap G1's detection precondition and motivates RQ1.
+
+% ══════════════════════════════════════════════════════════════
+\section{Generative Anonymisation}
+\label{sec:genanon}
+
+Generative anonymisation replaces identity-bearing content with synthetic substitutes. Khan et al.~\cite{khan2024survey} summarise the field's tension: methods maximising realism often preserve identity cues, while aggressive identity disruption reduces utility. Table~\ref{tab:summary} summarises metric coverage.
+
+\textbf{GAN-Based Methods.} Khorzooghi and Nilizadeh~\cite{khorzooghi2023gan} report the clearest identity disruption: identification attack accuracy of 11.7\% at privacy-optimal StyleGAN~0-3 (FaceNet+SVM, Tab.~3), but exclusively on aligned 1024$\times$1024 CelebA-HQ with no egocentric degradation. CPP-DeID~\cite{meden2023cppdeidentification} targets tunable identity change with SSIM\,=\,0.74 (abstract-level), but preserved structural cues expand the threat surface under strong recognisers~\cite{kim2022adaface}. DeepPrivacy2~\cite{hukkelas2023deepprivacy2} achieves a configuration-specific FID\,=\,0.56 (128$\times$128 FDF retraining), extending anonymisation to whole persons, but reports no egocentric evaluation. GANonymization~\cite{hellmann2024ganonymization} preserves expressions (cosine distance 0.7145, FaceNet512, Tab.~1) but reports neither FID nor attacker-model re-ID. PrivacyLens~\cite{iravantchi2024privacylens} achieves 99.1\% PII sanitization on Jetson Nano, but this measures internal detection output, not attacker re-identification.
+
+\textbf{Diffusion-Based Methods.} Diffusion models offer stronger identity disentanglement but impose higher inference costs limiting them to region-of-interest processing. DIFP~\cite{you2024difp} reports 99.2\% protection success rate against FaceNet and 100\% against a commercial recogniser (Tab.~1), but uses neither ArcFace~\cite{deng2019arcface} nor AdaFace~\cite{kim2022adaface} as attacker, and FID is not measured. Diff-Privacy~\cite{he2024diffprivacy} presents results at abstract level only. Kung et al.~\cite{kung2025face} report nearest-neighbour re-identification rates of 0.053/0.098 (CelebA-HQ/FFHQ, FaceNet cosine, Tab.~1; not closed-set ArcFace/AdaFace evaluation) but omit FID, SSIM, and LPIPS. Reverse Personalization~\cite{kung2026reverse} is the added WACV 2026 candidate: it uses conditional diffusion inversion and identity-guided conditioning to remove identity while preserving controllable attributes, and its public code makes it executable for this practicum pending CASTLE-specific evaluation.
+
+\textbf{Reversible and Key-Driven Methods.} ReFaceX~\cite{muhammad2026refacex} achieves very low post-anonymisation cosine similarity (FaceNet: 0.009, ArcFace: 0.008, AdaFace: 0.017 on LFW, Tab.~4) with high recovery fidelity (SSIM\,=\,0.9378, LPIPS\,=\,0.1002, Tab.~6); however, real-time claims are tied to 256$\times$256 resolution, and 4K performance requires separate profiling. It is retained as a literature comparator rather than an executable method because its source code is available from the corresponding author upon reasonable request, not through a public reproducible repository. Wang et al.~\cite{zhang2025keydriven} report anonymity mismatch rate of 0.962 (Tab.~VIII), formalising privacy as verifiable access-control. Both directly address controlled-disclosure requirements under CC BY-NC-SA 4.0 licensing. Lopez et al.~\cite{lopez2024privacy} demonstrate privacy-preserving optics (FID\,=\,29.218), clarifying what post-hoc anonymisation must achieve.
+
+\textbf{Egocentric-Specific Methods.} Ilic et al.~\cite{ilic2024selective} show motion-consistent obfuscation preserves activity cues better than naive blurring. Thapar et al.~\cite{thapar2021anonymizing} directly address camera-wearer re-identification on EPIC-Kitchens, reporting activity recognition dropping from 89.6\% to 81.8\% post-anonymisation and recovering to 87.4\% after fine-tuning on anonymised data (Tab.~2, ``Mix'' activity, Furnari et al.\ model,~\cite{thapar2021anonymizing}), establishing that downstream task performance must be measured directly.
+
+\textbf{Synthesis.} Three contradictions emerge: (i) low FID/LPIPS does not guarantee downstream utility under egocentric degradation; (ii) reduced face recognition does not equal privacy, given EgoPrivacy's demographic attacks~\cite{li2025egoprivacy}; (iii) identity consistency is a design choice with threat-model consequences; reversible schemes~\cite{muhammad2026refacex,zhang2025keydriven} make this explicit. Blur and pixelation remain necessary baseline comparators because they establish the privacy-utility floor for interpreting GAN, diffusion, and reversible methods~\cite{khan2024survey,thapar2021anonymizing}. No two Theme~2 papers report the same complete metric set, necessitating house-standard re-evaluation on CASTLE.
+
+% ══════════════════════════════════════════════════════════════
+\section{Multimodal Privacy: Screen and Text Redaction}
+\label{sec:multimodal}
+
+A CASTLE frame simultaneously contains faces, laptop screens, handwritten notes, and smartphone surfaces, each an independent PII vector~\cite{rossetto2025castle}. Within the 33-paper corpus, no method jointly addresses face and screen/text privacy.
+
+\textbf{Screen Detection.} Li et al.~\cite{li2026screen} present MV-VLM for egocentric screen detection using Llama2-7B, achieving accuracy of 0.9561 (Tab.~II), but evaluated on a custom STT dataset (30 children, 1,800 images), not CASTLE. The multi-view architecture requires 2$\times$constrained-compute training; deployment requires single-view fallback without synchronisation metadata~\cite{li2026screen}.
+
+\textbf{Scene Text Detection.} DBNet~\cite{liao2020dbnet} achieves F-measure 82.8\% at 62\,FPS on MSRA-TD500 and, on ICDAR~2015, Hmean\,=\,82.3\% (ResNet-18; Tab.~3). CRAFT~\cite{baek2019craft} achieves F-measure 86.9\% on ICDAR~2015 (Tab.~1 of~\cite{baek2019craft}), 83.6\% on TotalText, and 83.5\% on CTW-1500 (Tab.~2 of~\cite{baek2019craft}). The 3\,pp.\ CRAFT drop from ICDAR to TotalText signals domain sensitivity; CASTLE's oblique screen text, WebP artefacts, and Moir\'e interference represent a harder distribution still.
+
+\textbf{OCR.} TrOCR~\cite{li2023trocr} achieves CER\,=\,2.89\% on IAM handwritten text (Tab.~4) and word-level F1\,=\,96.58\% on SROIE printed receipts (Tab.~3), but exclusively on clean, frontal documents; no oblique-angle or WebP evaluation.
+
+\textbf{Privacy-Utility Trade-Off.} Wang et al.~\cite{wang2023modeling} demonstrate that resolution reduction degrades activity recognition from 94.6\% to 81.0\% (ViT) and 88.8\% to 63.9\% (ResNet50) across the resolution range (Tab.~2), establishing that privacy interventions are not utility-neutral.
+
+\textbf{Synthesis (Gap G3).} No paper simultaneously addresses face anonymisation and screen/text redaction in the same egocentric frame. This structural separation breaks down for any dataset where both modalities co-occur. A CASTLE frame with all faces anonymised but a visible email inbox has not been privacy-protected. Gap~G3 defines RQ3.
+
+% ══════════════════════════════════════════════════════════════
+\section{Privacy Evaluation and Utility Metrics}
+\label{sec:evaluation}
+
+The metric inconsistency in Table~\ref{tab:summary} reflects the absence of field-wide consensus on privacy and utility evidence. This section establishes the house-standard evaluation protocol, applied retroactively as the benchmark for N/R entries in all comparison tables.
+
+\textbf{Adversary Threat Model.} CASTLE's closed 10-active-participants-per-day pool creates higher identity inference probability (1-in-10 vs.\ 1-in-thousands) than open-world datasets. The 16-stream offline WebP corpus creates a cross-view attack surface. The threat model comprises: (i) closed-set face recognition attacker (primary); (ii) cross-view re-identification attacker using filename-derived `HHNNNN' alignment (secondary, novel); (iii) contextual demographic inference attacker without face access, following EgoPrivacy~\cite{li2025egoprivacy}.
+
+\textbf{Re-ID Attack Tools.} ArcFace~\cite{deng2019arcface} applies an additive angular margin to produce discriminative embeddings: under its original MS1MV2 evaluation it reports 94.2\% / 95.6\% TAR@FAR=$10^{-4}$ on IJB-B / IJB-C and 99.83\% on LFW~\cite{deng2019arcface}. Kim et al.~\cite{kim2022adaface} re-evaluate both recognisers under identical conditions (MS1MV2, ResNet100, TAR@FAR=$10^{-4}$): ArcFace 96.03\% versus AdaFace 96.89\% on IJB-C~\cite{kim2022adaface} (+0.86\,pp.). On IJB-S Surveillance-to-Single (the closest published analog to degraded wearable-camera crops), AdaFace achieves 65.26\% Rank-1 versus ArcFace's 57.35\%~\cite{kim2022adaface} (+7.91\,pp.). AdaFace is designated primary attacker; ArcFace secondary for cross-study comparability.
+
+\textbf{EgoPrivacy.} Li et al.~\cite{li2025egoprivacy} demonstrate zero-shot demographic attack accuracies (Gender: 73.15\%, Age: 79.64\%, Race: 65.36\% at peak across models; Tab.~2) on egocentric video without face access. A pipeline reducing ArcFace re-ID from 89\% to 3\%~\cite{khorzooghi2023gan} while leaving these channels intact has not meaningfully protected privacy. CASTLE's closed-set structure is hypothesised to yield higher attack accuracy than EgoPrivacy reports.
+
+\textbf{Perceptual Metrics.} FID~\cite{heusel2017fid} (distribution realism; verified corpus range: DeepPrivacy2 FID\,=\,0.56~\cite{hukkelas2023deepprivacy2}), LPIPS~\cite{zhang2018lpips} (perceptual artefact sensitivity), and SSIM~\cite{wang2004ssim} (structural fidelity; corpus range $\sim$0.74--0.94~\cite{meden2023cppdeidentification,muhammad2026refacex}) form the quality metric set, computed against WebP-compressed originals. The unanonymised CASTLE WebP FID baseline is computed first before anonymised FID is reported.
+
+\textbf{Downstream Utility.} Stenger et al.~\cite{stenger2025evaluating} establish that anonymisation must be evaluated on task output. CASTLE's Event Search mAP~\cite{rossetto2025castle} serves as primary downstream gate. EPIC-Kitchens-100~\cite{damen2022epic} provides an egocentric proxy when CASTLE evaluation is infeasible. MAP2V~\cite{zhang2024map2v} provides post-hoc validation methodology. Khorzooghi and Nilizadeh~\cite{khorzooghi2023gan} provide an attribute preservation framework (age mean absolute difference of~5, gender match rate of~98\% for StyleGAN~0-8, Tab.~2), serving as the baseline for evaluating whether anonymisation-induced attribute distortion remains within socially interpretable bounds.
+
+\input{tables/table_summary}
+
+% ══════════════════════════════════════════════════════════════
+\section{Gap Analysis and Research Questions}
+\label{sec:gaps}
+
+Three independent lines of evidence converge on the research space this project occupies.
+
+\textbf{Gap G1 (Primary: Quality-Aware Adaptive Selection):} Within the 34-paper corpus, no reviewed method explicitly performs input-quality-aware strategy selection, i.e., choosing between GAN, diffusion, or perturbation approaches based on measurable face quality indicators such as resolution, blur level, or occlusion degree. This is not a design simplification; it is an assumption that the privacy-utility trade-off is stable across all input conditions. The assumption collapses under CASTLE's constraints: AdaFace's +7.91\,pp.\ advantage over ArcFace on IJB-S low-quality inputs~\cite{kim2022adaface} demonstrates that attacker success is quality-dependent, yet no anonymisation method calibrates its strategy to this variability. The router signals are blur via Laplacian variance, face size in pixels, occlusion ratio, and WebP artefact severity, with thresholds derived on a dedicated 200-frame calibration set distinct from development and evaluation subsets. G1 is the central research problem and defines RQ4: does adaptive selection achieve superior privacy-utility trade-offs on CASTLE versus fixed-strategy methods, under the house-standard protocol (AdaFace~\cite{kim2022adaface} + ArcFace~\cite{deng2019arcface} + EgoPrivacy~\cite{li2025egoprivacy} + LPIPS~\cite{zhang2018lpips} + SSIM~\cite{wang2004ssim} + FID~\cite{heusel2017fid} subset)? Pairwise comparisons use paired t-tests for SSIM/LPIPS, McNemar tests for detector comparisons, Wilcoxon signed-rank tests for re-ID comparisons, and 95\% confidence intervals.
+
+\textbf{Gap G2 (Cross-View Consistency):} CASTLE's multi-stream WebP corpus creates a cross-view identity leakage surface~\cite{rossetto2025castle} not modelled in any reviewed evaluation. An identity anonymised in an egocentric frame may remain re-identifiable across fixed exocentric views. G2 is evaluated under RQ4 through filename-derived `HHNNNN' alignment, where `HH' is hour and `NNNN' is the frame counter sampled at 5-second intervals, giving the validated offset rule $t=(NNNN-1)\times5$ seconds. The limitation is alignment granularity and offline still-frame access, not total infeasibility.
+
+\textbf{Gap G3 (Engineering: Unified Multimodal Pipeline):} Not one corpus paper simultaneously addresses face anonymisation and screen/text redaction in the same egocentric frame~\cite{li2026screen,liao2020dbnet,baek2019craft,li2023trocr}. Under EU GDPR, facial imagery can constitute biometric data when processed for identification (Art.~4(14); Art.~9(1)), and screen-visible content may independently constitute personal data. Face-only processing is therefore insufficient for compliant data sharing under a strict privacy threat model.  G3 defines RQ3: can a unified multimodal pipeline achieve comprehensive PII removal from CASTLE frames without degrading CASTLE's image-based retrieval benchmark by more than~10\%?
+
+\textbf{RQ2 (Anonymisation Comparison and Evaluation Standardisation):} How do GAN-based, diffusion-based, and standard perturbation face anonymisation methods compare with respect to privacy-utility trade-offs (specifically re-identification resistance and perceptual quality preservation) when applied to egocentric lifelog imagery under a standardized evaluation protocol? This question is motivated by the metric inconsistency in the literature (where no two papers report the same complete metric set) and the need to establish a clear baseline before evaluating adaptive routing.
+
+% ══════════════════════════════════════════════════════════════
+\section{Conclusion}
+\label{sec:conclusion}
+
+\subsection{Synthesis of Key Findings}
+
+This review demonstrates a consistent pattern across 34 papers: substantial technical progress on individual sub-problems with systematic failure to integrate them under realistic egocentric evaluation conditions. Theme~1 found that among the strongest detectors in this review (YOLOv9~\cite{wang2024yolov9} at mAP\,=\,53.0\% on COCO and RetinaFace~\cite{deng2020retinaface} at AP\,=\,91.4\% on WIDER FACE Hard), neither has been evaluated under CASTLE's concurrent conditions of 4K resolution, wearable-camera motion blur, non-frontal angles, and WebP compression. Theme~2 documented a GAN-to-diffusion-to-reversible quality progression. StyleGAN~\cite{khorzooghi2023gan} achieves identification attack accuracy (FaceNet+SVM, m1) of 11.7\% at the privacy-optimal StyleGAN~0-3 level (Tab.~3), Reverse Personalization~\cite{kung2026reverse} adds a public-code diffusion-inversion anonymisation candidate, ReFaceX~\cite{muhammad2026refacex} reports post-anonymisation cosine similarity of 0.009 / 0.008 / 0.017 (FaceNet/ArcFace/AdaFace on LFW, Tab.~4), and NDSS key-driven anonymisation~\cite{zhang2025keydriven} reports an unsuccessful authentication rate (UAR) of 0.962. These results were obtained on controlled portrait datasets (CelebA-HQ, FFHQ), not CASTLE-like egocentric frames. Theme~3 established that screen and text detection methods~\cite{li2026screen,liao2020dbnet,baek2019craft,li2023trocr} and face anonymisation methods~\cite{khorzooghi2023gan,meden2023cppdeidentification,hukkelas2023deepprivacy2,ilic2024selective,iravantchi2024privacylens,he2024diffprivacy,you2024difp,kung2026reverse,muhammad2026refacex,kung2025face,hellmann2024ganonymization,khan2024survey,lopez2024privacy,zhang2025keydriven,thapar2021anonymizing} have never been evaluated jointly in the same pipeline on the same frame. Theme~4 exposed the most fundamental contradiction: EgoPrivacy~\cite{li2025egoprivacy} demonstrates that zero-shot foundation models achieve demographic attack accuracies of up to 79.64\% (Gender: 73.15\%, Age: 79.64\%, Race: 65.36\% at peak across models) (Tab.~2 of~\cite{li2025egoprivacy}) on egocentric video without any face access, yet every anonymisation paper evaluates privacy exclusively at the face level.
+
+\subsection{Ethical Considerations}
+
+Under EU GDPR (Art.~9(1)), CASTLE's ten consenting participants~\cite{rossetto2025castle} and the CC BY-NC-SA~4.0 licence place a direct obligation to implement privacy protection. The licence creates a specific tension: authorised researchers need identifiable faces for annotation, while broader distribution requires protection. Reversible methods~\cite{muhammad2026refacex,zhang2025keydriven} address this through key-controlled reversibility. Attack evaluation is scoped solely to measure anonymisation effectiveness under DCU ethical approval; no identifiable embeddings are retained beyond the evaluation environment, following the GDPR data minimisation principle (Art.~5(1)(c)).
+
+\subsection{Lead-in to Methodology}
+
+The methodology is constructed directly from the constraints surfaced by this review: an AdaFace-primary~\cite{kim2022adaface} threat model calibrated to degraded inputs; YOLOv9~\cite{wang2024yolov9} detection fine-tuned on a dedicated face class; quality-conditioned strategy selection across the GAN-diffusion-reversible spectrum; MV-VLM~\cite{li2026screen} screen detection with single-view fallback; TrOCR~\cite{li2023trocr} text redaction; and a house-standard evaluation protocol spanning EgoPrivacy's seven-task battery~\cite{li2025egoprivacy}, perceptual quality metrics~\cite{heusel2017fid,zhang2018lpips,wang2004ssim}, and CASTLE's official benchmarks~\cite{rossetto2025castle}. The application artefact is a downstream translational output built on the validated research pipeline, not the primary academic contribution. Subset labels are accepted through model-assisted pre-labelling plus targeted human validation with provenance tracking; where validation is insufficient, labels are reported as operational proxies. The study is designed for thesis reporting and research-paper-quality comparative evidence, with statistical testing and limitation disclosure mandatory. Each design decision traces directly to a finding or conflict documented in this review.
+
+% ── Bibliography ──────────────────────────────────────────────
+
+\begingroup
+\footnotesize
+\setlength{\itemsep}{0pt}
+\setlength{\parskip}{0pt}
+\renewcommand*{\bibfont}{\footnotesize}
+\printbibliography
+\endgroup
+
+\end{document}

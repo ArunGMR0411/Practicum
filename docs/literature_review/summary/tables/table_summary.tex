@@ -1,0 +1,41 @@
+\begin{table*}[t]
+\centering
+\caption{Cross-theme comparative summary of key methods}
+\label{tab:summary}
+\scriptsize
+\setlength{\tabcolsep}{3.2pt}
+\renewcommand{\arraystretch}{1.05}
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{@{}cllllll@{}}
+\toprule
+Th. & Method & Type & Dataset & Key metric (source) & Ego? & CASTLE gap \\
+\midrule
+\multicolumn{7}{l}{\textit{Theme 1: Face Detection}} \\
+1 & RetinaFace~\cite{deng2020retinaface} & Anchor-FPN & WIDER FACE & AP $=91.4\%$ Hard (Tab.~1) & No & No ego, motion-blur, or WebP evaluation \\
+1 & YOLOv9~\cite{wang2024yolov9} & GELAN+PGI & MS COCO & mAP@.5:.95 $=53.0$--$55.6\%$ & No & No face head; no ego or WebP evaluation \\
+1 & Li et al.~\cite{li2025lightweight} & Lightweight & Custom ego & mAP $=41.38\%$ (Sec.~IV) & Yes & No CASTLE; 4K transfer untested \\
+\addlinespace[1pt]
+\multicolumn{7}{l}{\textit{Theme 2: Generative Anonymisation (selected)}} \\
+2 & StyleGAN~\cite{khorzooghi2023gan} & GAN & CelebA-HQ & Identification accuracy $11.7\%$ (m1, Tab.~3) & No & No ego evaluation; FID and SSIM N/R \\
+2 & DeepPrivacy2~\cite{hukkelas2023deepprivacy2} & GAN-whole & FDH 1.5M & FID $=0.56$ (128 px, Sec.~5.1) & No & No ego or full-resolution evaluation \\
+2 & DIFP~\cite{you2024difp} & Diffusion & CelebA-HQ & PSR $99.2\%$ FaceNet (Tab.~1)$^{\dagger}$ & No & No ArcFace or AdaFace attacker \\
+2 & ReFaceX~\cite{muhammad2026refacex} & Reversible & FFHQ/LFW & Cos. $0.009/0.008/0.017$ (Tab.~4) & No & 256 px only; 4K untested \\
+2 & Wang et al.~\cite{zhang2025keydriven} & Reversible & CelebA-HQ & Mismatch rate $0.962$ (Tab.~VIII) & No & FID, SSIM, and LPIPS N/R \\
+\addlinespace[1pt]
+\multicolumn{7}{l}{\textit{Theme 3: Multimodal Screen and Text Privacy}} \\
+3 & MV-VLM~\cite{li2026screen} & VLM & Custom STT & Accuracy $=0.9561$ (Tab.~II) & Yes & No CASTLE; no text redaction \\
+3 & DBNet~\cite{liao2020dbnet} & Segmentation & MSRA-TD500 & $F=82.8\%$, 62 FPS; ICDAR'15 Hmean $=82.3\%$ & No & No oblique, WebP, or ego evaluation \\
+3 & CRAFT~\cite{baek2019craft} & Char-region & ICDAR 2015 & $F=86.9\%$ (Tab.~1) & No & Domain-sensitive (3 pp. drop) \\
+3 & TrOCR~\cite{li2023trocr} & Transformer & IAM/SROIE & CER $2.89\%$; F1 $96.58\%$ (Tabs.~3--4) & No & Clean documents only; oblique N/R \\
+\addlinespace[1pt]
+\multicolumn{7}{l}{\textit{Theme 4: Privacy Evaluation}} \\
+4 & AdaFace~\cite{kim2022adaface} & Face recognition & MS1MV2 & IJB-C $96.89\%$; IJB-S Rank-1 $65.26\%$ & No & Primary attacker; quality-adaptive \\
+4 & ArcFace~\cite{deng2019arcface} & Face recognition & MS1MV2 & LFW $99.83\%$; IJB-C $95.6\%$ / $96.03\%$ & No & Secondary; fixed margin degrades \\
+4 & EgoPrivacy~\cite{li2025egoprivacy} & Seven-task threat & Ego-Exo4D & Gender $73.15\%$; age $79.64\%$; race $65.36\%$ & Yes & Not on CASTLE closed-set \\
+\bottomrule
+\end{tabular}%
+}
+\vspace{2pt}
+
+\raggedright\scriptsize N/R: not reported. $^{\dagger}$DIFP PSR uses FaceNet/Baidu, not ArcFace/AdaFace. Benchmarks across themes are non-comparable. Values are from the cited papers. Ego?: evaluated on egocentric data. The complete corpus contains the additional context papers cited in the review.
+\end{table*}
