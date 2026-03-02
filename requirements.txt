@@ -1,0 +1,45 @@
+# Thesis and experiment reproduction environment.
+# Use Python 3.10 for the most reliable match with the recorded experiments.
+# Experiments were run in a compute-constrained environment.
+
+# Core numerical and data stack
+numpy==2.2.6
+pandas
+tabulate
+scipy
+scikit-learn
+matplotlib
+tqdm
+psutil
+pyyaml
+requests
+gdown==5.2.0
+
+# PyTorch and vision stack
+torch==2.12.1
+torchvision==0.27.1
+triton==3.7.1
+opencv-python-headless==4.13.0.92
+Pillow
+kornia==0.7.1
+lpips==0.1.4
+
+# Detection, OCR, and re-identification evaluation
+ultralytics==8.4.62
+easyocr==1.7.2
+python-doctr==1.0.1
+insightface==0.7.3
+facenet-pytorch==2.5.3
+face-alignment==1.4.1
+onnxruntime-gpu==1.22.0
+
+# Generative-method evaluation branches (research comparators)
+diffusers==0.38.0
+transformers
+accelerate
+safetensors
+peft>=0.17.0
+sentencepiece==0.2.0
+tiktoken==0.12.0
+
+# App demonstrator dependencies are kept in app/requirements.txt.

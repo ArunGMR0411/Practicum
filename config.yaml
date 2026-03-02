@@ -1,0 +1,47 @@
+paths:
+  project_root: "."
+  manifest_csv: "data/castle2024/raw_dataset_index.csv"
+  system_config: "configs/system_config.json"
+  outputs_dir: "outputs"
+  logs_dir: "logs"
+  timing_output: "outputs/timing.json"
+
+evaluation_thresholds:
+  detection_confidence: 0.25
+  face_iou_threshold: 0.50
+  text_iou_threshold: 0.50
+  screen_iou_threshold: 0.50
+  privacy_alert_threshold: 0.50
+
+anonymisation_method_flags:
+  enable_stylegan2: false
+  enable_reverse_personalization: false
+  enable_diffusion: false
+  enable_reface: false
+  enable_blur_baseline: true
+  enable_pixelation_baseline: true
+
+evaluation_switches:
+  run_detection_eval: true
+  run_anonymisation_eval: true
+  run_multimodal_eval: true
+  run_routing_eval: true
+  run_ablation_eval: true
+  enable_wandb: false
+
+statistical_test_settings:
+  primary_test: "paired_t_test"
+  alpha: 0.05
+  confidence_level: 0.95
+  multiple_comparison_correction: "none"
+
+subset_definitions:
+  dev_set: "DEV_SET"
+  calibration_set: "CALIBRATION_SET"
+  detection_eval_subset: "DETECTION_EVAL_SUBSET"
+  anonymisation_eval_subset: "ANONYMISATION_EVAL_SUBSET"
+  multimodal_eval_subset: "MULTIMODAL_EVAL_SUBSET"
+  adaptive_eval_subset: "ADAPTIVE_EVAL_SUBSET"
+  fid_subset: "FID_SUBSET"
+  inspection_subset: "INSPECTION_SUBSET"
+  cross_view_eval_subset: "CROSS_VIEW_EVAL_SUBSET"

@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0.0",
+  "description": "Canonical superseding evidence sources for decision-framework rebuilds. Older secondary tables must not overwrite these without an explicit re-export.",
+  "rules": [
+    {
+      "label": "reverse_personalization_success_count",
+      "canonical": "outputs/03_anonymisation/05_reverse_personalization/09_rp_final_metric_summary.csv",
+      "secondary": "outputs/03_anonymisation/09_policy_scoring/anonymisation_policy_per_image_metrics.csv",
+      "field": "n_success",
+      "canonical_value": 482,
+      "hard_fail_if_secondary_newer": true
+    },
+    {
+      "label": "face_detector_adopted_primary",
+      "canonical": "outputs/02_face_detection/12_detector_error_hardening/detector_error_hardening_scores.csv",
+      "secondary": "outputs/02_face_detection/08_sliced_rfdetr_detector_experiment/sliced_detector_policy_scores.csv",
+      "field": "model",
+      "canonical_value": "error_hardened_all_raw_rf_iou0_45",
+      "hard_fail_if_secondary_newer": false,
+      "note": "Both tables are merged; adopted primary identity comes from hardening + decisions ledger."
+    },
+    {
+      "label": "multimodal_detection_locked_variants",
+      "canonical": "outputs/04_multimodal_privacy/01_multimodal_250_evidence/01_detection_protocol.md",
+      "secondary": "outputs/04_multimodal_privacy/01_multimodal_250_evidence/02_detection_method_comparison.csv",
+      "hard_fail_if_secondary_newer": false
+    }
+  ]
+}

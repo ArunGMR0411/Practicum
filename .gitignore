@@ -1,0 +1,185 @@
+# Code, documentation, and text evidence are tracked.
+
+# ----- Python -----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# ----- Virtual environments -----
+.venv/
+.venv_*/
+venv/
+env/
+ENV/
+
+# ----- Tests / type checkers / coverage -----
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+.pyre/
+.ipynb_checkpoints/
+
+# ----- IDE / OS -----
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ----- Caches / logs -----
+.cache/
+cache/
+wandb/
+logs/
+*.log
+*.aux
+*.bbl
+*.blg
+*.out
+*.run.xml
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+
+# ----- Images (never push pixels to GitHub) -----
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.heic
+*.heif
+*.ico
+*.svg
+*.ppm
+*.pgm
+
+# Public fixtures and paper figures
+!app/examples/**/*.jpg
+!app/examples/**/*.png
+!tests/fixtures/public_micro/images/**
+!outputs/01_protocol/smoke_protocol_public/images/**
+!docs/thesis_papers/images/*.jpg
+!docs/thesis_papers/images/*.png
+outputs/01_protocol/smoke_protocol_public/runs/
+!outputs/01_protocol/mini_protocol_analogues/**/images/**
+outputs/01_protocol/mini_protocol_analogues/runs/
+!outputs/07_app_validation/run_logs/generative_fallback_demo/**
+# Coverage
+tests/coverage.json
+.coverage
+htmlcov/
+
+# ----- Video / audio -----
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+*.wav
+*.mp3
+
+# ----- Model weights & binary ML artefacts (never push) -----
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.safetensors
+*.bin
+*.mat
+*.pb
+*.h5
+*.tflite
+*.engine
+*.trt
+*.params
+*.params.json
+weights/
+checkpoints/
+**/pretrained/
+**/pretrain/
+
+# ----- Local model trees (entire directories) -----
+data/models/**
+!data/models/**/.gitkeep
+!data/models/**/README.md
+
+# ----- CASTLE raw / private data (local only) -----
+data/castle2024/raw/**
+data/castle2024/**/*.webp
+data/castle2024/**/*.jpg
+data/castle2024/**/*.png
+# Large private index (keep local; regenerate or obtain separately)
+data/castle2024/raw_dataset_index.csv
+
+# ----- App local I/O -----
+app/models/**
+!app/models/**/.gitkeep
+!app/models/**/README.md
+app/inputs/**
+!app/inputs/**/.gitkeep
+!app/inputs/**/README.md
+app/outputs/**
+!app/outputs/README.md
+!app/outputs/**/.gitkeep
+
+# ----- Third-party clones: keep code if tracked, never weights/media -----
+third_party/**/models/**
+third_party/**/checkpoints/**
+third_party/**/*.pt
+third_party/**/*.pth
+third_party/**/*.ckpt
+third_party/**/*.onnx
+third_party/**/*.safetensors
+third_party/**/*.bin
+third_party/**/my_dataset/**
+third_party/**/assets/**/*.{jpg,jpeg,png,webp,gif}
+
+# ----- InsightFace / HuggingFace / torch caches (user home paths not in repo,
+#       but guard accidental copies into the tree) -----
+**/.insightface/
+**/huggingface/
+**/hf_cache/
+**/rfdetr_hf_cache/
+**/rfdetr_download/
+
+# ----- Experiment timing / local scratch -----
+outputs/test_app_timing.json
+**/tmp/
+**/temp/
+*.tmp
+
+# Directory shells and documentation
+!**/.gitkeep
+!**/README.md
+!docs/**/*.md
+!app/docs/**/*.md
+!outputs/**/*.md
+!outputs/**/*.csv
+!outputs/**/*.json
+!outputs/**/*.jsonl
+!outputs/**/*.txt
+!outputs/**/*.tex
+# Image rules above still apply to outputs.
+
+# Nested third-party clones (install locally; do not embed as submodules)
+third_party/riddle/
+third_party/falco/

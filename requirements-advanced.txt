@@ -1,0 +1,11 @@
+# Optional advanced / generative method dependencies beyond requirements.txt.
+# Install only when reproducing research-only generative branches.
+
+diffusers==0.38.0
+transformers
+accelerate
+safetensors
+peft>=0.17.0
+sentencepiece==0.2.0
+tiktoken==0.12.0
+clip @ https://github.com/openai/CLIP/archive/refs/heads/main.zip

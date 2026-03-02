@@ -1,0 +1,17 @@
+# Core thesis evidence dependencies (Python 3.10 recommended).
+# Experiments were executed in a compute-constrained environment.
+
+numpy==2.2.6
+pandas
+tabulate
+scipy
+scikit-learn
+matplotlib
+tqdm
+psutil
+pyyaml
+Pillow
+opencv-python-headless==4.13.0.92
+lpips==0.1.4
+torch==2.12.1
+torchvision==0.27.1

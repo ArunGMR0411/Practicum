@@ -1,0 +1,24 @@
+Academic Evaluation License
+
+Copyright (c) 2026 Arun Narayanan and Vaseekaran Krishnan Vinodhan.
+
+This repository is provided as part of an MSc practicum submission for
+academic evaluation, reproducibility review, and academic assessment.
+
+Permission is granted to Dublin City University assessors and authorised
+academic reviewers to run, inspect, and evaluate the original project code,
+documentation, and retained non-private evidence for the practicum assessment.
+
+No permission is granted to redistribute the original project material,
+publish private data, publish identifiable CASTLE frames, or use the software
+as a production privacy service without separate written permission from the
+authors and the required data-governance approval.
+
+Third-party software remains subject to its own licence. This licence does not
+replace or extend any third-party licence, dataset agreement, model licence, or
+CASTLE usage permission. Model weights and raw CASTLE images are not licensed
+for redistribution by this repository.
+
+The project is provided without warranty. It is research software and does not
+guarantee complete anonymisation, legal compliance, or suitability for
+production deployment.

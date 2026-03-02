@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0.0",
+  "description": "Single canonical scoring definitions for thesis stages. Decision tables and runners must reference these IDs only.",
+  "stages": {
+    "face_detection": {
+      "score_id": "oapr_detector_exploratory",
+      "formula": "0.65 * recall + 0.25 * f1 + 0.10 * precision",
+      "weights": { "recall": 0.65, "f1": 0.25, "precision": 0.10 },
+      "deployment_score_id": "oapr_detector_deployment",
+      "deployment_formula": "0.65 * recall + 0.25 * f2 + 0.10 * precision",
+      "deployment_weights": { "recall": 0.65, "f2": 0.25, "precision": 0.10 },
+      "recall_floor": 0.85,
+      "notes": "Exploratory uses F1; deployment prefers F2 when available for privacy-weighted recall emphasis."
+    },
+    "face_anonymisation": {
+      "score_id": "balanced_oapr_anonymisation",
+      "formula": "0.40 * privacy_max_reid + 0.30 * utility + 0.20 * runtime_score + 0.10 * success_score",
+      "weights": {
+        "privacy_max_reid": 0.40,
+        "utility": 0.30,
+        "runtime_score": 0.20,
+        "success_score": 0.10
+      },
+      "privacy_definition": "1 - mean(max(AdaFace_reid_rate, ArcFace_reid_rate)) over successful frames",
+      "notes": "Deployable defaults further gated by visual eligibility (see method_eligibility_canonical)."
+    },
+    "multimodal_detection_presence": {
+      "score_id": "oapr_multimodal_presence",
+      "formula": "0.65 * combined_presence_recall + 0.25 * combined_presence_f1 + 0.10 * combined_presence_precision",
+      "weights": {
+        "combined_presence_recall": 0.65,
+        "combined_presence_f1": 0.25,
+        "combined_presence_precision": 0.10
+      }
+    },
+    "multimodal_detection_localisation": {
+      "score_id": "oapr_multimodal_localisation_deploy",
+      "formula": "0.40 * screen_iou50_recall + 0.25 * text_region_recall + 0.15 * screen_iou50_precision + 0.10 * text_region_precision + 0.10 * combined_presence_recall",
+      "weights": {
+        "screen_iou50_recall": 0.40,
+        "text_region_recall": 0.25,
+        "screen_iou50_precision": 0.15,
+        "text_region_precision": 0.10,
+        "combined_presence_recall": 0.10
+      },
+      "notes": "Report presence and localisation scores separately; do not conflate."
+    },
+    "multimodal_redaction": {
+      "score_id": "multimodal_anonymisation_score",
+      "formula": "0.50 * privacy_score + 0.30 * utility_score + 0.10 * runtime_score + 0.10 * success_score",
+      "weights": {
+        "privacy_score": 0.50,
+        "utility_score": 0.30,
+        "runtime_score": 0.10,
+        "success_score": 0.10
+      }
+    }
+  },
+  "artefacts": {
+    "method_eligibility_canonical": "outputs/03_anonymisation/20_canonical_method_eligibility/01_canonical_method_eligibility.csv",
+    "scoring_definitions": "configs/scoring_definitions.json"
+  }
+}

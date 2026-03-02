@@ -1,0 +1,168 @@
+{
+  "schema_version": "1.0.0",
+  "description": "Single authoritative policy registry for App defaults, scientific OAPR ids, and runtime tiers. Consumed by src/policy/registry.py.",
+  "scientific_policies": {
+    "oapr_visual_safe_balanced_500": {
+      "policy_id": "oapr_visual_safe_balanced_500",
+      "display_name": "OAPR visual-safe balanced (locked 500)",
+      "role": "scientific_default_end_to_end",
+      "evidence": "outputs/05_oapr/; outputs/09_traceability/01_evidence_index.csv",
+      "route_counts": {
+        "layered_blur_downscale_noise": 286,
+        "solid_mask_black": 81,
+        "no_action_copy": 133
+      },
+      "notes": "Condition-aware visual-safe router over reviewed/handoff surfaces. Not bit-identical to App objective profiles."
+    },
+    "face_detector_primary": {
+      "policy_id": "error_hardened_all_raw_rf_iou0_45",
+      "display_name": "Error-hardened RF (adopted primary)",
+      "exploratory_oapr_detector_score": 0.917165,
+      "precision": 0.931872,
+      "recall": 0.912927,
+      "f1": 0.922302
+    },
+    "face_detector_recall_first": {
+      "policy_id": "cv_box_reranker_with_rfdetr_predicted_conditions",
+      "display_name": "RF-DETR-aware box reranker (recall-first)",
+      "exploratory_oapr_detector_score": 0.912891
+    },
+    "multimodal_detection_locked": {
+      "screen_variant": "yolo11n_coco_640_1280_union",
+      "text_variant": "craft_recall_4k",
+      "combined_variant": "craft_recall_4k+yolo+text_cluster_hyp+strict_edge_phone",
+      "selection_split": "development",
+      "evaluation_split": "test"
+    }
+  },
+  "app_runtime_detector": {
+    "policy_id": "runtime_3_source_all_raw_rf_approximation",
+    "display_name": "Three-source hardened RF runtime approximation",
+    "role": "bounded_app_runtime_implementation",
+    "candidate_sources": [
+      "rfdetr_medium_face_030",
+      "yolo11s_widerface_1280",
+      "scrfd_10g_current_640"
+    ],
+    "filter_model_path": "outputs/02_face_detection/12_detector_error_hardening/deploy_error_hardened_all_raw_rf_iou0_45.joblib",
+    "filter_model_sha256": "98b6ef8180c30b82745c225857e78fd3330a8e15f2b6656fc5bd91b466b0767c",
+    "fallback_policy_order": [
+      "fusion_rfdetr_yolo11s_scrfd10g",
+      "fusion_rfdetr_scrfd10g",
+      "fixed_fusion_yolo11s1280_scrfd10g",
+      "yolo11s_face"
+    ],
+    "scientific_score_assigned": false,
+    "runtime_score": null,
+    "evidence_boundary": "The filter was trained with the seven-source all_raw feature layout but the App supplies a three-source live bank and zeros unavailable source features. It is a bounded runtime approximation; neither the scientific 0.917165 score nor the separately trained three-source logistic-regression score is assigned to it.",
+    "supporting_validation": "outputs/02_face_detection/16_runtime_source_validation/02_runtime_vs_scientific_summary.json"
+  },
+  "app_policy": {
+    "app_policy_id": "objective_profile",
+    "legacy_aliases": ["oapr", "OAPR"],
+    "display_name": "Objective profile (App demonstrator)",
+    "scientific_policy_id": "oapr_visual_safe_balanced_500",
+    "simplification": [
+      "App uses fixed per-objective face operators (not the scientific 286/81/133 condition-aware OAPR materialisation).",
+      "No live OAPR condition profiler or category-conditioned method switching in the Gradio App path.",
+      "Generative methods are optional overrides; defaults stay visual-safe deterministic methods.",
+      "Accelerated full hardware uses the bounded three-source hardened-RF runtime approximation; scientific detector metrics remain separate."
+    ],
+    "profiles": {
+      "privacy": {
+        "focus": "privacy",
+        "objective_id": "privacy_first",
+        "title": "Privacy-first",
+        "face_detection": "runtime_3_source_all_raw_rf_approximation",
+        "multimodal_detection": "reviewed_screen_yolo11s_1280",
+        "face_anonymisation": "solid_mask",
+        "screen_operator": "fill",
+        "text_operator": "fill"
+      },
+      "balanced": {
+        "focus": "balanced",
+        "objective_id": "utility_under_privacy_floor",
+        "title": "Balanced",
+        "face_detection": "runtime_3_source_all_raw_rf_approximation",
+        "multimodal_detection": "reviewed_screen_yolo11s_1280",
+        "face_anonymisation": "layered",
+        "screen_operator": "fill",
+        "text_operator": "blur"
+      },
+      "utility": {
+        "focus": "utility",
+        "objective_id": "utility_priority",
+        "title": "Utility-first",
+        "face_detection": "fixed_fusion_yolo11s1280_scrfd10g",
+        "multimodal_detection": "reviewed_screen_yolo11s_960",
+        "face_anonymisation": "blur",
+        "screen_operator": "blur",
+        "text_operator": "pixelate"
+      }
+    }
+  },
+  "runtime_tiers": {
+    "accelerated_full": {
+      "min_vram_mb": 12288,
+      "requires_cuda": true,
+      "face_policy_id": "runtime_3_source_all_raw_rf_approximation",
+      "face_display_name": "Three-source hardened RF runtime approximation",
+      "face_evidence": "Bounded App runtime implementation over RF-DETR + YOLO11Face + SCRFD; no scientific detector score is assigned.",
+      "multimodal_policy_id": "reviewed_screen_yolo11s_1280",
+      "multimodal_image_size": 1280,
+      "text_canvas_size": 2560,
+      "text_confidence": 0.3,
+      "text_use_gpu": true,
+      "estimated_seconds_per_image": 16.0
+    },
+    "accelerated_efficient": {
+      "min_vram_mb": 6144,
+      "requires_cuda": true,
+      "face_policy_id": "fusion_rfdetr_scrfd10g",
+      "face_display_name": "RF-DETR + SCRFD",
+      "face_evidence": "Deployment score 0.9145, within 0.0021 of the full fusion score.",
+      "multimodal_policy_id": "reviewed_screen_yolo11s_1280",
+      "multimodal_image_size": 1280,
+      "text_canvas_size": 2560,
+      "text_confidence": 0.3,
+      "text_use_gpu": true,
+      "estimated_seconds_per_image": 20.0
+    },
+    "accelerated_compact": {
+      "min_vram_mb": 1,
+      "requires_cuda": true,
+      "face_policy_id": "fixed_fusion_yolo11s1280_scrfd10g",
+      "face_display_name": "YOLO11Face + SCRFD",
+      "face_evidence": "Deployment score 0.9091 with lower memory demand.",
+      "multimodal_policy_id": "reviewed_screen_yolo11s_960",
+      "multimodal_image_size": 960,
+      "text_canvas_size": 1920,
+      "text_confidence": 0.35,
+      "text_use_gpu": true,
+      "estimated_seconds_per_image": 18.0
+    },
+    "portable_cpu": {
+      "min_vram_mb": 0,
+      "requires_cuda": false,
+      "face_policy_id": "yolo11s_face",
+      "face_display_name": "YOLO11Face",
+      "face_evidence": "Portable single-detector path; accelerated fusion is unavailable.",
+      "multimodal_policy_id": "reviewed_screen_yolo11s_640",
+      "multimodal_image_size": 640,
+      "text_canvas_size": 1600,
+      "text_confidence": 0.4,
+      "text_use_gpu": false,
+      "estimated_seconds_per_image": 60.0
+    }
+  },
+  "visual_safe_face_methods": ["solid_mask", "layered", "blur", "pixelate", "copy"],
+  "research_face_methods": [
+    "nullface",
+    "diffusion",
+    "riddle",
+    "falco",
+    "fams",
+    "reverse_personalization",
+    "stylegan"
+  ]
+}

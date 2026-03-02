@@ -1,0 +1,15 @@
+{
+  "profiled_at": null,
+  "environment_label": "auto_detect",
+  "runtime_label": "auto",
+  "device_type": "auto",
+  "ram_total_gb": 0,
+  "ram_available_gb": 0,
+  "accelerator_memory_total_gb": 0,
+  "accelerator_memory_available_gb": 0,
+  "safe_batch_sizes": {
+    "detection_4k": 1,
+    "anonymisation_crop_256": 1,
+    "fid_eval_299": 8
+  }
+}
