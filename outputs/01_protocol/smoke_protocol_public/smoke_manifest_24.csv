@@ -1,0 +1,25 @@
+protocol_id,relative_path,image_id,source_fixture,n_face_boxes,n_screen_boxes,n_text_boxes,face_boxes_json,screen_boxes_json,text_boxes_json,selection_seed,protocol
+SMOKE_001,images/smoke_01_synthetic_face.jpg,smoke_01_synthetic_face.jpg,synthetic_face.png,1,0,0,"[[110, 50, 210, 180]]",[],[],42,public_smoke_24
+SMOKE_002,images/smoke_02_synthetic_noface.jpg,smoke_02_synthetic_noface.jpg,synthetic_noface.png,0,0,0,[],[],[],42,public_smoke_24
+SMOKE_003,images/smoke_03_synthetic_screen_text.jpg,smoke_03_synthetic_screen_text.jpg,synthetic_screen_text.png,0,1,2,[],"[[40, 40, 280, 180]]","[[60, 60, 260, 90], [60, 100, 200, 120]]",42,public_smoke_24
+SMOKE_004,images/smoke_04_synthetic_face.jpg,smoke_04_synthetic_face.jpg,synthetic_face.png,1,0,0,"[[110, 50, 210, 180]]",[],[],42,public_smoke_24
+SMOKE_005,images/smoke_05_synthetic_noface.jpg,smoke_05_synthetic_noface.jpg,synthetic_noface.png,0,0,0,[],[],[],42,public_smoke_24
+SMOKE_006,images/smoke_06_synthetic_screen_text.jpg,smoke_06_synthetic_screen_text.jpg,synthetic_screen_text.png,0,1,2,[],"[[40, 40, 280, 180]]","[[60, 60, 260, 90], [60, 100, 200, 120]]",42,public_smoke_24
+SMOKE_007,images/smoke_07_synthetic_face.jpg,smoke_07_synthetic_face.jpg,synthetic_face.png,1,0,0,"[[110, 50, 210, 180]]",[],[],42,public_smoke_24
+SMOKE_008,images/smoke_08_synthetic_noface.jpg,smoke_08_synthetic_noface.jpg,synthetic_noface.png,0,0,0,[],[],[],42,public_smoke_24
+SMOKE_009,images/smoke_09_synthetic_screen_text.jpg,smoke_09_synthetic_screen_text.jpg,synthetic_screen_text.png,0,1,2,[],"[[40, 40, 280, 180]]","[[60, 60, 260, 90], [60, 100, 200, 120]]",42,public_smoke_24
+SMOKE_010,images/smoke_10_synthetic_face.jpg,smoke_10_synthetic_face.jpg,synthetic_face.png,1,0,0,"[[110, 50, 210, 180]]",[],[],42,public_smoke_24
+SMOKE_011,images/smoke_11_synthetic_noface.jpg,smoke_11_synthetic_noface.jpg,synthetic_noface.png,0,0,0,[],[],[],42,public_smoke_24
+SMOKE_012,images/smoke_12_synthetic_screen_text.jpg,smoke_12_synthetic_screen_text.jpg,synthetic_screen_text.png,0,1,2,[],"[[40, 40, 280, 180]]","[[60, 60, 260, 90], [60, 100, 200, 120]]",42,public_smoke_24
+SMOKE_013,images/smoke_13_synthetic_face.jpg,smoke_13_synthetic_face.jpg,synthetic_face.png,1,0,0,"[[110, 50, 210, 180]]",[],[],42,public_smoke_24
+SMOKE_014,images/smoke_14_synthetic_noface.jpg,smoke_14_synthetic_noface.jpg,synthetic_noface.png,0,0,0,[],[],[],42,public_smoke_24
+SMOKE_015,images/smoke_15_synthetic_screen_text.jpg,smoke_15_synthetic_screen_text.jpg,synthetic_screen_text.png,0,1,2,[],"[[40, 40, 280, 180]]","[[60, 60, 260, 90], [60, 100, 200, 120]]",42,public_smoke_24
+SMOKE_016,images/smoke_16_synthetic_face.jpg,smoke_16_synthetic_face.jpg,synthetic_face.png,1,0,0,"[[110, 50, 210, 180]]",[],[],42,public_smoke_24
+SMOKE_017,images/smoke_17_synthetic_noface.jpg,smoke_17_synthetic_noface.jpg,synthetic_noface.png,0,0,0,[],[],[],42,public_smoke_24
+SMOKE_018,images/smoke_18_synthetic_screen_text.jpg,smoke_18_synthetic_screen_text.jpg,synthetic_screen_text.png,0,1,2,[],"[[40, 40, 280, 180]]","[[60, 60, 260, 90], [60, 100, 200, 120]]",42,public_smoke_24
+SMOKE_019,images/smoke_19_synthetic_face.jpg,smoke_19_synthetic_face.jpg,synthetic_face.png,1,0,0,"[[110, 50, 210, 180]]",[],[],42,public_smoke_24
+SMOKE_020,images/smoke_20_synthetic_noface.jpg,smoke_20_synthetic_noface.jpg,synthetic_noface.png,0,0,0,[],[],[],42,public_smoke_24
+SMOKE_021,images/smoke_21_synthetic_screen_text.jpg,smoke_21_synthetic_screen_text.jpg,synthetic_screen_text.png,0,1,2,[],"[[40, 40, 280, 180]]","[[60, 60, 260, 90], [60, 100, 200, 120]]",42,public_smoke_24
+SMOKE_022,images/smoke_22_synthetic_face.jpg,smoke_22_synthetic_face.jpg,synthetic_face.png,1,0,0,"[[110, 50, 210, 180]]",[],[],42,public_smoke_24
+SMOKE_023,images/smoke_23_synthetic_noface.jpg,smoke_23_synthetic_noface.jpg,synthetic_noface.png,0,0,0,[],[],[],42,public_smoke_24
+SMOKE_024,images/smoke_24_synthetic_screen_text.jpg,smoke_24_synthetic_screen_text.jpg,synthetic_screen_text.png,0,1,2,[],"[[40, 40, 280, 180]]","[[60, 60, 260, 90], [60, 100, 200, 120]]",42,public_smoke_24

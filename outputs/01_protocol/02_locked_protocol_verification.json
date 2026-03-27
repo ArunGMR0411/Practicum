@@ -1,0 +1,50 @@
+{
+  "protocol_seeds": {
+    "face_detection_500_selection_seed_field": "global_500_from_anonymisation_oapr_protocol",
+    "face_anonymisation_500_selection_seed_field": "global_500_from_anonymisation_oapr_protocol",
+    "multimodal_250": "reviewer_curated_locked_protocol (not random)",
+    "supporting_dev_300_seed": 42,
+    "supporting_calibration_200_seed": 42
+  },
+  "checks": {
+    "face_500_detection": {
+      "path": "outputs/01_protocol/thesis_manifests/final_face_detection_500.csv",
+      "rows": 500,
+      "unique_paths": 500,
+      "expected": 500,
+      "ok": true,
+      "missing_from_index": 0,
+      "missing_raw_files": 0
+    },
+    "face_500_anonymisation": {
+      "path": "outputs/01_protocol/thesis_manifests/final_face_anonymisation_500.csv",
+      "rows": 500,
+      "unique_paths": 500,
+      "expected": 500,
+      "ok": true,
+      "missing_from_index": 0,
+      "missing_raw_files": 0
+    },
+    "face_500_advanced_methods": {
+      "path": "outputs/01_protocol/thesis_manifests/final_advanced_methods_500.csv",
+      "rows": 500,
+      "unique_paths": 500,
+      "expected": 500,
+      "ok": true,
+      "missing_from_index": 0,
+      "missing_raw_files": 0
+    },
+    "multimodal_250": {
+      "path": "outputs/01_protocol/thesis_manifests/final_multimodal_250.csv",
+      "rows": 250,
+      "unique_paths": 250,
+      "expected": 250,
+      "ok": true,
+      "annotation_rows": 250
+    }
+  },
+  "ok": true,
+  "raw_index_rows": 416542,
+  "errors": [],
+  "warnings": []
+}

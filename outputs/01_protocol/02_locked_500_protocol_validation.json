@@ -1,0 +1,16 @@
+{
+  "subset_manifest": "outputs/01_protocol/thesis_manifests/final_face_anonymisation_500.csv",
+  "box_source": "outputs/02_face_detection/13_anonymisation_protocol_face_boxes.csv",
+  "row_count": 500,
+  "unique_relative_paths": 500,
+  "missing_raw_count": 0,
+  "frames_with_boxes": 354,
+  "frames_without_boxes": 146,
+  "total_boxes": 1279,
+  "shard_count": 5,
+  "shard_size": 100,
+  "method_outputs": {
+    "reverse_personalization": "outputs/03_anonymisation/05_reverse_personalization/01_rp_final_manifest.csv",
+    "diffusion_low_step": "outputs/03_anonymisation/04_diffusion/01_diffusion_manifest_full_500.csv"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "note": "All SSIM and LPIPS computed against WebP-compressed originals at eval_scale=0.25. Re-ID and cosine similarity evaluated using AdaFace (primary) and ArcFace (secondary) models.",
+  "reid_summary": {
+    "blur": {
+      "adaface_cosine_sim_mean": 0.23789305984973907,
+      "adaface_reid_rate": 0.050870147255689425,
+      "arcface_cosine_sim_mean": 0.3356807827949524,
+      "arcface_reid_rate": 0.08835341365461848,
+      "face_crop_count": 747
+    },
+    "pixelate": {
+      "adaface_cosine_sim_mean": 0.37904801964759827,
+      "adaface_reid_rate": 0.18607764390896922,
+      "arcface_cosine_sim_mean": 0.4523036777973175,
+      "arcface_reid_rate": 0.31860776439089694,
+      "face_crop_count": 747
+    }
+  }
+}

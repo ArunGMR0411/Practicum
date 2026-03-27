@@ -1,0 +1,3 @@
+protocol,image_count,face_positive_images,no_face_images,reviewed_or_category_pending_images,manual_face_boxes,manifest
+01_baseline_500,500,363,137,500,1323,outputs/annotations/face_detection/01_baseline_500/manifest.csv
+02_egocentric_stress_500,500,353,147,500,1284,outputs/annotations/face_detection/02_egocentric_stress_500/manifest.csv

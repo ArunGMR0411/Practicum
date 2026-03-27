@@ -1,0 +1,96 @@
+{
+  "version": "1.0",
+  "manifest": "outputs/01_protocol/supporting_protocols/02_calibration_200.csv",
+  "detections_csv": "outputs/calibration_set_detections_yolo_run.csv",
+  "rows_written": 200,
+  "zero_face_rows": 65,
+  "output_csv": "outputs/calibration_quality_signals.csv",
+  "label_signal_medians": {
+    "blur_level_label_median_blur_score": {
+      "high": 88.50359857062608,
+      "low": 21.380212193814955,
+      "medium": 43.24698651827575
+    },
+    "face_size_label_median_face_size_px": {
+      "large": 195.46711649665525,
+      "medium": 78.98890897093438,
+      "small": 73.5684089329787
+    },
+    "occlusion_ratio_label_median_occlusion_ratio": {
+      "high": 0.387327847805789,
+      "low": 0.3636571294833399,
+      "medium": 0.24830435799485462
+    },
+    "webp_artefact_severity_label_median_webp_artifact_score": {
+      "high": 0.4354143619394497,
+      "low": 0.4357436189820105,
+      "medium": 0.4526771549037911
+    }
+  },
+  "sample": [
+    {
+      "relative_path": "day2/fixed/living1/15_0611.webp",
+      "day_id": "day2",
+      "camera_stream_id": "living1",
+      "view_type": "exocentric",
+      "blur_level_label": "high",
+      "face_size_label": "small",
+      "occlusion_ratio_label": "low",
+      "webp_artefact_severity_label": "low",
+      "blur_score": 65.99861750047772,
+      "face_size_px": 76.68115805072325,
+      "occlusion_ratio": 0.0596938775510204,
+      "webp_artifact_score": 0.43577587846652843,
+      "image_width": 3840,
+      "image_height": 2160,
+      "face_box_count": 4,
+      "dominant_face_box": [
+        1305,
+        600,
+        1375,
+        684
+      ]
+    },
+    {
+      "relative_path": "day3/members/stevan/12_0360.webp",
+      "day_id": "day3",
+      "camera_stream_id": "stevan",
+      "view_type": "egocentric",
+      "blur_level_label": "high",
+      "face_size_label": "small",
+      "occlusion_ratio_label": "low",
+      "webp_artefact_severity_label": "medium",
+      "blur_score": 778.6628246970454,
+      "face_size_px": 0.0,
+      "occlusion_ratio": 1.0,
+      "webp_artifact_score": 0.8075544772272991,
+      "image_width": 3840,
+      "image_height": 2160,
+      "face_box_count": 0,
+      "dominant_face_box": null
+    },
+    {
+      "relative_path": "day3/fixed/living2/11_0405.webp",
+      "day_id": "day3",
+      "camera_stream_id": "living2",
+      "view_type": "exocentric",
+      "blur_level_label": "high",
+      "face_size_label": "medium",
+      "occlusion_ratio_label": "low",
+      "webp_artefact_severity_label": "high",
+      "blur_score": 232.35707772356523,
+      "face_size_px": 65.4828221749796,
+      "occlusion_ratio": 0.9169776119402985,
+      "webp_artifact_score": 0.4744616485631905,
+      "image_width": 3840,
+      "image_height": 2160,
+      "face_box_count": 1,
+      "dominant_face_box": [
+        1161,
+        641,
+        1225,
+        708
+      ]
+    }
+  ]
+}

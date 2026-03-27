@@ -1,0 +1,13 @@
+relative_path,image_id,condition_label,review_status
+day4/members/allie/09_0480.webp,day4/members/allie/09_0480.webp,single_face|very_small_or_distant|profile_or_occluded|clutter_medium,reviewed
+day2/members/werner/14_0229.webp,day2/members/werner/14_0229.webp,single_face|very_small_or_distant|edge_or_partial|profile_or_occluded|clutter_high,reviewed
+day3/members/onanong/12_0488.webp,day3/members/onanong/12_0488.webp,single_face|very_small_or_distant|profile_or_occluded|outdoor_or_vehicle|clutter_medium,reviewed
+day3/members/onanong/16_0319.webp,day3/members/onanong/16_0319.webp,single_face|very_small_or_distant|edge_or_partial|profile_or_occluded|clutter_high,reviewed
+day1/members/werner/11_0515.webp,day1/members/werner/11_0515.webp,single_face|very_small_or_distant|profile_or_occluded|motion_blur_or_low_sharpness|outdoor_or_vehicle|clutter_low,reviewed
+day1/members/luca/11_0691.webp,day1/members/luca/11_0691.webp,single_face|very_small_or_distant|edge_or_partial|profile_or_occluded|clutter_high,reviewed
+day4/members/luca/18_0257.webp,day4/members/luca/18_0257.webp,single_face|very_small_or_distant|profile_or_occluded|motion_blur_or_low_sharpness|clutter_low,reviewed
+day4/members/cathal/18_0466.webp,day4/members/cathal/18_0466.webp,single_face|very_small_or_distant|profile_or_occluded|motion_blur_or_low_sharpness|clutter_low,reviewed
+day3/members/werner/10_0493.webp,day3/members/werner/10_0493.webp,multi_face|very_small_or_distant|profile_or_occluded|clutter_medium,reviewed
+day1/members/tien/15_0585.webp,day1/members/tien/15_0585.webp,single_face|very_small_or_distant|edge_or_partial|profile_or_occluded|motion_blur_or_low_sharpness|clutter_low,reviewed
+day4/members/bjorn/15_0170.webp,day4/members/bjorn/15_0170.webp,single_face|very_small_or_distant|profile_or_occluded|low_light|clutter_medium,reviewed
+day2/members/cathal/19_0211.webp,day2/members/cathal/19_0211.webp,multi_face|very_small_or_distant|edge_or_partial|profile_or_occluded|clutter_medium,reviewed

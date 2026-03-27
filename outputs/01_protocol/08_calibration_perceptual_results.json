@@ -1,0 +1,2420 @@
+{
+  "summary": {
+    "blur": {
+      "ssim_mean": 0.9881563905532267,
+      "ssim_std": 0.008063673297446932,
+      "lpips_mean": 0.012763218554900958,
+      "lpips_std": 0.01705271430344594,
+      "sample_count": 200
+    },
+    "pixelate": {
+      "ssim_mean": 0.9918968744045151,
+      "ssim_std": 0.0037835092523719306,
+      "lpips_mean": 0.009178829830489121,
+      "lpips_std": 0.011253711613510891,
+      "sample_count": 200
+    }
+  },
+  "detailed": [
+    {
+      "relative_path": "day4/fixed/living2/14_0141.webp",
+      "method": "blur",
+      "ssim": 0.9959579016635717,
+      "lpips": 0.001389958313666284
+    },
+    {
+      "relative_path": "day4/fixed/living2/14_0141.webp",
+      "method": "pixelate",
+      "ssim": 0.9960162755302727,
+      "lpips": 0.0013128184946253896
+    },
+    {
+      "relative_path": "day1/members/florian/09_0223.webp",
+      "method": "blur",
+      "ssim": 0.982239378778479,
+      "lpips": 0.023133542388677597
+    },
+    {
+      "relative_path": "day1/members/florian/09_0223.webp",
+      "method": "pixelate",
+      "ssim": 0.9894296704321972,
+      "lpips": 0.01904149167239666
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0508.webp",
+      "method": "blur",
+      "ssim": 0.9901938874604181,
+      "lpips": 0.007725199684500694
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0508.webp",
+      "method": "pixelate",
+      "ssim": 0.9930383464170717,
+      "lpips": 0.006644883658736944
+    },
+    {
+      "relative_path": "day2/fixed/reading/12_0297.webp",
+      "method": "blur",
+      "ssim": 0.9946552557213191,
+      "lpips": 0.0018123979680240154
+    },
+    {
+      "relative_path": "day2/fixed/reading/12_0297.webp",
+      "method": "pixelate",
+      "ssim": 0.9946552557213191,
+      "lpips": 0.0018123979680240154
+    },
+    {
+      "relative_path": "day1/members/allie/08_0415.webp",
+      "method": "blur",
+      "ssim": 0.9900126332053912,
+      "lpips": 0.009212635457515717
+    },
+    {
+      "relative_path": "day1/members/allie/08_0415.webp",
+      "method": "pixelate",
+      "ssim": 0.9931590938909552,
+      "lpips": 0.0061864531598985195
+    },
+    {
+      "relative_path": "day2/fixed/living1/09_0272.webp",
+      "method": "blur",
+      "ssim": 0.9956932254583893,
+      "lpips": 0.0012236079201102257
+    },
+    {
+      "relative_path": "day2/fixed/living1/09_0272.webp",
+      "method": "pixelate",
+      "ssim": 0.9956932254583893,
+      "lpips": 0.0012236079201102257
+    },
+    {
+      "relative_path": "day3/members/tien/18_0101.webp",
+      "method": "blur",
+      "ssim": 0.9859124574792325,
+      "lpips": 0.015200227499008179
+    },
+    {
+      "relative_path": "day3/members/tien/18_0101.webp",
+      "method": "pixelate",
+      "ssim": 0.9915250473834375,
+      "lpips": 0.009682886302471161
+    },
+    {
+      "relative_path": "day3/members/bjorn/16_0144.webp",
+      "method": "blur",
+      "ssim": 0.9473835298162715,
+      "lpips": 0.10323284566402435
+    },
+    {
+      "relative_path": "day3/members/bjorn/16_0144.webp",
+      "method": "pixelate",
+      "ssim": 0.9709017141381615,
+      "lpips": 0.0663616806268692
+    },
+    {
+      "relative_path": "day3/members/onanong/13_0406.webp",
+      "method": "blur",
+      "ssim": 0.9809802205393825,
+      "lpips": 0.020732389762997627
+    },
+    {
+      "relative_path": "day3/members/onanong/13_0406.webp",
+      "method": "pixelate",
+      "ssim": 0.9887837281103472,
+      "lpips": 0.01581837236881256
+    },
+    {
+      "relative_path": "day2/fixed/meeting/12_0693.webp",
+      "method": "blur",
+      "ssim": 0.9940087765422446,
+      "lpips": 0.0017535679508000612
+    },
+    {
+      "relative_path": "day2/fixed/meeting/12_0693.webp",
+      "method": "pixelate",
+      "ssim": 0.9941470493890069,
+      "lpips": 0.001691577723249793
+    },
+    {
+      "relative_path": "day4/members/stevan/10_0426.webp",
+      "method": "blur",
+      "ssim": 0.9858914331836419,
+      "lpips": 0.013922438956797123
+    },
+    {
+      "relative_path": "day4/members/stevan/10_0426.webp",
+      "method": "pixelate",
+      "ssim": 0.9908925516525059,
+      "lpips": 0.009712828323245049
+    },
+    {
+      "relative_path": "day2/members/onanong/10_0490.webp",
+      "method": "blur",
+      "ssim": 0.9841855535041334,
+      "lpips": 0.015253743156790733
+    },
+    {
+      "relative_path": "day2/members/onanong/10_0490.webp",
+      "method": "pixelate",
+      "ssim": 0.99015069479873,
+      "lpips": 0.00889518577605486
+    },
+    {
+      "relative_path": "day4/fixed/living1/11_0395.webp",
+      "method": "blur",
+      "ssim": 0.9913995265261512,
+      "lpips": 0.009515244513750076
+    },
+    {
+      "relative_path": "day4/fixed/living1/11_0395.webp",
+      "method": "pixelate",
+      "ssim": 0.993322571834521,
+      "lpips": 0.0057770926505327225
+    },
+    {
+      "relative_path": "day3/members/werner/08_0220.webp",
+      "method": "blur",
+      "ssim": 0.9924375293868316,
+      "lpips": 0.004070395138114691
+    },
+    {
+      "relative_path": "day3/members/werner/08_0220.webp",
+      "method": "pixelate",
+      "ssim": 0.993969862666425,
+      "lpips": 0.0027881155256181955
+    },
+    {
+      "relative_path": "day2/members/klaus/18_0604.webp",
+      "method": "blur",
+      "ssim": 0.9918861926681014,
+      "lpips": 0.00743138138204813
+    },
+    {
+      "relative_path": "day2/members/klaus/18_0604.webp",
+      "method": "pixelate",
+      "ssim": 0.9941108282547878,
+      "lpips": 0.005584205500781536
+    },
+    {
+      "relative_path": "day1/members/tien/10_0174.webp",
+      "method": "blur",
+      "ssim": 0.991438793202942,
+      "lpips": 0.005978872068226337
+    },
+    {
+      "relative_path": "day1/members/tien/10_0174.webp",
+      "method": "pixelate",
+      "ssim": 0.9930601624270864,
+      "lpips": 0.00436385115608573
+    },
+    {
+      "relative_path": "day1/members/bjorn/15_0320.webp",
+      "method": "blur",
+      "ssim": 0.9903547918912836,
+      "lpips": 0.007635308895260096
+    },
+    {
+      "relative_path": "day1/members/bjorn/15_0320.webp",
+      "method": "pixelate",
+      "ssim": 0.9932695727300446,
+      "lpips": 0.004996596835553646
+    },
+    {
+      "relative_path": "day1/fixed/meeting/19_0636.webp",
+      "method": "blur",
+      "ssim": 0.9931485095616548,
+      "lpips": 0.003199296537786722
+    },
+    {
+      "relative_path": "day1/fixed/meeting/19_0636.webp",
+      "method": "pixelate",
+      "ssim": 0.9934884420118189,
+      "lpips": 0.0027009041514247656
+    },
+    {
+      "relative_path": "day4/members/klaus/11_0193.webp",
+      "method": "blur",
+      "ssim": 0.9830380155724937,
+      "lpips": 0.01598258875310421
+    },
+    {
+      "relative_path": "day4/members/klaus/11_0193.webp",
+      "method": "pixelate",
+      "ssim": 0.9892166018120373,
+      "lpips": 0.01043793000280857
+    },
+    {
+      "relative_path": "day1/members/werner/17_0696.webp",
+      "method": "blur",
+      "ssim": 0.9737489320661901,
+      "lpips": 0.03508349880576134
+    },
+    {
+      "relative_path": "day1/members/werner/17_0696.webp",
+      "method": "pixelate",
+      "ssim": 0.9847629665389869,
+      "lpips": 0.02456759102642536
+    },
+    {
+      "relative_path": "day3/members/onanong/10_0302.webp",
+      "method": "blur",
+      "ssim": 0.9933245133930901,
+      "lpips": 0.0041138422675430775
+    },
+    {
+      "relative_path": "day3/members/onanong/10_0302.webp",
+      "method": "pixelate",
+      "ssim": 0.9943642382232646,
+      "lpips": 0.003000364638864994
+    },
+    {
+      "relative_path": "day2/members/florian/20_0207.webp",
+      "method": "blur",
+      "ssim": 0.9937065967369417,
+      "lpips": 0.0031765138264745474
+    },
+    {
+      "relative_path": "day2/members/florian/20_0207.webp",
+      "method": "pixelate",
+      "ssim": 0.9944463431345071,
+      "lpips": 0.00286567909643054
+    },
+    {
+      "relative_path": "day4/fixed/living1/10_0292.webp",
+      "method": "blur",
+      "ssim": 0.9931999352640656,
+      "lpips": 0.006285014096647501
+    },
+    {
+      "relative_path": "day4/fixed/living1/10_0292.webp",
+      "method": "pixelate",
+      "ssim": 0.9944928832009597,
+      "lpips": 0.003762634936720133
+    },
+    {
+      "relative_path": "day4/members/cathal/13_0661.webp",
+      "method": "blur",
+      "ssim": 0.9806633315267003,
+      "lpips": 0.020588507875800133
+    },
+    {
+      "relative_path": "day4/members/cathal/13_0661.webp",
+      "method": "pixelate",
+      "ssim": 0.988911986928124,
+      "lpips": 0.013842507265508175
+    },
+    {
+      "relative_path": "day1/members/onanong/15_0129.webp",
+      "method": "blur",
+      "ssim": 0.9863324642813592,
+      "lpips": 0.012984033674001694
+    },
+    {
+      "relative_path": "day1/members/onanong/15_0129.webp",
+      "method": "pixelate",
+      "ssim": 0.9908918504877752,
+      "lpips": 0.008085210807621479
+    },
+    {
+      "relative_path": "day4/fixed/kitchen/09_0556.webp",
+      "method": "blur",
+      "ssim": 0.9941375258231461,
+      "lpips": 0.0031996185425668955
+    },
+    {
+      "relative_path": "day4/fixed/kitchen/09_0556.webp",
+      "method": "pixelate",
+      "ssim": 0.9951971945890707,
+      "lpips": 0.0023428970016539097
+    },
+    {
+      "relative_path": "day1/members/werner/18_0361.webp",
+      "method": "blur",
+      "ssim": 0.9879915258335745,
+      "lpips": 0.011635786853730679
+    },
+    {
+      "relative_path": "day1/members/werner/18_0361.webp",
+      "method": "pixelate",
+      "ssim": 0.991836836479754,
+      "lpips": 0.007983935996890068
+    },
+    {
+      "relative_path": "day3/members/onanong/19_0073.webp",
+      "method": "blur",
+      "ssim": 0.9918305242837171,
+      "lpips": 0.007205151952803135
+    },
+    {
+      "relative_path": "day3/members/onanong/19_0073.webp",
+      "method": "pixelate",
+      "ssim": 0.9941383100074429,
+      "lpips": 0.005567297805100679
+    },
+    {
+      "relative_path": "day2/members/onanong/11_0131.webp",
+      "method": "blur",
+      "ssim": 0.9914619800592629,
+      "lpips": 0.006889841519296169
+    },
+    {
+      "relative_path": "day2/members/onanong/11_0131.webp",
+      "method": "pixelate",
+      "ssim": 0.9933275532597289,
+      "lpips": 0.006115516182035208
+    },
+    {
+      "relative_path": "day3/fixed/kitchen/19_0229.webp",
+      "method": "blur",
+      "ssim": 0.9946869302892493,
+      "lpips": 0.0027017646934837103
+    },
+    {
+      "relative_path": "day3/fixed/kitchen/19_0229.webp",
+      "method": "pixelate",
+      "ssim": 0.9953116229019215,
+      "lpips": 0.002074225340038538
+    },
+    {
+      "relative_path": "day4/members/florian/14_0315.webp",
+      "method": "blur",
+      "ssim": 0.9864062340480241,
+      "lpips": 0.01210547611117363
+    },
+    {
+      "relative_path": "day4/members/florian/14_0315.webp",
+      "method": "pixelate",
+      "ssim": 0.9910992916650478,
+      "lpips": 0.011371660977602005
+    },
+    {
+      "relative_path": "day1/members/florian/11_0301.webp",
+      "method": "blur",
+      "ssim": 0.9885161417181255,
+      "lpips": 0.01003677025437355
+    },
+    {
+      "relative_path": "day1/members/florian/11_0301.webp",
+      "method": "pixelate",
+      "ssim": 0.9908093688233816,
+      "lpips": 0.00651661166921258
+    },
+    {
+      "relative_path": "day4/members/cathal/12_0589.webp",
+      "method": "blur",
+      "ssim": 0.986443735281712,
+      "lpips": 0.015305181965231895
+    },
+    {
+      "relative_path": "day4/members/cathal/12_0589.webp",
+      "method": "pixelate",
+      "ssim": 0.9911517136688458,
+      "lpips": 0.012285460717976093
+    },
+    {
+      "relative_path": "day2/members/onanong/13_0540.webp",
+      "method": "blur",
+      "ssim": 0.9826764026420477,
+      "lpips": 0.020762749016284943
+    },
+    {
+      "relative_path": "day2/members/onanong/13_0540.webp",
+      "method": "pixelate",
+      "ssim": 0.9896797116055268,
+      "lpips": 0.015640005469322205
+    },
+    {
+      "relative_path": "day4/members/allie/11_0610.webp",
+      "method": "blur",
+      "ssim": 0.9894130107922665,
+      "lpips": 0.007448109332472086
+    },
+    {
+      "relative_path": "day4/members/allie/11_0610.webp",
+      "method": "pixelate",
+      "ssim": 0.992294091457961,
+      "lpips": 0.004778891336172819
+    },
+    {
+      "relative_path": "day4/fixed/living2/11_0582.webp",
+      "method": "blur",
+      "ssim": 0.9925909198058959,
+      "lpips": 0.007358023896813393
+    },
+    {
+      "relative_path": "day4/fixed/living2/11_0582.webp",
+      "method": "pixelate",
+      "ssim": 0.9940894156850465,
+      "lpips": 0.0044418335892260075
+    },
+    {
+      "relative_path": "day2/members/cathal/19_0570.webp",
+      "method": "blur",
+      "ssim": 0.9915438338885512,
+      "lpips": 0.00504655297845602
+    },
+    {
+      "relative_path": "day2/members/cathal/19_0570.webp",
+      "method": "pixelate",
+      "ssim": 0.9929037995332807,
+      "lpips": 0.004181494005024433
+    },
+    {
+      "relative_path": "day4/members/onanong/10_0200.webp",
+      "method": "blur",
+      "ssim": 0.9909554689789074,
+      "lpips": 0.006186475045979023
+    },
+    {
+      "relative_path": "day4/members/onanong/10_0200.webp",
+      "method": "pixelate",
+      "ssim": 0.9929184257215304,
+      "lpips": 0.004465451929718256
+    },
+    {
+      "relative_path": "day2/members/tien/18_0413.webp",
+      "method": "blur",
+      "ssim": 0.9914550807733672,
+      "lpips": 0.010639393702149391
+    },
+    {
+      "relative_path": "day2/members/tien/18_0413.webp",
+      "method": "pixelate",
+      "ssim": 0.9936857663390324,
+      "lpips": 0.008436662144958973
+    },
+    {
+      "relative_path": "day4/fixed/reading/12_0098.webp",
+      "method": "blur",
+      "ssim": 0.9939870600611824,
+      "lpips": 0.0036268262192606926
+    },
+    {
+      "relative_path": "day4/fixed/reading/12_0098.webp",
+      "method": "pixelate",
+      "ssim": 0.9944927027221452,
+      "lpips": 0.002600436331704259
+    },
+    {
+      "relative_path": "day4/members/bao/14_0113.webp",
+      "method": "blur",
+      "ssim": 0.987042785821119,
+      "lpips": 0.01357256155461073
+    },
+    {
+      "relative_path": "day4/members/bao/14_0113.webp",
+      "method": "pixelate",
+      "ssim": 0.9913432154928469,
+      "lpips": 0.008878251537680626
+    },
+    {
+      "relative_path": "day1/members/onanong/09_0597.webp",
+      "method": "blur",
+      "ssim": 0.9887611926676283,
+      "lpips": 0.012347251176834106
+    },
+    {
+      "relative_path": "day1/members/onanong/09_0597.webp",
+      "method": "pixelate",
+      "ssim": 0.9922032835437026,
+      "lpips": 0.00929335504770279
+    },
+    {
+      "relative_path": "day1/members/werner/09_0296.webp",
+      "method": "blur",
+      "ssim": 0.9853837682075057,
+      "lpips": 0.013464760035276413
+    },
+    {
+      "relative_path": "day1/members/werner/09_0296.webp",
+      "method": "pixelate",
+      "ssim": 0.9907123718569769,
+      "lpips": 0.009621099568903446
+    },
+    {
+      "relative_path": "day1/members/onanong/16_0706.webp",
+      "method": "blur",
+      "ssim": 0.992355112882397,
+      "lpips": 0.004791464656591415
+    },
+    {
+      "relative_path": "day1/members/onanong/16_0706.webp",
+      "method": "pixelate",
+      "ssim": 0.9935812818914771,
+      "lpips": 0.00349947577342391
+    },
+    {
+      "relative_path": "day3/fixed/meeting/15_0578.webp",
+      "method": "blur",
+      "ssim": 0.9941431665984117,
+      "lpips": 0.0017080680700019002
+    },
+    {
+      "relative_path": "day3/fixed/meeting/15_0578.webp",
+      "method": "pixelate",
+      "ssim": 0.9941752477223892,
+      "lpips": 0.001706135692074895
+    },
+    {
+      "relative_path": "day3/members/allie/10_0091.webp",
+      "method": "blur",
+      "ssim": 0.9921995492044325,
+      "lpips": 0.004904315806925297
+    },
+    {
+      "relative_path": "day3/members/allie/10_0091.webp",
+      "method": "pixelate",
+      "ssim": 0.9935556651491645,
+      "lpips": 0.003444757079705596
+    },
+    {
+      "relative_path": "day2/members/cathal/10_0514.webp",
+      "method": "blur",
+      "ssim": 0.9833252265854503,
+      "lpips": 0.01623816415667534
+    },
+    {
+      "relative_path": "day2/members/cathal/10_0514.webp",
+      "method": "pixelate",
+      "ssim": 0.9903917703593557,
+      "lpips": 0.010730325244367123
+    },
+    {
+      "relative_path": "day3/members/stevan/18_0485.webp",
+      "method": "blur",
+      "ssim": 0.9893453101037446,
+      "lpips": 0.011284759268164635
+    },
+    {
+      "relative_path": "day3/members/stevan/18_0485.webp",
+      "method": "pixelate",
+      "ssim": 0.9921850574620322,
+      "lpips": 0.008094817399978638
+    },
+    {
+      "relative_path": "day2/fixed/living1/14_0452.webp",
+      "method": "blur",
+      "ssim": 0.9956710462252395,
+      "lpips": 0.00179666792973876
+    },
+    {
+      "relative_path": "day2/fixed/living1/14_0452.webp",
+      "method": "pixelate",
+      "ssim": 0.9958369165022923,
+      "lpips": 0.0014838635688647628
+    },
+    {
+      "relative_path": "day1/fixed/living2/12_0328.webp",
+      "method": "blur",
+      "ssim": 0.9950365661824331,
+      "lpips": 0.0018287838902324438
+    },
+    {
+      "relative_path": "day1/fixed/living2/12_0328.webp",
+      "method": "pixelate",
+      "ssim": 0.9950900764035812,
+      "lpips": 0.0017092127818614244
+    },
+    {
+      "relative_path": "day4/members/bao/13_0291.webp",
+      "method": "blur",
+      "ssim": 0.9859525658057559,
+      "lpips": 0.014608602970838547
+    },
+    {
+      "relative_path": "day4/members/bao/13_0291.webp",
+      "method": "pixelate",
+      "ssim": 0.9906771556101629,
+      "lpips": 0.009936733171343803
+    },
+    {
+      "relative_path": "day3/members/tien/16_0213.webp",
+      "method": "blur",
+      "ssim": 0.9900955005548613,
+      "lpips": 0.010068332776427269
+    },
+    {
+      "relative_path": "day3/members/tien/16_0213.webp",
+      "method": "pixelate",
+      "ssim": 0.9931329128523886,
+      "lpips": 0.00716047827154398
+    },
+    {
+      "relative_path": "day3/members/werner/18_0362.webp",
+      "method": "blur",
+      "ssim": 0.985436866555872,
+      "lpips": 0.01335237082093954
+    },
+    {
+      "relative_path": "day3/members/werner/18_0362.webp",
+      "method": "pixelate",
+      "ssim": 0.9902863672385088,
+      "lpips": 0.009836263954639435
+    },
+    {
+      "relative_path": "day4/members/werner/15_0023.webp",
+      "method": "blur",
+      "ssim": 0.9926694202002274,
+      "lpips": 0.005796796642243862
+    },
+    {
+      "relative_path": "day4/members/werner/15_0023.webp",
+      "method": "pixelate",
+      "ssim": 0.9943028844197931,
+      "lpips": 0.0040854886174201965
+    },
+    {
+      "relative_path": "day1/members/allie/09_0109.webp",
+      "method": "blur",
+      "ssim": 0.9841033613352245,
+      "lpips": 0.022361697629094124
+    },
+    {
+      "relative_path": "day1/members/allie/09_0109.webp",
+      "method": "pixelate",
+      "ssim": 0.99084239616358,
+      "lpips": 0.014368563890457153
+    },
+    {
+      "relative_path": "day1/members/klaus/16_0336.webp",
+      "method": "blur",
+      "ssim": 0.9886723316600353,
+      "lpips": 0.010275986976921558
+    },
+    {
+      "relative_path": "day1/members/klaus/16_0336.webp",
+      "method": "pixelate",
+      "ssim": 0.99178469515153,
+      "lpips": 0.006571968551725149
+    },
+    {
+      "relative_path": "day2/members/bjorn/12_0487.webp",
+      "method": "blur",
+      "ssim": 0.982048921679468,
+      "lpips": 0.019772542640566826
+    },
+    {
+      "relative_path": "day2/members/bjorn/12_0487.webp",
+      "method": "pixelate",
+      "ssim": 0.9895115842437464,
+      "lpips": 0.012006338685750961
+    },
+    {
+      "relative_path": "day4/members/cathal/10_0693.webp",
+      "method": "blur",
+      "ssim": 0.9859937672487025,
+      "lpips": 0.01705203391611576
+    },
+    {
+      "relative_path": "day4/members/cathal/10_0693.webp",
+      "method": "pixelate",
+      "ssim": 0.9912652985308564,
+      "lpips": 0.014741536229848862
+    },
+    {
+      "relative_path": "day1/members/luca/11_0640.webp",
+      "method": "blur",
+      "ssim": 0.9942431566202429,
+      "lpips": 0.0015438683331012726
+    },
+    {
+      "relative_path": "day1/members/luca/11_0640.webp",
+      "method": "pixelate",
+      "ssim": 0.9942431566202429,
+      "lpips": 0.0015438683331012726
+    },
+    {
+      "relative_path": "day2/members/allie/18_0558.webp",
+      "method": "blur",
+      "ssim": 0.9768913950275642,
+      "lpips": 0.035644933581352234
+    },
+    {
+      "relative_path": "day2/members/allie/18_0558.webp",
+      "method": "pixelate",
+      "ssim": 0.9879342847928548,
+      "lpips": 0.022497862577438354
+    },
+    {
+      "relative_path": "day1/members/onanong/15_0338.webp",
+      "method": "blur",
+      "ssim": 0.9872362514757116,
+      "lpips": 0.010519629344344139
+    },
+    {
+      "relative_path": "day1/members/onanong/15_0338.webp",
+      "method": "pixelate",
+      "ssim": 0.9911590506745828,
+      "lpips": 0.006715481635183096
+    },
+    {
+      "relative_path": "day1/members/allie/15_0208.webp",
+      "method": "blur",
+      "ssim": 0.9891329370842166,
+      "lpips": 0.011410733684897423
+    },
+    {
+      "relative_path": "day1/members/allie/15_0208.webp",
+      "method": "pixelate",
+      "ssim": 0.9919425747852945,
+      "lpips": 0.014634937979280949
+    },
+    {
+      "relative_path": "day2/members/allie/11_0312.webp",
+      "method": "blur",
+      "ssim": 0.9831235878230791,
+      "lpips": 0.01798015832901001
+    },
+    {
+      "relative_path": "day2/members/allie/11_0312.webp",
+      "method": "pixelate",
+      "ssim": 0.9899049721761007,
+      "lpips": 0.012239469215273857
+    },
+    {
+      "relative_path": "day4/members/cathal/12_0605.webp",
+      "method": "blur",
+      "ssim": 0.9893733696329677,
+      "lpips": 0.00626998208463192
+    },
+    {
+      "relative_path": "day4/members/cathal/12_0605.webp",
+      "method": "pixelate",
+      "ssim": 0.991947189555389,
+      "lpips": 0.006813491694629192
+    },
+    {
+      "relative_path": "day2/fixed/meeting/19_0278.webp",
+      "method": "blur",
+      "ssim": 0.9941105732201033,
+      "lpips": 0.0018818519311025739
+    },
+    {
+      "relative_path": "day2/fixed/meeting/19_0278.webp",
+      "method": "pixelate",
+      "ssim": 0.9942566082077384,
+      "lpips": 0.0017434571636840701
+    },
+    {
+      "relative_path": "day4/members/allie/18_0212.webp",
+      "method": "blur",
+      "ssim": 0.990484398384521,
+      "lpips": 0.014387864619493484
+    },
+    {
+      "relative_path": "day4/members/allie/18_0212.webp",
+      "method": "pixelate",
+      "ssim": 0.9939534417770984,
+      "lpips": 0.01577124372124672
+    },
+    {
+      "relative_path": "day3/fixed/meeting/19_0246.webp",
+      "method": "blur",
+      "ssim": 0.9933453856501466,
+      "lpips": 0.0025985355023294687
+    },
+    {
+      "relative_path": "day3/fixed/meeting/19_0246.webp",
+      "method": "pixelate",
+      "ssim": 0.9933453856501466,
+      "lpips": 0.0025985355023294687
+    },
+    {
+      "relative_path": "day3/fixed/living2/14_0327.webp",
+      "method": "blur",
+      "ssim": 0.9955646958392889,
+      "lpips": 0.0027331963647156954
+    },
+    {
+      "relative_path": "day3/fixed/living2/14_0327.webp",
+      "method": "pixelate",
+      "ssim": 0.9960307480205551,
+      "lpips": 0.0017659780569374561
+    },
+    {
+      "relative_path": "day4/members/cathal/09_0204.webp",
+      "method": "blur",
+      "ssim": 0.9853628713384165,
+      "lpips": 0.02117551676928997
+    },
+    {
+      "relative_path": "day4/members/cathal/09_0204.webp",
+      "method": "pixelate",
+      "ssim": 0.9909250880068393,
+      "lpips": 0.014678718522191048
+    },
+    {
+      "relative_path": "day1/members/florian/10_0558.webp",
+      "method": "blur",
+      "ssim": 0.9906456780048233,
+      "lpips": 0.005003542639315128
+    },
+    {
+      "relative_path": "day1/members/florian/10_0558.webp",
+      "method": "pixelate",
+      "ssim": 0.9923795305720547,
+      "lpips": 0.003922711126506329
+    },
+    {
+      "relative_path": "day1/members/luca/14_0645.webp",
+      "method": "blur",
+      "ssim": 0.9900194869586185,
+      "lpips": 0.008608213625848293
+    },
+    {
+      "relative_path": "day1/members/luca/14_0645.webp",
+      "method": "pixelate",
+      "ssim": 0.9929268883087139,
+      "lpips": 0.005265423096716404
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0494.webp",
+      "method": "blur",
+      "ssim": 0.9904259003468474,
+      "lpips": 0.007381749339401722
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0494.webp",
+      "method": "pixelate",
+      "ssim": 0.99268392808875,
+      "lpips": 0.006199149414896965
+    },
+    {
+      "relative_path": "day3/members/klaus/15_0028.webp",
+      "method": "blur",
+      "ssim": 0.9927326083447968,
+      "lpips": 0.005615515168756247
+    },
+    {
+      "relative_path": "day3/members/klaus/15_0028.webp",
+      "method": "pixelate",
+      "ssim": 0.9944308867965904,
+      "lpips": 0.004138905555009842
+    },
+    {
+      "relative_path": "day2/members/stevan/11_0022.webp",
+      "method": "blur",
+      "ssim": 0.9889238733669864,
+      "lpips": 0.011102771386504173
+    },
+    {
+      "relative_path": "day2/members/stevan/11_0022.webp",
+      "method": "pixelate",
+      "ssim": 0.9927891126453829,
+      "lpips": 0.007212755735963583
+    },
+    {
+      "relative_path": "day1/members/onanong/09_0656.webp",
+      "method": "blur",
+      "ssim": 0.9822908134321829,
+      "lpips": 0.026308350265026093
+    },
+    {
+      "relative_path": "day1/members/onanong/09_0656.webp",
+      "method": "pixelate",
+      "ssim": 0.9888235292412925,
+      "lpips": 0.015491588041186333
+    },
+    {
+      "relative_path": "day2/members/cathal/14_0249.webp",
+      "method": "blur",
+      "ssim": 0.9855985319753789,
+      "lpips": 0.013671168126165867
+    },
+    {
+      "relative_path": "day2/members/cathal/14_0249.webp",
+      "method": "pixelate",
+      "ssim": 0.9906578835850902,
+      "lpips": 0.009885414503514767
+    },
+    {
+      "relative_path": "day4/members/allie/09_0317.webp",
+      "method": "blur",
+      "ssim": 0.9835861094155182,
+      "lpips": 0.022822828963398933
+    },
+    {
+      "relative_path": "day4/members/allie/09_0317.webp",
+      "method": "pixelate",
+      "ssim": 0.9895440902878362,
+      "lpips": 0.014927428215742111
+    },
+    {
+      "relative_path": "day1/members/tien/14_0025.webp",
+      "method": "blur",
+      "ssim": 0.9904709129082406,
+      "lpips": 0.016824591904878616
+    },
+    {
+      "relative_path": "day1/members/tien/14_0025.webp",
+      "method": "pixelate",
+      "ssim": 0.9937315600673124,
+      "lpips": 0.012759044766426086
+    },
+    {
+      "relative_path": "day1/members/bjorn/08_0352.webp",
+      "method": "blur",
+      "ssim": 0.9827480665352718,
+      "lpips": 0.026540400460362434
+    },
+    {
+      "relative_path": "day1/members/bjorn/08_0352.webp",
+      "method": "pixelate",
+      "ssim": 0.9900966022086979,
+      "lpips": 0.015568054281175137
+    },
+    {
+      "relative_path": "day4/members/allie/08_0232.webp",
+      "method": "blur",
+      "ssim": 0.9825484790066453,
+      "lpips": 0.02788945846259594
+    },
+    {
+      "relative_path": "day4/members/allie/08_0232.webp",
+      "method": "pixelate",
+      "ssim": 0.9885731687232449,
+      "lpips": 0.01947716623544693
+    },
+    {
+      "relative_path": "day1/members/florian/10_0222.webp",
+      "method": "blur",
+      "ssim": 0.9903664968497043,
+      "lpips": 0.005746900103986263
+    },
+    {
+      "relative_path": "day1/members/florian/10_0222.webp",
+      "method": "pixelate",
+      "ssim": 0.992230806166369,
+      "lpips": 0.003722129389643669
+    },
+    {
+      "relative_path": "day1/members/stevan/09_0239.webp",
+      "method": "blur",
+      "ssim": 0.9868809949549263,
+      "lpips": 0.011217433959245682
+    },
+    {
+      "relative_path": "day1/members/stevan/09_0239.webp",
+      "method": "pixelate",
+      "ssim": 0.9914191766963562,
+      "lpips": 0.006855197716504335
+    },
+    {
+      "relative_path": "day2/members/allie/14_0586.webp",
+      "method": "blur",
+      "ssim": 0.9923562493915224,
+      "lpips": 0.00693246815353632
+    },
+    {
+      "relative_path": "day2/members/allie/14_0586.webp",
+      "method": "pixelate",
+      "ssim": 0.9934793659186756,
+      "lpips": 0.006524642929434776
+    },
+    {
+      "relative_path": "day2/members/werner/13_0138.webp",
+      "method": "blur",
+      "ssim": 0.9925691368251978,
+      "lpips": 0.004170536994934082
+    },
+    {
+      "relative_path": "day2/members/werner/13_0138.webp",
+      "method": "pixelate",
+      "ssim": 0.9932376868823871,
+      "lpips": 0.0043800282292068005
+    },
+    {
+      "relative_path": "day2/members/luca/10_0693.webp",
+      "method": "blur",
+      "ssim": 0.9864852091893805,
+      "lpips": 0.012182282283902168
+    },
+    {
+      "relative_path": "day2/members/luca/10_0693.webp",
+      "method": "pixelate",
+      "ssim": 0.9906991401507009,
+      "lpips": 0.006451194174587727
+    },
+    {
+      "relative_path": "day4/members/werner/13_0498.webp",
+      "method": "blur",
+      "ssim": 0.9842823268716249,
+      "lpips": 0.012720209546387196
+    },
+    {
+      "relative_path": "day4/members/werner/13_0498.webp",
+      "method": "pixelate",
+      "ssim": 0.9902390810312401,
+      "lpips": 0.009452326223254204
+    },
+    {
+      "relative_path": "day3/members/tien/14_0682.webp",
+      "method": "blur",
+      "ssim": 0.9933720975905618,
+      "lpips": 0.006501778960227966
+    },
+    {
+      "relative_path": "day3/members/tien/14_0682.webp",
+      "method": "pixelate",
+      "ssim": 0.9951210645000491,
+      "lpips": 0.003946118988096714
+    },
+    {
+      "relative_path": "day2/members/klaus/20_0049.webp",
+      "method": "blur",
+      "ssim": 0.9951352556688127,
+      "lpips": 0.0020006687846034765
+    },
+    {
+      "relative_path": "day2/members/klaus/20_0049.webp",
+      "method": "pixelate",
+      "ssim": 0.9951352556688127,
+      "lpips": 0.0020006687846034765
+    },
+    {
+      "relative_path": "day3/members/cathal/12_0320.webp",
+      "method": "blur",
+      "ssim": 0.9896074574149673,
+      "lpips": 0.010899269953370094
+    },
+    {
+      "relative_path": "day3/members/cathal/12_0320.webp",
+      "method": "pixelate",
+      "ssim": 0.9927079908665769,
+      "lpips": 0.006292005069553852
+    },
+    {
+      "relative_path": "day1/members/stevan/18_0015.webp",
+      "method": "blur",
+      "ssim": 0.9905730087355828,
+      "lpips": 0.007868342101573944
+    },
+    {
+      "relative_path": "day1/members/stevan/18_0015.webp",
+      "method": "pixelate",
+      "ssim": 0.9929202636343328,
+      "lpips": 0.007828141562640667
+    },
+    {
+      "relative_path": "day4/members/werner/13_0471.webp",
+      "method": "blur",
+      "ssim": 0.9864326166415761,
+      "lpips": 0.010484270751476288
+    },
+    {
+      "relative_path": "day4/members/werner/13_0471.webp",
+      "method": "pixelate",
+      "ssim": 0.990976852679513,
+      "lpips": 0.00623148400336504
+    },
+    {
+      "relative_path": "day4/members/cathal/18_0320.webp",
+      "method": "blur",
+      "ssim": 0.9946708072779388,
+      "lpips": 0.003965103533118963
+    },
+    {
+      "relative_path": "day4/members/cathal/18_0320.webp",
+      "method": "pixelate",
+      "ssim": 0.995057833104862,
+      "lpips": 0.004068166017532349
+    },
+    {
+      "relative_path": "day4/members/bao/11_0446.webp",
+      "method": "blur",
+      "ssim": 0.9800790545606898,
+      "lpips": 0.030551906675100327
+    },
+    {
+      "relative_path": "day4/members/bao/11_0446.webp",
+      "method": "pixelate",
+      "ssim": 0.9881754563704589,
+      "lpips": 0.01823076605796814
+    },
+    {
+      "relative_path": "day3/members/onanong/16_0687.webp",
+      "method": "blur",
+      "ssim": 0.9952504928706114,
+      "lpips": 0.0018292065942659974
+    },
+    {
+      "relative_path": "day3/members/onanong/16_0687.webp",
+      "method": "pixelate",
+      "ssim": 0.995384636647047,
+      "lpips": 0.0016304526943713427
+    },
+    {
+      "relative_path": "day1/members/tien/10_0348.webp",
+      "method": "blur",
+      "ssim": 0.9906910968027957,
+      "lpips": 0.0066957976669073105
+    },
+    {
+      "relative_path": "day1/members/tien/10_0348.webp",
+      "method": "pixelate",
+      "ssim": 0.9928190071218942,
+      "lpips": 0.004999801050871611
+    },
+    {
+      "relative_path": "day1/members/allie/10_0705.webp",
+      "method": "blur",
+      "ssim": 0.9908802271128719,
+      "lpips": 0.0076504060998559
+    },
+    {
+      "relative_path": "day1/members/allie/10_0705.webp",
+      "method": "pixelate",
+      "ssim": 0.992881924041853,
+      "lpips": 0.005970658268779516
+    },
+    {
+      "relative_path": "day3/members/bjorn/20_0641.webp",
+      "method": "blur",
+      "ssim": 0.9798596938022901,
+      "lpips": 0.03426053747534752
+    },
+    {
+      "relative_path": "day3/members/bjorn/20_0641.webp",
+      "method": "pixelate",
+      "ssim": 0.9883239183844116,
+      "lpips": 0.02131880819797516
+    },
+    {
+      "relative_path": "day4/members/allie/12_0600.webp",
+      "method": "blur",
+      "ssim": 0.9873916036671043,
+      "lpips": 0.01721559651196003
+    },
+    {
+      "relative_path": "day4/members/allie/12_0600.webp",
+      "method": "pixelate",
+      "ssim": 0.9909260690534237,
+      "lpips": 0.02186197228729725
+    },
+    {
+      "relative_path": "day1/members/onanong/17_0614.webp",
+      "method": "blur",
+      "ssim": 0.9850685663397357,
+      "lpips": 0.01671961322426796
+    },
+    {
+      "relative_path": "day1/members/onanong/17_0614.webp",
+      "method": "pixelate",
+      "ssim": 0.9905322577116834,
+      "lpips": 0.011817410588264465
+    },
+    {
+      "relative_path": "day2/members/cathal/11_0472.webp",
+      "method": "blur",
+      "ssim": 0.96924250460895,
+      "lpips": 0.05184296518564224
+    },
+    {
+      "relative_path": "day2/members/cathal/11_0472.webp",
+      "method": "pixelate",
+      "ssim": 0.9835872211593372,
+      "lpips": 0.028366422280669212
+    },
+    {
+      "relative_path": "day3/members/tien/18_0330.webp",
+      "method": "blur",
+      "ssim": 0.9817636162383275,
+      "lpips": 0.022998202592134476
+    },
+    {
+      "relative_path": "day3/members/tien/18_0330.webp",
+      "method": "pixelate",
+      "ssim": 0.9898719689329575,
+      "lpips": 0.02429290860891342
+    },
+    {
+      "relative_path": "day1/members/bjorn/19_0551.webp",
+      "method": "blur",
+      "ssim": 0.9925848565283953,
+      "lpips": 0.005686662625521421
+    },
+    {
+      "relative_path": "day1/members/bjorn/19_0551.webp",
+      "method": "pixelate",
+      "ssim": 0.9939292388603994,
+      "lpips": 0.005055376328527927
+    },
+    {
+      "relative_path": "day3/members/allie/10_0256.webp",
+      "method": "blur",
+      "ssim": 0.9944410310422698,
+      "lpips": 0.0025383448228240013
+    },
+    {
+      "relative_path": "day3/members/allie/10_0256.webp",
+      "method": "pixelate",
+      "ssim": 0.9944982212348191,
+      "lpips": 0.0024482491426169872
+    },
+    {
+      "relative_path": "day1/members/cathal/14_0426.webp",
+      "method": "blur",
+      "ssim": 0.9894303575505597,
+      "lpips": 0.011913923546671867
+    },
+    {
+      "relative_path": "day1/members/cathal/14_0426.webp",
+      "method": "pixelate",
+      "ssim": 0.9915175829772015,
+      "lpips": 0.015286031179130077
+    },
+    {
+      "relative_path": "day4/members/bjorn/12_0699.webp",
+      "method": "blur",
+      "ssim": 0.9805597354776959,
+      "lpips": 0.02568942867219448
+    },
+    {
+      "relative_path": "day4/members/bjorn/12_0699.webp",
+      "method": "pixelate",
+      "ssim": 0.9891592803058452,
+      "lpips": 0.017352154478430748
+    },
+    {
+      "relative_path": "day2/members/florian/11_0413.webp",
+      "method": "blur",
+      "ssim": 0.9904378696135349,
+      "lpips": 0.006237013265490532
+    },
+    {
+      "relative_path": "day2/members/florian/11_0413.webp",
+      "method": "pixelate",
+      "ssim": 0.9931318113294975,
+      "lpips": 0.004010357428342104
+    },
+    {
+      "relative_path": "day2/members/cathal/14_0025.webp",
+      "method": "blur",
+      "ssim": 0.9100231933508526,
+      "lpips": 0.19820672273635864
+    },
+    {
+      "relative_path": "day2/members/cathal/14_0025.webp",
+      "method": "pixelate",
+      "ssim": 0.9562893344397511,
+      "lpips": 0.1286354809999466
+    },
+    {
+      "relative_path": "day3/members/onanong/14_0120.webp",
+      "method": "blur",
+      "ssim": 0.9827167800413726,
+      "lpips": 0.04008764401078224
+    },
+    {
+      "relative_path": "day3/members/onanong/14_0120.webp",
+      "method": "pixelate",
+      "ssim": 0.990054269608799,
+      "lpips": 0.018476873636245728
+    },
+    {
+      "relative_path": "day3/members/tien/20_0395.webp",
+      "method": "blur",
+      "ssim": 0.9895286976717387,
+      "lpips": 0.009178495034575462
+    },
+    {
+      "relative_path": "day3/members/tien/20_0395.webp",
+      "method": "pixelate",
+      "ssim": 0.9931732399732985,
+      "lpips": 0.0062752398662269115
+    },
+    {
+      "relative_path": "day3/members/bjorn/13_0401.webp",
+      "method": "blur",
+      "ssim": 0.9906242529120316,
+      "lpips": 0.012498488649725914
+    },
+    {
+      "relative_path": "day3/members/bjorn/13_0401.webp",
+      "method": "pixelate",
+      "ssim": 0.9929786045714715,
+      "lpips": 0.007406606338918209
+    },
+    {
+      "relative_path": "day4/fixed/living2/12_0164.webp",
+      "method": "blur",
+      "ssim": 0.9918574349984697,
+      "lpips": 0.009064245969057083
+    },
+    {
+      "relative_path": "day4/fixed/living2/12_0164.webp",
+      "method": "pixelate",
+      "ssim": 0.99365384990856,
+      "lpips": 0.005309433210641146
+    },
+    {
+      "relative_path": "day1/members/bjorn/18_0125.webp",
+      "method": "blur",
+      "ssim": 0.9885472725778618,
+      "lpips": 0.01141862478107214
+    },
+    {
+      "relative_path": "day1/members/bjorn/18_0125.webp",
+      "method": "pixelate",
+      "ssim": 0.9919598447518486,
+      "lpips": 0.012363152578473091
+    },
+    {
+      "relative_path": "day2/members/werner/20_0710.webp",
+      "method": "blur",
+      "ssim": 0.9919976169619735,
+      "lpips": 0.003386192489415407
+    },
+    {
+      "relative_path": "day2/members/werner/20_0710.webp",
+      "method": "pixelate",
+      "ssim": 0.992655437761485,
+      "lpips": 0.0029699206352233887
+    },
+    {
+      "relative_path": "day1/members/tien/10_0702.webp",
+      "method": "blur",
+      "ssim": 0.99053557430867,
+      "lpips": 0.007210751995444298
+    },
+    {
+      "relative_path": "day1/members/tien/10_0702.webp",
+      "method": "pixelate",
+      "ssim": 0.9927158771371447,
+      "lpips": 0.00490873958915472
+    },
+    {
+      "relative_path": "day4/members/klaus/13_0461.webp",
+      "method": "blur",
+      "ssim": 0.9851834152903796,
+      "lpips": 0.014926563948392868
+    },
+    {
+      "relative_path": "day4/members/klaus/13_0461.webp",
+      "method": "pixelate",
+      "ssim": 0.9902873282999766,
+      "lpips": 0.009761556051671505
+    },
+    {
+      "relative_path": "day1/members/allie/12_0070.webp",
+      "method": "blur",
+      "ssim": 0.9956785737149598,
+      "lpips": 0.001527033862657845
+    },
+    {
+      "relative_path": "day1/members/allie/12_0070.webp",
+      "method": "pixelate",
+      "ssim": 0.9957902042955019,
+      "lpips": 0.0014642640016973019
+    },
+    {
+      "relative_path": "day1/members/tien/15_0003.webp",
+      "method": "blur",
+      "ssim": 0.9866380940743027,
+      "lpips": 0.015644079074263573
+    },
+    {
+      "relative_path": "day1/members/tien/15_0003.webp",
+      "method": "pixelate",
+      "ssim": 0.9915988494245039,
+      "lpips": 0.01103145070374012
+    },
+    {
+      "relative_path": "day1/members/florian/08_0552.webp",
+      "method": "blur",
+      "ssim": 0.9904795616129095,
+      "lpips": 0.006384433247148991
+    },
+    {
+      "relative_path": "day1/members/florian/08_0552.webp",
+      "method": "pixelate",
+      "ssim": 0.992933226058065,
+      "lpips": 0.0045980545692145824
+    },
+    {
+      "relative_path": "day1/members/luca/11_0440.webp",
+      "method": "blur",
+      "ssim": 0.9737339002770198,
+      "lpips": 0.03820446878671646
+    },
+    {
+      "relative_path": "day1/members/luca/11_0440.webp",
+      "method": "pixelate",
+      "ssim": 0.9842747755249662,
+      "lpips": 0.021815411746501923
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0539.webp",
+      "method": "blur",
+      "ssim": 0.985526231294226,
+      "lpips": 0.01499375980347395
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0539.webp",
+      "method": "pixelate",
+      "ssim": 0.991592800722894,
+      "lpips": 0.018054308369755745
+    },
+    {
+      "relative_path": "day2/members/onanong/12_0333.webp",
+      "method": "blur",
+      "ssim": 0.9826583983670772,
+      "lpips": 0.017625711858272552
+    },
+    {
+      "relative_path": "day2/members/onanong/12_0333.webp",
+      "method": "pixelate",
+      "ssim": 0.9893435706757033,
+      "lpips": 0.010164794512093067
+    },
+    {
+      "relative_path": "day2/members/werner/19_0542.webp",
+      "method": "blur",
+      "ssim": 0.977388845137852,
+      "lpips": 0.029932361096143723
+    },
+    {
+      "relative_path": "day2/members/werner/19_0542.webp",
+      "method": "pixelate",
+      "ssim": 0.9883933993872905,
+      "lpips": 0.03031671792268753
+    },
+    {
+      "relative_path": "day1/members/allie/11_0171.webp",
+      "method": "blur",
+      "ssim": 0.9799712434131239,
+      "lpips": 0.03182360529899597
+    },
+    {
+      "relative_path": "day1/members/allie/11_0171.webp",
+      "method": "pixelate",
+      "ssim": 0.9871838830766512,
+      "lpips": 0.02304471656680107
+    },
+    {
+      "relative_path": "day3/members/luca/09_0284.webp",
+      "method": "blur",
+      "ssim": 0.9920396712368121,
+      "lpips": 0.006134586874395609
+    },
+    {
+      "relative_path": "day3/members/luca/09_0284.webp",
+      "method": "pixelate",
+      "ssim": 0.9935682371718437,
+      "lpips": 0.004299784079194069
+    },
+    {
+      "relative_path": "day1/members/cathal/20_0312.webp",
+      "method": "blur",
+      "ssim": 0.994763046343294,
+      "lpips": 0.003090249141678214
+    },
+    {
+      "relative_path": "day1/members/cathal/20_0312.webp",
+      "method": "pixelate",
+      "ssim": 0.9952032049294471,
+      "lpips": 0.002861320972442627
+    },
+    {
+      "relative_path": "day3/members/allie/18_0149.webp",
+      "method": "blur",
+      "ssim": 0.9854255883903426,
+      "lpips": 0.013733534142374992
+    },
+    {
+      "relative_path": "day3/members/allie/18_0149.webp",
+      "method": "pixelate",
+      "ssim": 0.9899426122482291,
+      "lpips": 0.010407431051135063
+    },
+    {
+      "relative_path": "day4/members/allie/08_0273.webp",
+      "method": "blur",
+      "ssim": 0.9938690117624334,
+      "lpips": 0.003739503910765052
+    },
+    {
+      "relative_path": "day4/members/allie/08_0273.webp",
+      "method": "pixelate",
+      "ssim": 0.9947826589412497,
+      "lpips": 0.002788444049656391
+    },
+    {
+      "relative_path": "day4/fixed/living1/12_0512.webp",
+      "method": "blur",
+      "ssim": 0.9939204963453253,
+      "lpips": 0.004709324799478054
+    },
+    {
+      "relative_path": "day4/fixed/living1/12_0512.webp",
+      "method": "pixelate",
+      "ssim": 0.994630905436065,
+      "lpips": 0.0029861051589250565
+    },
+    {
+      "relative_path": "day1/members/cathal/09_0046.webp",
+      "method": "blur",
+      "ssim": 0.9936817609370675,
+      "lpips": 0.0035361135378479958
+    },
+    {
+      "relative_path": "day1/members/cathal/09_0046.webp",
+      "method": "pixelate",
+      "ssim": 0.9941475842959456,
+      "lpips": 0.0023384992964565754
+    },
+    {
+      "relative_path": "day4/members/allie/12_0044.webp",
+      "method": "blur",
+      "ssim": 0.9874136410972084,
+      "lpips": 0.008423976600170135
+    },
+    {
+      "relative_path": "day4/members/allie/12_0044.webp",
+      "method": "pixelate",
+      "ssim": 0.9916847320680509,
+      "lpips": 0.005457080900669098
+    },
+    {
+      "relative_path": "day2/members/werner/19_0339.webp",
+      "method": "blur",
+      "ssim": 0.9898000893763123,
+      "lpips": 0.009895328432321548
+    },
+    {
+      "relative_path": "day2/members/werner/19_0339.webp",
+      "method": "pixelate",
+      "ssim": 0.9924627013066724,
+      "lpips": 0.006127309054136276
+    },
+    {
+      "relative_path": "day2/fixed/kitchen/14_0526.webp",
+      "method": "blur",
+      "ssim": 0.9831479476360138,
+      "lpips": 0.020254069939255714
+    },
+    {
+      "relative_path": "day2/fixed/kitchen/14_0526.webp",
+      "method": "pixelate",
+      "ssim": 0.9897031370205803,
+      "lpips": 0.012061221525073051
+    },
+    {
+      "relative_path": "day3/fixed/living1/18_0428.webp",
+      "method": "blur",
+      "ssim": 0.9955659788098038,
+      "lpips": 0.0020986241288483143
+    },
+    {
+      "relative_path": "day3/fixed/living1/18_0428.webp",
+      "method": "pixelate",
+      "ssim": 0.9958549627965758,
+      "lpips": 0.0017440110677853227
+    },
+    {
+      "relative_path": "day1/fixed/kitchen/08_0613.webp",
+      "method": "blur",
+      "ssim": 0.9926362220872713,
+      "lpips": 0.005968018434941769
+    },
+    {
+      "relative_path": "day1/fixed/kitchen/08_0613.webp",
+      "method": "pixelate",
+      "ssim": 0.9939467193734496,
+      "lpips": 0.003590543754398823
+    },
+    {
+      "relative_path": "day1/members/werner/09_0116.webp",
+      "method": "blur",
+      "ssim": 0.9846767035099669,
+      "lpips": 0.018713904544711113
+    },
+    {
+      "relative_path": "day1/members/werner/09_0116.webp",
+      "method": "pixelate",
+      "ssim": 0.9907194494923726,
+      "lpips": 0.014084989205002785
+    },
+    {
+      "relative_path": "day1/members/werner/14_0281.webp",
+      "method": "blur",
+      "ssim": 0.9836746689018603,
+      "lpips": 0.014879068359732628
+    },
+    {
+      "relative_path": "day1/members/werner/14_0281.webp",
+      "method": "pixelate",
+      "ssim": 0.9906617359057607,
+      "lpips": 0.01085103303194046
+    },
+    {
+      "relative_path": "day2/members/onanong/11_0333.webp",
+      "method": "blur",
+      "ssim": 0.9849598300184995,
+      "lpips": 0.015586264431476593
+    },
+    {
+      "relative_path": "day2/members/onanong/11_0333.webp",
+      "method": "pixelate",
+      "ssim": 0.9909116167893354,
+      "lpips": 0.009687628597021103
+    },
+    {
+      "relative_path": "day1/members/cathal/10_0086.webp",
+      "method": "blur",
+      "ssim": 0.9844672458335239,
+      "lpips": 0.01682416722178459
+    },
+    {
+      "relative_path": "day1/members/cathal/10_0086.webp",
+      "method": "pixelate",
+      "ssim": 0.9899156879871835,
+      "lpips": 0.014934227801859379
+    },
+    {
+      "relative_path": "day3/members/allie/17_0606.webp",
+      "method": "blur",
+      "ssim": 0.9816323042841599,
+      "lpips": 0.01719345524907112
+    },
+    {
+      "relative_path": "day3/members/allie/17_0606.webp",
+      "method": "pixelate",
+      "ssim": 0.9884110612949334,
+      "lpips": 0.011531440541148186
+    },
+    {
+      "relative_path": "day1/members/bjorn/17_0528.webp",
+      "method": "blur",
+      "ssim": 0.9878735638725074,
+      "lpips": 0.01190985832363367
+    },
+    {
+      "relative_path": "day1/members/bjorn/17_0528.webp",
+      "method": "pixelate",
+      "ssim": 0.9916918626627181,
+      "lpips": 0.010535679757595062
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0127.webp",
+      "method": "blur",
+      "ssim": 0.9852112275970679,
+      "lpips": 0.013756305910646915
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0127.webp",
+      "method": "pixelate",
+      "ssim": 0.9904030801300253,
+      "lpips": 0.01317923329770565
+    },
+    {
+      "relative_path": "day4/members/klaus/13_0380.webp",
+      "method": "blur",
+      "ssim": 0.9812392519009552,
+      "lpips": 0.0223626010119915
+    },
+    {
+      "relative_path": "day4/members/klaus/13_0380.webp",
+      "method": "pixelate",
+      "ssim": 0.988935317657563,
+      "lpips": 0.016099056228995323
+    },
+    {
+      "relative_path": "day2/members/allie/19_0403.webp",
+      "method": "blur",
+      "ssim": 0.9916598440332395,
+      "lpips": 0.0060577066615223885
+    },
+    {
+      "relative_path": "day2/members/allie/19_0403.webp",
+      "method": "pixelate",
+      "ssim": 0.9937924071402975,
+      "lpips": 0.004021829925477505
+    },
+    {
+      "relative_path": "day3/fixed/meeting/09_0714.webp",
+      "method": "blur",
+      "ssim": 0.9906927705777172,
+      "lpips": 0.006536730565130711
+    },
+    {
+      "relative_path": "day3/fixed/meeting/09_0714.webp",
+      "method": "pixelate",
+      "ssim": 0.9923908213353448,
+      "lpips": 0.004818150773644447
+    },
+    {
+      "relative_path": "day3/fixed/living1/13_0343.webp",
+      "method": "blur",
+      "ssim": 0.9944913870247497,
+      "lpips": 0.0039411745965480804
+    },
+    {
+      "relative_path": "day3/fixed/living1/13_0343.webp",
+      "method": "pixelate",
+      "ssim": 0.9952905121656203,
+      "lpips": 0.002241070382297039
+    },
+    {
+      "relative_path": "day1/fixed/living1/15_0186.webp",
+      "method": "blur",
+      "ssim": 0.9958174524884589,
+      "lpips": 0.0010485108941793442
+    },
+    {
+      "relative_path": "day1/fixed/living1/15_0186.webp",
+      "method": "pixelate",
+      "ssim": 0.995828808354577,
+      "lpips": 0.0010456271702423692
+    },
+    {
+      "relative_path": "day3/members/luca/11_0067.webp",
+      "method": "blur",
+      "ssim": 0.9837768850803285,
+      "lpips": 0.023691285401582718
+    },
+    {
+      "relative_path": "day3/members/luca/11_0067.webp",
+      "method": "pixelate",
+      "ssim": 0.9889325300210964,
+      "lpips": 0.018720677122473717
+    },
+    {
+      "relative_path": "day3/members/bjorn/18_0120.webp",
+      "method": "blur",
+      "ssim": 0.98309577277145,
+      "lpips": 0.020686205476522446
+    },
+    {
+      "relative_path": "day3/members/bjorn/18_0120.webp",
+      "method": "pixelate",
+      "ssim": 0.9894926919735395,
+      "lpips": 0.013989893719553947
+    },
+    {
+      "relative_path": "day1/members/allie/14_0337.webp",
+      "method": "blur",
+      "ssim": 0.9847806168954388,
+      "lpips": 0.017240585759282112
+    },
+    {
+      "relative_path": "day1/members/allie/14_0337.webp",
+      "method": "pixelate",
+      "ssim": 0.9907511869935105,
+      "lpips": 0.009990289807319641
+    },
+    {
+      "relative_path": "day3/members/florian/18_0171.webp",
+      "method": "blur",
+      "ssim": 0.9855105196570193,
+      "lpips": 0.016477610915899277
+    },
+    {
+      "relative_path": "day3/members/florian/18_0171.webp",
+      "method": "pixelate",
+      "ssim": 0.9902623106671671,
+      "lpips": 0.011586733162403107
+    },
+    {
+      "relative_path": "day1/members/werner/09_0185.webp",
+      "method": "blur",
+      "ssim": 0.988640356021068,
+      "lpips": 0.008772186934947968
+    },
+    {
+      "relative_path": "day1/members/werner/09_0185.webp",
+      "method": "pixelate",
+      "ssim": 0.9923024988966495,
+      "lpips": 0.006143225356936455
+    },
+    {
+      "relative_path": "day3/members/tien/12_0015.webp",
+      "method": "blur",
+      "ssim": 0.9922923849388713,
+      "lpips": 0.008585871197283268
+    },
+    {
+      "relative_path": "day3/members/tien/12_0015.webp",
+      "method": "pixelate",
+      "ssim": 0.9944413111183456,
+      "lpips": 0.006040355656296015
+    },
+    {
+      "relative_path": "day4/members/allie/08_0130.webp",
+      "method": "blur",
+      "ssim": 0.9939100680799822,
+      "lpips": 0.004271244630217552
+    },
+    {
+      "relative_path": "day4/members/allie/08_0130.webp",
+      "method": "pixelate",
+      "ssim": 0.9946712555587395,
+      "lpips": 0.002434847876429558
+    },
+    {
+      "relative_path": "day3/members/florian/13_0301.webp",
+      "method": "blur",
+      "ssim": 0.9952588003121946,
+      "lpips": 0.0016480530612170696
+    },
+    {
+      "relative_path": "day3/members/florian/13_0301.webp",
+      "method": "pixelate",
+      "ssim": 0.9953675511850668,
+      "lpips": 0.001232067821547389
+    },
+    {
+      "relative_path": "day1/members/onanong/15_0323.webp",
+      "method": "blur",
+      "ssim": 0.9774977510660149,
+      "lpips": 0.027926750481128693
+    },
+    {
+      "relative_path": "day1/members/onanong/15_0323.webp",
+      "method": "pixelate",
+      "ssim": 0.9864098520014872,
+      "lpips": 0.019067656248807907
+    },
+    {
+      "relative_path": "day1/members/onanong/15_0022.webp",
+      "method": "blur",
+      "ssim": 0.9916267245740084,
+      "lpips": 0.006430977024137974
+    },
+    {
+      "relative_path": "day1/members/onanong/15_0022.webp",
+      "method": "pixelate",
+      "ssim": 0.9933212412683381,
+      "lpips": 0.005329772364348173
+    },
+    {
+      "relative_path": "day4/fixed/living2/10_0474.webp",
+      "method": "blur",
+      "ssim": 0.993906212539318,
+      "lpips": 0.003626120276749134
+    },
+    {
+      "relative_path": "day4/fixed/living2/10_0474.webp",
+      "method": "pixelate",
+      "ssim": 0.9948542492501372,
+      "lpips": 0.0023593883961439133
+    },
+    {
+      "relative_path": "day3/members/tien/20_0213.webp",
+      "method": "blur",
+      "ssim": 0.9915307160225112,
+      "lpips": 0.007597818039357662
+    },
+    {
+      "relative_path": "day3/members/tien/20_0213.webp",
+      "method": "pixelate",
+      "ssim": 0.9942715158505608,
+      "lpips": 0.009478284977376461
+    },
+    {
+      "relative_path": "day3/fixed/living2/17_0519.webp",
+      "method": "blur",
+      "ssim": 0.9952210959364787,
+      "lpips": 0.0028530298732221127
+    },
+    {
+      "relative_path": "day3/fixed/living2/17_0519.webp",
+      "method": "pixelate",
+      "ssim": 0.995454082703762,
+      "lpips": 0.0023349926341325045
+    },
+    {
+      "relative_path": "day1/fixed/living1/17_0304.webp",
+      "method": "blur",
+      "ssim": 0.9941144326065724,
+      "lpips": 0.0030401740223169327
+    },
+    {
+      "relative_path": "day1/fixed/living1/17_0304.webp",
+      "method": "pixelate",
+      "ssim": 0.994754798978373,
+      "lpips": 0.0023083966225385666
+    },
+    {
+      "relative_path": "day2/members/florian/18_0713.webp",
+      "method": "blur",
+      "ssim": 0.9929730952813989,
+      "lpips": 0.0036504846066236496
+    },
+    {
+      "relative_path": "day2/members/florian/18_0713.webp",
+      "method": "pixelate",
+      "ssim": 0.9943503116371349,
+      "lpips": 0.0028196852654218674
+    },
+    {
+      "relative_path": "day1/members/cathal/11_0188.webp",
+      "method": "blur",
+      "ssim": 0.9854396615328542,
+      "lpips": 0.012349271215498447
+    },
+    {
+      "relative_path": "day1/members/cathal/11_0188.webp",
+      "method": "pixelate",
+      "ssim": 0.9906248529195802,
+      "lpips": 0.008348138071596622
+    },
+    {
+      "relative_path": "day3/members/bjorn/18_0527.webp",
+      "method": "blur",
+      "ssim": 0.9857298050801618,
+      "lpips": 0.01443061139434576
+    },
+    {
+      "relative_path": "day3/members/bjorn/18_0527.webp",
+      "method": "pixelate",
+      "ssim": 0.9903118654622168,
+      "lpips": 0.010131781920790672
+    },
+    {
+      "relative_path": "day2/members/tien/14_0478.webp",
+      "method": "blur",
+      "ssim": 0.996617297067615,
+      "lpips": 0.0012606888776645064
+    },
+    {
+      "relative_path": "day2/members/tien/14_0478.webp",
+      "method": "pixelate",
+      "ssim": 0.996617297067615,
+      "lpips": 0.0012606888776645064
+    },
+    {
+      "relative_path": "day1/members/florian/14_0209.webp",
+      "method": "blur",
+      "ssim": 0.9774244928882113,
+      "lpips": 0.026915423572063446
+    },
+    {
+      "relative_path": "day1/members/florian/14_0209.webp",
+      "method": "pixelate",
+      "ssim": 0.9865349752960751,
+      "lpips": 0.015108111314475536
+    },
+    {
+      "relative_path": "day3/members/werner/18_0017.webp",
+      "method": "blur",
+      "ssim": 0.9876005284743288,
+      "lpips": 0.013574108481407166
+    },
+    {
+      "relative_path": "day3/members/werner/18_0017.webp",
+      "method": "pixelate",
+      "ssim": 0.9914472552556924,
+      "lpips": 0.00958681758493185
+    },
+    {
+      "relative_path": "day1/members/bjorn/20_0420.webp",
+      "method": "blur",
+      "ssim": 0.9851433446811556,
+      "lpips": 0.019818980246782303
+    },
+    {
+      "relative_path": "day1/members/bjorn/20_0420.webp",
+      "method": "pixelate",
+      "ssim": 0.9901305617298671,
+      "lpips": 0.013961544260382652
+    },
+    {
+      "relative_path": "day4/fixed/meeting/17_0020.webp",
+      "method": "blur",
+      "ssim": 0.9919496983786319,
+      "lpips": 0.005120772868394852
+    },
+    {
+      "relative_path": "day4/fixed/meeting/17_0020.webp",
+      "method": "pixelate",
+      "ssim": 0.9929008948281147,
+      "lpips": 0.004460993222892284
+    },
+    {
+      "relative_path": "day3/members/klaus/09_0651.webp",
+      "method": "blur",
+      "ssim": 0.9924633797557685,
+      "lpips": 0.004834969062358141
+    },
+    {
+      "relative_path": "day3/members/klaus/09_0651.webp",
+      "method": "pixelate",
+      "ssim": 0.9936120046708855,
+      "lpips": 0.003785547334700823
+    },
+    {
+      "relative_path": "day4/members/allie/10_0635.webp",
+      "method": "blur",
+      "ssim": 0.9809462236826122,
+      "lpips": 0.016951028257608414
+    },
+    {
+      "relative_path": "day4/members/allie/10_0635.webp",
+      "method": "pixelate",
+      "ssim": 0.9884942077028832,
+      "lpips": 0.011507167480885983
+    },
+    {
+      "relative_path": "day1/fixed/meeting/20_0072.webp",
+      "method": "blur",
+      "ssim": 0.9922200910553842,
+      "lpips": 0.0048698559403419495
+    },
+    {
+      "relative_path": "day1/fixed/meeting/20_0072.webp",
+      "method": "pixelate",
+      "ssim": 0.9929127443124607,
+      "lpips": 0.003073478350415826
+    },
+    {
+      "relative_path": "day4/members/onanong/13_0544.webp",
+      "method": "blur",
+      "ssim": 0.9776642397493532,
+      "lpips": 0.031193271279335022
+    },
+    {
+      "relative_path": "day4/members/onanong/13_0544.webp",
+      "method": "pixelate",
+      "ssim": 0.9869316904681616,
+      "lpips": 0.03357084095478058
+    },
+    {
+      "relative_path": "day1/members/allie/10_0650.webp",
+      "method": "blur",
+      "ssim": 0.984595026146177,
+      "lpips": 0.013859428465366364
+    },
+    {
+      "relative_path": "day1/members/allie/10_0650.webp",
+      "method": "pixelate",
+      "ssim": 0.9897138656004792,
+      "lpips": 0.008227807469666004
+    },
+    {
+      "relative_path": "day2/members/tien/20_0157.webp",
+      "method": "blur",
+      "ssim": 0.9904948973728889,
+      "lpips": 0.010218122974038124
+    },
+    {
+      "relative_path": "day2/members/tien/20_0157.webp",
+      "method": "pixelate",
+      "ssim": 0.9925650585701175,
+      "lpips": 0.009932608343660831
+    },
+    {
+      "relative_path": "day4/members/bjorn/10_0328.webp",
+      "method": "blur",
+      "ssim": 0.9911481233297144,
+      "lpips": 0.006184621714055538
+    },
+    {
+      "relative_path": "day4/members/bjorn/10_0328.webp",
+      "method": "pixelate",
+      "ssim": 0.993385895445886,
+      "lpips": 0.003105976153165102
+    },
+    {
+      "relative_path": "day4/members/bjorn/12_0481.webp",
+      "method": "blur",
+      "ssim": 0.9889039662098872,
+      "lpips": 0.008364018052816391
+    },
+    {
+      "relative_path": "day4/members/bjorn/12_0481.webp",
+      "method": "pixelate",
+      "ssim": 0.9918623245629329,
+      "lpips": 0.0073508755303919315
+    },
+    {
+      "relative_path": "day3/members/bjorn/10_0198.webp",
+      "method": "blur",
+      "ssim": 0.9922245734177201,
+      "lpips": 0.007792470045387745
+    },
+    {
+      "relative_path": "day3/members/bjorn/10_0198.webp",
+      "method": "pixelate",
+      "ssim": 0.9934873916210885,
+      "lpips": 0.005475552752614021
+    },
+    {
+      "relative_path": "day4/members/werner/08_0347.webp",
+      "method": "blur",
+      "ssim": 0.9930767309762049,
+      "lpips": 0.003827855922281742
+    },
+    {
+      "relative_path": "day4/members/werner/08_0347.webp",
+      "method": "pixelate",
+      "ssim": 0.9937767133148329,
+      "lpips": 0.002669260371476412
+    },
+    {
+      "relative_path": "day3/members/cathal/09_0240.webp",
+      "method": "blur",
+      "ssim": 0.9878767889885403,
+      "lpips": 0.010659072548151016
+    },
+    {
+      "relative_path": "day3/members/cathal/09_0240.webp",
+      "method": "pixelate",
+      "ssim": 0.9910972144144101,
+      "lpips": 0.0067790476605296135
+    },
+    {
+      "relative_path": "day3/members/florian/17_0306.webp",
+      "method": "blur",
+      "ssim": 0.9843232516737355,
+      "lpips": 0.01817408949136734
+    },
+    {
+      "relative_path": "day3/members/florian/17_0306.webp",
+      "method": "pixelate",
+      "ssim": 0.990724299056652,
+      "lpips": 0.013318528421223164
+    },
+    {
+      "relative_path": "day1/members/onanong/17_0121.webp",
+      "method": "blur",
+      "ssim": 0.9909593617574144,
+      "lpips": 0.0064583043567836285
+    },
+    {
+      "relative_path": "day1/members/onanong/17_0121.webp",
+      "method": "pixelate",
+      "ssim": 0.993455582790067,
+      "lpips": 0.006174760404974222
+    },
+    {
+      "relative_path": "day3/fixed/kitchen/17_0288.webp",
+      "method": "blur",
+      "ssim": 0.995204236425805,
+      "lpips": 0.0018214229494333267
+    },
+    {
+      "relative_path": "day3/fixed/kitchen/17_0288.webp",
+      "method": "pixelate",
+      "ssim": 0.9956209608885778,
+      "lpips": 0.0015333652263507247
+    },
+    {
+      "relative_path": "day2/fixed/living2/18_0238.webp",
+      "method": "blur",
+      "ssim": 0.9953772504283611,
+      "lpips": 0.002125865314155817
+    },
+    {
+      "relative_path": "day2/fixed/living2/18_0238.webp",
+      "method": "pixelate",
+      "ssim": 0.9956079139843056,
+      "lpips": 0.0018741153180599213
+    },
+    {
+      "relative_path": "day4/members/onanong/13_0446.webp",
+      "method": "blur",
+      "ssim": 0.9884606655486431,
+      "lpips": 0.00903975311666727
+    },
+    {
+      "relative_path": "day4/members/onanong/13_0446.webp",
+      "method": "pixelate",
+      "ssim": 0.9918258997589441,
+      "lpips": 0.0076308296993374825
+    },
+    {
+      "relative_path": "day2/fixed/kitchen/18_0046.webp",
+      "method": "blur",
+      "ssim": 0.9927546944909288,
+      "lpips": 0.005865586455911398
+    },
+    {
+      "relative_path": "day2/fixed/kitchen/18_0046.webp",
+      "method": "pixelate",
+      "ssim": 0.9943204099602152,
+      "lpips": 0.0030832134652882814
+    },
+    {
+      "relative_path": "day2/members/tien/20_0119.webp",
+      "method": "blur",
+      "ssim": 0.9924502813143778,
+      "lpips": 0.004119858145713806
+    },
+    {
+      "relative_path": "day2/members/tien/20_0119.webp",
+      "method": "pixelate",
+      "ssim": 0.9931430730483924,
+      "lpips": 0.004017359111458063
+    },
+    {
+      "relative_path": "day3/members/allie/11_0233.webp",
+      "method": "blur",
+      "ssim": 0.9861011903526878,
+      "lpips": 0.020479422062635422
+    },
+    {
+      "relative_path": "day3/members/allie/11_0233.webp",
+      "method": "pixelate",
+      "ssim": 0.9911074751839234,
+      "lpips": 0.013233248144388199
+    },
+    {
+      "relative_path": "day4/fixed/meeting/10_0709.webp",
+      "method": "blur",
+      "ssim": 0.9939650471124359,
+      "lpips": 0.0019048748072236776
+    },
+    {
+      "relative_path": "day4/fixed/meeting/10_0709.webp",
+      "method": "pixelate",
+      "ssim": 0.9940389608553913,
+      "lpips": 0.0018034171080216765
+    },
+    {
+      "relative_path": "day3/members/onanong/17_0605.webp",
+      "method": "blur",
+      "ssim": 0.9797596669148425,
+      "lpips": 0.025225017219781876
+    },
+    {
+      "relative_path": "day3/members/onanong/17_0605.webp",
+      "method": "pixelate",
+      "ssim": 0.9882379961812483,
+      "lpips": 0.021647030487656593
+    },
+    {
+      "relative_path": "day3/members/bjorn/18_0227.webp",
+      "method": "blur",
+      "ssim": 0.9831878288453254,
+      "lpips": 0.021917782723903656
+    },
+    {
+      "relative_path": "day3/members/bjorn/18_0227.webp",
+      "method": "pixelate",
+      "ssim": 0.9891263018542769,
+      "lpips": 0.0134964594617486
+    },
+    {
+      "relative_path": "day4/members/florian/10_0053.webp",
+      "method": "blur",
+      "ssim": 0.9870207486083369,
+      "lpips": 0.013512415811419487
+    },
+    {
+      "relative_path": "day4/members/florian/10_0053.webp",
+      "method": "pixelate",
+      "ssim": 0.9913626406721584,
+      "lpips": 0.012834286317229271
+    },
+    {
+      "relative_path": "day1/fixed/living1/11_0136.webp",
+      "method": "blur",
+      "ssim": 0.9949817477956341,
+      "lpips": 0.0020470148883759975
+    },
+    {
+      "relative_path": "day1/fixed/living1/11_0136.webp",
+      "method": "pixelate",
+      "ssim": 0.9952550261264802,
+      "lpips": 0.0016403350746259093
+    },
+    {
+      "relative_path": "day1/members/tien/10_0611.webp",
+      "method": "blur",
+      "ssim": 0.9924821535481637,
+      "lpips": 0.0052854036912322044
+    },
+    {
+      "relative_path": "day1/members/tien/10_0611.webp",
+      "method": "pixelate",
+      "ssim": 0.9939722467500144,
+      "lpips": 0.003898946801200509
+    },
+    {
+      "relative_path": "day4/members/stevan/13_0438.webp",
+      "method": "blur",
+      "ssim": 0.9896912389603981,
+      "lpips": 0.007713969796895981
+    },
+    {
+      "relative_path": "day4/members/stevan/13_0438.webp",
+      "method": "pixelate",
+      "ssim": 0.9925472050389462,
+      "lpips": 0.005445120390504599
+    },
+    {
+      "relative_path": "day3/fixed/living1/20_0424.webp",
+      "method": "blur",
+      "ssim": 0.9918097504474906,
+      "lpips": 0.00935566145926714
+    },
+    {
+      "relative_path": "day3/fixed/living1/20_0424.webp",
+      "method": "pixelate",
+      "ssim": 0.9938557621898183,
+      "lpips": 0.0050806752406060696
+    },
+    {
+      "relative_path": "day1/members/stevan/10_0003.webp",
+      "method": "blur",
+      "ssim": 0.9930847562360201,
+      "lpips": 0.003509549656882882
+    },
+    {
+      "relative_path": "day1/members/stevan/10_0003.webp",
+      "method": "pixelate",
+      "ssim": 0.9935362742883642,
+      "lpips": 0.0033764916006475687
+    },
+    {
+      "relative_path": "day3/fixed/kitchen/19_0228.webp",
+      "method": "blur",
+      "ssim": 0.9934964139284101,
+      "lpips": 0.0056604910641908646
+    },
+    {
+      "relative_path": "day3/fixed/kitchen/19_0228.webp",
+      "method": "pixelate",
+      "ssim": 0.9945942444024741,
+      "lpips": 0.003317279042676091
+    },
+    {
+      "relative_path": "day2/members/luca/10_0650.webp",
+      "method": "blur",
+      "ssim": 0.9890162563796422,
+      "lpips": 0.007932532578706741
+    },
+    {
+      "relative_path": "day2/members/luca/10_0650.webp",
+      "method": "pixelate",
+      "ssim": 0.9925959666464076,
+      "lpips": 0.004594029858708382
+    },
+    {
+      "relative_path": "day3/members/werner/20_0063.webp",
+      "method": "blur",
+      "ssim": 0.9926180689465243,
+      "lpips": 0.004969776142388582
+    },
+    {
+      "relative_path": "day3/members/werner/20_0063.webp",
+      "method": "pixelate",
+      "ssim": 0.9929596883526554,
+      "lpips": 0.004810005892068148
+    },
+    {
+      "relative_path": "day4/members/cathal/18_0053.webp",
+      "method": "blur",
+      "ssim": 0.9937327450438597,
+      "lpips": 0.0038520237430930138
+    },
+    {
+      "relative_path": "day4/members/cathal/18_0053.webp",
+      "method": "pixelate",
+      "ssim": 0.9949266989554041,
+      "lpips": 0.0031234552152454853
+    }
+  ]
+}

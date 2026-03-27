@@ -1,0 +1,11 @@
+category,name,artifact_path,description
+post_detection,face_detection_outputs,outputs/02_face_detection/03_yolo_scrfd_fallback_predictions_reviewed.csv,Operational YOLO+SCRFD face-detection predictions for the global 500-frame protocol.
+post_detection,multimodal_evaluation,outputs/04_multimodal_privacy/01_multimodal_250_evidence/11_rq3_final_summary.md,Canonical 250-image multimodal detection and redaction evidence package.
+post_anonymisation,all_method_comparison,outputs/03_anonymisation/01_all_methods_comparison.csv,"Canonical aggregate comparison across all promoted, bounded, quality-limited, and excluded anonymisation methods."
+post_anonymisation,deterministic_anonymisation_baselines,outputs/03_anonymisation/02_deterministic_baselines/01_output_manifest.csv,"Blur, pixelate, solid-mask, and layered-obfuscation 500-frame output manifest."
+post_anonymisation,nullface,outputs/03_anonymisation/03_nullface/01_nullface_full_500_manifest.csv,NullFace comparable output manifest.
+post_anonymisation,diffusion,outputs/03_anonymisation/04_diffusion/01_diffusion_manifest_full_500.csv,Diffusion comparable output manifest.
+post_anonymisation,reverse_personalization,outputs/03_anonymisation/05_reverse_personalization/01_rp_final_manifest.csv,Retry-closed Reverse Personalization output manifest.
+policy_evaluation,oapr,outputs/05_oapr/03_routing_log.csv,OAPR routing decisions for the locked 500-frame protocol.
+evidence_index,weight_hashes,outputs/09_traceability/07_core_weight_sha256.csv,Hashes for the main local model weights.
+evidence_index,table_to_source_map,outputs/09_traceability/03_table_to_source_map.csv,Report table and artifact source map.

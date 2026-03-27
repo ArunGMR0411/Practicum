@@ -1,0 +1,21 @@
+field,required,description
+method,yes,Method identifier used in RQ2 comparison.
+subset,yes,Must be 500_frame_locked_anonymisation_eval for comparable RQ2 rows.
+n_input_frames,yes,Number of input frames requested.
+n_success,yes,Number of frames with successful output.
+n_failure,yes,Number of failed frames.
+SSIM_mean,yes,Mean full-frame structural similarity against raw originals.
+LPIPS_mean,yes,Mean LPIPS perceptual distance against raw originals.
+AdaFace_cosine_mean,yes,Mean AdaFace cosine similarity over detected face crops.
+AdaFace_reid_rate,yes,AdaFace rank-1 re-identification rate over detected face crops.
+ArcFace_cosine_mean,yes,Mean ArcFace cosine similarity over detected face crops.
+ArcFace_reid_rate,yes,ArcFace rank-1 re-identification rate over detected face crops.
+runtime_mean,yes,Mean per-frame runtime where available.
+runtime_total,yes,Total runtime where available.
+privacy_rank,yes,Rank derived from privacy metric after all comparable rows are present.
+utility_rank,yes,Rank derived from utility metric after all comparable rows are present.
+practical_fallback_rank,yes,Practical deployment fallback rank.
+privacy_first_fallback_rank,yes,Privacy-first fallback rank.
+evidence_level,yes,Use confirmatory only after full 500-frame outputs and metrics exist.
+limitation,yes,Bounded wording for missing or weak evidence.
+report_safe_claim,yes,Strict claim allowed in the report.

@@ -1,0 +1,11 @@
+artifact,required,path_pattern,notes
+all_method_comparison,yes,outputs/03_anonymisation/01_all_methods_comparison.csv,Canonical aggregate comparison for every evaluated or considered anonymisation method; distinct detailed manifests remain under method-specific directories.
+stronger_baseline_outputs,yes,outputs/03_anonymisation/02_deterministic_baselines/{method}/{relative_path},Five hundred retained outputs for each stronger deterministic baseline.
+nullface_outputs,yes,outputs/03_anonymisation/03_nullface/images/{relative_path},Five hundred retained NullFace outputs.
+nullface_manifest,yes,outputs/03_anonymisation/03_nullface/01_nullface_full_500_manifest.csv,Final per-frame NullFace output accounting.
+diffusion_outputs,yes,outputs/03_anonymisation/04_diffusion/images/{relative_path},Five hundred retained diffusion outputs.
+diffusion_manifest,yes,outputs/03_anonymisation/04_diffusion/01_diffusion_manifest_full_500.csv,Final per-frame diffusion output and runtime accounting.
+reverse_personalization_outputs,bounded,outputs/03_anonymisation/05_reverse_personalization/images/{relative_path},Four hundred and eighty-two retained outputs; eighteen persistent failures are explicit.
+reverse_personalization_manifest,yes,outputs/03_anonymisation/05_reverse_personalization/01_rp_final_manifest.csv,Final retry-closed output and failure accounting.
+reverse_personalization_failure_log,yes,outputs/03_anonymisation/05_reverse_personalization/05_rp_final_failure_log.csv,Eighteen persistent failures after targeted retry.
+metric_table,yes,outputs/03_anonymisation/01_all_methods_comparison.csv,Canonical seven-method comparison.
