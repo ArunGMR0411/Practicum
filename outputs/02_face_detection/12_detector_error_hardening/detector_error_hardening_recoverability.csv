@@ -1,0 +1,3 @@
+candidate_pool,current_false_negatives,recoverable_iou_0_5,recoverable_iou_0_4,recoverable_iou_0_3
+raw_pool,223,105,129,142
+raw_plus_fusions_plus_current,223,105,129,142

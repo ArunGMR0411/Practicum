@@ -1,0 +1,43 @@
+label,source,fold,train_f2,threshold,reason
+no_face,base_final_hybrid,all,,,base final hybrid remained strongest or safest
+single_face,logreg,1,1.0,0.375,fixed evidence-derived per-label telemetry model
+single_face,logreg,2,1.0,0.425,fixed evidence-derived per-label telemetry model
+single_face,logreg,3,1.0,0.45,fixed evidence-derived per-label telemetry model
+single_face,logreg,4,1.0,0.475,fixed evidence-derived per-label telemetry model
+single_face,logreg,5,1.0,0.4,fixed evidence-derived per-label telemetry model
+multi_face,base_final_hybrid,all,,,base final hybrid remained strongest or safest
+small_face,multiclass_scale_layer,all,,,scale labels handled by the fold-safe multiclass scale layer
+medium_face,multiclass_scale_layer,all,,,scale labels handled by the fold-safe multiclass scale layer
+large_face,multiclass_scale_layer,all,,,scale labels handled by the fold-safe multiclass scale layer
+mixed_scale_face,multiclass_scale_layer,all,,,scale labels handled by the fold-safe multiclass scale layer
+very_small_or_distant_face,multiclass_scale_layer,all,,,scale labels handled by the fold-safe multiclass scale layer
+edge_or_partial_face,rf_detector_telemetry,1,0.994798,0.45,fixed evidence-derived per-label telemetry model
+edge_or_partial_face,rf_detector_telemetry,2,1.0,0.45,fixed evidence-derived per-label telemetry model
+edge_or_partial_face,rf_detector_telemetry,3,0.994798,0.45,fixed evidence-derived per-label telemetry model
+edge_or_partial_face,rf_detector_telemetry,4,0.994832,0.4,fixed evidence-derived per-label telemetry model
+edge_or_partial_face,rf_detector_telemetry,5,0.994832,0.4,fixed evidence-derived per-label telemetry model
+profile_or_occluded_face,rf_detector_telemetry,1,0.991484,0.425,fixed evidence-derived per-label telemetry model
+profile_or_occluded_face,rf_detector_telemetry,2,0.995146,0.5,fixed evidence-derived per-label telemetry model
+profile_or_occluded_face,rf_detector_telemetry,3,0.993939,0.475,fixed evidence-derived per-label telemetry model
+profile_or_occluded_face,rf_detector_telemetry,4,1.0,0.425,fixed evidence-derived per-label telemetry model
+profile_or_occluded_face,rf_detector_telemetry,5,0.995146,0.5,fixed evidence-derived per-label telemetry model
+downward_egocentric_view,gb_detector_telemetry,1,0.988858,0.475,fixed evidence-derived per-label telemetry model
+downward_egocentric_view,gb_detector_telemetry,2,0.994398,0.225,fixed evidence-derived per-label telemetry model
+downward_egocentric_view,gb_detector_telemetry,3,0.988858,0.275,fixed evidence-derived per-label telemetry model
+downward_egocentric_view,gb_detector_telemetry,4,0.986111,0.25,fixed evidence-derived per-label telemetry model
+downward_egocentric_view,gb_detector_telemetry,5,0.986111,0.225,fixed evidence-derived per-label telemetry model
+motion_blur_or_low_sharpness,histgb_detector_telemetry,1,1.0,0.25,fixed evidence-derived per-label telemetry model
+motion_blur_or_low_sharpness,histgb_detector_telemetry,2,1.0,0.275,fixed evidence-derived per-label telemetry model
+motion_blur_or_low_sharpness,histgb_detector_telemetry,3,1.0,0.325,fixed evidence-derived per-label telemetry model
+motion_blur_or_low_sharpness,histgb_detector_telemetry,4,1.0,0.275,fixed evidence-derived per-label telemetry model
+motion_blur_or_low_sharpness,histgb_detector_telemetry,5,1.0,0.325,fixed evidence-derived per-label telemetry model
+low_light_or_dim,logreg,1,0.997506,0.625,fixed evidence-derived per-label telemetry model
+low_light_or_dim,logreg,2,1.0,0.85,fixed evidence-derived per-label telemetry model
+low_light_or_dim,logreg,3,0.997475,0.55,fixed evidence-derived per-label telemetry model
+low_light_or_dim,logreg,4,1.0,0.55,fixed evidence-derived per-label telemetry model
+low_light_or_dim,logreg,5,1.0,0.8,fixed evidence-derived per-label telemetry model
+high_clutter,histgb_detector_telemetry,1,1.0,0.55,fixed evidence-derived per-label telemetry model
+high_clutter,histgb_detector_telemetry,2,1.0,0.475,fixed evidence-derived per-label telemetry model
+high_clutter,histgb_detector_telemetry,3,1.0,0.375,fixed evidence-derived per-label telemetry model
+high_clutter,histgb_detector_telemetry,4,1.0,0.5,fixed evidence-derived per-label telemetry model
+high_clutter,histgb_detector_telemetry,5,1.0,0.525,fixed evidence-derived per-label telemetry model

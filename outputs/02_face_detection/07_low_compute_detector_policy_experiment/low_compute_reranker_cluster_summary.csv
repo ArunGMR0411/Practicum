@@ -1,0 +1,2 @@
+clusters,positive_clusters,positive_rate,source_detectors,runtime_total_seconds
+2997,2419,0.80714,yolo11s_widerface_1280|scrfd_10g_current_640|yolo8s_widerface_repo_640|yolo11n_pose_widerface_640,495.934

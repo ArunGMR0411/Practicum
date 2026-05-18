@@ -1,0 +1,16 @@
+fold,threshold,train_clusters,test_clusters,positive_train_rate,positive_test_rate,reranker
+1,0.375,3409,853,0.580229,0.561547,cv_box_reranker_with_sliced_yolo_predicted_conditions
+2,0.4,3409,853,0.574362,0.584994,cv_box_reranker_with_sliced_yolo_predicted_conditions
+3,0.35,3410,852,0.5739,0.586854,cv_box_reranker_with_sliced_yolo_predicted_conditions
+4,0.45,3410,852,0.579765,0.56338,cv_box_reranker_with_sliced_yolo_predicted_conditions
+5,0.375,3410,852,0.574194,0.585681,cv_box_reranker_with_sliced_yolo_predicted_conditions
+1,0.375,2536,634,0.77642,0.774448,cv_box_reranker_with_rfdetr_predicted_conditions
+2,0.4,2536,634,0.778785,0.764984,cv_box_reranker_with_rfdetr_predicted_conditions
+3,0.525,2536,634,0.772476,0.790221,cv_box_reranker_with_rfdetr_predicted_conditions
+4,0.5,2536,634,0.775237,0.77918,cv_box_reranker_with_rfdetr_predicted_conditions
+5,0.425,2536,634,0.777208,0.771293,cv_box_reranker_with_rfdetr_predicted_conditions
+1,0.45,3537,885,0.563189,0.575141,cv_box_reranker_with_rfdetr_sliced_predicted_conditions
+2,0.375,3537,885,0.567147,0.559322,cv_box_reranker_with_rfdetr_sliced_predicted_conditions
+3,0.4,3538,884,0.566139,0.563348,cv_box_reranker_with_rfdetr_sliced_predicted_conditions
+4,0.35,3538,884,0.568966,0.552036,cv_box_reranker_with_rfdetr_sliced_predicted_conditions
+5,0.4,3538,884,0.562465,0.578054,cv_box_reranker_with_rfdetr_sliced_predicted_conditions

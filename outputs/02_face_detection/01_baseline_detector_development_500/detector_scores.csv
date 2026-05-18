@@ -1,0 +1,8 @@
+method,ground_truth_count
+dsfd,1324
+mtcnn,1324
+retinaface_mobilenet,1324
+scrfd,1324
+yolo_face_s,1324
+yolo_face_scrfd_fallback,1324
+yunet_2026,1324

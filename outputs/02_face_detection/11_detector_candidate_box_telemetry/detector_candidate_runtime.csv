@@ -1,0 +1,11 @@
+candidate,family,model_path,image_size,confidence,runtime_seconds,images,detections,failures,failure_examples,tile_size,overlap,tiles,load_optimize_seconds,peak_vram_mb
+yolo11s_widerface_1280,yolo,data/models/face_detection_candidates/yolo11s_widerface.pt,1280,0.25,107.715,1000,2589,0,[],,,,,
+scrfd_10g_current_640,scrfd,/home/arun-gmr/.insightface/models/buffalo_l/det_10g.onnx,640,0.25,82.317,1000,2384,0,[],,,,,
+yolo8s_widerface_repo_640,yolo,data/models/face_detection_candidates/yolov8s_widerface.pt,640,0.25,95.345,1000,2680,0,[],,,,,
+yolo11n_pose_widerface_640,yolo,data/models/face_detection_candidates/yolo11n-pose_widerface.pt,640,0.25,94.031,1000,2564,0,[],,,,,
+yolo11s_widerface_640,yolo,data/models/face_detection_candidates/yolo11s_widerface.pt,640,0.25,93.618,1000,2576,0,[],,,,,
+sliced_yolo11s_widerface_1280,sliced_yolo,data/models/face_detection_candidates/yolo11s_widerface.pt,,0.2,256.064,1000,3493,0,[],1280,320,8000,,
+rfdetr_medium_face_030,rfdetr,/home/arun-gmr/MSC_Projects/Practicum/data/models/face_detection_candidates/rfdetr_hf_cache/models--Herojayjay--RFDETR-Face-Detection/snapshots/597fcce941997900080ce8127b53a5d24e330225/rfdetr_medium_face.pth,,0.3,127.501,1000,2675,0,[],,,,1.899,877.3
+fusion_yolo11s1280_scrfd10g,fusion,yolo11s_widerface_1280+scrfd_10g_current_640,,0.22,,1000,2681,0,,,,,,
+fusion_yolo11s_scrfd10g,fusion,yolo11s_widerface_640+scrfd_10g_current_640,,0.22,,1000,2643,0,,,,,,
+fusion_rfdetr_scrfd10g,fusion,rfdetr_medium_face_030+scrfd_10g_current_640,,0.2,,1000,2749,0,,,,,,

@@ -1,0 +1,15 @@
+label,final_source,reason
+no_face,rule_hybrid,rule/SCR hybrid remained stronger or safer for this label
+single_face,rule_hybrid,rule/SCR hybrid remained stronger or safer for this label
+multi_face,rule_hybrid,rule/SCR hybrid remained stronger or safer for this label
+small_face,rule_hybrid,rule/SCR hybrid remained stronger or safer for this label
+medium_face,crop_conflict_cv,crop/conflict telemetry improved the measured Step 4 label result
+large_face,crop_conflict_cv,crop/conflict telemetry improved the measured Step 4 label result
+mixed_scale_face,crop_conflict_cv,crop/conflict telemetry improved the measured Step 4 label result
+very_small_or_distant_face,rule_hybrid,rule/SCR hybrid remained stronger or safer for this label
+edge_or_partial_face,crop_conflict_cv,crop/conflict telemetry improved the measured Step 4 label result
+profile_or_occluded_face,crop_conflict_cv,crop/conflict telemetry improved the measured Step 4 label result
+downward_egocentric_view,crop_conflict_cv,crop/conflict telemetry improved the measured Step 4 label result
+motion_blur_or_low_sharpness,rule_hybrid,rule/SCR hybrid remained stronger or safer for this label
+low_light_or_dim,rule_hybrid,rule/SCR hybrid remained stronger or safer for this label
+high_clutter,rule_hybrid,rule/SCR hybrid remained stronger or safer for this label

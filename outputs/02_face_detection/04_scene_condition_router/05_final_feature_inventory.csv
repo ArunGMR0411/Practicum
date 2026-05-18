@@ -1,0 +1,10 @@
+feature_set,feature_count
+current_best_handcrafted_yolo640,65
+yolo640_only,20
+yolo_multiscale_only,40
+scrfd_only,20
+detector_disagreement_only,16
+yolo_scrfd_disagreement,76
+handcrafted_yolo_multiscale,85
+handcrafted_scrfd,65
+handcrafted_yolo_scrfd_disagreement,121

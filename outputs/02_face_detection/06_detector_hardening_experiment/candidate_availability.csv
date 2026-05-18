@@ -1,0 +1,12 @@
+candidate,status,source,decision
+YOLO11Face yolo11s_widerface,RUNNABLE_5060,https://github.com/zjykzj/YOLO11Face/releases/tag/v1.0.0,Tested as Ultralytics WIDERFace detector.
+YOLO11Face yolo11n-pose_widerface,RUNNABLE_5060,https://github.com/zjykzj/YOLO11Face/releases/tag/v1.0.0,Tested because pose-trained face boxes may improve partial/profile cases.
+SCRFD current 10G InsightFace ONNX,RUNNABLE_5060,InsightFace buffalo_l/det_10g.onnx,Tested as the canonical SCRFD implementation.
+SCRFD HF ONNX 500M/1G/2.5G/34G mirrors,ATTEMPTED_NOT_PLUG_COMPATIBLE,https://huggingface.co/RuteNL/SCRFD-face-detection-ONNX,Attempted through existing InsightFace/SCRFD path; variants returned broadcast-shape errors and are excluded from ranking.
+RF-DETR face checkpoint,A100_OR_SEPARATE_SETUP_RECOMMENDED,https://huggingface.co/Herojayjay/RFDETR-Face-Detection,"Checkpoint exists, but requires RF-DETR runtime and is medium transformer detector; not pulled into tonight's 5060 run unless final fusion still underperforms."
+SFE-DETR,NOT_RUNNABLE_FROM_CLEAN_ASSET_SEARCH,repository/checkpoint not found in HF/GitHub search,Keep as literature candidate only until reproducible weights are identified.
+YOLOv12-face,NOT_RUNNABLE_FROM_CLEAN_ASSET_SEARCH,no clean WIDERFace face-specific weights found in HF/GitHub search,Do not include without reproducible face-trained weights.
+DSFD 1920,RUNNABLE_5060,installed face_detection package,Tested as a slower but feasible detector family; did not beat fusion overall.
+RetinaFace-MobileNet 1920,RUNNABLE_5060,installed face_detection package,Tested as a lightweight RetinaFace-family candidate; did not beat YOLO/SCRFD fusion.
+RetinaFace-ResNet50 1920,EXTERNAL_ASSET_FETCH_FAILED,installed face_detection package external checkpoint URL,Smoke test attempted; checkpoint fetch returned HTTP 502 and was excluded from ranking.
+YuNet 2026 1280,RUNNABLE_5060,data/models/face_detection_yunet_2026may.onnx,Tested as lightweight OpenCV Zoo detector; high recall but too many false positives for top ranking.

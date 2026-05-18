@@ -1,0 +1,22 @@
+{
+  "live_app_source_bank": [
+    "rfdetr_medium_face_030",
+    "yolo11s_widerface_1280",
+    "scrfd_10g_current_640"
+  ],
+  "n_sources": 3,
+  "best_model": "error_hardened_runtime_3_logreg_iou0_45",
+  "best_oapr_detector_score": 0.9183894309800691,
+  "best_precision": 0.9200307574009996,
+  "best_recall": 0.9179133103183736,
+  "best_f1": 0.9189708141321045,
+  "scientific_all_raw_7_source_score": 0.917165,
+  "scientific_policy_id": "error_hardened_all_raw_rf_iou0_45",
+  "app_runtime_policy_id": "runtime_3_source_all_raw_rf_approximation",
+  "app_runtime_model": "deploy_error_hardened_all_raw_rf_iou0_45.joblib",
+  "app_runtime_model_sha256": "98b6ef8180c30b82745c225857e78fd3330a8e15f2b6656fc5bd91b466b0767c",
+  "app_runtime_score": null,
+  "scientific_score_assigned_to_app_runtime": false,
+  "delta_vs_scientific": 0.00122443098006908,
+  "note": "The reported best three-source score belongs to a separately trained logistic-regression candidate, not the RF filter currently loaded by the App. The App therefore retains a bounded three-source approximation with no assigned numeric score. The thesis 0.917165 figure remains offline CV on the seven-source all_raw bank."
+}

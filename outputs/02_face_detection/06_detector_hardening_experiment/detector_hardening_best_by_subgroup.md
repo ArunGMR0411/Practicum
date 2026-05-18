@@ -1,0 +1,52 @@
+# Face Detector Hardening Best by Subgroup
+
+| Protocol | Subgroup | Best model | OAPR score | F1 | Precision | Recall | TP | FP | FN | Margin vs second |
+|---|---|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| 01_baseline_500 | all_images | fusion_yolo11s1280_scrfd10g_agreement | 0.8926 | 0.8989 | 0.9108 | 0.8874 | 1174 | 115 | 149 | 0.0033 |
+| 01_baseline_500 | downward_egocentric_view | fusion_yolo11s1280_scrfd10g_agreement | 0.8973 | 0.9083 | 0.9294 | 0.8881 | 619 | 47 | 78 | 0.0022 |
+| 01_baseline_500 | edge_or_partial_face | yolo11s_widerface_640 | 0.8856 | 0.9044 | 0.9421 | 0.8696 | 667 | 41 | 100 | 0.0006 |
+| 01_baseline_500 | high_clutter | fusion_yolo11s1280_scrfd10g_agreement | 0.9200 | 0.9236 | 0.9304 | 0.9170 | 508 | 38 | 46 | 0.0054 |
+| 01_baseline_500 | large_face | scrfd_10g_current_640 | 0.7135 | 0.7826 | 1.0000 | 0.6429 | 9 | 0 | 5 | 0.0182 |
+| 01_baseline_500 | low_light_or_dim | yolo11n_pose_widerface_640 | 0.8884 | 0.8948 | 0.9070 | 0.8830 | 234 | 24 | 31 | 0.0067 |
+| 01_baseline_500 | medium_face | yolo11s_widerface_640 | 0.9140 | 0.9245 | 0.9444 | 0.9053 | 153 | 9 | 16 | 0.0063 |
+| 01_baseline_500 | mixed_scale_face | dsfd_1920 | 0.8929 | 0.9087 | 0.9397 | 0.8796 | 592 | 38 | 81 | 0.0133 |
+| 01_baseline_500 | motion_blur_or_low_sharpness | fusion_yolo8s_yolo11s_scrfd10g_agreement | 0.8012 | 0.8108 | 0.8291 | 0.7933 | 165 | 34 | 43 | 0.0003 |
+| 01_baseline_500 | multi_face | fusion_yolo11s1280_scrfd10g_agreement | 0.9054 | 0.9139 | 0.9299 | 0.8984 | 1114 | 84 | 126 | 0.0056 |
+| 01_baseline_500 | no_face | scrfd_10g_current_640 | 0.9854 | 0.0000 | 0.0000 | 0.0000 | 0 | 2 | 0 | 0.0292 |
+| 01_baseline_500 | outdoor_or_vehicle_scene | yolo8s_lindevs_640 | 1.0000 | 1.0000 | 1.0000 | 1.0000 | 9 | 0 | 0 | 0.0000 |
+| 01_baseline_500 | profile_or_occluded_face | yolo8s_lindevs_640 | 1.0000 | 0.0000 | 0.0000 | 0.0000 | 0 | 0 | 0 | 0.0000 |
+| 01_baseline_500 | single_face | fusion_yolo11s_scrfd10g_agreement | 0.7492 | 0.7792 | 0.8451 | 0.7229 | 60 | 11 | 23 | 0.0024 |
+| 01_baseline_500 | small_face | fusion_yolo11s1280_scrfd10g_agreement | 0.9382 | 0.9356 | 0.9308 | 0.9404 | 363 | 27 | 23 | 0.0083 |
+| 01_baseline_500 | very_small_or_distant_face | yolo11s_widerface_1280 | 0.8815 | 0.8875 | 0.8987 | 0.8765 | 71 | 8 | 10 | 0.0074 |
+| 02_egocentric_stress_500 | all_images | scrfd_10g_current_640 | 0.9262 | 0.9357 | 0.9539 | 0.9182 | 1179 | 57 | 105 | 0.0032 |
+| 02_egocentric_stress_500 | downward_egocentric_view | yolo8s_lindevs_640 | 0.0000 | 0.0000 | 0.0000 | 0.0000 | 0 | 17 | 1 | 0.0000 |
+| 02_egocentric_stress_500 | edge_or_partial_face | fusion_yolo11s_scrfd10g_agreement | 0.9272 | 0.9204 | 0.9083 | 0.9328 | 763 | 77 | 55 | 0.0010 |
+| 02_egocentric_stress_500 | high_clutter | fusion_yolo11s_scrfd10g_agreement | 0.9407 | 0.9251 | 0.8987 | 0.9532 | 550 | 62 | 27 | 0.0013 |
+| 02_egocentric_stress_500 | large_face | yolo11n_pose_widerface_640 | 0.8765 | 0.9043 | 0.9630 | 0.8525 | 52 | 2 | 9 | 0.0073 |
+| 02_egocentric_stress_500 | low_light_or_dim | yolo11n_pose_widerface_640 | 0.8765 | 0.8753 | 0.8732 | 0.8775 | 179 | 26 | 25 | 0.0019 |
+| 02_egocentric_stress_500 | medium_face | fusion_yolo11s1280_scrfd10g_agreement | 0.9401 | 0.9312 | 0.9156 | 0.9473 | 521 | 48 | 29 | 0.0025 |
+| 02_egocentric_stress_500 | mixed_scale_face | scrfd_10g_current_640 | 0.9240 | 0.9383 | 0.9661 | 0.9120 | 228 | 8 | 22 | 0.0008 |
+| 02_egocentric_stress_500 | motion_blur_or_low_sharpness | scrfd_10g_current_640 | 0.8771 | 0.8810 | 0.8880 | 0.8740 | 111 | 14 | 16 | 0.0086 |
+| 02_egocentric_stress_500 | multi_face | fusion_yolo11s1280_scrfd10g_agreement | 0.9349 | 0.9220 | 0.8998 | 0.9453 | 1140 | 127 | 66 | 0.0001 |
+| 02_egocentric_stress_500 | no_face | scrfd_10g_current_640 | 0.9521 | 0.0000 | 0.0000 | 0.0000 | 0 | 10 | 0 | 0.0890 |
+| 02_egocentric_stress_500 | outdoor_or_vehicle_scene | yolo8s_lindevs_640 | 0.9522 | 0.8889 | 0.8000 | 1.0000 | 4 | 1 | 0 | 0.0000 |
+| 02_egocentric_stress_500 | profile_or_occluded_face | fusion_yolo11s_scrfd10g_agreement | 0.9313 | 0.9225 | 0.9070 | 0.9385 | 809 | 83 | 53 | 0.0025 |
+| 02_egocentric_stress_500 | single_face | scrfd_10g_current_640 | 0.8433 | 0.8553 | 0.8784 | 0.8333 | 65 | 9 | 13 | 0.0170 |
+| 02_egocentric_stress_500 | small_face | scrfd_10g_current_640 | 0.9333 | 0.9358 | 0.9404 | 0.9312 | 379 | 24 | 28 | 0.0060 |
+| 02_egocentric_stress_500 | very_small_or_distant_face | yolo8s_widerface_repo_640 | 0.9865 | 0.9697 | 0.9412 | 1.0000 | 16 | 1 | 0 | 0.0845 |
+| combined_1000 | all_images | fusion_yolo11s1280_scrfd10g_agreement | 0.9072 | 0.9002 | 0.8877 | 0.9129 | 2380 | 301 | 227 | 0.0017 |
+| combined_1000 | downward_egocentric_view | fusion_yolo11s1280_scrfd10g_agreement | 0.8918 | 0.8978 | 0.9090 | 0.8868 | 619 | 62 | 79 | 0.0019 |
+| combined_1000 | edge_or_partial_face | fusion_yolo11s1280_scrfd10g_agreement | 0.9063 | 0.9074 | 0.9094 | 0.9054 | 1435 | 143 | 150 | 0.0004 |
+| combined_1000 | high_clutter | fusion_yolo11s1280_scrfd10g_agreement | 0.9298 | 0.9205 | 0.9044 | 0.9372 | 1060 | 112 | 71 | 0.0035 |
+| combined_1000 | large_face | yolo11n_pose_widerface_640 | 0.8434 | 0.8777 | 0.9531 | 0.8133 | 61 | 3 | 14 | 0.0060 |
+| combined_1000 | low_light_or_dim | yolo11n_pose_widerface_640 | 0.8832 | 0.8863 | 0.8920 | 0.8806 | 413 | 50 | 56 | 0.0049 |
+| combined_1000 | medium_face | fusion_yolo11s_scrfd10g_agreement | 0.9306 | 0.9238 | 0.9119 | 0.9360 | 673 | 65 | 46 | 0.0033 |
+| combined_1000 | mixed_scale_face | fusion_yolo11s1280_scrfd10g_agreement | 0.8901 | 0.8999 | 0.9187 | 0.8819 | 814 | 72 | 109 | 0.0003 |
+| combined_1000 | motion_blur_or_low_sharpness | yolo8s_widerface_repo_640 | 0.8230 | 0.8290 | 0.8405 | 0.8179 | 274 | 52 | 61 | 0.0000 |
+| combined_1000 | multi_face | fusion_yolo11s1280_scrfd10g_agreement | 0.9199 | 0.9179 | 0.9144 | 0.9215 | 2254 | 211 | 192 | 0.0031 |
+| combined_1000 | no_face | scrfd_10g_current_640 | 0.9682 | 0.0000 | 0.0000 | 0.0000 | 0 | 12 | 0 | 0.0636 |
+| combined_1000 | outdoor_or_vehicle_scene | yolo8s_lindevs_640 | 0.9836 | 0.9630 | 0.9286 | 1.0000 | 13 | 1 | 0 | 0.0000 |
+| combined_1000 | profile_or_occluded_face | fusion_yolo11s_scrfd10g_agreement | 0.9313 | 0.9225 | 0.9070 | 0.9385 | 809 | 83 | 53 | 0.0025 |
+| combined_1000 | single_face | yolo8s_widerface_repo_640 | 0.7824 | 0.7744 | 0.7605 | 0.7888 | 127 | 40 | 34 | 0.0030 |
+| combined_1000 | small_face | fusion_yolo11s1280_scrfd10g_agreement | 0.9320 | 0.9146 | 0.8855 | 0.9458 | 750 | 97 | 43 | 0.0043 |
+| combined_1000 | very_small_or_distant_face | fusion_yolo11s1280_scrfd10g_agreement | 0.8729 | 0.8557 | 0.8269 | 0.8866 | 86 | 18 | 11 | 0.0026 |

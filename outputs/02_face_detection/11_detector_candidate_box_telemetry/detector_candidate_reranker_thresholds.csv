@@ -1,0 +1,6 @@
+fold,threshold,train_clusters,test_clusters,positive_train_rate,positive_test_rate,reranker
+1,0.375,2536,634,0.77642,0.774448,cv_box_reranker_with_rfdetr_predicted_conditions
+2,0.4,2536,634,0.778785,0.764984,cv_box_reranker_with_rfdetr_predicted_conditions
+3,0.525,2536,634,0.772476,0.790221,cv_box_reranker_with_rfdetr_predicted_conditions
+4,0.5,2536,634,0.775237,0.77918,cv_box_reranker_with_rfdetr_predicted_conditions
+5,0.425,2536,634,0.777208,0.771293,cv_box_reranker_with_rfdetr_predicted_conditions

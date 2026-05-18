@@ -1,0 +1,8 @@
+candidate,family,model_path,image_size,confidence,runtime_seconds,images,detections,failures,failure_examples
+yolo11s_widerface_1280,yolo,data/models/face_detection_candidates/yolo11s_widerface.pt,1280,0.25,104.42,1000,2589,0,[]
+scrfd_10g_current_640,scrfd,/home/arun-gmr/.insightface/models/buffalo_l/det_10g.onnx,640,0.25,75.701,1000,2384,0,[]
+yolo8s_widerface_repo_640,yolo,data/models/face_detection_candidates/yolov8s_widerface.pt,640,0.25,96.217,1000,2680,0,[]
+yolo11n_pose_widerface_640,yolo,data/models/face_detection_candidates/yolo11n-pose_widerface.pt,640,0.25,99.335,1000,2564,0,[]
+yolo11s_widerface_640,yolo,data/models/face_detection_candidates/yolo11s_widerface.pt,640,0.25,98.805,1000,2576,0,[]
+fusion_yolo11s1280_scrfd10g_agreement,fusion,yolo11s_widerface_1280+scrfd_10g_current_640,,0.22,,1000,2681,0,
+fusion_yolo11s_scrfd10g_agreement,fusion,yolo11s_widerface_640+scrfd_10g_current_640,,0.22,,1000,2643,0,

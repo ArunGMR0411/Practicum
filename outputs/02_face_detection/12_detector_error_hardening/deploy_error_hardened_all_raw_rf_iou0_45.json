@@ -1,0 +1,19 @@
+{
+  "threshold": 0.37,
+  "source_names": [
+    "yolo11s_widerface_1280",
+    "scrfd_10g_current_640",
+    "yolo8s_widerface_repo_640",
+    "yolo11n_pose_widerface_640",
+    "yolo11s_widerface_640",
+    "sliced_yolo11s_widerface_1280",
+    "rfdetr_medium_face_030"
+  ],
+  "cluster_iou": 0.45,
+  "policy_id": "error_hardened_all_raw_rf_iou0_45",
+  "feature_recipe": "geometry_plus_source_scores",
+  "offline_cv_exploratory_score": 0.917165,
+  "n_clusters": 4350,
+  "positive_rate": 0.5685057471264368,
+  "note": "Runtime deploy model (geometry+source features). Thesis score 0.9172 is fold-safe CV OOF from the full hardening experiment."
+}

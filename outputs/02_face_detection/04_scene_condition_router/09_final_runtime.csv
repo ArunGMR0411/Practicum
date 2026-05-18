@@ -1,0 +1,7 @@
+step,rows,device,seconds
+input_rows,1000.0,cuda,
+handcrafted_features,,,40.166
+yolo640_telemetry,,cuda,86.043
+yolo1280_telemetry,,cuda,89.786
+scrfd_telemetry,,cuda,77.693
+total,,,299.134

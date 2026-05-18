@@ -1,0 +1,3 @@
+protocol,manifest_path,rows,unique_images,manual_reviewed_rows,category_reviewed_rows,manual_face_boxes
+baseline_500,outputs/01_protocol/annotations/face_detection/01_baseline_500/manifest.csv,500,500,500,500,1323
+egocentric_stress_500,outputs/01_protocol/annotations/face_detection/02_egocentric_stress_500/manifest.csv,500,500,500,500,1284

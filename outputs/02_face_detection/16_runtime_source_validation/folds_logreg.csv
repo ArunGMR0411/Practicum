@@ -1,0 +1,6 @@
+method,fold,threshold,train_clusters,test_clusters,positive_train_rate,positive_test_rate,train_oapr_detector_score
+error_hardened_runtime_3_logreg_iou0_45,1,0.51,2308,577,0.842721,0.845754,0.924561
+error_hardened_runtime_3_logreg_iou0_45,2,0.34,2308,577,0.840121,0.856153,0.925497
+error_hardened_runtime_3_logreg_iou0_45,3,0.34,2308,577,0.839688,0.857886,0.922382
+error_hardened_runtime_3_logreg_iou0_45,4,0.33,2308,577,0.844021,0.840555,0.929051
+error_hardened_runtime_3_logreg_iou0_45,5,0.49,2308,577,0.850087,0.816291,0.928449
