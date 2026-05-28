@@ -1,0 +1,2 @@
+method,n_input_frames,n_success,n_failure,face_crops,SSIM_mean,LPIPS_mean,AdaFace_cosine_mean,AdaFace_reid_rate,ArcFace_cosine_mean,ArcFace_reid_rate,runtime_mean_seconds,runtime_total_seconds,peak_vram_gib,gpu_name,metric_scope
+riddle,500,500,0,1279,0.9832117143010125,0.019088031155522912,0.0961068868637085,0.003909304143862392,0.09620065242052078,0.001563721657544957,0.4904276276300002,245.2138138150001,49.85779714584351,cuda_accelerator_80gb,reviewed_500_frames_full_resolution_1279_face_protocol

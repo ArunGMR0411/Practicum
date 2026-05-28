@@ -1,0 +1,2 @@
+policy,input_frames,successful_frames,generative_routes,actual_privacy_score,actual_utility_score,actual_runtime_score,actual_success_score,actual_objective_score
+visual_safe_adaptive_policy,500,500,0,0.9904952380952381,0.8913986777819932,0.9349894504,1.0,0.9561661674222169

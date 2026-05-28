@@ -1,0 +1,2 @@
+method,input_frames,successful_frames,failed_frames,face_boxes,fake_pool_size,epochs,id_margin,total_runtime_seconds,mean_runtime_seconds,peak_vram_gib,gpu_name
+falco,500,500,0,1279,60000,50,0.0,8311.534580237,16.623069160474,47.74036264419556,cuda_accelerator_80gb

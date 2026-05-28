@@ -1,0 +1,11 @@
+{
+  "frames": 500,
+  "ok": 500,
+  "error": 0,
+  "shards": 5,
+  "wall_runtime_seconds": 478,
+  "per_frame_runtime_mean_seconds": 2.29643385,
+  "per_frame_runtime_median_seconds": 1.6439145,
+  "face_processed_rows": 354,
+  "total_boxes_processed": 1279
+}

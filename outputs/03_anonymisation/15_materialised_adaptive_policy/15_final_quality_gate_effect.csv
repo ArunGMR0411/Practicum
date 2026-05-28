@@ -1,0 +1,2 @@
+review_sample_size,initial_riddle_artifacts,grouped_validation_artifacts_detected,grouped_validation_artifacts_missed,full_fit_known_artifacts_flagged,known_grouped_misses_flagged_by_final_gate,grouped_validation_plausible_outputs_flagged,estimated_unseen_participant_miss_rate,validation_fallback_rate,interpretation
+100,14,11,3,14,3,14,0.03,0.25,"participant-grouped generalisation estimate; all three grouped misses were flagged by the final full-fit gate, but independent review is still required"

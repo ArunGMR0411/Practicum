@@ -1,0 +1,28 @@
+{
+  "mode": "dry_run_retained_outputs",
+  "policy": "privacy_verifying_cascade",
+  "n_frames": 500,
+  "mean_score": 0.9008627325591113,
+  "mean_privacy": 0.9951111111111111,
+  "mean_utility": 0.7150018950234929,
+  "method_distribution": {
+    "blur": 159,
+    "no_action_copy": 133,
+    "pixelate": 84,
+    "layered_blur_downscale_noise": 42,
+    "solid_mask_black": 36,
+    "diffusion_low_step": 35,
+    "nullface": 11
+  },
+  "published_summary_score": 0.9008627325591112,
+  "expected_score_reference": 0.9008627325591113,
+  "score_matches_published": true,
+  "paired_gain_vs_layered": 0.0110738191338517,
+  "paired_gain_ci_95": [
+    0.0086086352881284,
+    0.0138192334830471
+  ],
+  "evidence_type": "simulation_evidence_executed_dry_run",
+  "source_routes": "outputs/03_anonymisation/11_policy_hardening/05_final_policy_routes.csv",
+  "note": "Dry-run reconstructs the cascaded privacy-verifying policy from retained per-frame routes/metrics without re-running generative anonymisers. This is an executed script over retained artefacts, not a claim of sequential live generative re-materialisation."
+}

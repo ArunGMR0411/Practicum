@@ -1,0 +1,3017 @@
+{
+  "summary": {
+    "adaptive_artifact_gated_policy": {
+      "ssim_mean": 0.9856111260419859,
+      "ssim_std": 0.010705500738051734,
+      "lpips_mean": 0.017363967153709383,
+      "lpips_std": 0.014390265296213742,
+      "sample_count": 500,
+      "evaluation_resolution": "3840x2160",
+      "lpips_device": "cuda",
+      "lpips_batch_size": 1,
+      "lpips_peak_vram_gib": 2.0261054039001465
+    }
+  },
+  "detailed": [
+    {
+      "relative_path": "day1/members/klaus/09_0114.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9691815157403102,
+      "lpips": 0.033049874007701874
+    },
+    {
+      "relative_path": "day1/members/klaus/09_0268.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9763689864977668,
+      "lpips": 0.03070399910211563
+    },
+    {
+      "relative_path": "day1/members/klaus/10_0063.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9667697785586195,
+      "lpips": 0.058962900191545486
+    },
+    {
+      "relative_path": "day1/members/klaus/10_0589.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9798832927962647,
+      "lpips": 0.025496793910861015
+    },
+    {
+      "relative_path": "day1/members/klaus/11_0523.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9828434731678014,
+      "lpips": 0.017142614349722862
+    },
+    {
+      "relative_path": "day1/members/klaus/12_0400.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/klaus/12_0632.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9880400002765688,
+      "lpips": 0.011795416474342346
+    },
+    {
+      "relative_path": "day1/members/klaus/15_0547.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/klaus/16_0531.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.983972358072298,
+      "lpips": 0.02768949791789055
+    },
+    {
+      "relative_path": "day1/members/klaus/17_0002.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9725899525772329,
+      "lpips": 0.04355749487876892
+    },
+    {
+      "relative_path": "day1/members/klaus/17_0206.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.980518903332821,
+      "lpips": 0.032641831785440445
+    },
+    {
+      "relative_path": "day1/members/klaus/17_0521.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9804956745485957,
+      "lpips": 0.025685429573059082
+    },
+    {
+      "relative_path": "day1/members/werner/08_0280.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9837566492126572,
+      "lpips": 0.022363830357789993
+    },
+    {
+      "relative_path": "day1/members/werner/10_0429.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9843526428191591,
+      "lpips": 0.01290105190128088
+    },
+    {
+      "relative_path": "day1/members/werner/11_0515.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9894741646713606,
+      "lpips": 0.009434938430786133
+    },
+    {
+      "relative_path": "day1/members/werner/11_0547.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/werner/13_0365.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/werner/13_0606.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/werner/14_0048.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/werner/14_0080.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/werner/15_0198.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/werner/15_0199.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/werner/15_0312.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/werner/17_0457.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/werner/18_0011.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9749126386841193,
+      "lpips": 0.028988681733608246
+    },
+    {
+      "relative_path": "day1/members/werner/18_0148.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.978630071994845,
+      "lpips": 0.02389002963900566
+    },
+    {
+      "relative_path": "day1/members/werner/18_0484.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9787392715122287,
+      "lpips": 0.024544071406126022
+    },
+    {
+      "relative_path": "day1/members/werner/19_0255.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9875062906492338,
+      "lpips": 0.016834959387779236
+    },
+    {
+      "relative_path": "day1/members/werner/19_0438.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9747239440376,
+      "lpips": 0.02483106590807438
+    },
+    {
+      "relative_path": "day2/members/klaus/10_0219.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9841026444634391,
+      "lpips": 0.017520669847726822
+    },
+    {
+      "relative_path": "day2/members/klaus/10_0464.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.963501386321964,
+      "lpips": 0.057123079895973206
+    },
+    {
+      "relative_path": "day2/members/klaus/10_0629.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9783469235715524,
+      "lpips": 0.017720146104693413
+    },
+    {
+      "relative_path": "day2/members/klaus/12_0153.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/klaus/12_0264.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/klaus/12_0531.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/klaus/13_0148.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9723401763797139,
+      "lpips": 0.03677394241094589
+    },
+    {
+      "relative_path": "day2/members/klaus/13_0331.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9713362448839873,
+      "lpips": 0.041536763310432434
+    },
+    {
+      "relative_path": "day2/members/klaus/15_0590.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/klaus/18_0506.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9822968856054447,
+      "lpips": 0.01911800727248192
+    },
+    {
+      "relative_path": "day2/members/klaus/18_0601.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9848696830189482,
+      "lpips": 0.012751022353768349
+    },
+    {
+      "relative_path": "day2/members/klaus/18_0665.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9837907826678922,
+      "lpips": 0.015191624872386456
+    },
+    {
+      "relative_path": "day2/members/klaus/19_0493.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9772361645331213,
+      "lpips": 0.022961553186178207
+    },
+    {
+      "relative_path": "day2/members/werner/10_0252.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9772250031639098,
+      "lpips": 0.04209142178297043
+    },
+    {
+      "relative_path": "day2/members/werner/12_0480.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9773765497829743,
+      "lpips": 0.027152761816978455
+    },
+    {
+      "relative_path": "day2/members/werner/13_0432.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/werner/13_0648.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/werner/13_0683.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/werner/14_0229.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9850273714304322,
+      "lpips": 0.012393264099955559
+    },
+    {
+      "relative_path": "day2/members/werner/15_0625.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9847617033474844,
+      "lpips": 0.015211166813969612
+    },
+    {
+      "relative_path": "day2/members/werner/16_0476.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/werner/17_0039.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/werner/17_0115.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9854865324486225,
+      "lpips": 0.01297291275113821
+    },
+    {
+      "relative_path": "day2/members/werner/18_0289.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/werner/19_0608.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9854795906959319,
+      "lpips": 0.01843258924782276
+    },
+    {
+      "relative_path": "day2/members/werner/20_0007.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9705832133949902,
+      "lpips": 0.03470303863286972
+    },
+    {
+      "relative_path": "day2/members/werner/20_0389.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/werner/20_0424.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9766226815491889,
+      "lpips": 0.024268627166748047
+    },
+    {
+      "relative_path": "day2/members/werner/20_0620.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.992123980789782,
+      "lpips": 0.0063505470752716064
+    },
+    {
+      "relative_path": "day3/members/klaus/08_0380.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9813048708801261,
+      "lpips": 0.018253285437822342
+    },
+    {
+      "relative_path": "day3/members/klaus/09_0194.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9863024629020168,
+      "lpips": 0.0082636047154665
+    },
+    {
+      "relative_path": "day3/members/klaus/11_0207.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/klaus/12_0480.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/klaus/12_0484.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/klaus/13_0098.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/klaus/15_0375.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/klaus/17_0530.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/klaus/18_0283.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9719809889942365,
+      "lpips": 0.03802324831485748
+    },
+    {
+      "relative_path": "day3/members/klaus/18_0613.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9741599838849115,
+      "lpips": 0.023234287276864052
+    },
+    {
+      "relative_path": "day3/members/klaus/19_0688.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/klaus/19_0704.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9897391389607505,
+      "lpips": 0.01150946132838726
+    },
+    {
+      "relative_path": "day3/members/klaus/20_0128.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9874937673689447,
+      "lpips": 0.016121407970786095
+    },
+    {
+      "relative_path": "day3/members/werner/08_0498.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9915461892129388,
+      "lpips": 0.006873353384435177
+    },
+    {
+      "relative_path": "day3/members/werner/08_0594.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.98463702855081,
+      "lpips": 0.014095064252614975
+    },
+    {
+      "relative_path": "day3/members/werner/08_0619.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9825892246630493,
+      "lpips": 0.014949721284210682
+    },
+    {
+      "relative_path": "day3/members/werner/08_0688.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9857837388859826,
+      "lpips": 0.014988787472248077
+    },
+    {
+      "relative_path": "day3/members/werner/10_0468.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9853532040252975,
+      "lpips": 0.010150310583412647
+    },
+    {
+      "relative_path": "day3/members/werner/10_0493.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9888944664068565,
+      "lpips": 0.010554536245763302
+    },
+    {
+      "relative_path": "day3/members/werner/12_0583.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/werner/16_0328.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9876018352276459,
+      "lpips": 0.014285044744610786
+    },
+    {
+      "relative_path": "day3/members/werner/17_0005.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9871114724631639,
+      "lpips": 0.016680579632520676
+    },
+    {
+      "relative_path": "day3/members/werner/17_0301.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9813711255567951,
+      "lpips": 0.018329450860619545
+    },
+    {
+      "relative_path": "day3/members/werner/19_0360.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9892765171288184,
+      "lpips": 0.012427672743797302
+    },
+    {
+      "relative_path": "day3/members/werner/20_0141.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9897052694916949,
+      "lpips": 0.01341315172612667
+    },
+    {
+      "relative_path": "day4/members/klaus/08_0554.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day4/members/klaus/09_0320.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9886798745486226,
+      "lpips": 0.013363097794353962
+    },
+    {
+      "relative_path": "day4/members/klaus/11_0401.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.983562493499849,
+      "lpips": 0.01884009689092636
+    },
+    {
+      "relative_path": "day4/members/klaus/12_0118.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.977581752432365,
+      "lpips": 0.030393600463867188
+    },
+    {
+      "relative_path": "day4/members/klaus/12_0644.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9713530272034379,
+      "lpips": 0.031116507947444916
+    },
+    {
+      "relative_path": "day4/members/klaus/13_0393.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9745192077032202,
+      "lpips": 0.023897215723991394
+    },
+    {
+      "relative_path": "day4/members/klaus/13_0503.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9776657979184523,
+      "lpips": 0.018611134961247444
+    },
+    {
+      "relative_path": "day4/members/klaus/14_0224.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9731736359403982,
+      "lpips": 0.030004454776644707
+    },
+    {
+      "relative_path": "day4/members/klaus/14_0702.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day4/members/werner/08_0208.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9895936029960716,
+      "lpips": 0.008855614811182022
+    },
+    {
+      "relative_path": "day4/members/werner/08_0337.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9871002037819941,
+      "lpips": 0.012662345543503761
+    },
+    {
+      "relative_path": "day4/members/werner/09_0017.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day4/members/werner/10_0441.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day4/members/werner/11_0358.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9785982427078238,
+      "lpips": 0.028533149510622025
+    },
+    {
+      "relative_path": "day4/members/werner/12_0528.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9862898244654191,
+      "lpips": 0.016568273305892944
+    },
+    {
+      "relative_path": "day4/members/werner/13_0537.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9797436260974991,
+      "lpips": 0.018620312213897705
+    },
+    {
+      "relative_path": "day4/members/werner/14_0045.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9807428325979352,
+      "lpips": 0.020273275673389435
+    },
+    {
+      "relative_path": "day4/members/werner/18_0362.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day4/members/werner/18_0672.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9802619928103894,
+      "lpips": 0.021431848406791687
+    },
+    {
+      "relative_path": "day1/members/florian/08_0341.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/florian/08_0717.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9711602828039005,
+      "lpips": 0.03390832617878914
+    },
+    {
+      "relative_path": "day1/members/florian/09_0596.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/florian/10_0419.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9775885439660548,
+      "lpips": 0.023579012602567673
+    },
+    {
+      "relative_path": "day1/members/florian/11_0210.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9867356770118384,
+      "lpips": 0.012648779898881912
+    },
+    {
+      "relative_path": "day1/members/florian/11_0219.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9758663037079386,
+      "lpips": 0.028047583997249603
+    },
+    {
+      "relative_path": "day1/members/florian/13_0133.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.985927839805952,
+      "lpips": 0.011366741731762886
+    },
+    {
+      "relative_path": "day1/members/florian/15_0199.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9738907032108939,
+      "lpips": 0.024443814530968666
+    },
+    {
+      "relative_path": "day1/members/florian/15_0647.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/florian/16_0525.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9870807149141404,
+      "lpips": 0.013408085331320763
+    },
+    {
+      "relative_path": "day1/members/florian/17_0649.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9765170288183679,
+      "lpips": 0.03512357920408249
+    },
+    {
+      "relative_path": "day1/members/florian/18_0042.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9764408416497306,
+      "lpips": 0.028614163398742676
+    },
+    {
+      "relative_path": "day1/members/florian/18_0275.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9773185480673056,
+      "lpips": 0.02929086610674858
+    },
+    {
+      "relative_path": "day1/members/florian/18_0328.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/florian/18_0375.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/florian/19_0244.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/florian/20_0151.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/stevan/08_0330.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/stevan/08_0631.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/stevan/10_0179.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9840528619421368,
+      "lpips": 0.018242623656988144
+    },
+    {
+      "relative_path": "day1/members/stevan/10_0250.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9814513871710319,
+      "lpips": 0.02126910164952278
+    },
+    {
+      "relative_path": "day1/members/stevan/11_0011.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9856916718760479,
+      "lpips": 0.013303117826581001
+    },
+    {
+      "relative_path": "day1/members/stevan/11_0456.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/stevan/17_0340.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9918845070438702,
+      "lpips": 0.013313121162354946
+    },
+    {
+      "relative_path": "day1/members/stevan/18_0014.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9797280794827584,
+      "lpips": 0.02305755764245987
+    },
+    {
+      "relative_path": "day1/members/stevan/18_0567.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9806961888025622,
+      "lpips": 0.02465919964015484
+    },
+    {
+      "relative_path": "day1/members/stevan/18_0597.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9824504800490801,
+      "lpips": 0.020644791424274445
+    },
+    {
+      "relative_path": "day1/members/stevan/18_0660.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/stevan/19_0205.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/florian/10_0103.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.984625289493335,
+      "lpips": 0.014973219484090805
+    },
+    {
+      "relative_path": "day2/members/florian/11_0279.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9787874665268559,
+      "lpips": 0.019767004996538162
+    },
+    {
+      "relative_path": "day2/members/florian/12_0020.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9910695405469839,
+      "lpips": 0.005240264348685741
+    },
+    {
+      "relative_path": "day2/members/florian/12_0418.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9893575408899583,
+      "lpips": 0.007662908639758825
+    },
+    {
+      "relative_path": "day2/members/florian/12_0439.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/florian/14_0042.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/florian/14_0293.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9654397223464709,
+      "lpips": 0.03722207248210907
+    },
+    {
+      "relative_path": "day2/members/florian/14_0303.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9737869880898717,
+      "lpips": 0.029384396970272064
+    },
+    {
+      "relative_path": "day2/members/florian/14_0324.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9474472745659469,
+      "lpips": 0.06267547607421875
+    },
+    {
+      "relative_path": "day2/members/florian/14_0672.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9811854015279313,
+      "lpips": 0.01969422958791256
+    },
+    {
+      "relative_path": "day2/members/florian/14_0717.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9816691370210369,
+      "lpips": 0.024751167744398117
+    },
+    {
+      "relative_path": "day2/members/florian/15_0006.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9921076890123605,
+      "lpips": 0.004468534141778946
+    },
+    {
+      "relative_path": "day2/members/florian/15_0118.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9814945479553164,
+      "lpips": 0.026224978268146515
+    },
+    {
+      "relative_path": "day2/members/florian/15_0395.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/florian/19_0363.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/stevan/09_0309.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/stevan/10_0281.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9907374082305528,
+      "lpips": 0.011344277299940586
+    },
+    {
+      "relative_path": "day2/members/stevan/11_0382.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9828866633394608,
+      "lpips": 0.02471100352704525
+    },
+    {
+      "relative_path": "day2/members/stevan/11_0452.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9679947350575494,
+      "lpips": 0.038099583238363266
+    },
+    {
+      "relative_path": "day2/members/stevan/11_0699.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9858626640764779,
+      "lpips": 0.02119346894323826
+    },
+    {
+      "relative_path": "day2/members/stevan/20_0706.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9882199891678646,
+      "lpips": 0.01725112274289131
+    },
+    {
+      "relative_path": "day3/members/florian/10_0402.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/florian/10_0693.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9861927968088914,
+      "lpips": 0.019536878913640976
+    },
+    {
+      "relative_path": "day3/members/florian/11_0647.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/florian/12_0302.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.990434554884143,
+      "lpips": 0.006635335739701986
+    },
+    {
+      "relative_path": "day3/members/florian/14_0452.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.985547099653017,
+      "lpips": 0.01347875501960516
+    },
+    {
+      "relative_path": "day3/members/florian/15_0318.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.981998059016936,
+      "lpips": 0.014776025898754597
+    },
+    {
+      "relative_path": "day3/members/florian/17_0490.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9737251549702187,
+      "lpips": 0.031232250854372978
+    },
+    {
+      "relative_path": "day3/members/florian/18_0329.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.968355862298734,
+      "lpips": 0.03463723510503769
+    },
+    {
+      "relative_path": "day3/members/florian/19_0086.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/florian/19_0198.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9892283110031502,
+      "lpips": 0.013043716549873352
+    },
+    {
+      "relative_path": "day3/members/florian/19_0282.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/florian/19_0349.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/florian/19_0684.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9899490052565375,
+      "lpips": 0.010960238054394722
+    },
+    {
+      "relative_path": "day3/members/florian/20_0281.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9746115800138608,
+      "lpips": 0.023268578574061394
+    },
+    {
+      "relative_path": "day3/members/florian/20_0698.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.979831829209258,
+      "lpips": 0.018480084836483
+    },
+    {
+      "relative_path": "day3/members/stevan/08_0717.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9877931154851592,
+      "lpips": 0.01428668200969696
+    },
+    {
+      "relative_path": "day3/members/stevan/09_0144.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9868037744481399,
+      "lpips": 0.013283121399581432
+    },
+    {
+      "relative_path": "day3/members/stevan/09_0286.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9856161071161388,
+      "lpips": 0.017572103068232536
+    },
+    {
+      "relative_path": "day3/members/stevan/10_0619.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/stevan/11_0119.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9779181344454969,
+      "lpips": 0.031699057668447495
+    },
+    {
+      "relative_path": "day3/members/stevan/13_0343.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9696437605886384,
+      "lpips": 0.037752337753772736
+    },
+    {
+      "relative_path": "day3/members/stevan/17_0661.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9746611463363207,
+      "lpips": 0.029182463884353638
+    },
+    {
+      "relative_path": "day3/members/stevan/18_0060.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9615096012348836,
+      "lpips": 0.06004153937101364
+    },
+    {
+      "relative_path": "day3/members/stevan/18_0537.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9765400174499433,
+      "lpips": 0.025708012282848358
+    },
+    {
+      "relative_path": "day3/members/stevan/20_0090.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/stevan/20_0527.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9850500451751122,
+      "lpips": 0.018634269014000893
+    },
+    {
+      "relative_path": "day3/members/stevan/20_0667.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9756101584912678,
+      "lpips": 0.031764399260282516
+    },
+    {
+      "relative_path": "day3/members/stevan/20_0682.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9775138192054271,
+      "lpips": 0.031950049102306366
+    },
+    {
+      "relative_path": "day4/members/florian/10_0112.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9778767761434447,
+      "lpips": 0.027966715395450592
+    },
+    {
+      "relative_path": "day4/members/florian/10_0427.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9823880346595439,
+      "lpips": 0.01996009796857834
+    },
+    {
+      "relative_path": "day4/members/florian/11_0305.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9646705196595454,
+      "lpips": 0.042486973106861115
+    },
+    {
+      "relative_path": "day4/members/florian/11_0372.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9810514073392316,
+      "lpips": 0.015786046162247658
+    },
+    {
+      "relative_path": "day4/members/florian/11_0412.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9798572077974715,
+      "lpips": 0.01774417981505394
+    },
+    {
+      "relative_path": "day4/members/florian/13_0005.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9771981593168603,
+      "lpips": 0.019110718742012978
+    },
+    {
+      "relative_path": "day4/members/florian/15_0498.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day4/members/florian/18_0559.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day4/members/stevan/10_0044.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9760608530749596,
+      "lpips": 0.030573811382055283
+    },
+    {
+      "relative_path": "day4/members/stevan/10_0227.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9764825237716416,
+      "lpips": 0.02865399233996868
+    },
+    {
+      "relative_path": "day4/members/stevan/10_0629.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9843263970933608,
+      "lpips": 0.02416769228875637
+    },
+    {
+      "relative_path": "day4/members/stevan/10_0720.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.977715698346516,
+      "lpips": 0.02337370440363884
+    },
+    {
+      "relative_path": "day4/members/stevan/11_0074.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9765976882216657,
+      "lpips": 0.02430376224219799
+    },
+    {
+      "relative_path": "day4/members/stevan/11_0365.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9859732003063234,
+      "lpips": 0.014112280681729317
+    },
+    {
+      "relative_path": "day4/members/stevan/13_0149.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9831037776729422,
+      "lpips": 0.02415607124567032
+    },
+    {
+      "relative_path": "day4/members/stevan/13_0462.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9657790439303455,
+      "lpips": 0.04550144076347351
+    },
+    {
+      "relative_path": "day4/members/stevan/13_0714.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9839216076699165,
+      "lpips": 0.018145063892006874
+    },
+    {
+      "relative_path": "day1/members/luca/08_0069.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/luca/08_0225.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9886490231035432,
+      "lpips": 0.010856817476451397
+    },
+    {
+      "relative_path": "day1/members/luca/08_0716.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9814289040873655,
+      "lpips": 0.017160143703222275
+    },
+    {
+      "relative_path": "day1/members/luca/11_0691.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9894919951496917,
+      "lpips": 0.006567936856299639
+    },
+    {
+      "relative_path": "day1/members/luca/12_0078.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/luca/12_0168.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/luca/12_0202.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9896587433356414,
+      "lpips": 0.008200920186936855
+    },
+    {
+      "relative_path": "day1/members/luca/13_0044.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9849350902657824,
+      "lpips": 0.021622925996780396
+    },
+    {
+      "relative_path": "day1/members/luca/14_0698.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9799999675840022,
+      "lpips": 0.021905837580561638
+    },
+    {
+      "relative_path": "day1/members/luca/15_0236.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9820361745404472,
+      "lpips": 0.021959323436021805
+    },
+    {
+      "relative_path": "day1/members/luca/15_0372.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9749344704623772,
+      "lpips": 0.029753336682915688
+    },
+    {
+      "relative_path": "day1/members/luca/18_0040.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9826242308892373,
+      "lpips": 0.013450905680656433
+    },
+    {
+      "relative_path": "day1/members/luca/19_0006.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9864714018139672,
+      "lpips": 0.02013213559985161
+    },
+    {
+      "relative_path": "day1/members/tien/08_0068.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/tien/08_0310.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9919989856958263,
+      "lpips": 0.010650464333593845
+    },
+    {
+      "relative_path": "day1/members/tien/08_0483.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/tien/09_0404.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/tien/10_0032.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9888361797458439,
+      "lpips": 0.011525703594088554
+    },
+    {
+      "relative_path": "day1/members/tien/10_0152.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9867944857911981,
+      "lpips": 0.014258290641009808
+    },
+    {
+      "relative_path": "day1/members/tien/13_0571.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9879298746161886,
+      "lpips": 0.022704102098941803
+    },
+    {
+      "relative_path": "day1/members/tien/14_0026.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9836775209942341,
+      "lpips": 0.03232165053486824
+    },
+    {
+      "relative_path": "day1/members/tien/14_0211.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9753119757645115,
+      "lpips": 0.025047946721315384
+    },
+    {
+      "relative_path": "day1/members/tien/15_0093.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9792236883252782,
+      "lpips": 0.024727536365389824
+    },
+    {
+      "relative_path": "day1/members/tien/15_0585.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9927610662825187,
+      "lpips": 0.010332112200558186
+    },
+    {
+      "relative_path": "day1/members/tien/19_0050.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/tien/19_0392.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.970123091228939,
+      "lpips": 0.048856887966394424
+    },
+    {
+      "relative_path": "day2/members/luca/10_0406.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/luca/10_0586.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9794900410620732,
+      "lpips": 0.018132392317056656
+    },
+    {
+      "relative_path": "day2/members/luca/10_0654.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9776260284444308,
+      "lpips": 0.02269807830452919
+    },
+    {
+      "relative_path": "day2/members/luca/11_0416.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9780779964936767,
+      "lpips": 0.022962119430303574
+    },
+    {
+      "relative_path": "day2/members/luca/12_0565.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/luca/13_0250.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9830594521541766,
+      "lpips": 0.019374137744307518
+    },
+    {
+      "relative_path": "day2/members/luca/14_0016.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9842645388776666,
+      "lpips": 0.01396464928984642
+    },
+    {
+      "relative_path": "day2/members/luca/14_0354.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9718749188962996,
+      "lpips": 0.029474660754203796
+    },
+    {
+      "relative_path": "day2/members/luca/17_0072.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/luca/17_0249.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/luca/18_0188.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.993243762381531,
+      "lpips": 0.0046575251035392284
+    },
+    {
+      "relative_path": "day2/members/luca/18_0197.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/luca/18_0250.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9875157444987837,
+      "lpips": 0.012546869926154613
+    },
+    {
+      "relative_path": "day2/members/luca/19_0633.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.972680793235194,
+      "lpips": 0.03348277881741524
+    },
+    {
+      "relative_path": "day2/members/luca/20_0211.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9836134200780994,
+      "lpips": 0.024302450940012932
+    },
+    {
+      "relative_path": "day2/members/tien/12_0007.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9848851649553501,
+      "lpips": 0.016007613390684128
+    },
+    {
+      "relative_path": "day2/members/tien/12_0017.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9776324646308115,
+      "lpips": 0.027233390137553215
+    },
+    {
+      "relative_path": "day2/members/tien/12_0597.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9808121162346759,
+      "lpips": 0.022056560963392258
+    },
+    {
+      "relative_path": "day2/members/tien/13_0043.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/tien/13_0604.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9742266008924414,
+      "lpips": 0.031083863228559494
+    },
+    {
+      "relative_path": "day2/members/tien/18_0209.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9898389444116539,
+      "lpips": 0.011340995319187641
+    },
+    {
+      "relative_path": "day2/members/tien/19_0311.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9876450386806715,
+      "lpips": 0.02016989141702652
+    },
+    {
+      "relative_path": "day2/members/tien/19_0472.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9634841505932843,
+      "lpips": 0.05166425555944443
+    },
+    {
+      "relative_path": "day2/members/tien/19_0512.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.962231571417257,
+      "lpips": 0.050321415066719055
+    },
+    {
+      "relative_path": "day2/members/tien/20_0019.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9768170763912712,
+      "lpips": 0.029447177425026894
+    },
+    {
+      "relative_path": "day2/members/tien/20_0651.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9803497974576311,
+      "lpips": 0.026157353073358536
+    },
+    {
+      "relative_path": "day3/members/luca/10_0668.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9799966509561463,
+      "lpips": 0.023811953142285347
+    },
+    {
+      "relative_path": "day3/members/luca/11_0126.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9737192175145218,
+      "lpips": 0.0334009975194931
+    },
+    {
+      "relative_path": "day3/members/luca/11_0192.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9751749290024558,
+      "lpips": 0.04003559798002243
+    },
+    {
+      "relative_path": "day3/members/luca/11_0673.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.944855033414362,
+      "lpips": 0.08996797353029251
+    },
+    {
+      "relative_path": "day3/members/luca/12_0481.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/luca/13_0160.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9882571483258201,
+      "lpips": 0.00948195718228817
+    },
+    {
+      "relative_path": "day3/members/luca/13_0698.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9844950476711687,
+      "lpips": 0.019368071109056473
+    },
+    {
+      "relative_path": "day3/members/luca/14_0453.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9843181285067143,
+      "lpips": 0.014492074958980083
+    },
+    {
+      "relative_path": "day3/members/luca/17_0412.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9813058791812849,
+      "lpips": 0.03219340741634369
+    },
+    {
+      "relative_path": "day3/members/luca/17_0582.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9821845535841348,
+      "lpips": 0.01791984587907791
+    },
+    {
+      "relative_path": "day3/members/luca/18_0517.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9816669757021576,
+      "lpips": 0.018154965713620186
+    },
+    {
+      "relative_path": "day3/members/luca/18_0524.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9745720006191895,
+      "lpips": 0.03274188190698624
+    },
+    {
+      "relative_path": "day3/members/luca/18_0573.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9847860363030057,
+      "lpips": 0.02454792521893978
+    },
+    {
+      "relative_path": "day3/members/luca/19_0582.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/luca/20_0192.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9876890696365574,
+      "lpips": 0.011776922270655632
+    },
+    {
+      "relative_path": "day3/members/tien/09_0002.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9881925718307523,
+      "lpips": 0.016610346734523773
+    },
+    {
+      "relative_path": "day3/members/tien/09_0391.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/tien/10_0512.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9921381212878195,
+      "lpips": 0.01520213857293129
+    },
+    {
+      "relative_path": "day3/members/tien/10_0690.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9813732276718641,
+      "lpips": 0.02525029145181179
+    },
+    {
+      "relative_path": "day3/members/tien/11_0464.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9750281237249109,
+      "lpips": 0.03086199425160885
+    },
+    {
+      "relative_path": "day3/members/tien/11_0505.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9843432674395337,
+      "lpips": 0.016999242827296257
+    },
+    {
+      "relative_path": "day3/members/tien/11_0628.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9866290490066283,
+      "lpips": 0.014075162820518017
+    },
+    {
+      "relative_path": "day3/members/tien/12_0164.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9849159224417615,
+      "lpips": 0.016634374856948853
+    },
+    {
+      "relative_path": "day3/members/tien/14_0649.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9774572602310488,
+      "lpips": 0.038773585110902786
+    },
+    {
+      "relative_path": "day3/members/tien/17_0282.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/tien/18_0251.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9691915458169378,
+      "lpips": 0.03748913109302521
+    },
+    {
+      "relative_path": "day3/members/tien/18_0355.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9808414964914683,
+      "lpips": 0.023224882781505585
+    },
+    {
+      "relative_path": "day3/members/tien/20_0155.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9807810072426569,
+      "lpips": 0.026277966797351837
+    },
+    {
+      "relative_path": "day3/members/tien/20_0434.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.987525531456357,
+      "lpips": 0.015344256535172462
+    },
+    {
+      "relative_path": "day3/members/tien/20_0575.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9686298984695217,
+      "lpips": 0.050840720534324646
+    },
+    {
+      "relative_path": "day4/members/bao/08_0028.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day4/members/bao/08_0595.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day4/members/bao/09_0694.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.982306765734612,
+      "lpips": 0.02017517387866974
+    },
+    {
+      "relative_path": "day4/members/bao/10_0060.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9762072826526769,
+      "lpips": 0.02708602137863636
+    },
+    {
+      "relative_path": "day4/members/bao/11_0055.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9727097030552031,
+      "lpips": 0.03548555076122284
+    },
+    {
+      "relative_path": "day4/members/bao/11_0220.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9818052409990363,
+      "lpips": 0.01990642584860325
+    },
+    {
+      "relative_path": "day4/members/bao/11_0549.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9725016024870311,
+      "lpips": 0.03308023512363434
+    },
+    {
+      "relative_path": "day4/members/bao/12_0423.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day4/members/bao/12_0438.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9800663747197316,
+      "lpips": 0.02705470286309719
+    },
+    {
+      "relative_path": "day4/members/bao/13_0504.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9777577228014915,
+      "lpips": 0.024034816771745682
+    },
+    {
+      "relative_path": "day4/members/bao/13_0536.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9752277682132465,
+      "lpips": 0.026927746832370758
+    },
+    {
+      "relative_path": "day4/members/luca/08_0034.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day4/members/luca/08_0054.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9883292658178271,
+      "lpips": 0.010306407697498798
+    },
+    {
+      "relative_path": "day4/members/luca/10_0077.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9839005037758479,
+      "lpips": 0.018682146444916725
+    },
+    {
+      "relative_path": "day4/members/luca/10_0115.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.980171841987922,
+      "lpips": 0.02106909453868866
+    },
+    {
+      "relative_path": "day4/members/luca/11_0464.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9758455393564591,
+      "lpips": 0.025257956236600876
+    },
+    {
+      "relative_path": "day4/members/luca/11_0578.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9810695515961978,
+      "lpips": 0.01883481815457344
+    },
+    {
+      "relative_path": "day4/members/luca/14_0018.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9779314609588919,
+      "lpips": 0.021413298323750496
+    },
+    {
+      "relative_path": "day4/members/luca/14_0559.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9894969476742786,
+      "lpips": 0.00923149660229683
+    },
+    {
+      "relative_path": "day4/members/luca/17_0685.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day4/members/luca/18_0257.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9920250161220371,
+      "lpips": 0.009139210917055607
+    },
+    {
+      "relative_path": "day4/members/luca/18_0521.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day4/members/luca/18_0590.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9852288523519825,
+      "lpips": 0.016375483945012093
+    },
+    {
+      "relative_path": "day1/members/allie/08_0276.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9821297029793638,
+      "lpips": 0.018522635102272034
+    },
+    {
+      "relative_path": "day1/members/allie/09_0160.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9861002652073066,
+      "lpips": 0.01580047234892845
+    },
+    {
+      "relative_path": "day1/members/allie/09_0273.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9795392570187101,
+      "lpips": 0.022402750328183174
+    },
+    {
+      "relative_path": "day1/members/allie/09_0647.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9668410242515305,
+      "lpips": 0.043202146887779236
+    },
+    {
+      "relative_path": "day1/members/allie/09_0673.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9602670958448284,
+      "lpips": 0.046796947717666626
+    },
+    {
+      "relative_path": "day1/members/allie/10_0099.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9842271009777649,
+      "lpips": 0.014498387463390827
+    },
+    {
+      "relative_path": "day1/members/allie/10_0296.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9850639697367635,
+      "lpips": 0.017875272780656815
+    },
+    {
+      "relative_path": "day1/members/allie/10_0339.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.984862576798006,
+      "lpips": 0.02018648386001587
+    },
+    {
+      "relative_path": "day1/members/allie/10_0546.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9826374231365947,
+      "lpips": 0.017090754583477974
+    },
+    {
+      "relative_path": "day1/members/allie/12_0272.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9826136788511507,
+      "lpips": 0.016565950587391853
+    },
+    {
+      "relative_path": "day1/members/allie/14_0135.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9826672569749159,
+      "lpips": 0.020257890224456787
+    },
+    {
+      "relative_path": "day1/members/allie/15_0458.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9829730600011685,
+      "lpips": 0.02298290655016899
+    },
+    {
+      "relative_path": "day1/members/allie/18_0412.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9816213513127852,
+      "lpips": 0.03284082189202309
+    },
+    {
+      "relative_path": "day1/members/onanong/08_0572.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9853036477942333,
+      "lpips": 0.019235435873270035
+    },
+    {
+      "relative_path": "day1/members/onanong/08_0611.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9843738743660605,
+      "lpips": 0.016880132257938385
+    },
+    {
+      "relative_path": "day1/members/onanong/10_0201.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9861155651558066,
+      "lpips": 0.013881438411772251
+    },
+    {
+      "relative_path": "day1/members/onanong/10_0422.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.988025262590485,
+      "lpips": 0.011091601103544235
+    },
+    {
+      "relative_path": "day1/members/onanong/11_0119.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/onanong/14_0049.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9790757551829751,
+      "lpips": 0.024785947054624557
+    },
+    {
+      "relative_path": "day1/members/onanong/14_0406.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9724293207927848,
+      "lpips": 0.033375177532434464
+    },
+    {
+      "relative_path": "day1/members/onanong/14_0681.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9813130379805717,
+      "lpips": 0.032508186995983124
+    },
+    {
+      "relative_path": "day1/members/onanong/15_0060.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9737404601204273,
+      "lpips": 0.029368001967668533
+    },
+    {
+      "relative_path": "day1/members/onanong/16_0577.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9884536312797797,
+      "lpips": 0.011342071928083897
+    },
+    {
+      "relative_path": "day1/members/onanong/17_0253.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/onanong/17_0468.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.988177216726834,
+      "lpips": 0.012652762234210968
+    },
+    {
+      "relative_path": "day1/members/onanong/18_0512.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9700225734355247,
+      "lpips": 0.040677767246961594
+    },
+    {
+      "relative_path": "day1/members/onanong/19_0261.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/onanong/19_0481.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/allie/10_0201.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9886504548330418,
+      "lpips": 0.018592670559883118
+    },
+    {
+      "relative_path": "day2/members/allie/10_0243.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.986521193261292,
+      "lpips": 0.02258436754345894
+    },
+    {
+      "relative_path": "day2/members/allie/11_0188.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.974053535975357,
+      "lpips": 0.025983450934290886
+    },
+    {
+      "relative_path": "day2/members/allie/11_0505.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9731718855708693,
+      "lpips": 0.029639603570103645
+    },
+    {
+      "relative_path": "day2/members/allie/13_0179.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/allie/13_0355.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9922724924865611,
+      "lpips": 0.004422356840223074
+    },
+    {
+      "relative_path": "day2/members/allie/15_0703.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/allie/16_0153.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9778713369611296,
+      "lpips": 0.0296244565397501
+    },
+    {
+      "relative_path": "day2/members/allie/16_0556.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/allie/17_0093.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9755925580793733,
+      "lpips": 0.0353480763733387
+    },
+    {
+      "relative_path": "day2/members/allie/17_0175.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9773488886967091,
+      "lpips": 0.04041426256299019
+    },
+    {
+      "relative_path": "day2/members/allie/17_0331.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9736523282182162,
+      "lpips": 0.036452021449804306
+    },
+    {
+      "relative_path": "day2/members/allie/19_0622.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9738176048119066,
+      "lpips": 0.031229833140969276
+    },
+    {
+      "relative_path": "day2/members/onanong/10_0373.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9797801110323411,
+      "lpips": 0.02232302725315094
+    },
+    {
+      "relative_path": "day2/members/onanong/10_0518.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9722870515223255,
+      "lpips": 0.033584050834178925
+    },
+    {
+      "relative_path": "day2/members/onanong/11_0590.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9848097627689784,
+      "lpips": 0.0173873919993639
+    },
+    {
+      "relative_path": "day2/members/onanong/11_0615.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/onanong/12_0404.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9654144259759366,
+      "lpips": 0.04921167343854904
+    },
+    {
+      "relative_path": "day2/members/onanong/14_0193.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9737437723354696,
+      "lpips": 0.02391555905342102
+    },
+    {
+      "relative_path": "day2/members/onanong/14_0331.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9804311687463642,
+      "lpips": 0.02201596088707447
+    },
+    {
+      "relative_path": "day2/members/onanong/16_0168.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/onanong/16_0470.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/onanong/17_0009.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9883445666313776,
+      "lpips": 0.017202815040946007
+    },
+    {
+      "relative_path": "day2/members/onanong/17_0489.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/onanong/18_0325.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9763987555087597,
+      "lpips": 0.0275941900908947
+    },
+    {
+      "relative_path": "day3/members/allie/08_0398.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/allie/10_0210.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/allie/10_0655.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/allie/12_0148.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9831672324398354,
+      "lpips": 0.014968561939895153
+    },
+    {
+      "relative_path": "day3/members/allie/12_0237.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/allie/12_0570.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9941153305148273,
+      "lpips": 0.01108817383646965
+    },
+    {
+      "relative_path": "day3/members/allie/12_0712.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/allie/13_0693.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9875419613528296,
+      "lpips": 0.018988098949193954
+    },
+    {
+      "relative_path": "day3/members/allie/16_0683.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9869185580406379,
+      "lpips": 0.01528690941631794
+    },
+    {
+      "relative_path": "day3/members/allie/17_0205.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9828811938407332,
+      "lpips": 0.028050733730196953
+    },
+    {
+      "relative_path": "day3/members/allie/17_0399.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.979922877719768,
+      "lpips": 0.023537661880254745
+    },
+    {
+      "relative_path": "day3/members/allie/18_0433.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9753985863593891,
+      "lpips": 0.021035026758909225
+    },
+    {
+      "relative_path": "day3/members/allie/18_0514.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9744453138776961,
+      "lpips": 0.021689143031835556
+    },
+    {
+      "relative_path": "day3/members/allie/18_0535.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9759558385657332,
+      "lpips": 0.020804647356271744
+    },
+    {
+      "relative_path": "day3/members/onanong/10_0301.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9881958213693207,
+      "lpips": 0.011470146477222443
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0042.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9798172165798148,
+      "lpips": 0.027193216606974602
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0248.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9787165755094692,
+      "lpips": 0.029892748221755028
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0537.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9788978985124362,
+      "lpips": 0.029968589544296265
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0644.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9759220130253784,
+      "lpips": 0.03213825449347496
+    },
+    {
+      "relative_path": "day3/members/onanong/12_0488.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9906211018469108,
+      "lpips": 0.007620412856340408
+    },
+    {
+      "relative_path": "day3/members/onanong/12_0703.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/onanong/14_0121.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9970445880051898,
+      "lpips": 0.0016827613580971956
+    },
+    {
+      "relative_path": "day3/members/onanong/15_0413.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9767009042926004,
+      "lpips": 0.025687627494335175
+    },
+    {
+      "relative_path": "day3/members/onanong/15_0609.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/onanong/16_0114.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/onanong/16_0319.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9869431822508483,
+      "lpips": 0.010466983541846275
+    },
+    {
+      "relative_path": "day3/members/onanong/16_0351.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day4/members/allie/08_0040.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9703710905449334,
+      "lpips": 0.044421836733818054
+    },
+    {
+      "relative_path": "day4/members/allie/09_0293.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9707622209115666,
+      "lpips": 0.031021494418382645
+    },
+    {
+      "relative_path": "day4/members/allie/09_0451.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9755464598243538,
+      "lpips": 0.025182992219924927
+    },
+    {
+      "relative_path": "day4/members/allie/09_0480.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9883937101220804,
+      "lpips": 0.011065931990742683
+    },
+    {
+      "relative_path": "day4/members/allie/09_0677.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.975445034508747,
+      "lpips": 0.02937265858054161
+    },
+    {
+      "relative_path": "day4/members/allie/10_0446.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.972285869479348,
+      "lpips": 0.03352917358279228
+    },
+    {
+      "relative_path": "day4/members/allie/11_0161.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9746333602174347,
+      "lpips": 0.028705891221761703
+    },
+    {
+      "relative_path": "day4/members/allie/11_0376.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9798041721926743,
+      "lpips": 0.021901052445173264
+    },
+    {
+      "relative_path": "day4/members/allie/12_0604.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9862449298781598,
+      "lpips": 0.018586833029985428
+    },
+    {
+      "relative_path": "day4/members/allie/13_0245.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9870856135504926,
+      "lpips": 0.02324928715825081
+    },
+    {
+      "relative_path": "day4/members/allie/18_0334.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9796592450391518,
+      "lpips": 0.029702965170145035
+    },
+    {
+      "relative_path": "day4/members/onanong/10_0182.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9834932267472277,
+      "lpips": 0.014231787994503975
+    },
+    {
+      "relative_path": "day4/members/onanong/11_0635.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.981193089695803,
+      "lpips": 0.02106504887342453
+    },
+    {
+      "relative_path": "day4/members/onanong/11_0656.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9663250287786612,
+      "lpips": 0.038532331585884094
+    },
+    {
+      "relative_path": "day4/members/onanong/12_0450.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day4/members/onanong/13_0378.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.977863955885583,
+      "lpips": 0.028085393831133842
+    },
+    {
+      "relative_path": "day4/members/onanong/14_0177.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.975626435323019,
+      "lpips": 0.02428087219595909
+    },
+    {
+      "relative_path": "day4/members/onanong/15_0191.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9761202631044562,
+      "lpips": 0.030354661867022514
+    },
+    {
+      "relative_path": "day4/members/onanong/15_0400.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9897665298683704,
+      "lpips": 0.015053877606987953
+    },
+    {
+      "relative_path": "day1/members/bjorn/09_0300.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9642552174708053,
+      "lpips": 0.049088917672634125
+    },
+    {
+      "relative_path": "day1/members/bjorn/09_0318.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/bjorn/10_0088.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9842741347448539,
+      "lpips": 0.013440381735563278
+    },
+    {
+      "relative_path": "day1/members/bjorn/10_0130.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9833633786168082,
+      "lpips": 0.01927018165588379
+    },
+    {
+      "relative_path": "day1/members/bjorn/10_0501.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.976785753081202,
+      "lpips": 0.030933760106563568
+    },
+    {
+      "relative_path": "day1/members/bjorn/11_0116.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.984628485271445,
+      "lpips": 0.024267176166176796
+    },
+    {
+      "relative_path": "day1/members/bjorn/12_0196.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/bjorn/14_0017.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/bjorn/15_0004.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9842730138075924,
+      "lpips": 0.016052676364779472
+    },
+    {
+      "relative_path": "day1/members/bjorn/15_0586.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/bjorn/18_0134.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9747535385464934,
+      "lpips": 0.03679022565484047
+    },
+    {
+      "relative_path": "day1/members/bjorn/18_0340.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/bjorn/18_0660.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/bjorn/19_0016.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/cathal/08_0346.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9907459105475876,
+      "lpips": 0.01756458170711994
+    },
+    {
+      "relative_path": "day1/members/cathal/09_0001.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9643496735516314,
+      "lpips": 0.045955222100019455
+    },
+    {
+      "relative_path": "day1/members/cathal/10_0676.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9832098221556338,
+      "lpips": 0.017192628234624863
+    },
+    {
+      "relative_path": "day1/members/cathal/10_0708.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.984682656430118,
+      "lpips": 0.01868807151913643
+    },
+    {
+      "relative_path": "day1/members/cathal/11_0405.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9782921165330949,
+      "lpips": 0.02704966813325882
+    },
+    {
+      "relative_path": "day1/members/cathal/11_0477.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day1/members/cathal/12_0342.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9735872886637141,
+      "lpips": 0.029858795925974846
+    },
+    {
+      "relative_path": "day1/members/cathal/13_0040.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9472107824370627,
+      "lpips": 0.09939083456993103
+    },
+    {
+      "relative_path": "day1/members/cathal/14_0484.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9864281197891516,
+      "lpips": 0.015936629846692085
+    },
+    {
+      "relative_path": "day1/members/cathal/14_0490.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9716824216909798,
+      "lpips": 0.03933640569448471
+    },
+    {
+      "relative_path": "day1/members/cathal/14_0708.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9726766845648577,
+      "lpips": 0.026585569605231285
+    },
+    {
+      "relative_path": "day1/members/cathal/15_0162.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.978893123078728,
+      "lpips": 0.026963280513882637
+    },
+    {
+      "relative_path": "day1/members/cathal/15_0298.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9701793105286036,
+      "lpips": 0.03126268461346626
+    },
+    {
+      "relative_path": "day1/members/cathal/18_0317.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9804253455147598,
+      "lpips": 0.019355807453393936
+    },
+    {
+      "relative_path": "day2/members/bjorn/11_0031.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9782557522644764,
+      "lpips": 0.01784985512495041
+    },
+    {
+      "relative_path": "day2/members/bjorn/12_0518.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9857523360540897,
+      "lpips": 0.01752891205251217
+    },
+    {
+      "relative_path": "day2/members/bjorn/15_0627.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/bjorn/16_0250.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/bjorn/16_0632.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.987195668621191,
+      "lpips": 0.011080357246100903
+    },
+    {
+      "relative_path": "day2/members/bjorn/17_0110.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/bjorn/17_0327.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/bjorn/19_0139.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9843075042337571,
+      "lpips": 0.019310060888528824
+    },
+    {
+      "relative_path": "day2/members/bjorn/19_0187.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9834404718735547,
+      "lpips": 0.02631131373345852
+    },
+    {
+      "relative_path": "day2/members/bjorn/19_0429.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/bjorn/19_0586.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9822098642228374,
+      "lpips": 0.023353369906544685
+    },
+    {
+      "relative_path": "day2/members/bjorn/20_0121.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9787937568774611,
+      "lpips": 0.0284852497279644
+    },
+    {
+      "relative_path": "day2/members/cathal/10_0273.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9835827126518684,
+      "lpips": 0.027716513723134995
+    },
+    {
+      "relative_path": "day2/members/cathal/10_0597.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.980445525179424,
+      "lpips": 0.024172557517886162
+    },
+    {
+      "relative_path": "day2/members/cathal/11_0012.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9767303086986456,
+      "lpips": 0.025729766115546227
+    },
+    {
+      "relative_path": "day2/members/cathal/11_0063.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9720679841213279,
+      "lpips": 0.03526880592107773
+    },
+    {
+      "relative_path": "day2/members/cathal/12_0044.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9827723419475735,
+      "lpips": 0.02540540136396885
+    },
+    {
+      "relative_path": "day2/members/cathal/14_0185.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9858592374765921,
+      "lpips": 0.012121196836233139
+    },
+    {
+      "relative_path": "day2/members/cathal/14_0312.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9772992142582894,
+      "lpips": 0.027078934013843536
+    },
+    {
+      "relative_path": "day2/members/cathal/14_0361.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9861668813042868,
+      "lpips": 0.01618405245244503
+    },
+    {
+      "relative_path": "day2/members/cathal/18_0081.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9828334368735155,
+      "lpips": 0.02896209806203842
+    },
+    {
+      "relative_path": "day2/members/cathal/19_0198.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day2/members/cathal/19_0211.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9869049162326272,
+      "lpips": 0.012835252098739147
+    },
+    {
+      "relative_path": "day2/members/cathal/19_0687.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9836848919254603,
+      "lpips": 0.02071143314242363
+    },
+    {
+      "relative_path": "day3/members/bjorn/10_0179.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9827594025984823,
+      "lpips": 0.030737392604351044
+    },
+    {
+      "relative_path": "day3/members/bjorn/10_0195.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9856076547717638,
+      "lpips": 0.019462795928120613
+    },
+    {
+      "relative_path": "day3/members/bjorn/12_0147.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9869441656885692,
+      "lpips": 0.014536790549755096
+    },
+    {
+      "relative_path": "day3/members/bjorn/12_0222.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/bjorn/12_0362.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/bjorn/14_0678.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9831836707543866,
+      "lpips": 0.018559781834483147
+    },
+    {
+      "relative_path": "day3/members/bjorn/15_0707.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/bjorn/18_0483.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9753529214495144,
+      "lpips": 0.027705632150173187
+    },
+    {
+      "relative_path": "day3/members/bjorn/18_0629.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9667453803808095,
+      "lpips": 0.05220823734998703
+    },
+    {
+      "relative_path": "day3/members/bjorn/19_0152.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9881614320159633,
+      "lpips": 0.01872570626437664
+    },
+    {
+      "relative_path": "day3/members/bjorn/19_0607.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/bjorn/20_0140.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9862135264718432,
+      "lpips": 0.024503421038389206
+    },
+    {
+      "relative_path": "day3/members/cathal/08_0097.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/cathal/09_0099.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9845771559904503,
+      "lpips": 0.01915999874472618
+    },
+    {
+      "relative_path": "day3/members/cathal/09_0355.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.976165457349815,
+      "lpips": 0.04364178702235222
+    },
+    {
+      "relative_path": "day3/members/cathal/09_0625.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9805635180465067,
+      "lpips": 0.035513848066329956
+    },
+    {
+      "relative_path": "day3/members/cathal/11_0064.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9876091976214877,
+      "lpips": 0.01208428107202053
+    },
+    {
+      "relative_path": "day3/members/cathal/11_0181.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9797427629976214,
+      "lpips": 0.02314867079257965
+    },
+    {
+      "relative_path": "day3/members/cathal/11_0509.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/cathal/12_0524.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/cathal/15_0606.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day3/members/cathal/18_0053.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9791292855540314,
+      "lpips": 0.028629546985030174
+    },
+    {
+      "relative_path": "day3/members/cathal/19_0263.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9888661778304829,
+      "lpips": 0.013464674353599548
+    },
+    {
+      "relative_path": "day3/members/cathal/20_0290.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9809198434761038,
+      "lpips": 0.02606886997818947
+    },
+    {
+      "relative_path": "day3/members/cathal/20_0443.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9763858956170409,
+      "lpips": 0.0216123778373003
+    },
+    {
+      "relative_path": "day3/members/cathal/20_0569.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9675856528309139,
+      "lpips": 0.04256218671798706
+    },
+    {
+      "relative_path": "day4/members/bjorn/08_0088.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day4/members/bjorn/08_0126.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day4/members/bjorn/08_0670.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9864516302989287,
+      "lpips": 0.011437087319791317
+    },
+    {
+      "relative_path": "day4/members/bjorn/10_0048.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9844960053669638,
+      "lpips": 0.01698368228971958
+    },
+    {
+      "relative_path": "day4/members/bjorn/10_0076.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day4/members/bjorn/10_0670.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9717351728479882,
+      "lpips": 0.03300120308995247
+    },
+    {
+      "relative_path": "day4/members/bjorn/12_0570.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9790532480413736,
+      "lpips": 0.030625982210040092
+    },
+    {
+      "relative_path": "day4/members/bjorn/13_0126.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9789017189467749,
+      "lpips": 0.02266697958111763
+    },
+    {
+      "relative_path": "day4/members/bjorn/14_0135.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9795267858235266,
+      "lpips": 0.01826212927699089
+    },
+    {
+      "relative_path": "day4/members/bjorn/14_0715.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.98406096819271,
+      "lpips": 0.017996283248066902
+    },
+    {
+      "relative_path": "day4/members/bjorn/15_0170.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9891819065221119,
+      "lpips": 0.010341621935367584
+    },
+    {
+      "relative_path": "day4/members/cathal/09_0257.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9756679610841358,
+      "lpips": 0.02904057875275612
+    },
+    {
+      "relative_path": "day4/members/cathal/09_0426.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day4/members/cathal/12_0648.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9695079070988949,
+      "lpips": 0.03673749417066574
+    },
+    {
+      "relative_path": "day4/members/cathal/13_0074.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9763924025294101,
+      "lpips": 0.02448653057217598
+    },
+    {
+      "relative_path": "day4/members/cathal/13_0210.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9693778708358827,
+      "lpips": 0.04564496874809265
+    },
+    {
+      "relative_path": "day4/members/cathal/13_0418.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.975593313956391,
+      "lpips": 0.020269934087991714
+    },
+    {
+      "relative_path": "day4/members/cathal/13_0470.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9812871496146699,
+      "lpips": 0.02179924212396145
+    },
+    {
+      "relative_path": "day4/members/cathal/15_0410.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day4/members/cathal/17_0524.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 1.0,
+      "lpips": 0.0
+    },
+    {
+      "relative_path": "day4/members/cathal/18_0466.webp",
+      "method": "adaptive_artifact_gated_policy",
+      "ssim": 0.9916731667676021,
+      "lpips": 0.010700946673750877
+    }
+  ]
+}

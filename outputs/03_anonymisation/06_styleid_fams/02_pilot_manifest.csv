@@ -1,0 +1,451 @@
+relative_path,variant,output_path,boxes_count,runtime_seconds,returncode,status,stdout_tail,stderr_tail
+day1/members/allie/10_0122.webp,stylegan_trunc_0.7_seed_0,outputs/03_anonymisation/06_styleid_fams/styleid_images/10_0122.webp,2,18.002,0,ok,"{
+  ""method"": ""stylegan"",
+  ""boxes_processed"": 2,
+  ""backend_root"": ""third_party/styleid"",
+  ""runner_path"": ""scripts/anonymisation/run_styleid_backend.py"",
+  ""model_path"": ""third_party/styleid/pretrained_models/stylegan2-ffhq-config-f.pt"",
+  ""model_id"": null,
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/allie/10_0122.webp,fams_size_512_steps_15_guide_4_degree_1_iou_0.15,outputs/03_anonymisation/06_styleid_fams/fams_images/10_0122.webp,2,152.223,0,ok,"{
+  ""method"": ""fams"",
+  ""boxes_processed"": 2,
+  ""backend_root"": ""third_party/face_anon_simple"",
+  ""runner_path"": ""scripts/anonymisation/run_fams_backend.py"",
+  ""model_path"": null,
+  ""model_id"": ""hkung/face-anon-simple"",
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/allie/10_0212.webp,stylegan_trunc_0.7_seed_0,outputs/03_anonymisation/06_styleid_fams/styleid_images/10_0212.webp,7,19.561,0,ok,"{
+  ""method"": ""stylegan"",
+  ""boxes_processed"": 7,
+  ""backend_root"": ""third_party/styleid"",
+  ""runner_path"": ""scripts/anonymisation/run_styleid_backend.py"",
+  ""model_path"": ""third_party/styleid/pretrained_models/stylegan2-ffhq-config-f.pt"",
+  ""model_id"": null,
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/allie/10_0212.webp,fams_size_512_steps_15_guide_4_degree_1_iou_0.15,outputs/03_anonymisation/06_styleid_fams/fams_images/10_0212.webp,7,231.359,0,ok,"{
+  ""method"": ""fams"",
+  ""boxes_processed"": 7,
+  ""backend_root"": ""third_party/face_anon_simple"",
+  ""runner_path"": ""scripts/anonymisation/run_fams_backend.py"",
+  ""model_path"": null,
+  ""model_id"": ""hkung/face-anon-simple"",
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/allie/10_0311.webp,stylegan_trunc_0.7_seed_0,outputs/03_anonymisation/06_styleid_fams/styleid_images/10_0311.webp,4,17.936,0,ok,"{
+  ""method"": ""stylegan"",
+  ""boxes_processed"": 4,
+  ""backend_root"": ""third_party/styleid"",
+  ""runner_path"": ""scripts/anonymisation/run_styleid_backend.py"",
+  ""model_path"": ""third_party/styleid/pretrained_models/stylegan2-ffhq-config-f.pt"",
+  ""model_id"": null,
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/allie/10_0311.webp,fams_size_512_steps_15_guide_4_degree_1_iou_0.15,outputs/03_anonymisation/06_styleid_fams/fams_images/10_0311.webp,4,172.567,0,ok,"{
+  ""method"": ""fams"",
+  ""boxes_processed"": 4,
+  ""backend_root"": ""third_party/face_anon_simple"",
+  ""runner_path"": ""scripts/anonymisation/run_fams_backend.py"",
+  ""model_path"": null,
+  ""model_id"": ""hkung/face-anon-simple"",
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/allie/10_0320.webp,stylegan_trunc_0.7_seed_0,outputs/03_anonymisation/06_styleid_fams/styleid_images/10_0320.webp,5,18.816,0,ok,"{
+  ""method"": ""stylegan"",
+  ""boxes_processed"": 5,
+  ""backend_root"": ""third_party/styleid"",
+  ""runner_path"": ""scripts/anonymisation/run_styleid_backend.py"",
+  ""model_path"": ""third_party/styleid/pretrained_models/stylegan2-ffhq-config-f.pt"",
+  ""model_id"": null,
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/allie/10_0320.webp,fams_size_512_steps_15_guide_4_degree_1_iou_0.15,outputs/03_anonymisation/06_styleid_fams/fams_images/10_0320.webp,5,195.846,0,ok,"{
+  ""method"": ""fams"",
+  ""boxes_processed"": 5,
+  ""backend_root"": ""third_party/face_anon_simple"",
+  ""runner_path"": ""scripts/anonymisation/run_fams_backend.py"",
+  ""model_path"": null,
+  ""model_id"": ""hkung/face-anon-simple"",
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/allie/10_0529.webp,stylegan_trunc_0.7_seed_0,outputs/03_anonymisation/06_styleid_fams/styleid_images/10_0529.webp,4,17.339,0,ok,"{
+  ""method"": ""stylegan"",
+  ""boxes_processed"": 4,
+  ""backend_root"": ""third_party/styleid"",
+  ""runner_path"": ""scripts/anonymisation/run_styleid_backend.py"",
+  ""model_path"": ""third_party/styleid/pretrained_models/stylegan2-ffhq-config-f.pt"",
+  ""model_id"": null,
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/allie/10_0529.webp,fams_size_512_steps_15_guide_4_degree_1_iou_0.15,outputs/03_anonymisation/06_styleid_fams/fams_images/10_0529.webp,4,182.59,0,ok,"{
+  ""method"": ""fams"",
+  ""boxes_processed"": 4,
+  ""backend_root"": ""third_party/face_anon_simple"",
+  ""runner_path"": ""scripts/anonymisation/run_fams_backend.py"",
+  ""model_path"": null,
+  ""model_id"": ""hkung/face-anon-simple"",
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/allie/14_0050.webp,stylegan_trunc_0.7_seed_0,outputs/03_anonymisation/06_styleid_fams/styleid_images/14_0050.webp,1,17.299,0,ok,"{
+  ""method"": ""stylegan"",
+  ""boxes_processed"": 1,
+  ""backend_root"": ""third_party/styleid"",
+  ""runner_path"": ""scripts/anonymisation/run_styleid_backend.py"",
+  ""model_path"": ""third_party/styleid/pretrained_models/stylegan2-ffhq-config-f.pt"",
+  ""model_id"": null,
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/allie/14_0050.webp,fams_size_512_steps_15_guide_4_degree_1_iou_0.15,outputs/03_anonymisation/06_styleid_fams/fams_images/14_0050.webp,1,110.077,0,ok,"{
+  ""method"": ""fams"",
+  ""boxes_processed"": 1,
+  ""backend_root"": ""third_party/face_anon_simple"",
+  ""runner_path"": ""scripts/anonymisation/run_fams_backend.py"",
+  ""model_path"": null,
+  ""model_id"": ""hkung/face-anon-simple"",
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/allie/14_0528.webp,stylegan_trunc_0.7_seed_0,outputs/03_anonymisation/06_styleid_fams/styleid_images/14_0528.webp,3,17.057,0,ok,"{
+  ""method"": ""stylegan"",
+  ""boxes_processed"": 3,
+  ""backend_root"": ""third_party/styleid"",
+  ""runner_path"": ""scripts/anonymisation/run_styleid_backend.py"",
+  ""model_path"": ""third_party/styleid/pretrained_models/stylegan2-ffhq-config-f.pt"",
+  ""model_id"": null,
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/allie/14_0528.webp,fams_size_512_steps_15_guide_4_degree_1_iou_0.15,outputs/03_anonymisation/06_styleid_fams/fams_images/14_0528.webp,3,153.321,0,ok,"{
+  ""method"": ""fams"",
+  ""boxes_processed"": 3,
+  ""backend_root"": ""third_party/face_anon_simple"",
+  ""runner_path"": ""scripts/anonymisation/run_fams_backend.py"",
+  ""model_path"": null,
+  ""model_id"": ""hkung/face-anon-simple"",
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/allie/18_0298.webp,stylegan_trunc_0.7_seed_0,outputs/03_anonymisation/06_styleid_fams/styleid_images/18_0298.webp,6,18.869,0,ok,"{
+  ""method"": ""stylegan"",
+  ""boxes_processed"": 6,
+  ""backend_root"": ""third_party/styleid"",
+  ""runner_path"": ""scripts/anonymisation/run_styleid_backend.py"",
+  ""model_path"": ""third_party/styleid/pretrained_models/stylegan2-ffhq-config-f.pt"",
+  ""model_id"": null,
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/allie/18_0298.webp,fams_size_512_steps_15_guide_4_degree_1_iou_0.15,outputs/03_anonymisation/06_styleid_fams/fams_images/18_0298.webp,6,212.865,0,ok,"{
+  ""method"": ""fams"",
+  ""boxes_processed"": 6,
+  ""backend_root"": ""third_party/face_anon_simple"",
+  ""runner_path"": ""scripts/anonymisation/run_fams_backend.py"",
+  ""model_path"": null,
+  ""model_id"": ""hkung/face-anon-simple"",
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/allie/19_0429.webp,stylegan_trunc_0.7_seed_0,outputs/03_anonymisation/06_styleid_fams/styleid_images/19_0429.webp,4,18.267,0,ok,"{
+  ""method"": ""stylegan"",
+  ""boxes_processed"": 4,
+  ""backend_root"": ""third_party/styleid"",
+  ""runner_path"": ""scripts/anonymisation/run_styleid_backend.py"",
+  ""model_path"": ""third_party/styleid/pretrained_models/stylegan2-ffhq-config-f.pt"",
+  ""model_id"": null,
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/allie/19_0429.webp,fams_size_512_steps_15_guide_4_degree_1_iou_0.15,outputs/03_anonymisation/06_styleid_fams/fams_images/19_0429.webp,4,166.566,0,ok,"{
+  ""method"": ""fams"",
+  ""boxes_processed"": 4,
+  ""backend_root"": ""third_party/face_anon_simple"",
+  ""runner_path"": ""scripts/anonymisation/run_fams_backend.py"",
+  ""model_path"": null,
+  ""model_id"": ""hkung/face-anon-simple"",
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/allie/19_0669.webp,stylegan_trunc_0.7_seed_0,outputs/03_anonymisation/06_styleid_fams/styleid_images/19_0669.webp,5,17.223,0,ok,"{
+  ""method"": ""stylegan"",
+  ""boxes_processed"": 5,
+  ""backend_root"": ""third_party/styleid"",
+  ""runner_path"": ""scripts/anonymisation/run_styleid_backend.py"",
+  ""model_path"": ""third_party/styleid/pretrained_models/stylegan2-ffhq-config-f.pt"",
+  ""model_id"": null,
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/allie/19_0669.webp,fams_size_512_steps_15_guide_4_degree_1_iou_0.15,outputs/03_anonymisation/06_styleid_fams/fams_images/19_0669.webp,5,195.713,0,ok,"{
+  ""method"": ""fams"",
+  ""boxes_processed"": 5,
+  ""backend_root"": ""third_party/face_anon_simple"",
+  ""runner_path"": ""scripts/anonymisation/run_fams_backend.py"",
+  ""model_path"": null,
+  ""model_id"": ""hkung/face-anon-simple"",
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/08_0189.webp,stylegan_trunc_0.7_seed_0,outputs/03_anonymisation/06_styleid_fams/styleid_images/08_0189.webp,6,19.249,0,ok,"{
+  ""method"": ""stylegan"",
+  ""boxes_processed"": 6,
+  ""backend_root"": ""third_party/styleid"",
+  ""runner_path"": ""scripts/anonymisation/run_styleid_backend.py"",
+  ""model_path"": ""third_party/styleid/pretrained_models/stylegan2-ffhq-config-f.pt"",
+  ""model_id"": null,
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/08_0189.webp,fams_size_512_steps_15_guide_4_degree_1_iou_0.15,outputs/03_anonymisation/06_styleid_fams/fams_images/08_0189.webp,6,223.006,0,ok,"{
+  ""method"": ""fams"",
+  ""boxes_processed"": 6,
+  ""backend_root"": ""third_party/face_anon_simple"",
+  ""runner_path"": ""scripts/anonymisation/run_fams_backend.py"",
+  ""model_path"": null,
+  ""model_id"": ""hkung/face-anon-simple"",
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/08_0490.webp,stylegan_trunc_0.7_seed_0,outputs/03_anonymisation/06_styleid_fams/styleid_images/08_0490.webp,4,18.281,0,ok,"{
+  ""method"": ""stylegan"",
+  ""boxes_processed"": 4,
+  ""backend_root"": ""third_party/styleid"",
+  ""runner_path"": ""scripts/anonymisation/run_styleid_backend.py"",
+  ""model_path"": ""third_party/styleid/pretrained_models/stylegan2-ffhq-config-f.pt"",
+  ""model_id"": null,
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/08_0490.webp,fams_size_512_steps_15_guide_4_degree_1_iou_0.15,outputs/03_anonymisation/06_styleid_fams/fams_images/08_0490.webp,4,178.375,0,ok,"{
+  ""method"": ""fams"",
+  ""boxes_processed"": 4,
+  ""backend_root"": ""third_party/face_anon_simple"",
+  ""runner_path"": ""scripts/anonymisation/run_fams_backend.py"",
+  ""model_path"": null,
+  ""model_id"": ""hkung/face-anon-simple"",
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/09_0230.webp,stylegan_trunc_0.7_seed_0,outputs/03_anonymisation/06_styleid_fams/styleid_images/09_0230.webp,8,21.418,0,ok,"{
+  ""method"": ""stylegan"",
+  ""boxes_processed"": 8,
+  ""backend_root"": ""third_party/styleid"",
+  ""runner_path"": ""scripts/anonymisation/run_styleid_backend.py"",
+  ""model_path"": ""third_party/styleid/pretrained_models/stylegan2-ffhq-config-f.pt"",
+  ""model_id"": null,
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/09_0230.webp,fams_size_512_steps_15_guide_4_degree_1_iou_0.15,outputs/03_anonymisation/06_styleid_fams/fams_images/09_0230.webp,8,268.064,0,ok,"{
+  ""method"": ""fams"",
+  ""boxes_processed"": 8,
+  ""backend_root"": ""third_party/face_anon_simple"",
+  ""runner_path"": ""scripts/anonymisation/run_fams_backend.py"",
+  ""model_path"": null,
+  ""model_id"": ""hkung/face-anon-simple"",
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/10_0065.webp,stylegan_trunc_0.7_seed_0,outputs/03_anonymisation/06_styleid_fams/styleid_images/10_0065.webp,3,18.803,0,ok,"{
+  ""method"": ""stylegan"",
+  ""boxes_processed"": 3,
+  ""backend_root"": ""third_party/styleid"",
+  ""runner_path"": ""scripts/anonymisation/run_styleid_backend.py"",
+  ""model_path"": ""third_party/styleid/pretrained_models/stylegan2-ffhq-config-f.pt"",
+  ""model_id"": null,
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/10_0065.webp,fams_size_512_steps_15_guide_4_degree_1_iou_0.15,outputs/03_anonymisation/06_styleid_fams/fams_images/10_0065.webp,3,159.443,0,ok,"{
+  ""method"": ""fams"",
+  ""boxes_processed"": 3,
+  ""backend_root"": ""third_party/face_anon_simple"",
+  ""runner_path"": ""scripts/anonymisation/run_fams_backend.py"",
+  ""model_path"": null,
+  ""model_id"": ""hkung/face-anon-simple"",
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/10_0130.webp,stylegan_trunc_0.7_seed_0,outputs/03_anonymisation/06_styleid_fams/styleid_images/10_0130.webp,5,17.526,0,ok,"{
+  ""method"": ""stylegan"",
+  ""boxes_processed"": 5,
+  ""backend_root"": ""third_party/styleid"",
+  ""runner_path"": ""scripts/anonymisation/run_styleid_backend.py"",
+  ""model_path"": ""third_party/styleid/pretrained_models/stylegan2-ffhq-config-f.pt"",
+  ""model_id"": null,
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/10_0130.webp,fams_size_512_steps_15_guide_4_degree_1_iou_0.15,outputs/03_anonymisation/06_styleid_fams/fams_images/10_0130.webp,5,182.962,0,ok,"{
+  ""method"": ""fams"",
+  ""boxes_processed"": 5,
+  ""backend_root"": ""third_party/face_anon_simple"",
+  ""runner_path"": ""scripts/anonymisation/run_fams_backend.py"",
+  ""model_path"": null,
+  ""model_id"": ""hkung/face-anon-simple"",
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/10_0357.webp,stylegan_trunc_0.7_seed_0,outputs/03_anonymisation/06_styleid_fams/styleid_images/10_0357.webp,7,18.168,0,ok,"{
+  ""method"": ""stylegan"",
+  ""boxes_processed"": 7,
+  ""backend_root"": ""third_party/styleid"",
+  ""runner_path"": ""scripts/anonymisation/run_styleid_backend.py"",
+  ""model_path"": ""third_party/styleid/pretrained_models/stylegan2-ffhq-config-f.pt"",
+  ""model_id"": null,
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/10_0357.webp,fams_size_512_steps_15_guide_4_degree_1_iou_0.15,outputs/03_anonymisation/06_styleid_fams/fams_images/10_0357.webp,7,224.449,0,ok,"{
+  ""method"": ""fams"",
+  ""boxes_processed"": 7,
+  ""backend_root"": ""third_party/face_anon_simple"",
+  ""runner_path"": ""scripts/anonymisation/run_fams_backend.py"",
+  ""model_path"": null,
+  ""model_id"": ""hkung/face-anon-simple"",
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/10_0473.webp,stylegan_trunc_0.7_seed_0,outputs/03_anonymisation/06_styleid_fams/styleid_images/10_0473.webp,7,19.322,0,ok,"{
+  ""method"": ""stylegan"",
+  ""boxes_processed"": 7,
+  ""backend_root"": ""third_party/styleid"",
+  ""runner_path"": ""scripts/anonymisation/run_styleid_backend.py"",
+  ""model_path"": ""third_party/styleid/pretrained_models/stylegan2-ffhq-config-f.pt"",
+  ""model_id"": null,
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/10_0473.webp,fams_size_512_steps_15_guide_4_degree_1_iou_0.15,outputs/03_anonymisation/06_styleid_fams/fams_images/10_0473.webp,7,232.359,0,ok,"{
+  ""method"": ""fams"",
+  ""boxes_processed"": 7,
+  ""backend_root"": ""third_party/face_anon_simple"",
+  ""runner_path"": ""scripts/anonymisation/run_fams_backend.py"",
+  ""model_path"": null,
+  ""model_id"": ""hkung/face-anon-simple"",
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/10_0483.webp,stylegan_trunc_0.7_seed_0,outputs/03_anonymisation/06_styleid_fams/styleid_images/10_0483.webp,6,18.088,0,ok,"{
+  ""method"": ""stylegan"",
+  ""boxes_processed"": 6,
+  ""backend_root"": ""third_party/styleid"",
+  ""runner_path"": ""scripts/anonymisation/run_styleid_backend.py"",
+  ""model_path"": ""third_party/styleid/pretrained_models/stylegan2-ffhq-config-f.pt"",
+  ""model_id"": null,
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/10_0483.webp,fams_size_512_steps_15_guide_4_degree_1_iou_0.15,outputs/03_anonymisation/06_styleid_fams/fams_images/10_0483.webp,6,207.715,0,ok,"{
+  ""method"": ""fams"",
+  ""boxes_processed"": 6,
+  ""backend_root"": ""third_party/face_anon_simple"",
+  ""runner_path"": ""scripts/anonymisation/run_fams_backend.py"",
+  ""model_path"": null,
+  ""model_id"": ""hkung/face-anon-simple"",
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/10_0490.webp,stylegan_trunc_0.7_seed_0,outputs/03_anonymisation/06_styleid_fams/styleid_images/10_0490.webp,8,19.516,0,ok,"{
+  ""method"": ""stylegan"",
+  ""boxes_processed"": 8,
+  ""backend_root"": ""third_party/styleid"",
+  ""runner_path"": ""scripts/anonymisation/run_styleid_backend.py"",
+  ""model_path"": ""third_party/styleid/pretrained_models/stylegan2-ffhq-config-f.pt"",
+  ""model_id"": null,
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/10_0490.webp,fams_size_512_steps_15_guide_4_degree_1_iou_0.15,outputs/03_anonymisation/06_styleid_fams/fams_images/10_0490.webp,8,251.301,0,ok,"{
+  ""method"": ""fams"",
+  ""boxes_processed"": 8,
+  ""backend_root"": ""third_party/face_anon_simple"",
+  ""runner_path"": ""scripts/anonymisation/run_fams_backend.py"",
+  ""model_path"": null,
+  ""model_id"": ""hkung/face-anon-simple"",
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/10_0698.webp,stylegan_trunc_0.7_seed_0,outputs/03_anonymisation/06_styleid_fams/styleid_images/10_0698.webp,8,21.105,0,ok,"{
+  ""method"": ""stylegan"",
+  ""boxes_processed"": 8,
+  ""backend_root"": ""third_party/styleid"",
+  ""runner_path"": ""scripts/anonymisation/run_styleid_backend.py"",
+  ""model_path"": ""third_party/styleid/pretrained_models/stylegan2-ffhq-config-f.pt"",
+  ""model_id"": null,
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/10_0698.webp,fams_size_512_steps_15_guide_4_degree_1_iou_0.15,outputs/03_anonymisation/06_styleid_fams/fams_images/10_0698.webp,8,249.801,0,ok,"{
+  ""method"": ""fams"",
+  ""boxes_processed"": 8,
+  ""backend_root"": ""third_party/face_anon_simple"",
+  ""runner_path"": ""scripts/anonymisation/run_fams_backend.py"",
+  ""model_path"": null,
+  ""model_id"": ""hkung/face-anon-simple"",
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/11_0062.webp,stylegan_trunc_0.7_seed_0,outputs/03_anonymisation/06_styleid_fams/styleid_images/11_0062.webp,7,19.735,0,ok,"{
+  ""method"": ""stylegan"",
+  ""boxes_processed"": 7,
+  ""backend_root"": ""third_party/styleid"",
+  ""runner_path"": ""scripts/anonymisation/run_styleid_backend.py"",
+  ""model_path"": ""third_party/styleid/pretrained_models/stylegan2-ffhq-config-f.pt"",
+  ""model_id"": null,
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/11_0062.webp,fams_size_512_steps_15_guide_4_degree_1_iou_0.15,outputs/03_anonymisation/06_styleid_fams/fams_images/11_0062.webp,7,228.984,0,ok,"{
+  ""method"": ""fams"",
+  ""boxes_processed"": 7,
+  ""backend_root"": ""third_party/face_anon_simple"",
+  ""runner_path"": ""scripts/anonymisation/run_fams_backend.py"",
+  ""model_path"": null,
+  ""model_id"": ""hkung/face-anon-simple"",
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/11_0481.webp,stylegan_trunc_0.7_seed_0,outputs/03_anonymisation/06_styleid_fams/styleid_images/11_0481.webp,1,17.504,0,ok,"{
+  ""method"": ""stylegan"",
+  ""boxes_processed"": 1,
+  ""backend_root"": ""third_party/styleid"",
+  ""runner_path"": ""scripts/anonymisation/run_styleid_backend.py"",
+  ""model_path"": ""third_party/styleid/pretrained_models/stylegan2-ffhq-config-f.pt"",
+  ""model_id"": null,
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/11_0481.webp,fams_size_512_steps_15_guide_4_degree_1_iou_0.15,outputs/03_anonymisation/06_styleid_fams/fams_images/11_0481.webp,1,110.14,0,ok,"{
+  ""method"": ""fams"",
+  ""boxes_processed"": 1,
+  ""backend_root"": ""third_party/face_anon_simple"",
+  ""runner_path"": ""scripts/anonymisation/run_fams_backend.py"",
+  ""model_path"": null,
+  ""model_id"": ""hkung/face-anon-simple"",
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/12_0478.webp,stylegan_trunc_0.7_seed_0,outputs/03_anonymisation/06_styleid_fams/styleid_images/12_0478.webp,4,19.475,0,ok,"{
+  ""method"": ""stylegan"",
+  ""boxes_processed"": 4,
+  ""backend_root"": ""third_party/styleid"",
+  ""runner_path"": ""scripts/anonymisation/run_styleid_backend.py"",
+  ""model_path"": ""third_party/styleid/pretrained_models/stylegan2-ffhq-config-f.pt"",
+  ""model_id"": null,
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/12_0478.webp,fams_size_512_steps_15_guide_4_degree_1_iou_0.15,outputs/03_anonymisation/06_styleid_fams/fams_images/12_0478.webp,4,178.177,0,ok,"{
+  ""method"": ""fams"",
+  ""boxes_processed"": 4,
+  ""backend_root"": ""third_party/face_anon_simple"",
+  ""runner_path"": ""scripts/anonymisation/run_fams_backend.py"",
+  ""model_path"": null,
+  ""model_id"": ""hkung/face-anon-simple"",
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/15_0091.webp,stylegan_trunc_0.7_seed_0,outputs/03_anonymisation/06_styleid_fams/styleid_images/15_0091.webp,1,16.735,0,ok,"{
+  ""method"": ""stylegan"",
+  ""boxes_processed"": 1,
+  ""backend_root"": ""third_party/styleid"",
+  ""runner_path"": ""scripts/anonymisation/run_styleid_backend.py"",
+  ""model_path"": ""third_party/styleid/pretrained_models/stylegan2-ffhq-config-f.pt"",
+  ""model_id"": null,
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/15_0091.webp,fams_size_512_steps_15_guide_4_degree_1_iou_0.15,outputs/03_anonymisation/06_styleid_fams/fams_images/15_0091.webp,1,90.652,0,ok,"{
+  ""method"": ""fams"",
+  ""boxes_processed"": 1,
+  ""backend_root"": ""third_party/face_anon_simple"",
+  ""runner_path"": ""scripts/anonymisation/run_fams_backend.py"",
+  ""model_path"": null,
+  ""model_id"": ""hkung/face-anon-simple"",
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/15_0315.webp,stylegan_trunc_0.7_seed_0,outputs/03_anonymisation/06_styleid_fams/styleid_images/15_0315.webp,3,18.809,0,ok,"{
+  ""method"": ""stylegan"",
+  ""boxes_processed"": 3,
+  ""backend_root"": ""third_party/styleid"",
+  ""runner_path"": ""scripts/anonymisation/run_styleid_backend.py"",
+  ""model_path"": ""third_party/styleid/pretrained_models/stylegan2-ffhq-config-f.pt"",
+  ""model_id"": null,
+  ""python_executable"": "".venv/bin/python""
+}",
+day1/members/bjorn/15_0315.webp,fams_size_512_steps_15_guide_4_degree_1_iou_0.15,outputs/03_anonymisation/06_styleid_fams/fams_images/15_0315.webp,3,157.785,0,ok,"{
+  ""method"": ""fams"",
+  ""boxes_processed"": 3,
+  ""backend_root"": ""third_party/face_anon_simple"",
+  ""runner_path"": ""scripts/anonymisation/run_fams_backend.py"",
+  ""model_path"": null,
+  ""model_id"": ""hkung/face-anon-simple"",
+  ""python_executable"": "".venv/bin/python""
+}",

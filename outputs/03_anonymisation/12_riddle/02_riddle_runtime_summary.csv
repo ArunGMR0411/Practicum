@@ -1,0 +1,2 @@
+method,input_frames,successful_frames,failed_frames,face_boxes,total_runtime_seconds,mean_runtime_seconds,face_batch_size,image_chunk_size,peak_vram_gib,gpu_name,runtime_note
+riddle,500,500,0,1279,245.2138138150001,0.4904276276300002,384,200,49.857797145843506,cuda_accelerator_80gb,End-to-end generation and compositing runtime; per-image rows allocate shared batch time by face count.

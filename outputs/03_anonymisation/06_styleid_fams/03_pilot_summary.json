@@ -1,0 +1,37 @@
+{
+  "requested_images": [
+    "day1/members/allie/10_0122.webp",
+    "day1/members/allie/10_0212.webp",
+    "day1/members/allie/10_0311.webp",
+    "day1/members/allie/10_0320.webp",
+    "day1/members/allie/10_0529.webp",
+    "day1/members/allie/14_0050.webp",
+    "day1/members/allie/14_0528.webp",
+    "day1/members/allie/18_0298.webp",
+    "day1/members/allie/19_0429.webp",
+    "day1/members/allie/19_0669.webp",
+    "day1/members/bjorn/08_0189.webp",
+    "day1/members/bjorn/08_0490.webp",
+    "day1/members/bjorn/09_0230.webp",
+    "day1/members/bjorn/10_0065.webp",
+    "day1/members/bjorn/10_0130.webp",
+    "day1/members/bjorn/10_0357.webp",
+    "day1/members/bjorn/10_0473.webp",
+    "day1/members/bjorn/10_0483.webp",
+    "day1/members/bjorn/10_0490.webp",
+    "day1/members/bjorn/10_0698.webp",
+    "day1/members/bjorn/11_0062.webp",
+    "day1/members/bjorn/11_0481.webp",
+    "day1/members/bjorn/12_0478.webp",
+    "day1/members/bjorn/15_0091.webp",
+    "day1/members/bjorn/15_0315.webp"
+  ],
+  "methods": [
+    "stylegan",
+    "fams"
+  ],
+  "jobs_attempted": 50,
+  "jobs_ok": 50,
+  "jobs_error": 0,
+  "manifest": "outputs/03_anonymisation/06_styleid_fams/02_pilot_manifest.csv"
+}

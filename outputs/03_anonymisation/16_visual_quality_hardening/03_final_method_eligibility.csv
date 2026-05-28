@@ -1,0 +1,13 @@
+method,eligibility,final_role,reason
+no_action_copy,ELIGIBLE,reviewed no-face frames only,Avoids unnecessary image modification where manual ground truth records no face.
+blur,ELIGIBLE,utility-oriented deterministic candidate,"Predictable, fast, and free of synthetic insertion; privacy strength must meet the route floor."
+pixelate,ELIGIBLE,utility-oriented deterministic candidate,Predictable and fast; selected only where the privacy-weighted score supports it.
+solid_mask_black,ELIGIBLE,privacy-first terminal action,Strongest deterministic concealment at the largest face-region utility cost.
+layered_blur_downscale_noise,ELIGIBLE,default balanced action,"Combines downscale, pixelation, blur, and noise without inventing a face."
+nullface,RESEARCH_ONLY_NOT_DEFAULT,research comparison,Author-style localized masking retained malformed geometry or weak privacy change on the hard-case audit.
+diffusion_low_step,RESEARCH_ONLY_NOT_DEFAULT,negative/conditional evidence,Tighter blending improved visual quality but did not pass geometry-preservation and privacy-change checks on every hard case.
+reverse_personalization,RESEARCH_ONLY_NOT_DEFAULT,research comparison,"Guidance sweeps retained appearance drift, weak small/edge privacy, and multi-face failure."
+styleid_stylegan,EXCLUDED,quality-limited evidence,Systematic tuning did not resolve egocentric geometry and compositing failures.
+fams,EXCLUDED,quality-limited evidence,The 25-step multi-face recipe and 200-step author-sample control both failed with the obtainable SD2.1 mirror; the original model identifier was inaccessible.
+riddle,RESEARCH_COMPARABLE_NOT_DEFAULT,full comparable evidence,Strong privacy metrics do not outweigh 14% observed artifacts and pose/gaze failures.
+falco,RESEARCH_COMPARABLE_NOT_DEFAULT,full comparable evidence,22% observed artifacts and high runtime prevent default routing.

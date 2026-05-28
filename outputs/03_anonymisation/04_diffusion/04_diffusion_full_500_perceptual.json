@@ -1,0 +1,3013 @@
+{
+  "summary": {
+    "diffusion_low_step": {
+      "ssim_mean": 0.9863531867525103,
+      "ssim_std": 0.009717477051952923,
+      "lpips_mean": 0.01045596917765215,
+      "lpips_std": 0.0103610682507483,
+      "sample_count": 500
+    }
+  },
+  "detailed": [
+    {
+      "relative_path": "day3/members/stevan/20_0682.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9792032334952944,
+      "lpips": 0.01586184650659561
+    },
+    {
+      "relative_path": "day1/members/luca/12_0078.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9960238566748004,
+      "lpips": 0.002488503698259592
+    },
+    {
+      "relative_path": "day3/members/tien/14_0649.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9703276007376164,
+      "lpips": 0.029139209538698196
+    },
+    {
+      "relative_path": "day2/members/bjorn/16_0250.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9963648491866116,
+      "lpips": 0.000968403008300811
+    },
+    {
+      "relative_path": "day1/members/stevan/10_0179.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9844148374456023,
+      "lpips": 0.011022783815860748
+    },
+    {
+      "relative_path": "day3/members/werner/08_0619.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9889593452048419,
+      "lpips": 0.008454164490103722
+    },
+    {
+      "relative_path": "day3/members/tien/10_0512.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9948492255821112,
+      "lpips": 0.004438360687345266
+    },
+    {
+      "relative_path": "day1/members/werner/14_0048.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9938649149959374,
+      "lpips": 0.004068936221301556
+    },
+    {
+      "relative_path": "day1/members/klaus/17_0206.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9760404489097434,
+      "lpips": 0.02297760546207428
+    },
+    {
+      "relative_path": "day4/members/florian/11_0412.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9867175018386857,
+      "lpips": 0.00789700634777546
+    },
+    {
+      "relative_path": "day1/members/allie/18_0412.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9756103365864183,
+      "lpips": 0.03639083355665207
+    },
+    {
+      "relative_path": "day2/members/klaus/18_0601.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9917815725214658,
+      "lpips": 0.0035849707201123238
+    },
+    {
+      "relative_path": "day4/members/allie/12_0604.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9871706673738024,
+      "lpips": 0.015434788540005684
+    },
+    {
+      "relative_path": "day1/members/onanong/08_0572.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9868915686713376,
+      "lpips": 0.008215729147195816
+    },
+    {
+      "relative_path": "day3/members/stevan/09_0286.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9889256280237073,
+      "lpips": 0.01316338311880827
+    },
+    {
+      "relative_path": "day3/members/tien/20_0434.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9880443190335497,
+      "lpips": 0.008775705471634865
+    },
+    {
+      "relative_path": "day4/members/werner/18_0362.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9953119741863,
+      "lpips": 0.002370326081290841
+    },
+    {
+      "relative_path": "day1/members/cathal/12_0342.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9773757510286742,
+      "lpips": 0.020477302372455597
+    },
+    {
+      "relative_path": "day3/members/florian/19_0198.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9927527307797392,
+      "lpips": 0.005356594454497099
+    },
+    {
+      "relative_path": "day4/members/allie/18_0334.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9781758142011862,
+      "lpips": 0.01686049997806549
+    },
+    {
+      "relative_path": "day4/members/werner/09_0017.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9948159719157313,
+      "lpips": 0.0011806967668235302
+    },
+    {
+      "relative_path": "day4/members/werner/12_0528.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9903231545650479,
+      "lpips": 0.006119823083281517
+    },
+    {
+      "relative_path": "day3/members/bjorn/20_0140.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9839313926736407,
+      "lpips": 0.01679859682917595
+    },
+    {
+      "relative_path": "day3/members/onanong/15_0413.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9812722085965907,
+      "lpips": 0.011618610471487045
+    },
+    {
+      "relative_path": "day1/members/luca/13_0044.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9845728904155417,
+      "lpips": 0.014885179698467255
+    },
+    {
+      "relative_path": "day4/members/luca/11_0578.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9826298259897079,
+      "lpips": 0.01098264753818512
+    },
+    {
+      "relative_path": "day4/members/werner/18_0672.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9874471703104112,
+      "lpips": 0.00824350118637085
+    },
+    {
+      "relative_path": "day2/members/luca/11_0416.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9832612710443627,
+      "lpips": 0.010691925883293152
+    },
+    {
+      "relative_path": "day1/members/stevan/08_0631.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9955351426695113,
+      "lpips": 0.00130521971732378
+    },
+    {
+      "relative_path": "day3/members/luca/17_0412.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9767081298644674,
+      "lpips": 0.018857721239328384
+    },
+    {
+      "relative_path": "day4/members/onanong/13_0378.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9822054080859277,
+      "lpips": 0.016630837693810463
+    },
+    {
+      "relative_path": "day3/members/luca/11_0126.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9743178432894432,
+      "lpips": 0.021592937409877777
+    },
+    {
+      "relative_path": "day4/members/cathal/13_0074.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9830898337137,
+      "lpips": 0.010825905948877335
+    },
+    {
+      "relative_path": "day2/members/cathal/19_0687.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9879997010666934,
+      "lpips": 0.009173888713121414
+    },
+    {
+      "relative_path": "day1/members/allie/09_0273.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9840158089485818,
+      "lpips": 0.010029232129454613
+    },
+    {
+      "relative_path": "day3/members/luca/13_0698.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9852572593246366,
+      "lpips": 0.012212913483381271
+    },
+    {
+      "relative_path": "day4/members/allie/09_0480.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9943252258123381,
+      "lpips": 0.001987934112548828
+    },
+    {
+      "relative_path": "day1/members/luca/18_0040.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9898518668501145,
+      "lpips": 0.006108509376645088
+    },
+    {
+      "relative_path": "day2/members/luca/10_0654.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9845628319195553,
+      "lpips": 0.006479309871792793
+    },
+    {
+      "relative_path": "day1/members/klaus/10_0063.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9554657424940357,
+      "lpips": 0.05319257825613022
+    },
+    {
+      "relative_path": "day3/members/tien/20_0155.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9838266326523198,
+      "lpips": 0.01602843403816223
+    },
+    {
+      "relative_path": "day1/members/onanong/08_0611.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9879603469145312,
+      "lpips": 0.007346576079726219
+    },
+    {
+      "relative_path": "day4/members/stevan/13_0714.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9875986567735073,
+      "lpips": 0.009211551398038864
+    },
+    {
+      "relative_path": "day2/members/florian/12_0020.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9954847344477841,
+      "lpips": 0.0011223293840885162
+    },
+    {
+      "relative_path": "day1/members/cathal/09_0001.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9674201301110853,
+      "lpips": 0.03278946876525879
+    },
+    {
+      "relative_path": "day1/members/luca/08_0225.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9941522858471216,
+      "lpips": 0.0028749657794833183
+    },
+    {
+      "relative_path": "day1/members/allie/14_0135.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9852801105162564,
+      "lpips": 0.014597130939364433
+    },
+    {
+      "relative_path": "day1/members/allie/10_0099.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9899937104978079,
+      "lpips": 0.007824936881661415
+    },
+    {
+      "relative_path": "day4/members/bao/08_0028.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9957676187036117,
+      "lpips": 0.0013773153768852353
+    },
+    {
+      "relative_path": "day1/members/bjorn/18_0340.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9935810543684589,
+      "lpips": 0.004331419710069895
+    },
+    {
+      "relative_path": "day1/members/luca/15_0236.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9822388296854817,
+      "lpips": 0.019499721005558968
+    },
+    {
+      "relative_path": "day2/members/florian/19_0363.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9952137951304741,
+      "lpips": 0.0015640383353456855
+    },
+    {
+      "relative_path": "day1/members/werner/18_0484.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9853321184066685,
+      "lpips": 0.013314491137862206
+    },
+    {
+      "relative_path": "day4/members/allie/08_0040.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9614812222879858,
+      "lpips": 0.0372563898563385
+    },
+    {
+      "relative_path": "day2/members/klaus/12_0264.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9952134462606539,
+      "lpips": 0.001915904227644205
+    },
+    {
+      "relative_path": "day1/members/florian/08_0717.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9768041335034722,
+      "lpips": 0.017975037917494774
+    },
+    {
+      "relative_path": "day2/members/allie/13_0355.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9955678892290826,
+      "lpips": 0.0011862311512231827
+    },
+    {
+      "relative_path": "day1/members/bjorn/15_0004.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9865705497779995,
+      "lpips": 0.012964517809450626
+    },
+    {
+      "relative_path": "day2/members/klaus/10_0629.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9868784693781006,
+      "lpips": 0.009248081594705582
+    },
+    {
+      "relative_path": "day1/members/luca/08_0069.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9957208181560913,
+      "lpips": 0.0014688471565023065
+    },
+    {
+      "relative_path": "day4/members/werner/08_0337.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.991673552165306,
+      "lpips": 0.0034326871391385794
+    },
+    {
+      "relative_path": "day2/members/werner/17_0115.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9909319309037966,
+      "lpips": 0.006281335838139057
+    },
+    {
+      "relative_path": "day3/members/klaus/12_0484.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.998476801802011,
+      "lpips": 0.002058028941974044
+    },
+    {
+      "relative_path": "day4/members/stevan/13_0149.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9852033963681789,
+      "lpips": 0.01677645742893219
+    },
+    {
+      "relative_path": "day1/members/luca/08_0716.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9893414651268161,
+      "lpips": 0.0036903272848576307
+    },
+    {
+      "relative_path": "day1/members/cathal/08_0346.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9945877274114706,
+      "lpips": 0.0051650917157530785
+    },
+    {
+      "relative_path": "day4/members/florian/10_0112.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9823971505959245,
+      "lpips": 0.010223662480711937
+    },
+    {
+      "relative_path": "day1/members/florian/13_0133.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9901669769567127,
+      "lpips": 0.0034749414771795273
+    },
+    {
+      "relative_path": "day2/members/tien/19_0311.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9895696777008179,
+      "lpips": 0.008150053210556507
+    },
+    {
+      "relative_path": "day3/members/werner/08_0688.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9912320552003053,
+      "lpips": 0.005956893786787987
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0042.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.981672029623978,
+      "lpips": 0.01522769220173359
+    },
+    {
+      "relative_path": "day3/members/luca/18_0573.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9838569291125542,
+      "lpips": 0.01469002477824688
+    },
+    {
+      "relative_path": "day3/members/allie/17_0205.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9833435175689034,
+      "lpips": 0.018686529248952866
+    },
+    {
+      "relative_path": "day3/members/bjorn/18_0629.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9608176533264047,
+      "lpips": 0.045578643679618835
+    },
+    {
+      "relative_path": "day3/members/florian/19_0349.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9946024050414675,
+      "lpips": 0.001751843374222517
+    },
+    {
+      "relative_path": "day3/members/cathal/11_0509.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9959388260428875,
+      "lpips": 0.0012693090829998255
+    },
+    {
+      "relative_path": "day3/members/allie/17_0399.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9836339490808111,
+      "lpips": 0.01711408607661724
+    },
+    {
+      "relative_path": "day1/members/klaus/09_0114.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9780137853932428,
+      "lpips": 0.016329588368535042
+    },
+    {
+      "relative_path": "day4/members/klaus/11_0401.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9883517507701302,
+      "lpips": 0.006524955853819847
+    },
+    {
+      "relative_path": "day4/members/luca/14_0559.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.994482879651703,
+      "lpips": 0.0024949563667178154
+    },
+    {
+      "relative_path": "day2/members/bjorn/19_0429.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9943870317553446,
+      "lpips": 0.002188474638387561
+    },
+    {
+      "relative_path": "day1/members/luca/12_0168.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9943469583116911,
+      "lpips": 0.0017023382242769003
+    },
+    {
+      "relative_path": "day4/members/onanong/12_0450.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9955691112813607,
+      "lpips": 0.0017024215776473284
+    },
+    {
+      "relative_path": "day2/members/cathal/12_0044.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9808487237156784,
+      "lpips": 0.01079476997256279
+    },
+    {
+      "relative_path": "day3/members/klaus/15_0375.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9948843724178883,
+      "lpips": 0.0012381901033222675
+    },
+    {
+      "relative_path": "day1/members/onanong/10_0201.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9907463161011593,
+      "lpips": 0.004428111016750336
+    },
+    {
+      "relative_path": "day2/members/florian/14_0324.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9536748360483299,
+      "lpips": 0.038723863661289215
+    },
+    {
+      "relative_path": "day4/members/bao/11_0549.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9733943338859105,
+      "lpips": 0.024175213649868965
+    },
+    {
+      "relative_path": "day3/members/florian/12_0302.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9951848369328563,
+      "lpips": 0.0043462468311190605
+    },
+    {
+      "relative_path": "day3/members/allie/12_0570.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9965661585013685,
+      "lpips": 0.0028488049283623695
+    },
+    {
+      "relative_path": "day3/members/tien/09_0391.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9952831704099291,
+      "lpips": 0.0016573716420680285
+    },
+    {
+      "relative_path": "day4/members/luca/10_0077.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9861836905011375,
+      "lpips": 0.012660644948482513
+    },
+    {
+      "relative_path": "day3/members/stevan/20_0090.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9953888149709958,
+      "lpips": 0.002062177285552025
+    },
+    {
+      "relative_path": "day3/members/klaus/18_0283.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9750010731238578,
+      "lpips": 0.016091855242848396
+    },
+    {
+      "relative_path": "day4/members/bjorn/08_0670.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.990866760624849,
+      "lpips": 0.0022646067664027214
+    },
+    {
+      "relative_path": "day3/members/luca/18_0517.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9854003246936908,
+      "lpips": 0.010156575590372086
+    },
+    {
+      "relative_path": "day1/members/onanong/14_0049.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9848786967238553,
+      "lpips": 0.009407669305801392
+    },
+    {
+      "relative_path": "day1/members/luca/15_0372.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9781049272474799,
+      "lpips": 0.011501923203468323
+    },
+    {
+      "relative_path": "day4/members/cathal/13_0418.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9844432699495295,
+      "lpips": 0.009864624589681625
+    },
+    {
+      "relative_path": "day1/members/bjorn/10_0088.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9897765777735685,
+      "lpips": 0.006557233165949583
+    },
+    {
+      "relative_path": "day2/members/werner/10_0252.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9737318716683326,
+      "lpips": 0.026760876178741455
+    },
+    {
+      "relative_path": "day4/members/bjorn/13_0126.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9831743059585275,
+      "lpips": 0.01458660140633583
+    },
+    {
+      "relative_path": "day1/members/bjorn/11_0116.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9843322710475474,
+      "lpips": 0.013386281207203865
+    },
+    {
+      "relative_path": "day3/members/klaus/09_0194.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9941540690019224,
+      "lpips": 0.0014392798766493797
+    },
+    {
+      "relative_path": "day3/members/klaus/20_0128.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9882285021871485,
+      "lpips": 0.011220471933484077
+    },
+    {
+      "relative_path": "day1/members/florian/08_0341.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9945528986536596,
+      "lpips": 0.0019135975744575262
+    },
+    {
+      "relative_path": "day3/members/cathal/12_0524.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9957699031102818,
+      "lpips": 0.0027818612288683653
+    },
+    {
+      "relative_path": "day2/members/onanong/17_0009.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9905469055743793,
+      "lpips": 0.005824924446642399
+    },
+    {
+      "relative_path": "day3/members/klaus/12_0480.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9989062009316809,
+      "lpips": 0.002744027879089117
+    },
+    {
+      "relative_path": "day1/members/werner/19_0255.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9919099553133558,
+      "lpips": 0.004133548121899366
+    },
+    {
+      "relative_path": "day1/members/werner/13_0606.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9943280194347625,
+      "lpips": 0.0025040481705218554
+    },
+    {
+      "relative_path": "day4/members/bjorn/10_0076.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9947356566990225,
+      "lpips": 0.0023515401408076286
+    },
+    {
+      "relative_path": "day3/members/luca/19_0582.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9959221158742633,
+      "lpips": 0.0025602728128433228
+    },
+    {
+      "relative_path": "day1/members/bjorn/18_0134.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.961345281914117,
+      "lpips": 0.04865729808807373
+    },
+    {
+      "relative_path": "day4/members/luca/10_0115.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9847879584742097,
+      "lpips": 0.009818937629461288
+    },
+    {
+      "relative_path": "day3/members/bjorn/18_0483.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9792723492742871,
+      "lpips": 0.015930121764540672
+    },
+    {
+      "relative_path": "day2/members/tien/19_0512.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9638889113633163,
+      "lpips": 0.027076683938503265
+    },
+    {
+      "relative_path": "day2/members/stevan/11_0452.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9788194880790618,
+      "lpips": 0.015144454315304756
+    },
+    {
+      "relative_path": "day1/members/tien/08_0068.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9953525025463167,
+      "lpips": 0.0016052904538810253
+    },
+    {
+      "relative_path": "day1/members/florian/18_0328.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9945560766332826,
+      "lpips": 0.002070722868666053
+    },
+    {
+      "relative_path": "day2/members/onanong/18_0325.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9813712967262102,
+      "lpips": 0.011960767209529877
+    },
+    {
+      "relative_path": "day2/members/cathal/10_0597.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9790982140275034,
+      "lpips": 0.02154945395886898
+    },
+    {
+      "relative_path": "day3/members/klaus/11_0207.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9957029389492571,
+      "lpips": 0.0015506859635934234
+    },
+    {
+      "relative_path": "day2/members/bjorn/15_0627.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9954816971724103,
+      "lpips": 0.001328575424849987
+    },
+    {
+      "relative_path": "day2/members/onanong/14_0193.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9846837707824753,
+      "lpips": 0.005911580286920071
+    },
+    {
+      "relative_path": "day2/members/onanong/10_0373.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9841093101245586,
+      "lpips": 0.007231268100440502
+    },
+    {
+      "relative_path": "day4/members/bao/11_0220.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9844401051528994,
+      "lpips": 0.013364089652895927
+    },
+    {
+      "relative_path": "day2/members/klaus/15_0590.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.996022734664078,
+      "lpips": 0.0010393778793513775
+    },
+    {
+      "relative_path": "day1/members/werner/11_0547.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9981085545354685,
+      "lpips": 0.0014314515283331275
+    },
+    {
+      "relative_path": "day3/members/klaus/18_0613.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9797977971085952,
+      "lpips": 0.014744436368346214
+    },
+    {
+      "relative_path": "day1/members/cathal/10_0708.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9866168746597376,
+      "lpips": 0.014785952866077423
+    },
+    {
+      "relative_path": "day1/members/tien/19_0392.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9608111671220829,
+      "lpips": 0.038651518523693085
+    },
+    {
+      "relative_path": "day4/members/luca/11_0464.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9783448924157802,
+      "lpips": 0.015199055895209312
+    },
+    {
+      "relative_path": "day3/members/allie/10_0655.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9935468086239893,
+      "lpips": 0.0021456347312778234
+    },
+    {
+      "relative_path": "day2/members/allie/13_0179.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9954556847326597,
+      "lpips": 0.0009576892480254173
+    },
+    {
+      "relative_path": "day1/members/florian/15_0647.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9950425851063791,
+      "lpips": 0.0015370798064395785
+    },
+    {
+      "relative_path": "day2/members/klaus/12_0531.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9946627860033924,
+      "lpips": 0.002083356259390712
+    },
+    {
+      "relative_path": "day1/members/bjorn/15_0586.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9954131844466817,
+      "lpips": 0.0016478095203638077
+    },
+    {
+      "relative_path": "day1/members/bjorn/09_0318.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9944845713947159,
+      "lpips": 0.0023939332459121943
+    },
+    {
+      "relative_path": "day3/members/allie/12_0148.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9904118644364438,
+      "lpips": 0.00446992926299572
+    },
+    {
+      "relative_path": "day1/members/klaus/17_0521.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9806254913035803,
+      "lpips": 0.018341775983572006
+    },
+    {
+      "relative_path": "day2/members/luca/10_0586.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9869919971227947,
+      "lpips": 0.009193592704832554
+    },
+    {
+      "relative_path": "day4/members/onanong/11_0656.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9661784085300327,
+      "lpips": 0.036275625228881836
+    },
+    {
+      "relative_path": "day1/members/onanong/17_0468.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9920455761678683,
+      "lpips": 0.0024211802519857883
+    },
+    {
+      "relative_path": "day2/members/werner/14_0229.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.993460373092594,
+      "lpips": 0.003493731142953038
+    },
+    {
+      "relative_path": "day3/members/allie/18_0514.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9827150642460558,
+      "lpips": 0.009456002153456211
+    },
+    {
+      "relative_path": "day1/members/bjorn/10_0130.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9848864494578028,
+      "lpips": 0.014600628986954689
+    },
+    {
+      "relative_path": "day2/members/onanong/16_0470.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9951112883928334,
+      "lpips": 0.0028565276879817247
+    },
+    {
+      "relative_path": "day2/members/werner/20_0620.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9956137562677694,
+      "lpips": 0.0020543495193123817
+    },
+    {
+      "relative_path": "day4/members/bjorn/08_0126.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9953662370132511,
+      "lpips": 0.002813951810821891
+    },
+    {
+      "relative_path": "day1/members/allie/10_0296.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.989043670313087,
+      "lpips": 0.01097527053207159
+    },
+    {
+      "relative_path": "day1/members/tien/08_0310.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9934000936200559,
+      "lpips": 0.0057590194046497345
+    },
+    {
+      "relative_path": "day1/members/florian/18_0375.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.994712747405822,
+      "lpips": 0.0015208146069198847
+    },
+    {
+      "relative_path": "day1/members/bjorn/14_0017.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9950732142204952,
+      "lpips": 0.0016705356538295746
+    },
+    {
+      "relative_path": "day4/members/luca/18_0521.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.994674663565161,
+      "lpips": 0.002847521100193262
+    },
+    {
+      "relative_path": "day3/members/onanong/12_0488.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9958187431471283,
+      "lpips": 0.0020334506407380104
+    },
+    {
+      "relative_path": "day1/members/allie/10_0546.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.98672039172239,
+      "lpips": 0.007694833911955357
+    },
+    {
+      "relative_path": "day2/members/luca/20_0211.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9874190765768232,
+      "lpips": 0.009574692696332932
+    },
+    {
+      "relative_path": "day4/members/allie/11_0376.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.982210106331681,
+      "lpips": 0.009767401032149792
+    },
+    {
+      "relative_path": "day1/members/klaus/09_0268.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9811381243771281,
+      "lpips": 0.014556722715497017
+    },
+    {
+      "relative_path": "day1/members/tien/15_0093.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9825866111949888,
+      "lpips": 0.012786805629730225
+    },
+    {
+      "relative_path": "day3/members/florian/19_0282.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9961395812504068,
+      "lpips": 0.001022854121401906
+    },
+    {
+      "relative_path": "day4/members/bjorn/12_0570.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9827702447409415,
+      "lpips": 0.01425695139914751
+    },
+    {
+      "relative_path": "day1/members/cathal/15_0298.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9764712087391457,
+      "lpips": 0.01009625755250454
+    },
+    {
+      "relative_path": "day4/members/cathal/17_0524.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9959989042980751,
+      "lpips": 0.0015585115179419518
+    },
+    {
+      "relative_path": "day4/members/luca/14_0018.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9858614937101434,
+      "lpips": 0.005818735808134079
+    },
+    {
+      "relative_path": "day1/members/bjorn/10_0501.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.978048000834685,
+      "lpips": 0.020082559436559677
+    },
+    {
+      "relative_path": "day1/members/allie/15_0458.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.984147273776848,
+      "lpips": 0.011689160019159317
+    },
+    {
+      "relative_path": "day4/members/klaus/14_0224.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.975063675954846,
+      "lpips": 0.02057705819606781
+    },
+    {
+      "relative_path": "day1/members/stevan/11_0011.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9878746222167439,
+      "lpips": 0.011038463562726974
+    },
+    {
+      "relative_path": "day1/members/cathal/13_0040.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9309544445657528,
+      "lpips": 0.06201784312725067
+    },
+    {
+      "relative_path": "day2/members/bjorn/20_0121.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9798247382987247,
+      "lpips": 0.01548057235777378
+    },
+    {
+      "relative_path": "day4/members/stevan/10_0044.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9760519396758562,
+      "lpips": 0.016744442284107208
+    },
+    {
+      "relative_path": "day1/members/tien/13_0571.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9858398714815445,
+      "lpips": 0.018854007124900818
+    },
+    {
+      "relative_path": "day1/members/tien/14_0211.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9830238681554038,
+      "lpips": 0.009020740166306496
+    },
+    {
+      "relative_path": "day2/members/cathal/19_0198.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9954849714136448,
+      "lpips": 0.0015418389812111855
+    },
+    {
+      "relative_path": "day3/members/stevan/18_0537.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.980752362708245,
+      "lpips": 0.014658861793577671
+    },
+    {
+      "relative_path": "day2/members/florian/12_0439.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9965604375941789,
+      "lpips": 0.001143025467172265
+    },
+    {
+      "relative_path": "day2/members/allie/11_0505.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9817527317066377,
+      "lpips": 0.017569296061992645
+    },
+    {
+      "relative_path": "day3/members/stevan/08_0717.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9903413796345015,
+      "lpips": 0.010598186403512955
+    },
+    {
+      "relative_path": "day3/members/werner/08_0594.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9907713469073268,
+      "lpips": 0.005535556469112635
+    },
+    {
+      "relative_path": "day2/members/klaus/18_0665.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9900331268060635,
+      "lpips": 0.006708139553666115
+    },
+    {
+      "relative_path": "day4/members/allie/09_0451.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.980206686491126,
+      "lpips": 0.013051820918917656
+    },
+    {
+      "relative_path": "day3/members/allie/10_0210.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9940832168298407,
+      "lpips": 0.0025585037656128407
+    },
+    {
+      "relative_path": "day4/members/klaus/12_0644.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9803621274126236,
+      "lpips": 0.014416919089853764
+    },
+    {
+      "relative_path": "day2/members/allie/10_0243.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9794944764618426,
+      "lpips": 0.020025407895445824
+    },
+    {
+      "relative_path": "day3/members/stevan/17_0661.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9770522357861829,
+      "lpips": 0.02017872780561447
+    },
+    {
+      "relative_path": "day1/members/klaus/16_0531.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9824913807457148,
+      "lpips": 0.018277021124958992
+    },
+    {
+      "relative_path": "day2/members/luca/17_0249.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.996271929189807,
+      "lpips": 0.0010126415872946382
+    },
+    {
+      "relative_path": "day2/members/cathal/14_0361.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.988276550491627,
+      "lpips": 0.011541549116373062
+    },
+    {
+      "relative_path": "day4/members/werner/14_0045.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9827912057952634,
+      "lpips": 0.01398860290646553
+    },
+    {
+      "relative_path": "day3/members/tien/11_0464.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9768084721252023,
+      "lpips": 0.01951472833752632
+    },
+    {
+      "relative_path": "day3/members/werner/10_0468.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9907267473457909,
+      "lpips": 0.010173926129937172
+    },
+    {
+      "relative_path": "day3/members/allie/12_0237.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9961995636578859,
+      "lpips": 0.0011056950315833092
+    },
+    {
+      "relative_path": "day1/members/stevan/10_0250.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9778444666946169,
+      "lpips": 0.01915815658867359
+    },
+    {
+      "relative_path": "day2/members/tien/18_0209.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9917491264380424,
+      "lpips": 0.004501402843743563
+    },
+    {
+      "relative_path": "day2/members/allie/17_0331.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9752606583025997,
+      "lpips": 0.015600000508129597
+    },
+    {
+      "relative_path": "day1/members/onanong/16_0577.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9913676787355064,
+      "lpips": 0.0036675408482551575
+    },
+    {
+      "relative_path": "day2/members/allie/11_0188.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9822088148969822,
+      "lpips": 0.012045349925756454
+    },
+    {
+      "relative_path": "day3/members/stevan/20_0667.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9764873935649884,
+      "lpips": 0.01929190382361412
+    },
+    {
+      "relative_path": "day4/members/luca/18_0590.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9868122878636361,
+      "lpips": 0.008563412353396416
+    },
+    {
+      "relative_path": "day1/members/onanong/18_0512.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9596016596935767,
+      "lpips": 0.04455379396677017
+    },
+    {
+      "relative_path": "day2/members/tien/20_0019.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9745369854715581,
+      "lpips": 0.02258884906768799
+    },
+    {
+      "relative_path": "day2/members/cathal/14_0312.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9803142343406274,
+      "lpips": 0.015005652792751789
+    },
+    {
+      "relative_path": "day2/members/bjorn/19_0139.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.989406813627701,
+      "lpips": 0.004647729452699423
+    },
+    {
+      "relative_path": "day2/members/klaus/10_0219.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.990381251818376,
+      "lpips": 0.0046589989215135574
+    },
+    {
+      "relative_path": "day2/members/onanong/14_0331.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9847869627624922,
+      "lpips": 0.013877084478735924
+    },
+    {
+      "relative_path": "day1/members/luca/19_0006.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.991939087312142,
+      "lpips": 0.004355838522315025
+    },
+    {
+      "relative_path": "day4/members/onanong/10_0182.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.990039625404417,
+      "lpips": 0.0037926742807030678
+    },
+    {
+      "relative_path": "day3/members/onanong/16_0319.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9934633132126179,
+      "lpips": 0.004042815417051315
+    },
+    {
+      "relative_path": "day2/members/werner/12_0480.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9807552431436908,
+      "lpips": 0.013484368100762367
+    },
+    {
+      "relative_path": "day1/members/tien/19_0050.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9957374462091612,
+      "lpips": 0.0009483128087595105
+    },
+    {
+      "relative_path": "day3/members/florian/20_0698.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9871149192793528,
+      "lpips": 0.006880877539515495
+    },
+    {
+      "relative_path": "day3/members/cathal/08_0097.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.994676871529654,
+      "lpips": 0.0018494304968044162
+    },
+    {
+      "relative_path": "day2/members/werner/20_0389.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.99244428837657,
+      "lpips": 0.004190407227724791
+    },
+    {
+      "relative_path": "day3/members/onanong/14_0121.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9979249698154468,
+      "lpips": 0.0007481200154870749
+    },
+    {
+      "relative_path": "day3/members/werner/12_0583.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9976824676102573,
+      "lpips": 0.0015054919058457017
+    },
+    {
+      "relative_path": "day2/members/onanong/10_0518.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9758812785041512,
+      "lpips": 0.016420206055045128
+    },
+    {
+      "relative_path": "day3/members/onanong/16_0114.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9952009173880724,
+      "lpips": 0.0019225222058594227
+    },
+    {
+      "relative_path": "day2/members/stevan/09_0309.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9960852108600147,
+      "lpips": 0.0009796071099117398
+    },
+    {
+      "relative_path": "day3/members/tien/11_0628.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9884327750550296,
+      "lpips": 0.006564478389918804
+    },
+    {
+      "relative_path": "day3/members/allie/08_0398.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9955404136555587,
+      "lpips": 0.0011460365494713187
+    },
+    {
+      "relative_path": "day1/members/cathal/15_0162.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9817917746414553,
+      "lpips": 0.017159832641482353
+    },
+    {
+      "relative_path": "day2/members/klaus/13_0331.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9697224639179999,
+      "lpips": 0.024278733879327774
+    },
+    {
+      "relative_path": "day1/members/werner/11_0515.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.994881402695493,
+      "lpips": 0.0030677057802677155
+    },
+    {
+      "relative_path": "day3/members/stevan/10_0619.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9952707652763181,
+      "lpips": 0.001965360715985298
+    },
+    {
+      "relative_path": "day2/members/tien/13_0604.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9748147153831357,
+      "lpips": 0.018238794058561325
+    },
+    {
+      "relative_path": "day4/members/cathal/09_0426.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9939686601229428,
+      "lpips": 0.0014480159152299166
+    },
+    {
+      "relative_path": "day3/members/bjorn/12_0362.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9971236091972892,
+      "lpips": 0.003627351252362132
+    },
+    {
+      "relative_path": "day1/members/klaus/11_0523.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9930795389807326,
+      "lpips": 0.002302821259945631
+    },
+    {
+      "relative_path": "day1/members/tien/10_0032.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9903795944791366,
+      "lpips": 0.0076536755077540874
+    },
+    {
+      "relative_path": "day1/members/onanong/11_0119.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9959054083262125,
+      "lpips": 0.002902562730014324
+    },
+    {
+      "relative_path": "day4/members/cathal/13_0470.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9856450032190746,
+      "lpips": 0.022510292008519173
+    },
+    {
+      "relative_path": "day1/members/allie/09_0160.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9867075792104486,
+      "lpips": 0.010895239189267159
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0644.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.97227738531834,
+      "lpips": 0.024013783782720566
+    },
+    {
+      "relative_path": "day3/members/luca/20_0192.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9910521534723417,
+      "lpips": 0.006058778613805771
+    },
+    {
+      "relative_path": "day3/members/luca/17_0582.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9853287462262351,
+      "lpips": 0.009329449385404587
+    },
+    {
+      "relative_path": "day2/members/bjorn/17_0110.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9965293866515911,
+      "lpips": 0.0007987924618646502
+    },
+    {
+      "relative_path": "day2/members/allie/15_0703.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9939377348052364,
+      "lpips": 0.0018761061364784837
+    },
+    {
+      "relative_path": "day2/members/florian/14_0042.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9955884940406703,
+      "lpips": 0.0025620844680815935
+    },
+    {
+      "relative_path": "day3/members/werner/19_0360.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9927897756186747,
+      "lpips": 0.0026382734067738056
+    },
+    {
+      "relative_path": "day2/members/florian/11_0279.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9894070195491883,
+      "lpips": 0.004349233582615852
+    },
+    {
+      "relative_path": "day4/members/florian/15_0498.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9955210481210836,
+      "lpips": 0.0015497440472245216
+    },
+    {
+      "relative_path": "day1/members/allie/12_0272.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9825356113519409,
+      "lpips": 0.014929172582924366
+    },
+    {
+      "relative_path": "day3/members/tien/11_0505.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9836190123606983,
+      "lpips": 0.01388016901910305
+    },
+    {
+      "relative_path": "day1/members/stevan/17_0340.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9946293303717182,
+      "lpips": 0.003405601717531681
+    },
+    {
+      "relative_path": "day1/members/luca/11_0691.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.995211627466869,
+      "lpips": 0.001434130361303687
+    },
+    {
+      "relative_path": "day1/members/cathal/10_0676.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9868312939925863,
+      "lpips": 0.013847201131284237
+    },
+    {
+      "relative_path": "day3/members/florian/18_0329.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9742596032650618,
+      "lpips": 0.02037828601896763
+    },
+    {
+      "relative_path": "day2/members/cathal/11_0063.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9736077462729792,
+      "lpips": 0.01962236687541008
+    },
+    {
+      "relative_path": "day4/members/luca/18_0257.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9948074294171222,
+      "lpips": 0.003030159045010805
+    },
+    {
+      "relative_path": "day3/members/cathal/11_0064.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9908299375575659,
+      "lpips": 0.006315262988209724
+    },
+    {
+      "relative_path": "day4/members/onanong/11_0635.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.98579703893223,
+      "lpips": 0.014501226134598255
+    },
+    {
+      "relative_path": "day2/members/klaus/10_0464.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9665823053726162,
+      "lpips": 0.021462853997945786
+    },
+    {
+      "relative_path": "day3/members/cathal/09_0625.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9859830964368573,
+      "lpips": 0.009407076053321362
+    },
+    {
+      "relative_path": "day4/members/bao/09_0694.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.982434693423326,
+      "lpips": 0.013790130615234375
+    },
+    {
+      "relative_path": "day2/members/allie/17_0093.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.973620301903081,
+      "lpips": 0.020044686272740364
+    },
+    {
+      "relative_path": "day3/members/werner/08_0498.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9944553499537342,
+      "lpips": 0.003452917095273733
+    },
+    {
+      "relative_path": "day2/members/allie/16_0153.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9794813322561108,
+      "lpips": 0.01278542447835207
+    },
+    {
+      "relative_path": "day4/members/florian/11_0372.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9882423542024658,
+      "lpips": 0.005187727510929108
+    },
+    {
+      "relative_path": "day3/members/bjorn/12_0147.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9874804010964393,
+      "lpips": 0.011891936883330345
+    },
+    {
+      "relative_path": "day1/members/werner/15_0312.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9948116974852502,
+      "lpips": 0.0022613932378590107
+    },
+    {
+      "relative_path": "day3/members/stevan/09_0144.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9904598926744858,
+      "lpips": 0.005668104626238346
+    },
+    {
+      "relative_path": "day1/members/onanong/14_0681.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9780066326889995,
+      "lpips": 0.020874634385108948
+    },
+    {
+      "relative_path": "day2/members/allie/17_0175.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9729613229900193,
+      "lpips": 0.02386613003909588
+    },
+    {
+      "relative_path": "day2/members/tien/13_0043.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9933879474299517,
+      "lpips": 0.0042692068964242935
+    },
+    {
+      "relative_path": "day4/members/cathal/18_0466.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9941524982026545,
+      "lpips": 0.004119498189538717
+    },
+    {
+      "relative_path": "day1/members/onanong/19_0261.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9945955711661857,
+      "lpips": 0.0025592283345758915
+    },
+    {
+      "relative_path": "day4/members/allie/13_0245.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9863946121662172,
+      "lpips": 0.009594818577170372
+    },
+    {
+      "relative_path": "day1/members/tien/08_0483.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9952221774220137,
+      "lpips": 0.001125070615671575
+    },
+    {
+      "relative_path": "day2/members/florian/14_0293.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9742567948742401,
+      "lpips": 0.022831015288829803
+    },
+    {
+      "relative_path": "day2/members/klaus/12_0153.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9956142594085025,
+      "lpips": 0.001615058514289558
+    },
+    {
+      "relative_path": "day2/members/tien/19_0472.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9568438547638417,
+      "lpips": 0.03972845524549484
+    },
+    {
+      "relative_path": "day3/members/florian/14_0452.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9891597314703776,
+      "lpips": 0.007965721189975739
+    },
+    {
+      "relative_path": "day3/members/cathal/18_0053.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9841410212453493,
+      "lpips": 0.008176994509994984
+    },
+    {
+      "relative_path": "day3/members/onanong/15_0609.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9952024505234297,
+      "lpips": 0.0013898602919653058
+    },
+    {
+      "relative_path": "day3/members/tien/18_0251.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9691913796836129,
+      "lpips": 0.026083292439579964
+    },
+    {
+      "relative_path": "day3/members/werner/10_0493.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.992431705085041,
+      "lpips": 0.00423353910446167
+    },
+    {
+      "relative_path": "day3/members/bjorn/15_0707.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9944459181147213,
+      "lpips": 0.002653482835739851
+    },
+    {
+      "relative_path": "day1/members/werner/18_0011.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9822977542780827,
+      "lpips": 0.013098521158099174
+    },
+    {
+      "relative_path": "day3/members/cathal/09_0099.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9875955633688718,
+      "lpips": 0.010355556383728981
+    },
+    {
+      "relative_path": "day2/members/onanong/11_0590.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9892831274721536,
+      "lpips": 0.004632887430489063
+    },
+    {
+      "relative_path": "day4/members/bao/10_0060.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9789544184552904,
+      "lpips": 0.018679918721318245
+    },
+    {
+      "relative_path": "day2/members/luca/18_0188.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9953371526771838,
+      "lpips": 0.0013361119199544191
+    },
+    {
+      "relative_path": "day1/members/werner/17_0457.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9943734428812007,
+      "lpips": 0.0024853439535945654
+    },
+    {
+      "relative_path": "day4/members/bao/13_0536.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9786765960909679,
+      "lpips": 0.013405850157141685
+    },
+    {
+      "relative_path": "day3/members/bjorn/10_0195.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9885994711444326,
+      "lpips": 0.00925960298627615
+    },
+    {
+      "relative_path": "day4/members/florian/11_0305.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9642552062492062,
+      "lpips": 0.02754322998225689
+    },
+    {
+      "relative_path": "day3/members/tien/17_0282.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9946373144100629,
+      "lpips": 0.0016009456012398005
+    },
+    {
+      "relative_path": "day3/members/cathal/15_0606.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9954256336932636,
+      "lpips": 0.001016785972751677
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0537.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9829213403859062,
+      "lpips": 0.009975816123187542
+    },
+    {
+      "relative_path": "day3/members/cathal/20_0290.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.981538553363522,
+      "lpips": 0.016813484951853752
+    },
+    {
+      "relative_path": "day3/members/werner/17_0005.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9873341052875372,
+      "lpips": 0.007846010848879814
+    },
+    {
+      "relative_path": "day3/members/luca/10_0668.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9826805850259333,
+      "lpips": 0.011348937638103962
+    },
+    {
+      "relative_path": "day1/members/tien/15_0585.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9945416468686606,
+      "lpips": 0.004731920547783375
+    },
+    {
+      "relative_path": "day2/members/florian/14_0717.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9865566981635366,
+      "lpips": 0.007871362380683422
+    },
+    {
+      "relative_path": "day3/members/florian/20_0281.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9810014614370276,
+      "lpips": 0.011523150838911533
+    },
+    {
+      "relative_path": "day4/members/bjorn/15_0170.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.99224041575872,
+      "lpips": 0.00409316411241889
+    },
+    {
+      "relative_path": "day4/members/stevan/10_0720.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.978560619761975,
+      "lpips": 0.01823127269744873
+    },
+    {
+      "relative_path": "day4/members/stevan/10_0629.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9830802388286961,
+      "lpips": 0.023447073996067047
+    },
+    {
+      "relative_path": "day4/members/bao/13_0504.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.983038412738196,
+      "lpips": 0.01639845035970211
+    },
+    {
+      "relative_path": "day2/members/stevan/10_0281.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9926753786957816,
+      "lpips": 0.005796805955469608
+    },
+    {
+      "relative_path": "day3/members/florian/17_0490.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9748256191768636,
+      "lpips": 0.01764325425028801
+    },
+    {
+      "relative_path": "day2/members/bjorn/12_0518.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9886366020238347,
+      "lpips": 0.0067492760717868805
+    },
+    {
+      "relative_path": "day1/members/werner/10_0429.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9891679214300134,
+      "lpips": 0.008172919973731041
+    },
+    {
+      "relative_path": "day2/members/klaus/19_0493.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9821475719462343,
+      "lpips": 0.01514415256679058
+    },
+    {
+      "relative_path": "day2/members/werner/20_0007.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9698758662100375,
+      "lpips": 0.03170733153820038
+    },
+    {
+      "relative_path": "day2/members/stevan/20_0706.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9888263108205656,
+      "lpips": 0.007232699543237686
+    },
+    {
+      "relative_path": "day1/members/tien/14_0026.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9842665168577692,
+      "lpips": 0.01871052011847496
+    },
+    {
+      "relative_path": "day1/members/tien/09_0404.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9961811588794948,
+      "lpips": 0.0039232028648257256
+    },
+    {
+      "relative_path": "day3/members/onanong/16_0351.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9958109365332833,
+      "lpips": 0.0009450610959902406
+    },
+    {
+      "relative_path": "day2/members/onanong/17_0489.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.99582315962809,
+      "lpips": 0.001390750170685351
+    },
+    {
+      "relative_path": "day4/members/allie/09_0677.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9777637584646476,
+      "lpips": 0.02329177036881447
+    },
+    {
+      "relative_path": "day3/members/werner/20_0141.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9928174365258036,
+      "lpips": 0.0038586040027439594
+    },
+    {
+      "relative_path": "day1/members/werner/13_0365.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.994414819272364,
+      "lpips": 0.001421840162947774
+    },
+    {
+      "relative_path": "day3/members/bjorn/14_0678.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9871209302538394,
+      "lpips": 0.010336628183722496
+    },
+    {
+      "relative_path": "day4/members/allie/10_0446.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9756113581830919,
+      "lpips": 0.01179469283670187
+    },
+    {
+      "relative_path": "day1/members/stevan/08_0330.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9944431781178751,
+      "lpips": 0.0017586324829608202
+    },
+    {
+      "relative_path": "day3/members/stevan/18_0060.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9565043665442924,
+      "lpips": 0.03922966495156288
+    },
+    {
+      "relative_path": "day3/members/klaus/19_0688.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9929308416978554,
+      "lpips": 0.003402041271328926
+    },
+    {
+      "relative_path": "day1/members/werner/08_0280.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.983810043810843,
+      "lpips": 0.011994467116892338
+    },
+    {
+      "relative_path": "day4/members/klaus/13_0393.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9815470482755586,
+      "lpips": 0.016205228865146637
+    },
+    {
+      "relative_path": "day1/members/florian/19_0244.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9956905676667444,
+      "lpips": 0.0012667528353631496
+    },
+    {
+      "relative_path": "day4/members/klaus/14_0702.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9954188908876525,
+      "lpips": 0.0029674407560378313
+    },
+    {
+      "relative_path": "day1/members/klaus/12_0632.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9915055403453796,
+      "lpips": 0.002880013082176447
+    },
+    {
+      "relative_path": "day3/members/bjorn/19_0152.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9880667399392946,
+      "lpips": 0.01206575334072113
+    },
+    {
+      "relative_path": "day1/members/onanong/10_0422.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9917979360802786,
+      "lpips": 0.003448372706770897
+    },
+    {
+      "relative_path": "day2/members/tien/12_0597.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9874860115520873,
+      "lpips": 0.008924288675189018
+    },
+    {
+      "relative_path": "day2/members/florian/15_0118.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.982596573401881,
+      "lpips": 0.013193848542869091
+    },
+    {
+      "relative_path": "day3/members/tien/12_0164.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9892372591545939,
+      "lpips": 0.005270886234939098
+    },
+    {
+      "relative_path": "day2/members/bjorn/17_0327.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9944357915520642,
+      "lpips": 0.003485399531200528
+    },
+    {
+      "relative_path": "day1/members/allie/10_0339.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9899382063462069,
+      "lpips": 0.005164963658899069
+    },
+    {
+      "relative_path": "day1/members/cathal/14_0484.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9911010222194839,
+      "lpips": 0.006659897975623608
+    },
+    {
+      "relative_path": "day1/members/cathal/18_0317.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9892480961657452,
+      "lpips": 0.004855216480791569
+    },
+    {
+      "relative_path": "day2/members/cathal/10_0273.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9786976463674524,
+      "lpips": 0.023361310362815857
+    },
+    {
+      "relative_path": "day2/members/allie/10_0201.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9884567204947059,
+      "lpips": 0.015177308581769466
+    },
+    {
+      "relative_path": "day3/members/werner/16_0328.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9900024750086756,
+      "lpips": 0.00613020546734333
+    },
+    {
+      "relative_path": "day3/members/luca/12_0481.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9960628578931011,
+      "lpips": 0.002519221045076847
+    },
+    {
+      "relative_path": "day2/members/onanong/12_0404.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.961166319772428,
+      "lpips": 0.03187059983611107
+    },
+    {
+      "relative_path": "day1/members/onanong/14_0406.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.970644602308446,
+      "lpips": 0.029580727219581604
+    },
+    {
+      "relative_path": "day1/members/florian/15_0199.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9804374133660471,
+      "lpips": 0.014469824731349945
+    },
+    {
+      "relative_path": "day2/members/tien/12_0017.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9791949794715861,
+      "lpips": 0.016250599175691605
+    },
+    {
+      "relative_path": "day4/members/stevan/11_0365.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9883346014921891,
+      "lpips": 0.009649795480072498
+    },
+    {
+      "relative_path": "day3/members/tien/18_0355.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9802041904713477,
+      "lpips": 0.025529533624649048
+    },
+    {
+      "relative_path": "day2/members/florian/10_0103.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9914180793580135,
+      "lpips": 0.0038000550121068954
+    },
+    {
+      "relative_path": "day1/members/florian/09_0596.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9945222854638273,
+      "lpips": 0.0023374799638986588
+    },
+    {
+      "relative_path": "day4/members/werner/10_0441.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9951040515197276,
+      "lpips": 0.0016164073022082448
+    },
+    {
+      "relative_path": "day4/members/bao/08_0595.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9938627854458276,
+      "lpips": 0.002350611612200737
+    },
+    {
+      "relative_path": "day2/members/luca/17_0072.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.995959918298882,
+      "lpips": 0.0018029111670330167
+    },
+    {
+      "relative_path": "day3/members/bjorn/19_0607.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9931157495568416,
+      "lpips": 0.004045126959681511
+    },
+    {
+      "relative_path": "day2/members/werner/18_0289.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9954114493514972,
+      "lpips": 0.0012743219267576933
+    },
+    {
+      "relative_path": "day4/members/bao/12_0423.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9964330499405286,
+      "lpips": 0.001212666044011712
+    },
+    {
+      "relative_path": "day1/members/allie/09_0673.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9760891659986718,
+      "lpips": 0.02833523042500019
+    },
+    {
+      "relative_path": "day2/members/werner/19_0608.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9883359282572481,
+      "lpips": 0.014183498919010162
+    },
+    {
+      "relative_path": "day4/members/florian/13_0005.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9864635463641459,
+      "lpips": 0.008199658244848251
+    },
+    {
+      "relative_path": "day1/members/stevan/11_0456.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9973054387822792,
+      "lpips": 0.0027305607218295336
+    },
+    {
+      "relative_path": "day2/members/onanong/16_0168.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9952363334735145,
+      "lpips": 0.0014384607784450054
+    },
+    {
+      "relative_path": "day4/members/bjorn/08_0088.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9955694884504749,
+      "lpips": 0.0020021453965455294
+    },
+    {
+      "relative_path": "day2/members/luca/18_0250.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9905156102220065,
+      "lpips": 0.004105496685951948
+    },
+    {
+      "relative_path": "day2/members/cathal/11_0012.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9800523365289835,
+      "lpips": 0.015993621200323105
+    },
+    {
+      "relative_path": "day1/members/stevan/19_0205.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9944185911402613,
+      "lpips": 0.0014042251277714968
+    },
+    {
+      "relative_path": "day3/members/cathal/09_0355.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.978177189361944,
+      "lpips": 0.02301367186009884
+    },
+    {
+      "relative_path": "day2/members/luca/13_0250.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9882784070843641,
+      "lpips": 0.011423231102526188
+    },
+    {
+      "relative_path": "day1/members/klaus/15_0547.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.995318942970777,
+      "lpips": 0.0012683215318247676
+    },
+    {
+      "relative_path": "day1/members/florian/20_0151.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.994927102995304,
+      "lpips": 0.0025857624132186174
+    },
+    {
+      "relative_path": "day1/members/cathal/14_0708.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9765529306222974,
+      "lpips": 0.02168724127113819
+    },
+    {
+      "relative_path": "day3/members/allie/18_0433.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9828292699566307,
+      "lpips": 0.008841617964208126
+    },
+    {
+      "relative_path": "day3/members/klaus/17_0530.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9934869765621389,
+      "lpips": 0.0041275955736637115
+    },
+    {
+      "relative_path": "day2/members/klaus/18_0506.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9881671899501218,
+      "lpips": 0.011089721694588661
+    },
+    {
+      "relative_path": "day4/members/florian/10_0427.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9891828328835522,
+      "lpips": 0.0062916576862335205
+    },
+    {
+      "relative_path": "day1/members/cathal/14_0490.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9743694455736497,
+      "lpips": 0.01950754225254059
+    },
+    {
+      "relative_path": "day4/members/bjorn/14_0135.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9871392673541212,
+      "lpips": 0.011694379150867462
+    },
+    {
+      "relative_path": "day2/members/onanong/11_0615.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9955807350749302,
+      "lpips": 0.001454056124202907
+    },
+    {
+      "relative_path": "day2/members/werner/17_0039.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9954187785281806,
+      "lpips": 0.0012506538769230247
+    },
+    {
+      "relative_path": "day3/members/bjorn/12_0222.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9966068825455937,
+      "lpips": 0.0012062822934240103
+    },
+    {
+      "relative_path": "day2/members/bjorn/11_0031.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9857477196841483,
+      "lpips": 0.009393380954861641
+    },
+    {
+      "relative_path": "day4/members/bjorn/10_0048.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9879568913308869,
+      "lpips": 0.006227435544133186
+    },
+    {
+      "relative_path": "day1/members/werner/15_0198.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9951510489953036,
+      "lpips": 0.0013345268089324236
+    },
+    {
+      "relative_path": "day1/members/klaus/17_0002.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.971041447016782,
+      "lpips": 0.020826982334256172
+    },
+    {
+      "relative_path": "day1/members/werner/15_0199.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.994624038427995,
+      "lpips": 0.0019181903917342424
+    },
+    {
+      "relative_path": "day1/members/werner/18_0148.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9805333363031851,
+      "lpips": 0.011674699373543262
+    },
+    {
+      "relative_path": "day4/members/onanong/15_0400.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9918472549828677,
+      "lpips": 0.0055955457501113415
+    },
+    {
+      "relative_path": "day1/members/allie/08_0276.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9880158631454469,
+      "lpips": 0.0056686801835894585
+    },
+    {
+      "relative_path": "day3/members/klaus/13_0098.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.996131851950056,
+      "lpips": 0.001904468983411789
+    },
+    {
+      "relative_path": "day4/members/luca/17_0685.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9956611139409093,
+      "lpips": 0.0020801990758627653
+    },
+    {
+      "relative_path": "day1/members/klaus/12_0400.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9954663645802194,
+      "lpips": 0.0038769927341490984
+    },
+    {
+      "relative_path": "day3/members/cathal/19_0263.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9914033525209617,
+      "lpips": 0.007925004698336124
+    },
+    {
+      "relative_path": "day1/members/bjorn/19_0016.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9951545931475226,
+      "lpips": 0.0026964545249938965
+    },
+    {
+      "relative_path": "day2/members/bjorn/19_0187.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9872332160672989,
+      "lpips": 0.008475012145936489
+    },
+    {
+      "relative_path": "day1/members/cathal/11_0405.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9814995163478838,
+      "lpips": 0.010935948230326176
+    },
+    {
+      "relative_path": "day3/members/tien/20_0575.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9537529101235678,
+      "lpips": 0.04895517975091934
+    },
+    {
+      "relative_path": "day4/members/luca/08_0054.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9939284677396131,
+      "lpips": 0.003484832588583231
+    },
+    {
+      "relative_path": "day4/members/allie/11_0161.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9801957936245076,
+      "lpips": 0.01411300990730524
+    },
+    {
+      "relative_path": "day2/members/luca/14_0354.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9807435796040441,
+      "lpips": 0.014829248189926147
+    },
+    {
+      "relative_path": "day3/members/bjorn/10_0179.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9815575270344774,
+      "lpips": 0.015558909624814987
+    },
+    {
+      "relative_path": "day4/members/cathal/12_0648.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9632858228021607,
+      "lpips": 0.034051522612571716
+    },
+    {
+      "relative_path": "day4/members/bjorn/10_0670.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9767009211524221,
+      "lpips": 0.017475731670856476
+    },
+    {
+      "relative_path": "day3/members/luca/11_0192.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.971543857080881,
+      "lpips": 0.02402256429195404
+    },
+    {
+      "relative_path": "day2/members/stevan/11_0382.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9813816964010739,
+      "lpips": 0.018226994201540947
+    },
+    {
+      "relative_path": "day2/members/luca/19_0633.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9760590974080031,
+      "lpips": 0.017482273280620575
+    },
+    {
+      "relative_path": "day2/members/luca/10_0406.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9961255055829157,
+      "lpips": 0.0010479254415258765
+    },
+    {
+      "relative_path": "day3/members/cathal/20_0443.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.985585381528273,
+      "lpips": 0.007755613885819912
+    },
+    {
+      "relative_path": "day4/members/klaus/13_0503.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9862016355372768,
+      "lpips": 0.005640997551381588
+    },
+    {
+      "relative_path": "day2/members/werner/15_0625.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9893328047344759,
+      "lpips": 0.005776776932179928
+    },
+    {
+      "relative_path": "day4/members/stevan/10_0227.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9749787202444141,
+      "lpips": 0.022041525691747665
+    },
+    {
+      "relative_path": "day4/members/stevan/13_0462.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9722253281325441,
+      "lpips": 0.02358180657029152
+    },
+    {
+      "relative_path": "day3/members/cathal/20_0569.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.959168961071586,
+      "lpips": 0.03179705888032913
+    },
+    {
+      "relative_path": "day3/members/onanong/10_0301.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9922489866815752,
+      "lpips": 0.0042618089355528355
+    },
+    {
+      "relative_path": "day3/members/allie/16_0683.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9895426350856118,
+      "lpips": 0.0059646423906087875
+    },
+    {
+      "relative_path": "day2/members/klaus/13_0148.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9795673571443486,
+      "lpips": 0.009747123345732689
+    },
+    {
+      "relative_path": "day2/members/bjorn/16_0632.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9913773236315992,
+      "lpips": 0.004138407297432423
+    },
+    {
+      "relative_path": "day1/members/florian/11_0219.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9826449312406432,
+      "lpips": 0.01432873122394085
+    },
+    {
+      "relative_path": "day2/members/luca/18_0197.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9954139879666141,
+      "lpips": 0.0013677075039595366
+    },
+    {
+      "relative_path": "day4/members/allie/09_0293.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.971328422069671,
+      "lpips": 0.026827219873666763
+    },
+    {
+      "relative_path": "day2/members/florian/14_0672.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9853032111024982,
+      "lpips": 0.005990698002278805
+    },
+    {
+      "relative_path": "day3/members/florian/19_0086.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9948952091780171,
+      "lpips": 0.0015112640103325248
+    },
+    {
+      "relative_path": "day2/members/werner/13_0648.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9977166978097408,
+      "lpips": 0.0008868688601069152
+    },
+    {
+      "relative_path": "day1/members/stevan/18_0597.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9839232668386216,
+      "lpips": 0.012347057461738586
+    },
+    {
+      "relative_path": "day1/members/florian/18_0042.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.974727596365243,
+      "lpips": 0.03003426268696785
+    },
+    {
+      "relative_path": "day3/members/werner/17_0301.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9850212280489741,
+      "lpips": 0.011196441948413849
+    },
+    {
+      "relative_path": "day1/members/allie/09_0647.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9628157606960004,
+      "lpips": 0.030872177332639694
+    },
+    {
+      "relative_path": "day4/members/cathal/15_0410.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9941851771146815,
+      "lpips": 0.002024062443524599
+    },
+    {
+      "relative_path": "day4/members/stevan/11_0074.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9802726637875678,
+      "lpips": 0.01559966616332531
+    },
+    {
+      "relative_path": "day1/members/florian/16_0525.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9932629842618113,
+      "lpips": 0.0030884467996656895
+    },
+    {
+      "relative_path": "day4/members/bao/12_0438.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9819543676030696,
+      "lpips": 0.01456078514456749
+    },
+    {
+      "relative_path": "day1/members/luca/12_0202.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9954713932825903,
+      "lpips": 0.001348676159977913
+    },
+    {
+      "relative_path": "day2/members/luca/14_0016.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9894452785360034,
+      "lpips": 0.004970909096300602
+    },
+    {
+      "relative_path": "day1/members/cathal/11_0477.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9957688960360783,
+      "lpips": 0.0010654308134689927
+    },
+    {
+      "relative_path": "day2/members/werner/16_0476.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9960660360940553,
+      "lpips": 0.0010453244904056191
+    },
+    {
+      "relative_path": "day4/members/bjorn/14_0715.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.988507657289804,
+      "lpips": 0.004711871035397053
+    },
+    {
+      "relative_path": "day3/members/stevan/13_0343.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9730569913640109,
+      "lpips": 0.022107139229774475
+    },
+    {
+      "relative_path": "day1/members/onanong/15_0060.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9757365774093744,
+      "lpips": 0.019439175724983215
+    },
+    {
+      "relative_path": "day3/members/luca/11_0673.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9148538876757456,
+      "lpips": 0.10691256821155548
+    },
+    {
+      "relative_path": "day4/members/onanong/15_0191.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9732530976507627,
+      "lpips": 0.01724296808242798
+    },
+    {
+      "relative_path": "day1/members/florian/17_0649.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9806846138472533,
+      "lpips": 0.010987311601638794
+    },
+    {
+      "relative_path": "day3/members/luca/18_0524.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9735598141290939,
+      "lpips": 0.019042642787098885
+    },
+    {
+      "relative_path": "day2/members/werner/13_0683.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9977608074412808,
+      "lpips": 0.0008668113732710481
+    },
+    {
+      "relative_path": "day2/members/tien/20_0651.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.978128903596914,
+      "lpips": 0.019042963162064552
+    },
+    {
+      "relative_path": "day1/members/bjorn/12_0196.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9974082278312705,
+      "lpips": 0.0020914480555802584
+    },
+    {
+      "relative_path": "day3/members/florian/10_0402.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.995647524984775,
+      "lpips": 0.0014420592924579978
+    },
+    {
+      "relative_path": "day1/members/onanong/17_0253.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9952533791551176,
+      "lpips": 0.0018170448020100594
+    },
+    {
+      "relative_path": "day3/members/tien/09_0002.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9892448283202665,
+      "lpips": 0.011358767747879028
+    },
+    {
+      "relative_path": "day3/members/allie/12_0712.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9965421966653328,
+      "lpips": 0.0023123689461499453
+    },
+    {
+      "relative_path": "day2/members/cathal/19_0211.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9936135689287481,
+      "lpips": 0.00323815131559968
+    },
+    {
+      "relative_path": "day3/members/klaus/08_0380.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9885840060143614,
+      "lpips": 0.00583551125600934
+    },
+    {
+      "relative_path": "day4/members/werner/08_0208.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.993888970709389,
+      "lpips": 0.003030473366379738
+    },
+    {
+      "relative_path": "day1/members/werner/14_0080.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9939634466592112,
+      "lpips": 0.0019730355124920607
+    },
+    {
+      "relative_path": "day3/members/florian/15_0318.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9877701838394096,
+      "lpips": 0.012733092531561852
+    },
+    {
+      "relative_path": "day4/members/onanong/14_0177.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9784099002232,
+      "lpips": 0.021191727370023727
+    },
+    {
+      "relative_path": "day3/members/florian/11_0647.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.995489306142404,
+      "lpips": 0.0015349799068644643
+    },
+    {
+      "relative_path": "day2/members/tien/12_0007.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9880468345573128,
+      "lpips": 0.005827147979289293
+    },
+    {
+      "relative_path": "day1/members/florian/11_0210.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9921268521706229,
+      "lpips": 0.009733308106660843
+    },
+    {
+      "relative_path": "day3/members/stevan/11_0119.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9753099301663143,
+      "lpips": 0.021005919203162193
+    },
+    {
+      "relative_path": "day1/members/florian/18_0275.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9791623658434491,
+      "lpips": 0.013777093030512333
+    },
+    {
+      "relative_path": "day4/members/klaus/09_0320.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9910380443928299,
+      "lpips": 0.0044420440681278706
+    },
+    {
+      "relative_path": "day2/members/cathal/18_0081.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9817694325206728,
+      "lpips": 0.019853172823786736
+    },
+    {
+      "relative_path": "day4/members/florian/18_0559.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9953818138103697,
+      "lpips": 0.002200095681473613
+    },
+    {
+      "relative_path": "day2/members/florian/12_0418.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9970712099071665,
+      "lpips": 0.0008283511851914227
+    },
+    {
+      "relative_path": "day4/members/werner/11_0358.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9789021451139078,
+      "lpips": 0.014820203185081482
+    },
+    {
+      "relative_path": "day2/members/florian/15_0395.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9956248758548251,
+      "lpips": 0.0012331735342741013
+    },
+    {
+      "relative_path": "day2/members/cathal/14_0185.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9909081206957394,
+      "lpips": 0.0034121000207960606
+    },
+    {
+      "relative_path": "day1/members/klaus/10_0589.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9839732976119526,
+      "lpips": 0.014711843803524971
+    },
+    {
+      "relative_path": "day1/members/florian/10_0419.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9812998314266648,
+      "lpips": 0.009786640293896198
+    },
+    {
+      "relative_path": "day3/members/luca/14_0453.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9880908474387704,
+      "lpips": 0.008755847811698914
+    },
+    {
+      "relative_path": "day2/members/stevan/11_0699.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9876995545237297,
+      "lpips": 0.007895439863204956
+    },
+    {
+      "relative_path": "day2/members/werner/20_0424.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.982503246301508,
+      "lpips": 0.013876999728381634
+    },
+    {
+      "relative_path": "day1/members/bjorn/18_0660.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9955464276428945,
+      "lpips": 0.0018289489671587944
+    },
+    {
+      "relative_path": "day3/members/florian/10_0693.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9905335087872379,
+      "lpips": 0.004614411387592554
+    },
+    {
+      "relative_path": "day4/members/klaus/12_0118.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9793541464741375,
+      "lpips": 0.01904459297657013
+    },
+    {
+      "relative_path": "day2/members/bjorn/19_0586.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9832175220295299,
+      "lpips": 0.01571035385131836
+    },
+    {
+      "relative_path": "day3/members/allie/18_0535.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9829692748903689,
+      "lpips": 0.00674451282247901
+    },
+    {
+      "relative_path": "day4/members/cathal/09_0257.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9824730663577959,
+      "lpips": 0.010794209316372871
+    },
+    {
+      "relative_path": "day2/members/florian/15_0006.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9944415151356064,
+      "lpips": 0.0015311719616875052
+    },
+    {
+      "relative_path": "day3/members/tien/10_0690.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9809271515932255,
+      "lpips": 0.019089195877313614
+    },
+    {
+      "relative_path": "day3/members/cathal/11_0181.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.979869345335401,
+      "lpips": 0.016175314784049988
+    },
+    {
+      "relative_path": "day4/members/bao/11_0055.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9716407905503535,
+      "lpips": 0.028430331498384476
+    },
+    {
+      "relative_path": "day3/members/luca/13_0160.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9912930273366621,
+      "lpips": 0.008871391415596008
+    },
+    {
+      "relative_path": "day2/members/werner/13_0432.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9979483504592706,
+      "lpips": 0.000754551321733743
+    },
+    {
+      "relative_path": "day3/members/florian/19_0684.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9947775998532972,
+      "lpips": 0.0020742262713611126
+    },
+    {
+      "relative_path": "day2/members/allie/16_0556.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9935953759706889,
+      "lpips": 0.005209496710449457
+    },
+    {
+      "relative_path": "day1/members/werner/19_0438.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9809018978361207,
+      "lpips": 0.015563853085041046
+    },
+    {
+      "relative_path": "day2/members/allie/19_0622.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9818051012534461,
+      "lpips": 0.011416425928473473
+    },
+    {
+      "relative_path": "day3/members/onanong/12_0703.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9961987553263704,
+      "lpips": 0.002956356853246689
+    },
+    {
+      "relative_path": "day1/members/stevan/18_0567.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9836399230761924,
+      "lpips": 0.01152505911886692
+    },
+    {
+      "relative_path": "day3/members/stevan/20_0527.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9885661876214469,
+      "lpips": 0.011542842723429203
+    },
+    {
+      "relative_path": "day1/members/onanong/19_0481.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9950356822738883,
+      "lpips": 0.002196631859987974
+    },
+    {
+      "relative_path": "day4/members/klaus/08_0554.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9949132471004903,
+      "lpips": 0.0015938784927129745
+    },
+    {
+      "relative_path": "day3/members/klaus/19_0704.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9923668655944554,
+      "lpips": 0.0037901729810982943
+    },
+    {
+      "relative_path": "day2/members/luca/12_0565.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9952445122787866,
+      "lpips": 0.0010191381443291903
+    },
+    {
+      "relative_path": "day4/members/luca/08_0034.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9941358407752654,
+      "lpips": 0.0036313175223767757
+    },
+    {
+      "relative_path": "day1/members/tien/10_0152.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9867612326589533,
+      "lpips": 0.014060134068131447
+    },
+    {
+      "relative_path": "day4/members/werner/13_0537.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9857187247378959,
+      "lpips": 0.010249163955450058
+    },
+    {
+      "relative_path": "day1/members/bjorn/09_0300.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9676105146561675,
+      "lpips": 0.023136785253882408
+    },
+    {
+      "relative_path": "day2/members/florian/14_0303.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.979277818103935,
+      "lpips": 0.013060787692666054
+    },
+    {
+      "relative_path": "day1/members/luca/14_0698.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9828779135253525,
+      "lpips": 0.008518570102751255
+    },
+    {
+      "relative_path": "day1/members/stevan/18_0660.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9945436852179933,
+      "lpips": 0.0022134254686534405
+    },
+    {
+      "relative_path": "day3/members/allie/13_0693.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9927084280804914,
+      "lpips": 0.005041584372520447
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0248.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9816431285138186,
+      "lpips": 0.010470334440469742
+    },
+    {
+      "relative_path": "day4/members/cathal/13_0210.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9646665745664952,
+      "lpips": 0.04360734298825264
+    },
+    {
+      "relative_path": "day1/members/stevan/18_0014.webp",
+      "method": "diffusion_low_step",
+      "ssim": 0.9831919462112125,
+      "lpips": 0.013832677155733109
+    }
+  ]
+}

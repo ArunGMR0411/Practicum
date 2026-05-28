@@ -1,0 +1,13 @@
+{
+  "shard_01_count": 100,
+  "local_102_count": 102,
+  "constrained_compute_298_count": 298,
+  "combined_unique_count": 500,
+  "full_500_processed_anonymised_count": 353,
+  "full_500_copy_through_count": 147,
+  "full_500_total_runtime_seconds": 10194.690325,
+  "full_500_mean_runtime_seconds": 20.389381,
+  "processed_frame_mean_runtime_seconds": 28.528778,
+  "copy_through_mean_runtime_seconds": 0.843753,
+  "runtime_evidence": "timestamped full-run log and retained per-status means"
+}

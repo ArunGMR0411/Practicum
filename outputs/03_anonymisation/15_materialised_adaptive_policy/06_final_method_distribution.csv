@@ -1,0 +1,5 @@
+attempted_method,artifact_gate_action,final_method,image_count
+no_action_copy,not_required,no_action_copy,133
+pixelate,not_required,pixelate,6
+riddle,fallback_layered,layered_blur_downscale_noise,75
+riddle,retain_riddle,riddle,286

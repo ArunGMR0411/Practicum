@@ -1,0 +1,3017 @@
+{
+  "summary": {
+    "riddle": {
+      "ssim_mean": 0.9832117143010125,
+      "ssim_std": 0.008227394992831965,
+      "lpips_mean": 0.019088031155522912,
+      "lpips_std": 0.011707450257724726,
+      "sample_count": 500,
+      "evaluation_resolution": "3840x2160",
+      "lpips_device": "cuda",
+      "lpips_batch_size": 16,
+      "lpips_peak_vram_gib": 32.21861457824707
+    }
+  },
+  "detailed": [
+    {
+      "relative_path": "day1/members/allie/08_0276.webp",
+      "method": "riddle",
+      "ssim": 0.9821297029793638,
+      "lpips": 0.01852252334356308
+    },
+    {
+      "relative_path": "day1/members/allie/09_0160.webp",
+      "method": "riddle",
+      "ssim": 0.9861002652073066,
+      "lpips": 0.015800392255187035
+    },
+    {
+      "relative_path": "day1/members/allie/09_0273.webp",
+      "method": "riddle",
+      "ssim": 0.9795392570187101,
+      "lpips": 0.022402750328183174
+    },
+    {
+      "relative_path": "day1/members/allie/09_0647.webp",
+      "method": "riddle",
+      "ssim": 0.9668410242515305,
+      "lpips": 0.043202225118875504
+    },
+    {
+      "relative_path": "day1/members/allie/09_0673.webp",
+      "method": "riddle",
+      "ssim": 0.9602670958448284,
+      "lpips": 0.04679687321186066
+    },
+    {
+      "relative_path": "day1/members/allie/10_0099.webp",
+      "method": "riddle",
+      "ssim": 0.9842271009777649,
+      "lpips": 0.01449835766106844
+    },
+    {
+      "relative_path": "day1/members/allie/10_0296.webp",
+      "method": "riddle",
+      "ssim": 0.9856806949386479,
+      "lpips": 0.014577385038137436
+    },
+    {
+      "relative_path": "day1/members/allie/10_0339.webp",
+      "method": "riddle",
+      "ssim": 0.9848409817482394,
+      "lpips": 0.01667197234928608
+    },
+    {
+      "relative_path": "day1/members/allie/10_0546.webp",
+      "method": "riddle",
+      "ssim": 0.9826374231365947,
+      "lpips": 0.017090754583477974
+    },
+    {
+      "relative_path": "day1/members/allie/12_0272.webp",
+      "method": "riddle",
+      "ssim": 0.9826136788511507,
+      "lpips": 0.01656583696603775
+    },
+    {
+      "relative_path": "day1/members/allie/14_0135.webp",
+      "method": "riddle",
+      "ssim": 0.9826672569749159,
+      "lpips": 0.020257901400327682
+    },
+    {
+      "relative_path": "day1/members/allie/15_0458.webp",
+      "method": "riddle",
+      "ssim": 0.9829730600011685,
+      "lpips": 0.022982819005846977
+    },
+    {
+      "relative_path": "day1/members/allie/18_0412.webp",
+      "method": "riddle",
+      "ssim": 0.9816213513127852,
+      "lpips": 0.03284085541963577
+    },
+    {
+      "relative_path": "day1/members/bjorn/09_0300.webp",
+      "method": "riddle",
+      "ssim": 0.9642552174708053,
+      "lpips": 0.049088869243860245
+    },
+    {
+      "relative_path": "day1/members/bjorn/09_0318.webp",
+      "method": "riddle",
+      "ssim": 0.9901510961118302,
+      "lpips": 0.009658665396273136
+    },
+    {
+      "relative_path": "day1/members/bjorn/10_0088.webp",
+      "method": "riddle",
+      "ssim": 0.9842741347448539,
+      "lpips": 0.013440343551337719
+    },
+    {
+      "relative_path": "day1/members/bjorn/10_0130.webp",
+      "method": "riddle",
+      "ssim": 0.9833633786168082,
+      "lpips": 0.019270235672593117
+    },
+    {
+      "relative_path": "day1/members/bjorn/10_0501.webp",
+      "method": "riddle",
+      "ssim": 0.976785753081202,
+      "lpips": 0.030933739617466927
+    },
+    {
+      "relative_path": "day1/members/bjorn/11_0116.webp",
+      "method": "riddle",
+      "ssim": 0.983919892470461,
+      "lpips": 0.020323198288679123
+    },
+    {
+      "relative_path": "day1/members/bjorn/12_0196.webp",
+      "method": "riddle",
+      "ssim": 0.9930562130857993,
+      "lpips": 0.007749906275421381
+    },
+    {
+      "relative_path": "day1/members/bjorn/14_0017.webp",
+      "method": "riddle",
+      "ssim": 0.9902665102793303,
+      "lpips": 0.008313966915011406
+    },
+    {
+      "relative_path": "day1/members/bjorn/15_0004.webp",
+      "method": "riddle",
+      "ssim": 0.9842730138075924,
+      "lpips": 0.01605258695781231
+    },
+    {
+      "relative_path": "day1/members/bjorn/15_0586.webp",
+      "method": "riddle",
+      "ssim": 0.9905626450926598,
+      "lpips": 0.008574824780225754
+    },
+    {
+      "relative_path": "day1/members/bjorn/18_0134.webp",
+      "method": "riddle",
+      "ssim": 0.9747535385464934,
+      "lpips": 0.03679022565484047
+    },
+    {
+      "relative_path": "day1/members/bjorn/18_0340.webp",
+      "method": "riddle",
+      "ssim": 0.9918242912524041,
+      "lpips": 0.010810047388076782
+    },
+    {
+      "relative_path": "day1/members/bjorn/18_0660.webp",
+      "method": "riddle",
+      "ssim": 0.9927529860927375,
+      "lpips": 0.008271797560155392
+    },
+    {
+      "relative_path": "day1/members/bjorn/19_0016.webp",
+      "method": "riddle",
+      "ssim": 0.9918477317794093,
+      "lpips": 0.010893224738538265
+    },
+    {
+      "relative_path": "day1/members/cathal/08_0346.webp",
+      "method": "riddle",
+      "ssim": 0.9915945722976174,
+      "lpips": 0.012818132527172565
+    },
+    {
+      "relative_path": "day1/members/cathal/09_0001.webp",
+      "method": "riddle",
+      "ssim": 0.9643496735516314,
+      "lpips": 0.04595518484711647
+    },
+    {
+      "relative_path": "day1/members/cathal/10_0676.webp",
+      "method": "riddle",
+      "ssim": 0.9832098221556338,
+      "lpips": 0.01719270460307598
+    },
+    {
+      "relative_path": "day1/members/cathal/10_0708.webp",
+      "method": "riddle",
+      "ssim": 0.984682656430118,
+      "lpips": 0.01868804171681404
+    },
+    {
+      "relative_path": "day1/members/cathal/11_0405.webp",
+      "method": "riddle",
+      "ssim": 0.9782921165330949,
+      "lpips": 0.027049623429775238
+    },
+    {
+      "relative_path": "day1/members/cathal/11_0477.webp",
+      "method": "riddle",
+      "ssim": 0.9894040651171263,
+      "lpips": 0.006822237279266119
+    },
+    {
+      "relative_path": "day1/members/cathal/12_0342.webp",
+      "method": "riddle",
+      "ssim": 0.9735872886637141,
+      "lpips": 0.02985883690416813
+    },
+    {
+      "relative_path": "day1/members/cathal/13_0040.webp",
+      "method": "riddle",
+      "ssim": 0.9361339712993765,
+      "lpips": 0.10071371495723724
+    },
+    {
+      "relative_path": "day1/members/cathal/14_0484.webp",
+      "method": "riddle",
+      "ssim": 0.9864281197891516,
+      "lpips": 0.015936682000756264
+    },
+    {
+      "relative_path": "day1/members/cathal/14_0490.webp",
+      "method": "riddle",
+      "ssim": 0.9698865762055001,
+      "lpips": 0.033903446048498154
+    },
+    {
+      "relative_path": "day1/members/cathal/14_0708.webp",
+      "method": "riddle",
+      "ssim": 0.9726766845648577,
+      "lpips": 0.02658562734723091
+    },
+    {
+      "relative_path": "day1/members/cathal/15_0162.webp",
+      "method": "riddle",
+      "ssim": 0.978893123078728,
+      "lpips": 0.02696320414543152
+    },
+    {
+      "relative_path": "day1/members/cathal/15_0298.webp",
+      "method": "riddle",
+      "ssim": 0.9701793105286036,
+      "lpips": 0.03126266598701477
+    },
+    {
+      "relative_path": "day1/members/cathal/18_0317.webp",
+      "method": "riddle",
+      "ssim": 0.9804253455147598,
+      "lpips": 0.01935584470629692
+    },
+    {
+      "relative_path": "day1/members/florian/08_0341.webp",
+      "method": "riddle",
+      "ssim": 0.9909748349746578,
+      "lpips": 0.009846936911344528
+    },
+    {
+      "relative_path": "day1/members/florian/08_0717.webp",
+      "method": "riddle",
+      "ssim": 0.9711602828039005,
+      "lpips": 0.03390831872820854
+    },
+    {
+      "relative_path": "day1/members/florian/09_0596.webp",
+      "method": "riddle",
+      "ssim": 0.9917370238693866,
+      "lpips": 0.010286197997629642
+    },
+    {
+      "relative_path": "day1/members/florian/10_0419.webp",
+      "method": "riddle",
+      "ssim": 0.9775885439660548,
+      "lpips": 0.02357897348701954
+    },
+    {
+      "relative_path": "day1/members/florian/11_0210.webp",
+      "method": "riddle",
+      "ssim": 0.9867356770118384,
+      "lpips": 0.012648685835301876
+    },
+    {
+      "relative_path": "day1/members/florian/11_0219.webp",
+      "method": "riddle",
+      "ssim": 0.9758663037079386,
+      "lpips": 0.028047537431120872
+    },
+    {
+      "relative_path": "day1/members/florian/13_0133.webp",
+      "method": "riddle",
+      "ssim": 0.985927839805952,
+      "lpips": 0.011366736143827438
+    },
+    {
+      "relative_path": "day1/members/florian/15_0199.webp",
+      "method": "riddle",
+      "ssim": 0.9738907032108939,
+      "lpips": 0.024443823844194412
+    },
+    {
+      "relative_path": "day1/members/florian/15_0647.webp",
+      "method": "riddle",
+      "ssim": 0.9914054465851376,
+      "lpips": 0.007580711506307125
+    },
+    {
+      "relative_path": "day1/members/florian/16_0525.webp",
+      "method": "riddle",
+      "ssim": 0.9874834019371943,
+      "lpips": 0.011288279667496681
+    },
+    {
+      "relative_path": "day1/members/florian/17_0649.webp",
+      "method": "riddle",
+      "ssim": 0.9753136425191498,
+      "lpips": 0.02804022654891014
+    },
+    {
+      "relative_path": "day1/members/florian/18_0042.webp",
+      "method": "riddle",
+      "ssim": 0.9764408416497306,
+      "lpips": 0.028614111244678497
+    },
+    {
+      "relative_path": "day1/members/florian/18_0275.webp",
+      "method": "riddle",
+      "ssim": 0.9773185480673056,
+      "lpips": 0.02929077297449112
+    },
+    {
+      "relative_path": "day1/members/florian/18_0328.webp",
+      "method": "riddle",
+      "ssim": 0.9905274054458878,
+      "lpips": 0.009556896984577179
+    },
+    {
+      "relative_path": "day1/members/florian/18_0375.webp",
+      "method": "riddle",
+      "ssim": 0.9898563771062467,
+      "lpips": 0.008495505899190903
+    },
+    {
+      "relative_path": "day1/members/florian/19_0244.webp",
+      "method": "riddle",
+      "ssim": 0.990959461508267,
+      "lpips": 0.00822738092392683
+    },
+    {
+      "relative_path": "day1/members/florian/20_0151.webp",
+      "method": "riddle",
+      "ssim": 0.991151370661885,
+      "lpips": 0.01276937872171402
+    },
+    {
+      "relative_path": "day1/members/klaus/09_0114.webp",
+      "method": "riddle",
+      "ssim": 0.9691815157403102,
+      "lpips": 0.0330498069524765
+    },
+    {
+      "relative_path": "day1/members/klaus/09_0268.webp",
+      "method": "riddle",
+      "ssim": 0.9743425632888124,
+      "lpips": 0.025144468992948532
+    },
+    {
+      "relative_path": "day1/members/klaus/10_0063.webp",
+      "method": "riddle",
+      "ssim": 0.9700963099989023,
+      "lpips": 0.048489198088645935
+    },
+    {
+      "relative_path": "day1/members/klaus/10_0589.webp",
+      "method": "riddle",
+      "ssim": 0.9796438345838672,
+      "lpips": 0.020442180335521698
+    },
+    {
+      "relative_path": "day1/members/klaus/11_0523.webp",
+      "method": "riddle",
+      "ssim": 0.9834613991462712,
+      "lpips": 0.013699168339371681
+    },
+    {
+      "relative_path": "day1/members/klaus/12_0400.webp",
+      "method": "riddle",
+      "ssim": 0.994742837793923,
+      "lpips": 0.010198538191616535
+    },
+    {
+      "relative_path": "day1/members/klaus/12_0632.webp",
+      "method": "riddle",
+      "ssim": 0.9880400002765688,
+      "lpips": 0.011795558966696262
+    },
+    {
+      "relative_path": "day1/members/klaus/15_0547.webp",
+      "method": "riddle",
+      "ssim": 0.9899992635953275,
+      "lpips": 0.008591700345277786
+    },
+    {
+      "relative_path": "day1/members/klaus/16_0531.webp",
+      "method": "riddle",
+      "ssim": 0.9832655539660174,
+      "lpips": 0.02430092915892601
+    },
+    {
+      "relative_path": "day1/members/klaus/17_0002.webp",
+      "method": "riddle",
+      "ssim": 0.9725899525772329,
+      "lpips": 0.043557409197092056
+    },
+    {
+      "relative_path": "day1/members/klaus/17_0206.webp",
+      "method": "riddle",
+      "ssim": 0.9779758270243177,
+      "lpips": 0.029430130496621132
+    },
+    {
+      "relative_path": "day1/members/klaus/17_0521.webp",
+      "method": "riddle",
+      "ssim": 0.9804956745485957,
+      "lpips": 0.02568541094660759
+    },
+    {
+      "relative_path": "day1/members/luca/08_0069.webp",
+      "method": "riddle",
+      "ssim": 0.9930678754330078,
+      "lpips": 0.005089339800179005
+    },
+    {
+      "relative_path": "day1/members/luca/08_0225.webp",
+      "method": "riddle",
+      "ssim": 0.9886490231035432,
+      "lpips": 0.010856827720999718
+    },
+    {
+      "relative_path": "day1/members/luca/08_0716.webp",
+      "method": "riddle",
+      "ssim": 0.9814289040873655,
+      "lpips": 0.01716005429625511
+    },
+    {
+      "relative_path": "day1/members/luca/11_0691.webp",
+      "method": "riddle",
+      "ssim": 0.9894919951496917,
+      "lpips": 0.006567955017089844
+    },
+    {
+      "relative_path": "day1/members/luca/12_0078.webp",
+      "method": "riddle",
+      "ssim": 0.9936715049721955,
+      "lpips": 0.010981852188706398
+    },
+    {
+      "relative_path": "day1/members/luca/12_0168.webp",
+      "method": "riddle",
+      "ssim": 0.9903369856074979,
+      "lpips": 0.009359551593661308
+    },
+    {
+      "relative_path": "day1/members/luca/12_0202.webp",
+      "method": "riddle",
+      "ssim": 0.9896587433356414,
+      "lpips": 0.00820092298090458
+    },
+    {
+      "relative_path": "day1/members/luca/13_0044.webp",
+      "method": "riddle",
+      "ssim": 0.9845596553757096,
+      "lpips": 0.0176517553627491
+    },
+    {
+      "relative_path": "day1/members/luca/14_0698.webp",
+      "method": "riddle",
+      "ssim": 0.9799999675840022,
+      "lpips": 0.021905895322561264
+    },
+    {
+      "relative_path": "day1/members/luca/15_0236.webp",
+      "method": "riddle",
+      "ssim": 0.9820361745404472,
+      "lpips": 0.02195931226015091
+    },
+    {
+      "relative_path": "day1/members/luca/15_0372.webp",
+      "method": "riddle",
+      "ssim": 0.9749344704623772,
+      "lpips": 0.02975328080356121
+    },
+    {
+      "relative_path": "day1/members/luca/18_0040.webp",
+      "method": "riddle",
+      "ssim": 0.9826242308892373,
+      "lpips": 0.013450982980430126
+    },
+    {
+      "relative_path": "day1/members/luca/19_0006.webp",
+      "method": "riddle",
+      "ssim": 0.9867148120380577,
+      "lpips": 0.01585577428340912
+    },
+    {
+      "relative_path": "day1/members/onanong/08_0572.webp",
+      "method": "riddle",
+      "ssim": 0.9849353501903617,
+      "lpips": 0.016326148062944412
+    },
+    {
+      "relative_path": "day1/members/onanong/08_0611.webp",
+      "method": "riddle",
+      "ssim": 0.9843738743660605,
+      "lpips": 0.016880158334970474
+    },
+    {
+      "relative_path": "day1/members/onanong/10_0201.webp",
+      "method": "riddle",
+      "ssim": 0.9861155651558066,
+      "lpips": 0.013881445862352848
+    },
+    {
+      "relative_path": "day1/members/onanong/10_0422.webp",
+      "method": "riddle",
+      "ssim": 0.988025262590485,
+      "lpips": 0.011091586202383041
+    },
+    {
+      "relative_path": "day1/members/onanong/11_0119.webp",
+      "method": "riddle",
+      "ssim": 0.9937954978635198,
+      "lpips": 0.00826537236571312
+    },
+    {
+      "relative_path": "day1/members/onanong/14_0049.webp",
+      "method": "riddle",
+      "ssim": 0.9790757551829751,
+      "lpips": 0.024785952642560005
+    },
+    {
+      "relative_path": "day1/members/onanong/14_0406.webp",
+      "method": "riddle",
+      "ssim": 0.9724293207927848,
+      "lpips": 0.03337516635656357
+    },
+    {
+      "relative_path": "day1/members/onanong/14_0681.webp",
+      "method": "riddle",
+      "ssim": 0.9770427256272706,
+      "lpips": 0.030412957072257996
+    },
+    {
+      "relative_path": "day1/members/onanong/15_0060.webp",
+      "method": "riddle",
+      "ssim": 0.9737404601204273,
+      "lpips": 0.029368039220571518
+    },
+    {
+      "relative_path": "day1/members/onanong/16_0577.webp",
+      "method": "riddle",
+      "ssim": 0.9884536312797797,
+      "lpips": 0.011342060752213001
+    },
+    {
+      "relative_path": "day1/members/onanong/17_0253.webp",
+      "method": "riddle",
+      "ssim": 0.9928524911329664,
+      "lpips": 0.007765606511384249
+    },
+    {
+      "relative_path": "day1/members/onanong/17_0468.webp",
+      "method": "riddle",
+      "ssim": 0.988177216726834,
+      "lpips": 0.01265271008014679
+    },
+    {
+      "relative_path": "day1/members/onanong/18_0512.webp",
+      "method": "riddle",
+      "ssim": 0.9700225734355247,
+      "lpips": 0.040677741169929504
+    },
+    {
+      "relative_path": "day1/members/onanong/19_0261.webp",
+      "method": "riddle",
+      "ssim": 0.9925344296666898,
+      "lpips": 0.010183537378907204
+    },
+    {
+      "relative_path": "day1/members/onanong/19_0481.webp",
+      "method": "riddle",
+      "ssim": 0.9917749607911911,
+      "lpips": 0.00933106429874897
+    },
+    {
+      "relative_path": "day1/members/stevan/08_0330.webp",
+      "method": "riddle",
+      "ssim": 0.9904254366735609,
+      "lpips": 0.007676485925912857
+    },
+    {
+      "relative_path": "day1/members/stevan/08_0631.webp",
+      "method": "riddle",
+      "ssim": 0.9900783427543353,
+      "lpips": 0.007378805428743362
+    },
+    {
+      "relative_path": "day1/members/stevan/10_0179.webp",
+      "method": "riddle",
+      "ssim": 0.9840528619421368,
+      "lpips": 0.018242616206407547
+    },
+    {
+      "relative_path": "day1/members/stevan/10_0250.webp",
+      "method": "riddle",
+      "ssim": 0.9814513871710319,
+      "lpips": 0.02126910910010338
+    },
+    {
+      "relative_path": "day1/members/stevan/11_0011.webp",
+      "method": "riddle",
+      "ssim": 0.9856916718760479,
+      "lpips": 0.013303112238645554
+    },
+    {
+      "relative_path": "day1/members/stevan/11_0456.webp",
+      "method": "riddle",
+      "ssim": 0.9950295278759901,
+      "lpips": 0.008672758936882019
+    },
+    {
+      "relative_path": "day1/members/stevan/17_0340.webp",
+      "method": "riddle",
+      "ssim": 0.9926153986488085,
+      "lpips": 0.011090798303484917
+    },
+    {
+      "relative_path": "day1/members/stevan/18_0014.webp",
+      "method": "riddle",
+      "ssim": 0.9797280794827584,
+      "lpips": 0.02305758185684681
+    },
+    {
+      "relative_path": "day1/members/stevan/18_0567.webp",
+      "method": "riddle",
+      "ssim": 0.9806961888025622,
+      "lpips": 0.02465922385454178
+    },
+    {
+      "relative_path": "day1/members/stevan/18_0597.webp",
+      "method": "riddle",
+      "ssim": 0.9824504800490801,
+      "lpips": 0.020644791424274445
+    },
+    {
+      "relative_path": "day1/members/stevan/18_0660.webp",
+      "method": "riddle",
+      "ssim": 0.9912241863989396,
+      "lpips": 0.01073494739830494
+    },
+    {
+      "relative_path": "day1/members/stevan/19_0205.webp",
+      "method": "riddle",
+      "ssim": 0.9889184041362461,
+      "lpips": 0.008494582027196884
+    },
+    {
+      "relative_path": "day1/members/tien/08_0068.webp",
+      "method": "riddle",
+      "ssim": 0.9909659014410016,
+      "lpips": 0.007476543541997671
+    },
+    {
+      "relative_path": "day1/members/tien/08_0310.webp",
+      "method": "riddle",
+      "ssim": 0.9919989856958263,
+      "lpips": 0.010650408454239368
+    },
+    {
+      "relative_path": "day1/members/tien/08_0483.webp",
+      "method": "riddle",
+      "ssim": 0.9893203012432134,
+      "lpips": 0.007348677609115839
+    },
+    {
+      "relative_path": "day1/members/tien/09_0404.webp",
+      "method": "riddle",
+      "ssim": 0.9940966078148792,
+      "lpips": 0.010690729133784771
+    },
+    {
+      "relative_path": "day1/members/tien/10_0032.webp",
+      "method": "riddle",
+      "ssim": 0.9888361797458439,
+      "lpips": 0.011525665409862995
+    },
+    {
+      "relative_path": "day1/members/tien/10_0152.webp",
+      "method": "riddle",
+      "ssim": 0.9867944857911981,
+      "lpips": 0.014258245937526226
+    },
+    {
+      "relative_path": "day1/members/tien/13_0571.webp",
+      "method": "riddle",
+      "ssim": 0.9850225103234337,
+      "lpips": 0.02140555903315544
+    },
+    {
+      "relative_path": "day1/members/tien/14_0026.webp",
+      "method": "riddle",
+      "ssim": 0.9810047617254067,
+      "lpips": 0.027320150285959244
+    },
+    {
+      "relative_path": "day1/members/tien/14_0211.webp",
+      "method": "riddle",
+      "ssim": 0.9753119757645115,
+      "lpips": 0.02504795603454113
+    },
+    {
+      "relative_path": "day1/members/tien/15_0093.webp",
+      "method": "riddle",
+      "ssim": 0.9773279426579741,
+      "lpips": 0.019873080775141716
+    },
+    {
+      "relative_path": "day1/members/tien/15_0585.webp",
+      "method": "riddle",
+      "ssim": 0.9927610662825187,
+      "lpips": 0.010332109406590462
+    },
+    {
+      "relative_path": "day1/members/tien/19_0050.webp",
+      "method": "riddle",
+      "ssim": 0.987487258626088,
+      "lpips": 0.007884467020630836
+    },
+    {
+      "relative_path": "day1/members/tien/19_0392.webp",
+      "method": "riddle",
+      "ssim": 0.970123091228939,
+      "lpips": 0.04885692894458771
+    },
+    {
+      "relative_path": "day1/members/werner/08_0280.webp",
+      "method": "riddle",
+      "ssim": 0.9837566492126572,
+      "lpips": 0.02236374095082283
+    },
+    {
+      "relative_path": "day1/members/werner/10_0429.webp",
+      "method": "riddle",
+      "ssim": 0.9843526428191591,
+      "lpips": 0.012901087291538715
+    },
+    {
+      "relative_path": "day1/members/werner/11_0515.webp",
+      "method": "riddle",
+      "ssim": 0.9894741646713606,
+      "lpips": 0.00943487137556076
+    },
+    {
+      "relative_path": "day1/members/werner/11_0547.webp",
+      "method": "riddle",
+      "ssim": 0.9960826456047059,
+      "lpips": 0.003983712755143642
+    },
+    {
+      "relative_path": "day1/members/werner/13_0365.webp",
+      "method": "riddle",
+      "ssim": 0.9905794145593623,
+      "lpips": 0.007696239743381739
+    },
+    {
+      "relative_path": "day1/members/werner/13_0606.webp",
+      "method": "riddle",
+      "ssim": 0.9909381896640442,
+      "lpips": 0.008218849077820778
+    },
+    {
+      "relative_path": "day1/members/werner/14_0048.webp",
+      "method": "riddle",
+      "ssim": 0.9908644504951288,
+      "lpips": 0.012364692986011505
+    },
+    {
+      "relative_path": "day1/members/werner/14_0080.webp",
+      "method": "riddle",
+      "ssim": 0.9905234058680942,
+      "lpips": 0.009040918201208115
+    },
+    {
+      "relative_path": "day1/members/werner/15_0198.webp",
+      "method": "riddle",
+      "ssim": 0.9903108953730341,
+      "lpips": 0.00789868738502264
+    },
+    {
+      "relative_path": "day1/members/werner/15_0199.webp",
+      "method": "riddle",
+      "ssim": 0.9910455357939537,
+      "lpips": 0.008693229407072067
+    },
+    {
+      "relative_path": "day1/members/werner/15_0312.webp",
+      "method": "riddle",
+      "ssim": 0.9916464041081944,
+      "lpips": 0.011583372950553894
+    },
+    {
+      "relative_path": "day1/members/werner/17_0457.webp",
+      "method": "riddle",
+      "ssim": 0.9902925540160851,
+      "lpips": 0.010036762803792953
+    },
+    {
+      "relative_path": "day1/members/werner/18_0011.webp",
+      "method": "riddle",
+      "ssim": 0.9749126386841193,
+      "lpips": 0.028988806530833244
+    },
+    {
+      "relative_path": "day1/members/werner/18_0148.webp",
+      "method": "riddle",
+      "ssim": 0.978630071994845,
+      "lpips": 0.023890100419521332
+    },
+    {
+      "relative_path": "day1/members/werner/18_0484.webp",
+      "method": "riddle",
+      "ssim": 0.9787392715122287,
+      "lpips": 0.024544013664126396
+    },
+    {
+      "relative_path": "day1/members/werner/19_0255.webp",
+      "method": "riddle",
+      "ssim": 0.9879202649921974,
+      "lpips": 0.013581396080553532
+    },
+    {
+      "relative_path": "day1/members/werner/19_0438.webp",
+      "method": "riddle",
+      "ssim": 0.9747239440376,
+      "lpips": 0.024831067770719528
+    },
+    {
+      "relative_path": "day2/members/allie/10_0201.webp",
+      "method": "riddle",
+      "ssim": 0.9886504548330418,
+      "lpips": 0.01859266683459282
+    },
+    {
+      "relative_path": "day2/members/allie/10_0243.webp",
+      "method": "riddle",
+      "ssim": 0.986521193261292,
+      "lpips": 0.02258438803255558
+    },
+    {
+      "relative_path": "day2/members/allie/11_0188.webp",
+      "method": "riddle",
+      "ssim": 0.974053535975357,
+      "lpips": 0.025983409956097603
+    },
+    {
+      "relative_path": "day2/members/allie/11_0505.webp",
+      "method": "riddle",
+      "ssim": 0.9731718855708693,
+      "lpips": 0.02963956817984581
+    },
+    {
+      "relative_path": "day2/members/allie/13_0179.webp",
+      "method": "riddle",
+      "ssim": 0.9862729915299563,
+      "lpips": 0.008616924285888672
+    },
+    {
+      "relative_path": "day2/members/allie/13_0355.webp",
+      "method": "riddle",
+      "ssim": 0.9893467054372773,
+      "lpips": 0.008128215558826923
+    },
+    {
+      "relative_path": "day2/members/allie/15_0703.webp",
+      "method": "riddle",
+      "ssim": 0.9895280106245498,
+      "lpips": 0.00837722234427929
+    },
+    {
+      "relative_path": "day2/members/allie/16_0153.webp",
+      "method": "riddle",
+      "ssim": 0.9763455536052817,
+      "lpips": 0.028744719922542572
+    },
+    {
+      "relative_path": "day2/members/allie/16_0556.webp",
+      "method": "riddle",
+      "ssim": 0.9888788823284064,
+      "lpips": 0.015750249847769737
+    },
+    {
+      "relative_path": "day2/members/allie/17_0093.webp",
+      "method": "riddle",
+      "ssim": 0.9723345273255241,
+      "lpips": 0.03360322117805481
+    },
+    {
+      "relative_path": "day2/members/allie/17_0175.webp",
+      "method": "riddle",
+      "ssim": 0.9757563689514822,
+      "lpips": 0.03314129263162613
+    },
+    {
+      "relative_path": "day2/members/allie/17_0331.webp",
+      "method": "riddle",
+      "ssim": 0.9736523282182162,
+      "lpips": 0.036451973021030426
+    },
+    {
+      "relative_path": "day2/members/allie/19_0622.webp",
+      "method": "riddle",
+      "ssim": 0.9738176048119066,
+      "lpips": 0.03122982382774353
+    },
+    {
+      "relative_path": "day2/members/bjorn/11_0031.webp",
+      "method": "riddle",
+      "ssim": 0.9782557522644764,
+      "lpips": 0.017849765717983246
+    },
+    {
+      "relative_path": "day2/members/bjorn/12_0518.webp",
+      "method": "riddle",
+      "ssim": 0.9857523360540897,
+      "lpips": 0.01752885803580284
+    },
+    {
+      "relative_path": "day2/members/bjorn/15_0627.webp",
+      "method": "riddle",
+      "ssim": 0.9910701040587161,
+      "lpips": 0.0070180874317884445
+    },
+    {
+      "relative_path": "day2/members/bjorn/16_0250.webp",
+      "method": "riddle",
+      "ssim": 0.9899613777360207,
+      "lpips": 0.005888502113521099
+    },
+    {
+      "relative_path": "day2/members/bjorn/16_0632.webp",
+      "method": "riddle",
+      "ssim": 0.987195668621191,
+      "lpips": 0.01108040101826191
+    },
+    {
+      "relative_path": "day2/members/bjorn/17_0110.webp",
+      "method": "riddle",
+      "ssim": 0.9897946994315424,
+      "lpips": 0.005329134874045849
+    },
+    {
+      "relative_path": "day2/members/bjorn/17_0327.webp",
+      "method": "riddle",
+      "ssim": 0.9910365781115239,
+      "lpips": 0.013529984280467033
+    },
+    {
+      "relative_path": "day2/members/bjorn/19_0139.webp",
+      "method": "riddle",
+      "ssim": 0.9843075042337571,
+      "lpips": 0.019310027360916138
+    },
+    {
+      "relative_path": "day2/members/bjorn/19_0187.webp",
+      "method": "riddle",
+      "ssim": 0.9826895619822418,
+      "lpips": 0.02373685874044895
+    },
+    {
+      "relative_path": "day2/members/bjorn/19_0429.webp",
+      "method": "riddle",
+      "ssim": 0.9884056942504716,
+      "lpips": 0.011168573051691055
+    },
+    {
+      "relative_path": "day2/members/bjorn/19_0586.webp",
+      "method": "riddle",
+      "ssim": 0.9822098642228374,
+      "lpips": 0.023353302851319313
+    },
+    {
+      "relative_path": "day2/members/bjorn/20_0121.webp",
+      "method": "riddle",
+      "ssim": 0.976181582839462,
+      "lpips": 0.025445278733968735
+    },
+    {
+      "relative_path": "day2/members/cathal/10_0273.webp",
+      "method": "riddle",
+      "ssim": 0.979323971331676,
+      "lpips": 0.029837392270565033
+    },
+    {
+      "relative_path": "day2/members/cathal/10_0597.webp",
+      "method": "riddle",
+      "ssim": 0.980445525179424,
+      "lpips": 0.024172469973564148
+    },
+    {
+      "relative_path": "day2/members/cathal/11_0012.webp",
+      "method": "riddle",
+      "ssim": 0.9767303086986456,
+      "lpips": 0.025729790329933167
+    },
+    {
+      "relative_path": "day2/members/cathal/11_0063.webp",
+      "method": "riddle",
+      "ssim": 0.9720679841213279,
+      "lpips": 0.03526872396469116
+    },
+    {
+      "relative_path": "day2/members/cathal/12_0044.webp",
+      "method": "riddle",
+      "ssim": 0.9827723419475735,
+      "lpips": 0.02540542185306549
+    },
+    {
+      "relative_path": "day2/members/cathal/14_0185.webp",
+      "method": "riddle",
+      "ssim": 0.9858592374765921,
+      "lpips": 0.01212118100374937
+    },
+    {
+      "relative_path": "day2/members/cathal/14_0312.webp",
+      "method": "riddle",
+      "ssim": 0.9772992142582894,
+      "lpips": 0.027078930288553238
+    },
+    {
+      "relative_path": "day2/members/cathal/14_0361.webp",
+      "method": "riddle",
+      "ssim": 0.9861668813042868,
+      "lpips": 0.016184024512767792
+    },
+    {
+      "relative_path": "day2/members/cathal/18_0081.webp",
+      "method": "riddle",
+      "ssim": 0.9823215375123989,
+      "lpips": 0.02715391479432583
+    },
+    {
+      "relative_path": "day2/members/cathal/19_0198.webp",
+      "method": "riddle",
+      "ssim": 0.9900720264001527,
+      "lpips": 0.008904929272830486
+    },
+    {
+      "relative_path": "day2/members/cathal/19_0211.webp",
+      "method": "riddle",
+      "ssim": 0.9887964933737203,
+      "lpips": 0.00911228358745575
+    },
+    {
+      "relative_path": "day2/members/cathal/19_0687.webp",
+      "method": "riddle",
+      "ssim": 0.9836848919254603,
+      "lpips": 0.020711395889520645
+    },
+    {
+      "relative_path": "day2/members/florian/10_0103.webp",
+      "method": "riddle",
+      "ssim": 0.984625289493335,
+      "lpips": 0.01497325487434864
+    },
+    {
+      "relative_path": "day2/members/florian/11_0279.webp",
+      "method": "riddle",
+      "ssim": 0.9787874665268559,
+      "lpips": 0.019767023622989655
+    },
+    {
+      "relative_path": "day2/members/florian/12_0020.webp",
+      "method": "riddle",
+      "ssim": 0.9879286944297073,
+      "lpips": 0.009021887555718422
+    },
+    {
+      "relative_path": "day2/members/florian/12_0418.webp",
+      "method": "riddle",
+      "ssim": 0.9908595324898943,
+      "lpips": 0.005212453193962574
+    },
+    {
+      "relative_path": "day2/members/florian/12_0439.webp",
+      "method": "riddle",
+      "ssim": 0.9914734009088259,
+      "lpips": 0.0057090651243925095
+    },
+    {
+      "relative_path": "day2/members/florian/14_0042.webp",
+      "method": "riddle",
+      "ssim": 0.9909034898934488,
+      "lpips": 0.008724994957447052
+    },
+    {
+      "relative_path": "day2/members/florian/14_0293.webp",
+      "method": "riddle",
+      "ssim": 0.9654397223464709,
+      "lpips": 0.037222106009721756
+    },
+    {
+      "relative_path": "day2/members/florian/14_0303.webp",
+      "method": "riddle",
+      "ssim": 0.9737869880898717,
+      "lpips": 0.029384396970272064
+    },
+    {
+      "relative_path": "day2/members/florian/14_0324.webp",
+      "method": "riddle",
+      "ssim": 0.9474472745659469,
+      "lpips": 0.06267541646957397
+    },
+    {
+      "relative_path": "day2/members/florian/14_0672.webp",
+      "method": "riddle",
+      "ssim": 0.9811854015279313,
+      "lpips": 0.019694223999977112
+    },
+    {
+      "relative_path": "day2/members/florian/14_0717.webp",
+      "method": "riddle",
+      "ssim": 0.9824106086236345,
+      "lpips": 0.021794963628053665
+    },
+    {
+      "relative_path": "day2/members/florian/15_0006.webp",
+      "method": "riddle",
+      "ssim": 0.9888517931685775,
+      "lpips": 0.010235542431473732
+    },
+    {
+      "relative_path": "day2/members/florian/15_0118.webp",
+      "method": "riddle",
+      "ssim": 0.9814945479553164,
+      "lpips": 0.026225008070468903
+    },
+    {
+      "relative_path": "day2/members/florian/15_0395.webp",
+      "method": "riddle",
+      "ssim": 0.9892673703911766,
+      "lpips": 0.00902555137872696
+    },
+    {
+      "relative_path": "day2/members/florian/19_0363.webp",
+      "method": "riddle",
+      "ssim": 0.9919499825558941,
+      "lpips": 0.00802979338914156
+    },
+    {
+      "relative_path": "day2/members/klaus/10_0219.webp",
+      "method": "riddle",
+      "ssim": 0.9843857859812992,
+      "lpips": 0.013779115863144398
+    },
+    {
+      "relative_path": "day2/members/klaus/10_0464.webp",
+      "method": "riddle",
+      "ssim": 0.9638092058212893,
+      "lpips": 0.05012233927845955
+    },
+    {
+      "relative_path": "day2/members/klaus/10_0629.webp",
+      "method": "riddle",
+      "ssim": 0.9783469235715524,
+      "lpips": 0.01772017776966095
+    },
+    {
+      "relative_path": "day2/members/klaus/12_0153.webp",
+      "method": "riddle",
+      "ssim": 0.9912630350148596,
+      "lpips": 0.00721187237650156
+    },
+    {
+      "relative_path": "day2/members/klaus/12_0264.webp",
+      "method": "riddle",
+      "ssim": 0.9885664118331429,
+      "lpips": 0.009812192991375923
+    },
+    {
+      "relative_path": "day2/members/klaus/12_0531.webp",
+      "method": "riddle",
+      "ssim": 0.9890394301295468,
+      "lpips": 0.010634535923600197
+    },
+    {
+      "relative_path": "day2/members/klaus/13_0148.webp",
+      "method": "riddle",
+      "ssim": 0.9723401763797139,
+      "lpips": 0.03677397593855858
+    },
+    {
+      "relative_path": "day2/members/klaus/13_0331.webp",
+      "method": "riddle",
+      "ssim": 0.9659589346429902,
+      "lpips": 0.03864017501473427
+    },
+    {
+      "relative_path": "day2/members/klaus/15_0590.webp",
+      "method": "riddle",
+      "ssim": 0.9904643270348427,
+      "lpips": 0.006749058607965708
+    },
+    {
+      "relative_path": "day2/members/klaus/18_0506.webp",
+      "method": "riddle",
+      "ssim": 0.9822968856054447,
+      "lpips": 0.01911793276667595
+    },
+    {
+      "relative_path": "day2/members/klaus/18_0601.webp",
+      "method": "riddle",
+      "ssim": 0.9848696830189482,
+      "lpips": 0.012750962749123573
+    },
+    {
+      "relative_path": "day2/members/klaus/18_0665.webp",
+      "method": "riddle",
+      "ssim": 0.9837907826678922,
+      "lpips": 0.015191636979579926
+    },
+    {
+      "relative_path": "day2/members/klaus/19_0493.webp",
+      "method": "riddle",
+      "ssim": 0.9772361645331213,
+      "lpips": 0.022961590439081192
+    },
+    {
+      "relative_path": "day2/members/luca/10_0406.webp",
+      "method": "riddle",
+      "ssim": 0.9908042611223712,
+      "lpips": 0.005813123658299446
+    },
+    {
+      "relative_path": "day2/members/luca/10_0586.webp",
+      "method": "riddle",
+      "ssim": 0.9794900410620732,
+      "lpips": 0.018132364377379417
+    },
+    {
+      "relative_path": "day2/members/luca/10_0654.webp",
+      "method": "riddle",
+      "ssim": 0.9776260284444308,
+      "lpips": 0.02269809879362583
+    },
+    {
+      "relative_path": "day2/members/luca/11_0416.webp",
+      "method": "riddle",
+      "ssim": 0.9780779964936767,
+      "lpips": 0.02296212688088417
+    },
+    {
+      "relative_path": "day2/members/luca/12_0565.webp",
+      "method": "riddle",
+      "ssim": 0.9877295016843978,
+      "lpips": 0.008683312684297562
+    },
+    {
+      "relative_path": "day2/members/luca/13_0250.webp",
+      "method": "riddle",
+      "ssim": 0.9830594521541766,
+      "lpips": 0.019374120980501175
+    },
+    {
+      "relative_path": "day2/members/luca/14_0016.webp",
+      "method": "riddle",
+      "ssim": 0.9842645388776666,
+      "lpips": 0.013964569196105003
+    },
+    {
+      "relative_path": "day2/members/luca/14_0354.webp",
+      "method": "riddle",
+      "ssim": 0.9718749188962996,
+      "lpips": 0.029474716633558273
+    },
+    {
+      "relative_path": "day2/members/luca/17_0072.webp",
+      "method": "riddle",
+      "ssim": 0.9892518728374275,
+      "lpips": 0.010627761483192444
+    },
+    {
+      "relative_path": "day2/members/luca/17_0249.webp",
+      "method": "riddle",
+      "ssim": 0.9889469366640465,
+      "lpips": 0.007146147079765797
+    },
+    {
+      "relative_path": "day2/members/luca/18_0188.webp",
+      "method": "riddle",
+      "ssim": 0.9913951806812425,
+      "lpips": 0.006953303702175617
+    },
+    {
+      "relative_path": "day2/members/luca/18_0197.webp",
+      "method": "riddle",
+      "ssim": 0.9919819731400447,
+      "lpips": 0.007170436903834343
+    },
+    {
+      "relative_path": "day2/members/luca/18_0250.webp",
+      "method": "riddle",
+      "ssim": 0.9875157444987837,
+      "lpips": 0.012546881102025509
+    },
+    {
+      "relative_path": "day2/members/luca/19_0633.webp",
+      "method": "riddle",
+      "ssim": 0.972680793235194,
+      "lpips": 0.03348275274038315
+    },
+    {
+      "relative_path": "day2/members/luca/20_0211.webp",
+      "method": "riddle",
+      "ssim": 0.9841452898127357,
+      "lpips": 0.01795041747391224
+    },
+    {
+      "relative_path": "day2/members/onanong/10_0373.webp",
+      "method": "riddle",
+      "ssim": 0.9797801110323411,
+      "lpips": 0.02232307940721512
+    },
+    {
+      "relative_path": "day2/members/onanong/10_0518.webp",
+      "method": "riddle",
+      "ssim": 0.9722870515223255,
+      "lpips": 0.033584125339984894
+    },
+    {
+      "relative_path": "day2/members/onanong/11_0590.webp",
+      "method": "riddle",
+      "ssim": 0.9848097627689784,
+      "lpips": 0.017387298867106438
+    },
+    {
+      "relative_path": "day2/members/onanong/11_0615.webp",
+      "method": "riddle",
+      "ssim": 0.9899700582346044,
+      "lpips": 0.008736266754567623
+    },
+    {
+      "relative_path": "day2/members/onanong/12_0404.webp",
+      "method": "riddle",
+      "ssim": 0.9654144259759366,
+      "lpips": 0.04921161010861397
+    },
+    {
+      "relative_path": "day2/members/onanong/14_0193.webp",
+      "method": "riddle",
+      "ssim": 0.9737437723354696,
+      "lpips": 0.023915546014904976
+    },
+    {
+      "relative_path": "day2/members/onanong/14_0331.webp",
+      "method": "riddle",
+      "ssim": 0.9804311687463642,
+      "lpips": 0.022015981376171112
+    },
+    {
+      "relative_path": "day2/members/onanong/16_0168.webp",
+      "method": "riddle",
+      "ssim": 0.9919953985445004,
+      "lpips": 0.006978518329560757
+    },
+    {
+      "relative_path": "day2/members/onanong/16_0470.webp",
+      "method": "riddle",
+      "ssim": 0.9922181848990541,
+      "lpips": 0.012737574055790901
+    },
+    {
+      "relative_path": "day2/members/onanong/17_0009.webp",
+      "method": "riddle",
+      "ssim": 0.9894368398802121,
+      "lpips": 0.0136905238032341
+    },
+    {
+      "relative_path": "day2/members/onanong/17_0489.webp",
+      "method": "riddle",
+      "ssim": 0.9912765692545941,
+      "lpips": 0.007298762444406748
+    },
+    {
+      "relative_path": "day2/members/onanong/18_0325.webp",
+      "method": "riddle",
+      "ssim": 0.9763987555087597,
+      "lpips": 0.027594225481152534
+    },
+    {
+      "relative_path": "day2/members/stevan/09_0309.webp",
+      "method": "riddle",
+      "ssim": 0.9889924381508459,
+      "lpips": 0.007633221801370382
+    },
+    {
+      "relative_path": "day2/members/stevan/10_0281.webp",
+      "method": "riddle",
+      "ssim": 0.9907374082305528,
+      "lpips": 0.01134426984935999
+    },
+    {
+      "relative_path": "day2/members/stevan/11_0382.webp",
+      "method": "riddle",
+      "ssim": 0.9822590699494137,
+      "lpips": 0.01941581815481186
+    },
+    {
+      "relative_path": "day2/members/stevan/11_0452.webp",
+      "method": "riddle",
+      "ssim": 0.9679947350575494,
+      "lpips": 0.03809960559010506
+    },
+    {
+      "relative_path": "day2/members/stevan/11_0699.webp",
+      "method": "riddle",
+      "ssim": 0.9858626640764779,
+      "lpips": 0.02119344100356102
+    },
+    {
+      "relative_path": "day2/members/stevan/20_0706.webp",
+      "method": "riddle",
+      "ssim": 0.9882199891678646,
+      "lpips": 0.01725122146308422
+    },
+    {
+      "relative_path": "day2/members/tien/12_0007.webp",
+      "method": "riddle",
+      "ssim": 0.9848851649553501,
+      "lpips": 0.016007566824555397
+    },
+    {
+      "relative_path": "day2/members/tien/12_0017.webp",
+      "method": "riddle",
+      "ssim": 0.9776324646308115,
+      "lpips": 0.027233358472585678
+    },
+    {
+      "relative_path": "day2/members/tien/12_0597.webp",
+      "method": "riddle",
+      "ssim": 0.9808121162346759,
+      "lpips": 0.022056473419070244
+    },
+    {
+      "relative_path": "day2/members/tien/13_0043.webp",
+      "method": "riddle",
+      "ssim": 0.9904902748548731,
+      "lpips": 0.014194484800100327
+    },
+    {
+      "relative_path": "day2/members/tien/13_0604.webp",
+      "method": "riddle",
+      "ssim": 0.9742266008924414,
+      "lpips": 0.031083915382623672
+    },
+    {
+      "relative_path": "day2/members/tien/18_0209.webp",
+      "method": "riddle",
+      "ssim": 0.9898389444116539,
+      "lpips": 0.011340893805027008
+    },
+    {
+      "relative_path": "day2/members/tien/19_0311.webp",
+      "method": "riddle",
+      "ssim": 0.9859315577968335,
+      "lpips": 0.024324780330061913
+    },
+    {
+      "relative_path": "day2/members/tien/19_0472.webp",
+      "method": "riddle",
+      "ssim": 0.9634841505932843,
+      "lpips": 0.05166428163647652
+    },
+    {
+      "relative_path": "day2/members/tien/19_0512.webp",
+      "method": "riddle",
+      "ssim": 0.962231571417257,
+      "lpips": 0.050321370363235474
+    },
+    {
+      "relative_path": "day2/members/tien/20_0019.webp",
+      "method": "riddle",
+      "ssim": 0.9768170763912712,
+      "lpips": 0.029447223991155624
+    },
+    {
+      "relative_path": "day2/members/tien/20_0651.webp",
+      "method": "riddle",
+      "ssim": 0.9803497974576311,
+      "lpips": 0.026157373562455177
+    },
+    {
+      "relative_path": "day2/members/werner/10_0252.webp",
+      "method": "riddle",
+      "ssim": 0.9786910997614555,
+      "lpips": 0.03547241538763046
+    },
+    {
+      "relative_path": "day2/members/werner/12_0480.webp",
+      "method": "riddle",
+      "ssim": 0.9773765497829743,
+      "lpips": 0.0271527711302042
+    },
+    {
+      "relative_path": "day2/members/werner/13_0432.webp",
+      "method": "riddle",
+      "ssim": 0.9963727104687831,
+      "lpips": 0.0027794032357633114
+    },
+    {
+      "relative_path": "day2/members/werner/13_0648.webp",
+      "method": "riddle",
+      "ssim": 0.9961401639158867,
+      "lpips": 0.003249761648476124
+    },
+    {
+      "relative_path": "day2/members/werner/13_0683.webp",
+      "method": "riddle",
+      "ssim": 0.9961032505088663,
+      "lpips": 0.003335411660373211
+    },
+    {
+      "relative_path": "day2/members/werner/14_0229.webp",
+      "method": "riddle",
+      "ssim": 0.9866276303297988,
+      "lpips": 0.008712761104106903
+    },
+    {
+      "relative_path": "day2/members/werner/15_0625.webp",
+      "method": "riddle",
+      "ssim": 0.9847617033474844,
+      "lpips": 0.015211105346679688
+    },
+    {
+      "relative_path": "day2/members/werner/16_0476.webp",
+      "method": "riddle",
+      "ssim": 0.9895623604003081,
+      "lpips": 0.006958873942494392
+    },
+    {
+      "relative_path": "day2/members/werner/17_0039.webp",
+      "method": "riddle",
+      "ssim": 0.9911035019730529,
+      "lpips": 0.006572438403964043
+    },
+    {
+      "relative_path": "day2/members/werner/17_0115.webp",
+      "method": "riddle",
+      "ssim": 0.9854865324486225,
+      "lpips": 0.012972870841622353
+    },
+    {
+      "relative_path": "day2/members/werner/18_0289.webp",
+      "method": "riddle",
+      "ssim": 0.9930412532228065,
+      "lpips": 0.0070841810666024685
+    },
+    {
+      "relative_path": "day2/members/werner/19_0608.webp",
+      "method": "riddle",
+      "ssim": 0.9854795906959319,
+      "lpips": 0.018432579934597015
+    },
+    {
+      "relative_path": "day2/members/werner/20_0007.webp",
+      "method": "riddle",
+      "ssim": 0.9705832133949902,
+      "lpips": 0.03470304235816002
+    },
+    {
+      "relative_path": "day2/members/werner/20_0389.webp",
+      "method": "riddle",
+      "ssim": 0.989589647234313,
+      "lpips": 0.012690441682934761
+    },
+    {
+      "relative_path": "day2/members/werner/20_0424.webp",
+      "method": "riddle",
+      "ssim": 0.9766226815491889,
+      "lpips": 0.024268601089715958
+    },
+    {
+      "relative_path": "day2/members/werner/20_0620.webp",
+      "method": "riddle",
+      "ssim": 0.9898599470089615,
+      "lpips": 0.008860665373504162
+    },
+    {
+      "relative_path": "day3/members/allie/08_0398.webp",
+      "method": "riddle",
+      "ssim": 0.9892688045125304,
+      "lpips": 0.0074732801876962185
+    },
+    {
+      "relative_path": "day3/members/allie/10_0210.webp",
+      "method": "riddle",
+      "ssim": 0.9893223124006211,
+      "lpips": 0.008872107602655888
+    },
+    {
+      "relative_path": "day3/members/allie/10_0655.webp",
+      "method": "riddle",
+      "ssim": 0.9900513359761721,
+      "lpips": 0.009145595133304596
+    },
+    {
+      "relative_path": "day3/members/allie/12_0148.webp",
+      "method": "riddle",
+      "ssim": 0.9831672324398354,
+      "lpips": 0.014968509785830975
+    },
+    {
+      "relative_path": "day3/members/allie/12_0237.webp",
+      "method": "riddle",
+      "ssim": 0.9930640893730828,
+      "lpips": 0.004772842861711979
+    },
+    {
+      "relative_path": "day3/members/allie/12_0570.webp",
+      "method": "riddle",
+      "ssim": 0.9948884720936276,
+      "lpips": 0.009460393339395523
+    },
+    {
+      "relative_path": "day3/members/allie/12_0712.webp",
+      "method": "riddle",
+      "ssim": 0.9956113211106464,
+      "lpips": 0.0063947029411792755
+    },
+    {
+      "relative_path": "day3/members/allie/13_0693.webp",
+      "method": "riddle",
+      "ssim": 0.9893714767906095,
+      "lpips": 0.012797802686691284
+    },
+    {
+      "relative_path": "day3/members/allie/16_0683.webp",
+      "method": "riddle",
+      "ssim": 0.9869185580406379,
+      "lpips": 0.015286937355995178
+    },
+    {
+      "relative_path": "day3/members/allie/17_0205.webp",
+      "method": "riddle",
+      "ssim": 0.9828811938407332,
+      "lpips": 0.028050633147358894
+    },
+    {
+      "relative_path": "day3/members/allie/17_0399.webp",
+      "method": "riddle",
+      "ssim": 0.979922877719768,
+      "lpips": 0.023537656292319298
+    },
+    {
+      "relative_path": "day3/members/allie/18_0433.webp",
+      "method": "riddle",
+      "ssim": 0.9753985863593891,
+      "lpips": 0.021035075187683105
+    },
+    {
+      "relative_path": "day3/members/allie/18_0514.webp",
+      "method": "riddle",
+      "ssim": 0.9744453138776961,
+      "lpips": 0.02168920822441578
+    },
+    {
+      "relative_path": "day3/members/allie/18_0535.webp",
+      "method": "riddle",
+      "ssim": 0.9759558385657332,
+      "lpips": 0.02080461010336876
+    },
+    {
+      "relative_path": "day3/members/bjorn/10_0179.webp",
+      "method": "riddle",
+      "ssim": 0.9827594025984823,
+      "lpips": 0.030737396329641342
+    },
+    {
+      "relative_path": "day3/members/bjorn/10_0195.webp",
+      "method": "riddle",
+      "ssim": 0.9856076547717638,
+      "lpips": 0.019462790340185165
+    },
+    {
+      "relative_path": "day3/members/bjorn/12_0147.webp",
+      "method": "riddle",
+      "ssim": 0.9869441656885692,
+      "lpips": 0.014536824077367783
+    },
+    {
+      "relative_path": "day3/members/bjorn/12_0222.webp",
+      "method": "riddle",
+      "ssim": 0.9923679399172652,
+      "lpips": 0.006279135122895241
+    },
+    {
+      "relative_path": "day3/members/bjorn/12_0362.webp",
+      "method": "riddle",
+      "ssim": 0.9951400129436191,
+      "lpips": 0.00720856012776494
+    },
+    {
+      "relative_path": "day3/members/bjorn/14_0678.webp",
+      "method": "riddle",
+      "ssim": 0.9831836707543866,
+      "lpips": 0.018559711053967476
+    },
+    {
+      "relative_path": "day3/members/bjorn/15_0707.webp",
+      "method": "riddle",
+      "ssim": 0.9918569710971958,
+      "lpips": 0.008727828972041607
+    },
+    {
+      "relative_path": "day3/members/bjorn/18_0483.webp",
+      "method": "riddle",
+      "ssim": 0.9753529214495144,
+      "lpips": 0.0277056023478508
+    },
+    {
+      "relative_path": "day3/members/bjorn/18_0629.webp",
+      "method": "riddle",
+      "ssim": 0.9667453803808095,
+      "lpips": 0.05220818147063255
+    },
+    {
+      "relative_path": "day3/members/bjorn/19_0152.webp",
+      "method": "riddle",
+      "ssim": 0.9884204993443729,
+      "lpips": 0.015922676771879196
+    },
+    {
+      "relative_path": "day3/members/bjorn/19_0607.webp",
+      "method": "riddle",
+      "ssim": 0.9918993605647629,
+      "lpips": 0.010860562324523926
+    },
+    {
+      "relative_path": "day3/members/bjorn/20_0140.webp",
+      "method": "riddle",
+      "ssim": 0.9861153565194055,
+      "lpips": 0.02146046608686447
+    },
+    {
+      "relative_path": "day3/members/cathal/08_0097.webp",
+      "method": "riddle",
+      "ssim": 0.9919161210841586,
+      "lpips": 0.00856929924339056
+    },
+    {
+      "relative_path": "day3/members/cathal/09_0099.webp",
+      "method": "riddle",
+      "ssim": 0.9845771559904503,
+      "lpips": 0.019160032272338867
+    },
+    {
+      "relative_path": "day3/members/cathal/09_0355.webp",
+      "method": "riddle",
+      "ssim": 0.976418885202824,
+      "lpips": 0.03807922080159187
+    },
+    {
+      "relative_path": "day3/members/cathal/09_0625.webp",
+      "method": "riddle",
+      "ssim": 0.9840575621574762,
+      "lpips": 0.02714487537741661
+    },
+    {
+      "relative_path": "day3/members/cathal/11_0064.webp",
+      "method": "riddle",
+      "ssim": 0.9876985749388542,
+      "lpips": 0.010837891139090061
+    },
+    {
+      "relative_path": "day3/members/cathal/11_0181.webp",
+      "method": "riddle",
+      "ssim": 0.9797427629976214,
+      "lpips": 0.02314864471554756
+    },
+    {
+      "relative_path": "day3/members/cathal/11_0509.webp",
+      "method": "riddle",
+      "ssim": 0.9928011303518193,
+      "lpips": 0.005584000609815121
+    },
+    {
+      "relative_path": "day3/members/cathal/12_0524.webp",
+      "method": "riddle",
+      "ssim": 0.9934360006868702,
+      "lpips": 0.007088717073202133
+    },
+    {
+      "relative_path": "day3/members/cathal/15_0606.webp",
+      "method": "riddle",
+      "ssim": 0.9882461627319675,
+      "lpips": 0.007420910522341728
+    },
+    {
+      "relative_path": "day3/members/cathal/18_0053.webp",
+      "method": "riddle",
+      "ssim": 0.9782068884740814,
+      "lpips": 0.021221866831183434
+    },
+    {
+      "relative_path": "day3/members/cathal/19_0263.webp",
+      "method": "riddle",
+      "ssim": 0.9888661778304829,
+      "lpips": 0.013464718125760555
+    },
+    {
+      "relative_path": "day3/members/cathal/20_0290.webp",
+      "method": "riddle",
+      "ssim": 0.9809198434761038,
+      "lpips": 0.026068788021802902
+    },
+    {
+      "relative_path": "day3/members/cathal/20_0443.webp",
+      "method": "riddle",
+      "ssim": 0.9763858956170409,
+      "lpips": 0.021612344309687614
+    },
+    {
+      "relative_path": "day3/members/cathal/20_0569.webp",
+      "method": "riddle",
+      "ssim": 0.9675856528309139,
+      "lpips": 0.042562078684568405
+    },
+    {
+      "relative_path": "day3/members/florian/10_0402.webp",
+      "method": "riddle",
+      "ssim": 0.9929214748238909,
+      "lpips": 0.007195590063929558
+    },
+    {
+      "relative_path": "day3/members/florian/10_0693.webp",
+      "method": "riddle",
+      "ssim": 0.9870997768448969,
+      "lpips": 0.015312795527279377
+    },
+    {
+      "relative_path": "day3/members/florian/11_0647.webp",
+      "method": "riddle",
+      "ssim": 0.9929717125953103,
+      "lpips": 0.00515080988407135
+    },
+    {
+      "relative_path": "day3/members/florian/12_0302.webp",
+      "method": "riddle",
+      "ssim": 0.990434554884143,
+      "lpips": 0.0066353632137179375
+    },
+    {
+      "relative_path": "day3/members/florian/14_0452.webp",
+      "method": "riddle",
+      "ssim": 0.9855567039426721,
+      "lpips": 0.012039141729474068
+    },
+    {
+      "relative_path": "day3/members/florian/15_0318.webp",
+      "method": "riddle",
+      "ssim": 0.981998059016936,
+      "lpips": 0.014775988645851612
+    },
+    {
+      "relative_path": "day3/members/florian/17_0490.webp",
+      "method": "riddle",
+      "ssim": 0.9737251549702187,
+      "lpips": 0.031232299283146858
+    },
+    {
+      "relative_path": "day3/members/florian/18_0329.webp",
+      "method": "riddle",
+      "ssim": 0.968355862298734,
+      "lpips": 0.03463722765445709
+    },
+    {
+      "relative_path": "day3/members/florian/19_0086.webp",
+      "method": "riddle",
+      "ssim": 0.9901162661179969,
+      "lpips": 0.007960794493556023
+    },
+    {
+      "relative_path": "day3/members/florian/19_0198.webp",
+      "method": "riddle",
+      "ssim": 0.9879212820656927,
+      "lpips": 0.011545425280928612
+    },
+    {
+      "relative_path": "day3/members/florian/19_0282.webp",
+      "method": "riddle",
+      "ssim": 0.9898811363947412,
+      "lpips": 0.006675258278846741
+    },
+    {
+      "relative_path": "day3/members/florian/19_0349.webp",
+      "method": "riddle",
+      "ssim": 0.9913807541056103,
+      "lpips": 0.008503545075654984
+    },
+    {
+      "relative_path": "day3/members/florian/19_0684.webp",
+      "method": "riddle",
+      "ssim": 0.9907533056650025,
+      "lpips": 0.008564962074160576
+    },
+    {
+      "relative_path": "day3/members/florian/20_0281.webp",
+      "method": "riddle",
+      "ssim": 0.9746115800138608,
+      "lpips": 0.0232686810195446
+    },
+    {
+      "relative_path": "day3/members/florian/20_0698.webp",
+      "method": "riddle",
+      "ssim": 0.979831829209258,
+      "lpips": 0.018480079248547554
+    },
+    {
+      "relative_path": "day3/members/klaus/08_0380.webp",
+      "method": "riddle",
+      "ssim": 0.9813048708801261,
+      "lpips": 0.018253201618790627
+    },
+    {
+      "relative_path": "day3/members/klaus/09_0194.webp",
+      "method": "riddle",
+      "ssim": 0.9863024629020168,
+      "lpips": 0.008263593539595604
+    },
+    {
+      "relative_path": "day3/members/klaus/11_0207.webp",
+      "method": "riddle",
+      "ssim": 0.9929813402513026,
+      "lpips": 0.006659829057753086
+    },
+    {
+      "relative_path": "day3/members/klaus/12_0480.webp",
+      "method": "riddle",
+      "ssim": 0.9970936561786231,
+      "lpips": 0.00346068711951375
+    },
+    {
+      "relative_path": "day3/members/klaus/12_0484.webp",
+      "method": "riddle",
+      "ssim": 0.9950349839318403,
+      "lpips": 0.004384445026516914
+    },
+    {
+      "relative_path": "day3/members/klaus/13_0098.webp",
+      "method": "riddle",
+      "ssim": 0.9921800698964353,
+      "lpips": 0.008002938702702522
+    },
+    {
+      "relative_path": "day3/members/klaus/15_0375.webp",
+      "method": "riddle",
+      "ssim": 0.989811115257313,
+      "lpips": 0.0081332391127944
+    },
+    {
+      "relative_path": "day3/members/klaus/17_0530.webp",
+      "method": "riddle",
+      "ssim": 0.9911892125532464,
+      "lpips": 0.010967238806188107
+    },
+    {
+      "relative_path": "day3/members/klaus/18_0283.webp",
+      "method": "riddle",
+      "ssim": 0.9691991414709308,
+      "lpips": 0.03316663205623627
+    },
+    {
+      "relative_path": "day3/members/klaus/18_0613.webp",
+      "method": "riddle",
+      "ssim": 0.9741599838849115,
+      "lpips": 0.023234376683831215
+    },
+    {
+      "relative_path": "day3/members/klaus/19_0688.webp",
+      "method": "riddle",
+      "ssim": 0.9920345480653244,
+      "lpips": 0.007595397066324949
+    },
+    {
+      "relative_path": "day3/members/klaus/19_0704.webp",
+      "method": "riddle",
+      "ssim": 0.9911836291563064,
+      "lpips": 0.008702192455530167
+    },
+    {
+      "relative_path": "day3/members/klaus/20_0128.webp",
+      "method": "riddle",
+      "ssim": 0.9874937673689447,
+      "lpips": 0.01612142100930214
+    },
+    {
+      "relative_path": "day3/members/luca/10_0668.webp",
+      "method": "riddle",
+      "ssim": 0.9799966509561463,
+      "lpips": 0.02381197176873684
+    },
+    {
+      "relative_path": "day3/members/luca/11_0126.webp",
+      "method": "riddle",
+      "ssim": 0.9737192175145218,
+      "lpips": 0.03340107947587967
+    },
+    {
+      "relative_path": "day3/members/luca/11_0192.webp",
+      "method": "riddle",
+      "ssim": 0.9729973813980957,
+      "lpips": 0.03629031404852867
+    },
+    {
+      "relative_path": "day3/members/luca/11_0673.webp",
+      "method": "riddle",
+      "ssim": 0.944855033414362,
+      "lpips": 0.08996793627738953
+    },
+    {
+      "relative_path": "day3/members/luca/12_0481.webp",
+      "method": "riddle",
+      "ssim": 0.9909067786750372,
+      "lpips": 0.00829746201634407
+    },
+    {
+      "relative_path": "day3/members/luca/13_0160.webp",
+      "method": "riddle",
+      "ssim": 0.9882571483258201,
+      "lpips": 0.009481973014771938
+    },
+    {
+      "relative_path": "day3/members/luca/13_0698.webp",
+      "method": "riddle",
+      "ssim": 0.9827246887723321,
+      "lpips": 0.01788630336523056
+    },
+    {
+      "relative_path": "day3/members/luca/14_0453.webp",
+      "method": "riddle",
+      "ssim": 0.9843181285067143,
+      "lpips": 0.014492071233689785
+    },
+    {
+      "relative_path": "day3/members/luca/17_0412.webp",
+      "method": "riddle",
+      "ssim": 0.9791641495763592,
+      "lpips": 0.028180323541164398
+    },
+    {
+      "relative_path": "day3/members/luca/17_0582.webp",
+      "method": "riddle",
+      "ssim": 0.9821845535841348,
+      "lpips": 0.017919864505529404
+    },
+    {
+      "relative_path": "day3/members/luca/18_0517.webp",
+      "method": "riddle",
+      "ssim": 0.9816669757021576,
+      "lpips": 0.018154915422201157
+    },
+    {
+      "relative_path": "day3/members/luca/18_0524.webp",
+      "method": "riddle",
+      "ssim": 0.9745720006191895,
+      "lpips": 0.03274189308285713
+    },
+    {
+      "relative_path": "day3/members/luca/18_0573.webp",
+      "method": "riddle",
+      "ssim": 0.984303123284934,
+      "lpips": 0.017729483544826508
+    },
+    {
+      "relative_path": "day3/members/luca/19_0582.webp",
+      "method": "riddle",
+      "ssim": 0.9941493399666896,
+      "lpips": 0.007402298506349325
+    },
+    {
+      "relative_path": "day3/members/luca/20_0192.webp",
+      "method": "riddle",
+      "ssim": 0.9876890696365574,
+      "lpips": 0.011776954866945744
+    },
+    {
+      "relative_path": "day3/members/onanong/10_0301.webp",
+      "method": "riddle",
+      "ssim": 0.9881958213693207,
+      "lpips": 0.011470118537545204
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0042.webp",
+      "method": "riddle",
+      "ssim": 0.9798172165798148,
+      "lpips": 0.02719315141439438
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0248.webp",
+      "method": "riddle",
+      "ssim": 0.9766795926893782,
+      "lpips": 0.027188871055841446
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0537.webp",
+      "method": "riddle",
+      "ssim": 0.9774233345119834,
+      "lpips": 0.024787044152617455
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0644.webp",
+      "method": "riddle",
+      "ssim": 0.9759220130253784,
+      "lpips": 0.032138146460056305
+    },
+    {
+      "relative_path": "day3/members/onanong/12_0488.webp",
+      "method": "riddle",
+      "ssim": 0.9906211018469108,
+      "lpips": 0.007620382122695446
+    },
+    {
+      "relative_path": "day3/members/onanong/12_0703.webp",
+      "method": "riddle",
+      "ssim": 0.994297186128119,
+      "lpips": 0.0072563220746815205
+    },
+    {
+      "relative_path": "day3/members/onanong/14_0121.webp",
+      "method": "riddle",
+      "ssim": 0.9951812861953592,
+      "lpips": 0.0032521614339202642
+    },
+    {
+      "relative_path": "day3/members/onanong/15_0413.webp",
+      "method": "riddle",
+      "ssim": 0.9767009042926004,
+      "lpips": 0.02568763867020607
+    },
+    {
+      "relative_path": "day3/members/onanong/15_0609.webp",
+      "method": "riddle",
+      "ssim": 0.9915790748331563,
+      "lpips": 0.007776674814522266
+    },
+    {
+      "relative_path": "day3/members/onanong/16_0114.webp",
+      "method": "riddle",
+      "ssim": 0.9920649182536465,
+      "lpips": 0.009837917052209377
+    },
+    {
+      "relative_path": "day3/members/onanong/16_0319.webp",
+      "method": "riddle",
+      "ssim": 0.9880448239211125,
+      "lpips": 0.008311918005347252
+    },
+    {
+      "relative_path": "day3/members/onanong/16_0351.webp",
+      "method": "riddle",
+      "ssim": 0.9905088058451991,
+      "lpips": 0.006310083903372288
+    },
+    {
+      "relative_path": "day3/members/stevan/08_0717.webp",
+      "method": "riddle",
+      "ssim": 0.9877931154851592,
+      "lpips": 0.01428664568811655
+    },
+    {
+      "relative_path": "day3/members/stevan/09_0144.webp",
+      "method": "riddle",
+      "ssim": 0.9868037744481399,
+      "lpips": 0.013283109292387962
+    },
+    {
+      "relative_path": "day3/members/stevan/09_0286.webp",
+      "method": "riddle",
+      "ssim": 0.9856161071161388,
+      "lpips": 0.017572013661265373
+    },
+    {
+      "relative_path": "day3/members/stevan/10_0619.webp",
+      "method": "riddle",
+      "ssim": 0.9926037528849639,
+      "lpips": 0.007776618003845215
+    },
+    {
+      "relative_path": "day3/members/stevan/11_0119.webp",
+      "method": "riddle",
+      "ssim": 0.9779181344454969,
+      "lpips": 0.03169909492135048
+    },
+    {
+      "relative_path": "day3/members/stevan/13_0343.webp",
+      "method": "riddle",
+      "ssim": 0.9696437605886384,
+      "lpips": 0.037752214819192886
+    },
+    {
+      "relative_path": "day3/members/stevan/17_0661.webp",
+      "method": "riddle",
+      "ssim": 0.9746611463363207,
+      "lpips": 0.029182463884353638
+    },
+    {
+      "relative_path": "day3/members/stevan/18_0060.webp",
+      "method": "riddle",
+      "ssim": 0.95753538195821,
+      "lpips": 0.055590640753507614
+    },
+    {
+      "relative_path": "day3/members/stevan/18_0537.webp",
+      "method": "riddle",
+      "ssim": 0.9765400174499433,
+      "lpips": 0.025707930326461792
+    },
+    {
+      "relative_path": "day3/members/stevan/20_0090.webp",
+      "method": "riddle",
+      "ssim": 0.993571584740665,
+      "lpips": 0.007836548611521721
+    },
+    {
+      "relative_path": "day3/members/stevan/20_0527.webp",
+      "method": "riddle",
+      "ssim": 0.9850500451751122,
+      "lpips": 0.01863439381122589
+    },
+    {
+      "relative_path": "day3/members/stevan/20_0667.webp",
+      "method": "riddle",
+      "ssim": 0.9756101584912678,
+      "lpips": 0.03176442161202431
+    },
+    {
+      "relative_path": "day3/members/stevan/20_0682.webp",
+      "method": "riddle",
+      "ssim": 0.9775138192054271,
+      "lpips": 0.03195009380578995
+    },
+    {
+      "relative_path": "day3/members/tien/09_0002.webp",
+      "method": "riddle",
+      "ssim": 0.9881925718307523,
+      "lpips": 0.016610372811555862
+    },
+    {
+      "relative_path": "day3/members/tien/09_0391.webp",
+      "method": "riddle",
+      "ssim": 0.991490450395483,
+      "lpips": 0.007975989021360874
+    },
+    {
+      "relative_path": "day3/members/tien/10_0512.webp",
+      "method": "riddle",
+      "ssim": 0.9929181592827246,
+      "lpips": 0.012436398304998875
+    },
+    {
+      "relative_path": "day3/members/tien/10_0690.webp",
+      "method": "riddle",
+      "ssim": 0.9813732276718641,
+      "lpips": 0.025250179693102837
+    },
+    {
+      "relative_path": "day3/members/tien/11_0464.webp",
+      "method": "riddle",
+      "ssim": 0.9750281237249109,
+      "lpips": 0.03086196631193161
+    },
+    {
+      "relative_path": "day3/members/tien/11_0505.webp",
+      "method": "riddle",
+      "ssim": 0.9843432674395337,
+      "lpips": 0.0169992558658123
+    },
+    {
+      "relative_path": "day3/members/tien/11_0628.webp",
+      "method": "riddle",
+      "ssim": 0.9866290490066283,
+      "lpips": 0.014075150713324547
+    },
+    {
+      "relative_path": "day3/members/tien/12_0164.webp",
+      "method": "riddle",
+      "ssim": 0.9853694291140607,
+      "lpips": 0.013170972466468811
+    },
+    {
+      "relative_path": "day3/members/tien/14_0649.webp",
+      "method": "riddle",
+      "ssim": 0.9757344182952159,
+      "lpips": 0.03390286862850189
+    },
+    {
+      "relative_path": "day3/members/tien/17_0282.webp",
+      "method": "riddle",
+      "ssim": 0.9898625967387426,
+      "lpips": 0.008741247467696667
+    },
+    {
+      "relative_path": "day3/members/tien/18_0251.webp",
+      "method": "riddle",
+      "ssim": 0.9691915458169378,
+      "lpips": 0.03748896345496178
+    },
+    {
+      "relative_path": "day3/members/tien/18_0355.webp",
+      "method": "riddle",
+      "ssim": 0.9808414964914683,
+      "lpips": 0.023224812000989914
+    },
+    {
+      "relative_path": "day3/members/tien/20_0155.webp",
+      "method": "riddle",
+      "ssim": 0.9807810072426569,
+      "lpips": 0.026277998462319374
+    },
+    {
+      "relative_path": "day3/members/tien/20_0434.webp",
+      "method": "riddle",
+      "ssim": 0.987525531456357,
+      "lpips": 0.015344241634011269
+    },
+    {
+      "relative_path": "day3/members/tien/20_0575.webp",
+      "method": "riddle",
+      "ssim": 0.9686298984695217,
+      "lpips": 0.05084064602851868
+    },
+    {
+      "relative_path": "day3/members/werner/08_0498.webp",
+      "method": "riddle",
+      "ssim": 0.9915461892129388,
+      "lpips": 0.006873358506709337
+    },
+    {
+      "relative_path": "day3/members/werner/08_0594.webp",
+      "method": "riddle",
+      "ssim": 0.98463702855081,
+      "lpips": 0.014094971120357513
+    },
+    {
+      "relative_path": "day3/members/werner/08_0619.webp",
+      "method": "riddle",
+      "ssim": 0.9825892246630493,
+      "lpips": 0.014949765987694263
+    },
+    {
+      "relative_path": "day3/members/werner/08_0688.webp",
+      "method": "riddle",
+      "ssim": 0.9857837388859826,
+      "lpips": 0.014988718554377556
+    },
+    {
+      "relative_path": "day3/members/werner/10_0468.webp",
+      "method": "riddle",
+      "ssim": 0.9853532040252975,
+      "lpips": 0.010150279849767685
+    },
+    {
+      "relative_path": "day3/members/werner/10_0493.webp",
+      "method": "riddle",
+      "ssim": 0.9888944664068565,
+      "lpips": 0.010554452426731586
+    },
+    {
+      "relative_path": "day3/members/werner/12_0583.webp",
+      "method": "riddle",
+      "ssim": 0.9934542286179444,
+      "lpips": 0.005305224563926458
+    },
+    {
+      "relative_path": "day3/members/werner/16_0328.webp",
+      "method": "riddle",
+      "ssim": 0.9876018352276459,
+      "lpips": 0.014285052195191383
+    },
+    {
+      "relative_path": "day3/members/werner/17_0005.webp",
+      "method": "riddle",
+      "ssim": 0.9871114724631639,
+      "lpips": 0.016680501401424408
+    },
+    {
+      "relative_path": "day3/members/werner/17_0301.webp",
+      "method": "riddle",
+      "ssim": 0.9813711255567951,
+      "lpips": 0.01832948625087738
+    },
+    {
+      "relative_path": "day3/members/werner/19_0360.webp",
+      "method": "riddle",
+      "ssim": 0.9908658203914203,
+      "lpips": 0.009604455903172493
+    },
+    {
+      "relative_path": "day3/members/werner/20_0141.webp",
+      "method": "riddle",
+      "ssim": 0.9897052694916949,
+      "lpips": 0.013413029722869396
+    },
+    {
+      "relative_path": "day4/members/allie/08_0040.webp",
+      "method": "riddle",
+      "ssim": 0.9703710905449334,
+      "lpips": 0.0444217175245285
+    },
+    {
+      "relative_path": "day4/members/allie/09_0293.webp",
+      "method": "riddle",
+      "ssim": 0.9707622209115666,
+      "lpips": 0.03102150745689869
+    },
+    {
+      "relative_path": "day4/members/allie/09_0451.webp",
+      "method": "riddle",
+      "ssim": 0.9755464598243538,
+      "lpips": 0.025182992219924927
+    },
+    {
+      "relative_path": "day4/members/allie/09_0480.webp",
+      "method": "riddle",
+      "ssim": 0.9883937101220804,
+      "lpips": 0.011065865866839886
+    },
+    {
+      "relative_path": "day4/members/allie/09_0677.webp",
+      "method": "riddle",
+      "ssim": 0.975445034508747,
+      "lpips": 0.029372673481702805
+    },
+    {
+      "relative_path": "day4/members/allie/10_0446.webp",
+      "method": "riddle",
+      "ssim": 0.972285869479348,
+      "lpips": 0.033529218286275864
+    },
+    {
+      "relative_path": "day4/members/allie/11_0161.webp",
+      "method": "riddle",
+      "ssim": 0.9746333602174347,
+      "lpips": 0.028705930337309837
+    },
+    {
+      "relative_path": "day4/members/allie/11_0376.webp",
+      "method": "riddle",
+      "ssim": 0.9798041721926743,
+      "lpips": 0.021901017054915428
+    },
+    {
+      "relative_path": "day4/members/allie/12_0604.webp",
+      "method": "riddle",
+      "ssim": 0.9862449298781598,
+      "lpips": 0.01858684793114662
+    },
+    {
+      "relative_path": "day4/members/allie/13_0245.webp",
+      "method": "riddle",
+      "ssim": 0.9864427453372576,
+      "lpips": 0.01924189180135727
+    },
+    {
+      "relative_path": "day4/members/allie/18_0334.webp",
+      "method": "riddle",
+      "ssim": 0.9796592450391518,
+      "lpips": 0.02970294840633869
+    },
+    {
+      "relative_path": "day4/members/bao/08_0028.webp",
+      "method": "riddle",
+      "ssim": 0.9923522811276896,
+      "lpips": 0.007545824628323317
+    },
+    {
+      "relative_path": "day4/members/bao/08_0595.webp",
+      "method": "riddle",
+      "ssim": 0.9912117850590384,
+      "lpips": 0.009932073764503002
+    },
+    {
+      "relative_path": "day4/members/bao/09_0694.webp",
+      "method": "riddle",
+      "ssim": 0.982306765734612,
+      "lpips": 0.020175129175186157
+    },
+    {
+      "relative_path": "day4/members/bao/10_0060.webp",
+      "method": "riddle",
+      "ssim": 0.9762072826526769,
+      "lpips": 0.02708597481250763
+    },
+    {
+      "relative_path": "day4/members/bao/11_0055.webp",
+      "method": "riddle",
+      "ssim": 0.9727097030552031,
+      "lpips": 0.03548556566238403
+    },
+    {
+      "relative_path": "day4/members/bao/11_0220.webp",
+      "method": "riddle",
+      "ssim": 0.9818052409990363,
+      "lpips": 0.019906437024474144
+    },
+    {
+      "relative_path": "day4/members/bao/11_0549.webp",
+      "method": "riddle",
+      "ssim": 0.9725016024870311,
+      "lpips": 0.03308018669486046
+    },
+    {
+      "relative_path": "day4/members/bao/12_0423.webp",
+      "method": "riddle",
+      "ssim": 0.9939007391586637,
+      "lpips": 0.0066215237602591515
+    },
+    {
+      "relative_path": "day4/members/bao/12_0438.webp",
+      "method": "riddle",
+      "ssim": 0.9800663747197316,
+      "lpips": 0.027054617181420326
+    },
+    {
+      "relative_path": "day4/members/bao/13_0504.webp",
+      "method": "riddle",
+      "ssim": 0.9777577228014915,
+      "lpips": 0.024034857749938965
+    },
+    {
+      "relative_path": "day4/members/bao/13_0536.webp",
+      "method": "riddle",
+      "ssim": 0.9752277682132465,
+      "lpips": 0.026927823200821877
+    },
+    {
+      "relative_path": "day4/members/bjorn/08_0088.webp",
+      "method": "riddle",
+      "ssim": 0.9927025757284973,
+      "lpips": 0.008853946812450886
+    },
+    {
+      "relative_path": "day4/members/bjorn/08_0126.webp",
+      "method": "riddle",
+      "ssim": 0.9938048032312518,
+      "lpips": 0.010137687437236309
+    },
+    {
+      "relative_path": "day4/members/bjorn/08_0670.webp",
+      "method": "riddle",
+      "ssim": 0.9864516302989287,
+      "lpips": 0.01143702119588852
+    },
+    {
+      "relative_path": "day4/members/bjorn/10_0048.webp",
+      "method": "riddle",
+      "ssim": 0.9844960053669638,
+      "lpips": 0.016983671113848686
+    },
+    {
+      "relative_path": "day4/members/bjorn/10_0076.webp",
+      "method": "riddle",
+      "ssim": 0.9915671319342753,
+      "lpips": 0.010355697013437748
+    },
+    {
+      "relative_path": "day4/members/bjorn/10_0670.webp",
+      "method": "riddle",
+      "ssim": 0.9717351728479882,
+      "lpips": 0.033001143485307693
+    },
+    {
+      "relative_path": "day4/members/bjorn/12_0570.webp",
+      "method": "riddle",
+      "ssim": 0.9790532480413736,
+      "lpips": 0.0306258462369442
+    },
+    {
+      "relative_path": "day4/members/bjorn/13_0126.webp",
+      "method": "riddle",
+      "ssim": 0.9789017189467749,
+      "lpips": 0.022666938602924347
+    },
+    {
+      "relative_path": "day4/members/bjorn/14_0135.webp",
+      "method": "riddle",
+      "ssim": 0.9795267858235266,
+      "lpips": 0.01826215721666813
+    },
+    {
+      "relative_path": "day4/members/bjorn/14_0715.webp",
+      "method": "riddle",
+      "ssim": 0.98406096819271,
+      "lpips": 0.017996162176132202
+    },
+    {
+      "relative_path": "day4/members/bjorn/15_0170.webp",
+      "method": "riddle",
+      "ssim": 0.9891819065221119,
+      "lpips": 0.010341575369238853
+    },
+    {
+      "relative_path": "day4/members/cathal/09_0257.webp",
+      "method": "riddle",
+      "ssim": 0.9756679610841358,
+      "lpips": 0.029040561988949776
+    },
+    {
+      "relative_path": "day4/members/cathal/09_0426.webp",
+      "method": "riddle",
+      "ssim": 0.9889714924906761,
+      "lpips": 0.007337562739849091
+    },
+    {
+      "relative_path": "day4/members/cathal/12_0648.webp",
+      "method": "riddle",
+      "ssim": 0.9695079070988949,
+      "lpips": 0.03673749417066574
+    },
+    {
+      "relative_path": "day4/members/cathal/13_0074.webp",
+      "method": "riddle",
+      "ssim": 0.9763924025294101,
+      "lpips": 0.024486511945724487
+    },
+    {
+      "relative_path": "day4/members/cathal/13_0210.webp",
+      "method": "riddle",
+      "ssim": 0.9693778708358827,
+      "lpips": 0.045644860714673996
+    },
+    {
+      "relative_path": "day4/members/cathal/13_0418.webp",
+      "method": "riddle",
+      "ssim": 0.975593313956391,
+      "lpips": 0.020269861444830894
+    },
+    {
+      "relative_path": "day4/members/cathal/13_0470.webp",
+      "method": "riddle",
+      "ssim": 0.9812871496146699,
+      "lpips": 0.021799199283123016
+    },
+    {
+      "relative_path": "day4/members/cathal/15_0410.webp",
+      "method": "riddle",
+      "ssim": 0.9910185684978886,
+      "lpips": 0.008895809762179852
+    },
+    {
+      "relative_path": "day4/members/cathal/17_0524.webp",
+      "method": "riddle",
+      "ssim": 0.990445189122323,
+      "lpips": 0.008096743375062943
+    },
+    {
+      "relative_path": "day4/members/cathal/18_0466.webp",
+      "method": "riddle",
+      "ssim": 0.9916731667676021,
+      "lpips": 0.010700954124331474
+    },
+    {
+      "relative_path": "day4/members/florian/10_0112.webp",
+      "method": "riddle",
+      "ssim": 0.9760977033631842,
+      "lpips": 0.02419048734009266
+    },
+    {
+      "relative_path": "day4/members/florian/10_0427.webp",
+      "method": "riddle",
+      "ssim": 0.9825458124331293,
+      "lpips": 0.017023375257849693
+    },
+    {
+      "relative_path": "day4/members/florian/11_0305.webp",
+      "method": "riddle",
+      "ssim": 0.9646705196595454,
+      "lpips": 0.04248693585395813
+    },
+    {
+      "relative_path": "day4/members/florian/11_0372.webp",
+      "method": "riddle",
+      "ssim": 0.9810514073392316,
+      "lpips": 0.015785984694957733
+    },
+    {
+      "relative_path": "day4/members/florian/11_0412.webp",
+      "method": "riddle",
+      "ssim": 0.9798572077974715,
+      "lpips": 0.017744174227118492
+    },
+    {
+      "relative_path": "day4/members/florian/13_0005.webp",
+      "method": "riddle",
+      "ssim": 0.9771981593168603,
+      "lpips": 0.019110728055238724
+    },
+    {
+      "relative_path": "day4/members/florian/15_0498.webp",
+      "method": "riddle",
+      "ssim": 0.9929320200758958,
+      "lpips": 0.007119127549231052
+    },
+    {
+      "relative_path": "day4/members/florian/18_0559.webp",
+      "method": "riddle",
+      "ssim": 0.9905435801827777,
+      "lpips": 0.009502421133220196
+    },
+    {
+      "relative_path": "day4/members/klaus/08_0554.webp",
+      "method": "riddle",
+      "ssim": 0.9908198996340248,
+      "lpips": 0.0075093531049788
+    },
+    {
+      "relative_path": "day4/members/klaus/09_0320.webp",
+      "method": "riddle",
+      "ssim": 0.9886798745486226,
+      "lpips": 0.013363181613385677
+    },
+    {
+      "relative_path": "day4/members/klaus/11_0401.webp",
+      "method": "riddle",
+      "ssim": 0.983562493499849,
+      "lpips": 0.018840104341506958
+    },
+    {
+      "relative_path": "day4/members/klaus/12_0118.webp",
+      "method": "riddle",
+      "ssim": 0.977581752432365,
+      "lpips": 0.030393581837415695
+    },
+    {
+      "relative_path": "day4/members/klaus/12_0644.webp",
+      "method": "riddle",
+      "ssim": 0.9713530272034379,
+      "lpips": 0.03111654333770275
+    },
+    {
+      "relative_path": "day4/members/klaus/13_0393.webp",
+      "method": "riddle",
+      "ssim": 0.9745192077032202,
+      "lpips": 0.023897210136055946
+    },
+    {
+      "relative_path": "day4/members/klaus/13_0503.webp",
+      "method": "riddle",
+      "ssim": 0.9776657979184523,
+      "lpips": 0.018611086532473564
+    },
+    {
+      "relative_path": "day4/members/klaus/14_0224.webp",
+      "method": "riddle",
+      "ssim": 0.9731736359403982,
+      "lpips": 0.03000454045832157
+    },
+    {
+      "relative_path": "day4/members/klaus/14_0702.webp",
+      "method": "riddle",
+      "ssim": 0.9932192162734187,
+      "lpips": 0.01191683579236269
+    },
+    {
+      "relative_path": "day4/members/luca/08_0034.webp",
+      "method": "riddle",
+      "ssim": 0.9925061944102423,
+      "lpips": 0.009212614968419075
+    },
+    {
+      "relative_path": "day4/members/luca/08_0054.webp",
+      "method": "riddle",
+      "ssim": 0.9883292658178271,
+      "lpips": 0.010306437499821186
+    },
+    {
+      "relative_path": "day4/members/luca/10_0077.webp",
+      "method": "riddle",
+      "ssim": 0.9821181564987791,
+      "lpips": 0.018540335819125175
+    },
+    {
+      "relative_path": "day4/members/luca/10_0115.webp",
+      "method": "riddle",
+      "ssim": 0.980171841987922,
+      "lpips": 0.021069113165140152
+    },
+    {
+      "relative_path": "day4/members/luca/11_0464.webp",
+      "method": "riddle",
+      "ssim": 0.9758455393564591,
+      "lpips": 0.025257937610149384
+    },
+    {
+      "relative_path": "day4/members/luca/11_0578.webp",
+      "method": "riddle",
+      "ssim": 0.9810695515961978,
+      "lpips": 0.018834834918379784
+    },
+    {
+      "relative_path": "day4/members/luca/14_0018.webp",
+      "method": "riddle",
+      "ssim": 0.9779314609588919,
+      "lpips": 0.02141326665878296
+    },
+    {
+      "relative_path": "day4/members/luca/14_0559.webp",
+      "method": "riddle",
+      "ssim": 0.9894969476742786,
+      "lpips": 0.009231424890458584
+    },
+    {
+      "relative_path": "day4/members/luca/17_0685.webp",
+      "method": "riddle",
+      "ssim": 0.9925163794083657,
+      "lpips": 0.008016855455935001
+    },
+    {
+      "relative_path": "day4/members/luca/18_0257.webp",
+      "method": "riddle",
+      "ssim": 0.9920250161220371,
+      "lpips": 0.009139182046055794
+    },
+    {
+      "relative_path": "day4/members/luca/18_0521.webp",
+      "method": "riddle",
+      "ssim": 0.9911584516492411,
+      "lpips": 0.013578762300312519
+    },
+    {
+      "relative_path": "day4/members/luca/18_0590.webp",
+      "method": "riddle",
+      "ssim": 0.9852288523519825,
+      "lpips": 0.016375485807657242
+    },
+    {
+      "relative_path": "day4/members/onanong/10_0182.webp",
+      "method": "riddle",
+      "ssim": 0.9834932267472277,
+      "lpips": 0.014231719076633453
+    },
+    {
+      "relative_path": "day4/members/onanong/11_0635.webp",
+      "method": "riddle",
+      "ssim": 0.9804444812436967,
+      "lpips": 0.017346058040857315
+    },
+    {
+      "relative_path": "day4/members/onanong/11_0656.webp",
+      "method": "riddle",
+      "ssim": 0.9663250287786612,
+      "lpips": 0.03853229433298111
+    },
+    {
+      "relative_path": "day4/members/onanong/12_0450.webp",
+      "method": "riddle",
+      "ssim": 0.9924560060076617,
+      "lpips": 0.0077921305783092976
+    },
+    {
+      "relative_path": "day4/members/onanong/13_0378.webp",
+      "method": "riddle",
+      "ssim": 0.977863955885583,
+      "lpips": 0.028085358440876007
+    },
+    {
+      "relative_path": "day4/members/onanong/14_0177.webp",
+      "method": "riddle",
+      "ssim": 0.975626435323019,
+      "lpips": 0.02428087778389454
+    },
+    {
+      "relative_path": "day4/members/onanong/15_0191.webp",
+      "method": "riddle",
+      "ssim": 0.9761202631044562,
+      "lpips": 0.03035467118024826
+    },
+    {
+      "relative_path": "day4/members/onanong/15_0400.webp",
+      "method": "riddle",
+      "ssim": 0.9892761311881726,
+      "lpips": 0.012254836037755013
+    },
+    {
+      "relative_path": "day4/members/stevan/10_0044.webp",
+      "method": "riddle",
+      "ssim": 0.9760608530749596,
+      "lpips": 0.030573774129152298
+    },
+    {
+      "relative_path": "day4/members/stevan/10_0227.webp",
+      "method": "riddle",
+      "ssim": 0.9764825237716416,
+      "lpips": 0.028654061257839203
+    },
+    {
+      "relative_path": "day4/members/stevan/10_0629.webp",
+      "method": "riddle",
+      "ssim": 0.9843263970933608,
+      "lpips": 0.02416769228875637
+    },
+    {
+      "relative_path": "day4/members/stevan/10_0720.webp",
+      "method": "riddle",
+      "ssim": 0.977715698346516,
+      "lpips": 0.023373648524284363
+    },
+    {
+      "relative_path": "day4/members/stevan/11_0074.webp",
+      "method": "riddle",
+      "ssim": 0.9765976882216657,
+      "lpips": 0.024303751066327095
+    },
+    {
+      "relative_path": "day4/members/stevan/11_0365.webp",
+      "method": "riddle",
+      "ssim": 0.9859732003063234,
+      "lpips": 0.014112228527665138
+    },
+    {
+      "relative_path": "day4/members/stevan/13_0149.webp",
+      "method": "riddle",
+      "ssim": 0.9831037776729422,
+      "lpips": 0.024156026542186737
+    },
+    {
+      "relative_path": "day4/members/stevan/13_0462.webp",
+      "method": "riddle",
+      "ssim": 0.9657790439303455,
+      "lpips": 0.045501526445150375
+    },
+    {
+      "relative_path": "day4/members/stevan/13_0714.webp",
+      "method": "riddle",
+      "ssim": 0.9839216076699165,
+      "lpips": 0.018145041540265083
+    },
+    {
+      "relative_path": "day4/members/werner/08_0208.webp",
+      "method": "riddle",
+      "ssim": 0.9895936029960716,
+      "lpips": 0.008855601772665977
+    },
+    {
+      "relative_path": "day4/members/werner/08_0337.webp",
+      "method": "riddle",
+      "ssim": 0.9871002037819941,
+      "lpips": 0.012662293389439583
+    },
+    {
+      "relative_path": "day4/members/werner/09_0017.webp",
+      "method": "riddle",
+      "ssim": 0.9904811144750081,
+      "lpips": 0.008217998780310154
+    },
+    {
+      "relative_path": "day4/members/werner/10_0441.webp",
+      "method": "riddle",
+      "ssim": 0.9909968623812633,
+      "lpips": 0.009454002603888512
+    },
+    {
+      "relative_path": "day4/members/werner/11_0358.webp",
+      "method": "riddle",
+      "ssim": 0.9785982427078238,
+      "lpips": 0.02853318676352501
+    },
+    {
+      "relative_path": "day4/members/werner/12_0528.webp",
+      "method": "riddle",
+      "ssim": 0.9873047765224511,
+      "lpips": 0.012676870450377464
+    },
+    {
+      "relative_path": "day4/members/werner/13_0537.webp",
+      "method": "riddle",
+      "ssim": 0.9797436260974991,
+      "lpips": 0.018620282411575317
+    },
+    {
+      "relative_path": "day4/members/werner/14_0045.webp",
+      "method": "riddle",
+      "ssim": 0.9807428325979352,
+      "lpips": 0.02027330920100212
+    },
+    {
+      "relative_path": "day4/members/werner/18_0362.webp",
+      "method": "riddle",
+      "ssim": 0.9921165676821625,
+      "lpips": 0.009353501722216606
+    },
+    {
+      "relative_path": "day4/members/werner/18_0672.webp",
+      "method": "riddle",
+      "ssim": 0.9802619928103894,
+      "lpips": 0.02143186703324318
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+model,validation,sample_size,artifact_count,precision,recall,f1,f2_privacy_utility_weighted,specificity,balanced_accuracy,fallback_rate,true_positive,false_positive,false_negative,true_negative,review_feature_runtime_seconds
+siglip2_linear_svm,five_fold_participant_grouped,100,14,0.44,0.7857142857142857,0.5641025641025641,0.6790123456790124,0.8372093023255814,0.8114617940199336,0.25,11,14,3,72,9.905433687003097

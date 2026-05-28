@@ -1,0 +1,3013 @@
+{
+  "summary": {
+    "nullface": {
+      "ssim_mean": 0.9704866011081308,
+      "ssim_std": 0.05404965350058567,
+      "lpips_mean": 0.025420915686758236,
+      "lpips_std": 0.05629713174051833,
+      "sample_count": 500
+    }
+  },
+  "detailed": [
+    {
+      "relative_path": "day3/members/stevan/20_0682.webp",
+      "method": "nullface",
+      "ssim": 0.9516033846586994,
+      "lpips": 0.05297064036130905
+    },
+    {
+      "relative_path": "day1/members/luca/12_0078.webp",
+      "method": "nullface",
+      "ssim": 0.9960238566748004,
+      "lpips": 0.0024884846061468124
+    },
+    {
+      "relative_path": "day3/members/tien/14_0649.webp",
+      "method": "nullface",
+      "ssim": 0.9550927052794981,
+      "lpips": 0.03559960424900055
+    },
+    {
+      "relative_path": "day2/members/bjorn/16_0250.webp",
+      "method": "nullface",
+      "ssim": 0.9963648491866116,
+      "lpips": 0.0009684122633188963
+    },
+    {
+      "relative_path": "day1/members/stevan/10_0179.webp",
+      "method": "nullface",
+      "ssim": 0.9677121403560979,
+      "lpips": 0.03935592994093895
+    },
+    {
+      "relative_path": "day3/members/werner/08_0619.webp",
+      "method": "nullface",
+      "ssim": 0.9858153845748078,
+      "lpips": 0.009939027950167656
+    },
+    {
+      "relative_path": "day3/members/tien/10_0512.webp",
+      "method": "nullface",
+      "ssim": 0.9948492255821112,
+      "lpips": 0.0044381339102983475
+    },
+    {
+      "relative_path": "day1/members/werner/14_0048.webp",
+      "method": "nullface",
+      "ssim": 0.9938649149959374,
+      "lpips": 0.0040687923319637775
+    },
+    {
+      "relative_path": "day1/members/klaus/17_0206.webp",
+      "method": "nullface",
+      "ssim": 0.9729777559262529,
+      "lpips": 0.02186678536236286
+    },
+    {
+      "relative_path": "day4/members/florian/11_0412.webp",
+      "method": "nullface",
+      "ssim": 0.9808921289504644,
+      "lpips": 0.011599831283092499
+    },
+    {
+      "relative_path": "day1/members/allie/18_0412.webp",
+      "method": "nullface",
+      "ssim": 0.9633984451948332,
+      "lpips": 0.053357914090156555
+    },
+    {
+      "relative_path": "day2/members/klaus/18_0601.webp",
+      "method": "nullface",
+      "ssim": 0.9907837762820986,
+      "lpips": 0.005858161021023989
+    },
+    {
+      "relative_path": "day4/members/allie/12_0604.webp",
+      "method": "nullface",
+      "ssim": 0.9865110548545971,
+      "lpips": 0.011825800873339176
+    },
+    {
+      "relative_path": "day1/members/onanong/08_0572.webp",
+      "method": "nullface",
+      "ssim": 0.9858248149620493,
+      "lpips": 0.009271579794585705
+    },
+    {
+      "relative_path": "day3/members/stevan/09_0286.webp",
+      "method": "nullface",
+      "ssim": 0.9869001642230889,
+      "lpips": 0.013338197022676468
+    },
+    {
+      "relative_path": "day3/members/tien/20_0434.webp",
+      "method": "nullface",
+      "ssim": 0.9846617507533121,
+      "lpips": 0.010899892076849937
+    },
+    {
+      "relative_path": "day4/members/werner/18_0362.webp",
+      "method": "nullface",
+      "ssim": 0.9953119741863,
+      "lpips": 0.002370376605540514
+    },
+    {
+      "relative_path": "day1/members/cathal/12_0342.webp",
+      "method": "nullface",
+      "ssim": 0.9722034036288424,
+      "lpips": 0.021771926432847977
+    },
+    {
+      "relative_path": "day3/members/florian/19_0198.webp",
+      "method": "nullface",
+      "ssim": 0.9858995205063158,
+      "lpips": 0.012803140096366405
+    },
+    {
+      "relative_path": "day4/members/allie/18_0334.webp",
+      "method": "nullface",
+      "ssim": 0.9664694831651955,
+      "lpips": 0.033984873443841934
+    },
+    {
+      "relative_path": "day4/members/werner/09_0017.webp",
+      "method": "nullface",
+      "ssim": 0.9948159719157313,
+      "lpips": 0.0011807952541857958
+    },
+    {
+      "relative_path": "day4/members/werner/12_0528.webp",
+      "method": "nullface",
+      "ssim": 0.9885492515052485,
+      "lpips": 0.006370774935930967
+    },
+    {
+      "relative_path": "day3/members/bjorn/20_0140.webp",
+      "method": "nullface",
+      "ssim": 0.98049640615984,
+      "lpips": 0.022783435881137848
+    },
+    {
+      "relative_path": "day3/members/onanong/15_0413.webp",
+      "method": "nullface",
+      "ssim": 0.9673515225488075,
+      "lpips": 0.02321532741189003
+    },
+    {
+      "relative_path": "day1/members/luca/13_0044.webp",
+      "method": "nullface",
+      "ssim": 0.9858537544994835,
+      "lpips": 0.009474634192883968
+    },
+    {
+      "relative_path": "day4/members/luca/11_0578.webp",
+      "method": "nullface",
+      "ssim": 0.9723525083970008,
+      "lpips": 0.019003577530384064
+    },
+    {
+      "relative_path": "day4/members/werner/18_0672.webp",
+      "method": "nullface",
+      "ssim": 0.9782281982099644,
+      "lpips": 0.01912480592727661
+    },
+    {
+      "relative_path": "day2/members/luca/11_0416.webp",
+      "method": "nullface",
+      "ssim": 0.9678058797466823,
+      "lpips": 0.021321551874279976
+    },
+    {
+      "relative_path": "day1/members/stevan/08_0631.webp",
+      "method": "nullface",
+      "ssim": 0.9955351426695113,
+      "lpips": 0.0013050802517682314
+    },
+    {
+      "relative_path": "day3/members/luca/17_0412.webp",
+      "method": "nullface",
+      "ssim": 0.970630966729238,
+      "lpips": 0.023412512615323067
+    },
+    {
+      "relative_path": "day4/members/onanong/13_0378.webp",
+      "method": "nullface",
+      "ssim": 0.9728531566352259,
+      "lpips": 0.025682207196950912
+    },
+    {
+      "relative_path": "day3/members/luca/11_0126.webp",
+      "method": "nullface",
+      "ssim": 0.964385051157112,
+      "lpips": 0.031094489619135857
+    },
+    {
+      "relative_path": "day4/members/cathal/13_0074.webp",
+      "method": "nullface",
+      "ssim": 0.9764861502503545,
+      "lpips": 0.015416080132126808
+    },
+    {
+      "relative_path": "day2/members/cathal/19_0687.webp",
+      "method": "nullface",
+      "ssim": 0.9880258645748926,
+      "lpips": 0.009967190213501453
+    },
+    {
+      "relative_path": "day1/members/allie/09_0273.webp",
+      "method": "nullface",
+      "ssim": 0.964373396358111,
+      "lpips": 0.026692965999245644
+    },
+    {
+      "relative_path": "day3/members/luca/13_0698.webp",
+      "method": "nullface",
+      "ssim": 0.9743570306332313,
+      "lpips": 0.019675513729453087
+    },
+    {
+      "relative_path": "day4/members/allie/09_0480.webp",
+      "method": "nullface",
+      "ssim": 0.9939982246104752,
+      "lpips": 0.0024612024426460266
+    },
+    {
+      "relative_path": "day1/members/luca/18_0040.webp",
+      "method": "nullface",
+      "ssim": 0.9878923646161871,
+      "lpips": 0.006244717165827751
+    },
+    {
+      "relative_path": "day2/members/luca/10_0654.webp",
+      "method": "nullface",
+      "ssim": 0.9692449970530337,
+      "lpips": 0.018486950546503067
+    },
+    {
+      "relative_path": "day1/members/klaus/10_0063.webp",
+      "method": "nullface",
+      "ssim": 0.825527151378504,
+      "lpips": 0.1882193386554718
+    },
+    {
+      "relative_path": "day3/members/tien/20_0155.webp",
+      "method": "nullface",
+      "ssim": 0.978047109303413,
+      "lpips": 0.022155767306685448
+    },
+    {
+      "relative_path": "day1/members/onanong/08_0611.webp",
+      "method": "nullface",
+      "ssim": 0.9837968976833743,
+      "lpips": 0.01207347959280014
+    },
+    {
+      "relative_path": "day4/members/stevan/13_0714.webp",
+      "method": "nullface",
+      "ssim": 0.9849919861270391,
+      "lpips": 0.010124510154128075
+    },
+    {
+      "relative_path": "day2/members/florian/12_0020.webp",
+      "method": "nullface",
+      "ssim": 0.9954847344477841,
+      "lpips": 0.0011223749024793506
+    },
+    {
+      "relative_path": "day1/members/cathal/09_0001.webp",
+      "method": "nullface",
+      "ssim": 0.9326138372651157,
+      "lpips": 0.05438968539237976
+    },
+    {
+      "relative_path": "day1/members/luca/08_0225.webp",
+      "method": "nullface",
+      "ssim": 0.9935921900382549,
+      "lpips": 0.0034672394394874573
+    },
+    {
+      "relative_path": "day1/members/allie/14_0135.webp",
+      "method": "nullface",
+      "ssim": 0.9780762650320657,
+      "lpips": 0.02294999733567238
+    },
+    {
+      "relative_path": "day1/members/allie/10_0099.webp",
+      "method": "nullface",
+      "ssim": 0.9857538299821735,
+      "lpips": 0.008687558583915234
+    },
+    {
+      "relative_path": "day4/members/bao/08_0028.webp",
+      "method": "nullface",
+      "ssim": 0.9957676187036117,
+      "lpips": 0.0013773739337921143
+    },
+    {
+      "relative_path": "day1/members/bjorn/18_0340.webp",
+      "method": "nullface",
+      "ssim": 0.9935810543684589,
+      "lpips": 0.004331538453698158
+    },
+    {
+      "relative_path": "day1/members/luca/15_0236.webp",
+      "method": "nullface",
+      "ssim": 0.9804645112127788,
+      "lpips": 0.014476378448307514
+    },
+    {
+      "relative_path": "day2/members/florian/19_0363.webp",
+      "method": "nullface",
+      "ssim": 0.9952137951304741,
+      "lpips": 0.001563941827043891
+    },
+    {
+      "relative_path": "day1/members/werner/18_0484.webp",
+      "method": "nullface",
+      "ssim": 0.974216268077817,
+      "lpips": 0.01587982475757599
+    },
+    {
+      "relative_path": "day4/members/allie/08_0040.webp",
+      "method": "nullface",
+      "ssim": 0.7567873895485082,
+      "lpips": 0.16617798805236816
+    },
+    {
+      "relative_path": "day2/members/klaus/12_0264.webp",
+      "method": "nullface",
+      "ssim": 0.9952134462606539,
+      "lpips": 0.0019158638315275311
+    },
+    {
+      "relative_path": "day1/members/florian/08_0717.webp",
+      "method": "nullface",
+      "ssim": 0.9447905828750072,
+      "lpips": 0.04896333068609238
+    },
+    {
+      "relative_path": "day2/members/allie/13_0355.webp",
+      "method": "nullface",
+      "ssim": 0.9955678892290826,
+      "lpips": 0.0011861551320180297
+    },
+    {
+      "relative_path": "day1/members/bjorn/15_0004.webp",
+      "method": "nullface",
+      "ssim": 0.9863409231237551,
+      "lpips": 0.00865307915955782
+    },
+    {
+      "relative_path": "day2/members/klaus/10_0629.webp",
+      "method": "nullface",
+      "ssim": 0.9845730007114689,
+      "lpips": 0.007851080037653446
+    },
+    {
+      "relative_path": "day1/members/luca/08_0069.webp",
+      "method": "nullface",
+      "ssim": 0.9957208181560913,
+      "lpips": 0.0014688379596918821
+    },
+    {
+      "relative_path": "day4/members/werner/08_0337.webp",
+      "method": "nullface",
+      "ssim": 0.9894938971850058,
+      "lpips": 0.005293054506182671
+    },
+    {
+      "relative_path": "day2/members/werner/17_0115.webp",
+      "method": "nullface",
+      "ssim": 0.9874750765039716,
+      "lpips": 0.0054935249499976635
+    },
+    {
+      "relative_path": "day3/members/klaus/12_0484.webp",
+      "method": "nullface",
+      "ssim": 0.998476801802011,
+      "lpips": 0.002058004029095173
+    },
+    {
+      "relative_path": "day4/members/stevan/13_0149.webp",
+      "method": "nullface",
+      "ssim": 0.9856790545269681,
+      "lpips": 0.015467390418052673
+    },
+    {
+      "relative_path": "day1/members/luca/08_0716.webp",
+      "method": "nullface",
+      "ssim": 0.9857621790189152,
+      "lpips": 0.007342951372265816
+    },
+    {
+      "relative_path": "day1/members/cathal/08_0346.webp",
+      "method": "nullface",
+      "ssim": 0.9945877274114706,
+      "lpips": 0.005164919886738062
+    },
+    {
+      "relative_path": "day4/members/florian/10_0112.webp",
+      "method": "nullface",
+      "ssim": 0.9644651622557237,
+      "lpips": 0.020343787968158722
+    },
+    {
+      "relative_path": "day1/members/florian/13_0133.webp",
+      "method": "nullface",
+      "ssim": 0.9875407660078749,
+      "lpips": 0.005647028796374798
+    },
+    {
+      "relative_path": "day2/members/tien/19_0311.webp",
+      "method": "nullface",
+      "ssim": 0.9748407821443114,
+      "lpips": 0.04453796520829201
+    },
+    {
+      "relative_path": "day3/members/werner/08_0688.webp",
+      "method": "nullface",
+      "ssim": 0.9878354365732637,
+      "lpips": 0.008760832250118256
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0042.webp",
+      "method": "nullface",
+      "ssim": 0.9703436908839363,
+      "lpips": 0.02912798896431923
+    },
+    {
+      "relative_path": "day3/members/luca/18_0573.webp",
+      "method": "nullface",
+      "ssim": 0.9825049646046015,
+      "lpips": 0.012636393308639526
+    },
+    {
+      "relative_path": "day3/members/allie/17_0205.webp",
+      "method": "nullface",
+      "ssim": 0.9808910375789931,
+      "lpips": 0.023235678672790527
+    },
+    {
+      "relative_path": "day3/members/bjorn/18_0629.webp",
+      "method": "nullface",
+      "ssim": 0.8646163450968359,
+      "lpips": 0.08951890468597412
+    },
+    {
+      "relative_path": "day3/members/florian/19_0349.webp",
+      "method": "nullface",
+      "ssim": 0.9946024050414675,
+      "lpips": 0.0017519122920930386
+    },
+    {
+      "relative_path": "day3/members/cathal/11_0509.webp",
+      "method": "nullface",
+      "ssim": 0.9959388260428875,
+      "lpips": 0.0012693045428022742
+    },
+    {
+      "relative_path": "day3/members/allie/17_0399.webp",
+      "method": "nullface",
+      "ssim": 0.9776321813452563,
+      "lpips": 0.01671454682946205
+    },
+    {
+      "relative_path": "day1/members/klaus/09_0114.webp",
+      "method": "nullface",
+      "ssim": 0.9461631208724554,
+      "lpips": 0.05062059313058853
+    },
+    {
+      "relative_path": "day4/members/klaus/11_0401.webp",
+      "method": "nullface",
+      "ssim": 0.9764359784194859,
+      "lpips": 0.021427316591143608
+    },
+    {
+      "relative_path": "day4/members/luca/14_0559.webp",
+      "method": "nullface",
+      "ssim": 0.9932636468244632,
+      "lpips": 0.003800638485699892
+    },
+    {
+      "relative_path": "day2/members/bjorn/19_0429.webp",
+      "method": "nullface",
+      "ssim": 0.9943870317553446,
+      "lpips": 0.002188566606491804
+    },
+    {
+      "relative_path": "day1/members/luca/12_0168.webp",
+      "method": "nullface",
+      "ssim": 0.9943469583116911,
+      "lpips": 0.001702253706753254
+    },
+    {
+      "relative_path": "day4/members/onanong/12_0450.webp",
+      "method": "nullface",
+      "ssim": 0.9955691112813607,
+      "lpips": 0.0017024794360622764
+    },
+    {
+      "relative_path": "day2/members/cathal/12_0044.webp",
+      "method": "nullface",
+      "ssim": 0.9709654325347282,
+      "lpips": 0.030995164066553116
+    },
+    {
+      "relative_path": "day3/members/klaus/15_0375.webp",
+      "method": "nullface",
+      "ssim": 0.9948843724178883,
+      "lpips": 0.0012381738051772118
+    },
+    {
+      "relative_path": "day1/members/onanong/10_0201.webp",
+      "method": "nullface",
+      "ssim": 0.9880960000459605,
+      "lpips": 0.006029482465237379
+    },
+    {
+      "relative_path": "day2/members/florian/14_0324.webp",
+      "method": "nullface",
+      "ssim": 0.8191834307626532,
+      "lpips": 0.20743800699710846
+    },
+    {
+      "relative_path": "day4/members/bao/11_0549.webp",
+      "method": "nullface",
+      "ssim": 0.9617355888001429,
+      "lpips": 0.026126284152269363
+    },
+    {
+      "relative_path": "day3/members/florian/12_0302.webp",
+      "method": "nullface",
+      "ssim": 0.995635107215833,
+      "lpips": 0.0017289810348302126
+    },
+    {
+      "relative_path": "day3/members/allie/12_0570.webp",
+      "method": "nullface",
+      "ssim": 0.9965661585013685,
+      "lpips": 0.0028488733805716038
+    },
+    {
+      "relative_path": "day3/members/tien/09_0391.webp",
+      "method": "nullface",
+      "ssim": 0.9952831704099291,
+      "lpips": 0.0016573588363826275
+    },
+    {
+      "relative_path": "day4/members/luca/10_0077.webp",
+      "method": "nullface",
+      "ssim": 0.9198269441824948,
+      "lpips": 0.08169737458229065
+    },
+    {
+      "relative_path": "day3/members/stevan/20_0090.webp",
+      "method": "nullface",
+      "ssim": 0.9953888149709958,
+      "lpips": 0.002062085550278425
+    },
+    {
+      "relative_path": "day3/members/klaus/18_0283.webp",
+      "method": "nullface",
+      "ssim": 0.9339182159567523,
+      "lpips": 0.07096819579601288
+    },
+    {
+      "relative_path": "day4/members/bjorn/08_0670.webp",
+      "method": "nullface",
+      "ssim": 0.9890081858320826,
+      "lpips": 0.0038098832592368126
+    },
+    {
+      "relative_path": "day3/members/luca/18_0517.webp",
+      "method": "nullface",
+      "ssim": 0.9805982003640028,
+      "lpips": 0.012984699569642544
+    },
+    {
+      "relative_path": "day1/members/onanong/14_0049.webp",
+      "method": "nullface",
+      "ssim": 0.9625145397327675,
+      "lpips": 0.026111489161849022
+    },
+    {
+      "relative_path": "day1/members/luca/15_0372.webp",
+      "method": "nullface",
+      "ssim": 0.9639424191980751,
+      "lpips": 0.025142624974250793
+    },
+    {
+      "relative_path": "day4/members/cathal/13_0418.webp",
+      "method": "nullface",
+      "ssim": 0.9800473252386764,
+      "lpips": 0.01154404692351818
+    },
+    {
+      "relative_path": "day1/members/bjorn/10_0088.webp",
+      "method": "nullface",
+      "ssim": 0.9896690564381249,
+      "lpips": 0.005426708608865738
+    },
+    {
+      "relative_path": "day2/members/werner/10_0252.webp",
+      "method": "nullface",
+      "ssim": 0.957633588715081,
+      "lpips": 0.044858481734991074
+    },
+    {
+      "relative_path": "day4/members/bjorn/13_0126.webp",
+      "method": "nullface",
+      "ssim": 0.9814400758971781,
+      "lpips": 0.014900516718626022
+    },
+    {
+      "relative_path": "day1/members/bjorn/11_0116.webp",
+      "method": "nullface",
+      "ssim": 0.9833812122870663,
+      "lpips": 0.012477545998990536
+    },
+    {
+      "relative_path": "day3/members/klaus/09_0194.webp",
+      "method": "nullface",
+      "ssim": 0.9922892625558873,
+      "lpips": 0.0030267012771219015
+    },
+    {
+      "relative_path": "day3/members/klaus/20_0128.webp",
+      "method": "nullface",
+      "ssim": 0.9856540214726194,
+      "lpips": 0.01048477366566658
+    },
+    {
+      "relative_path": "day1/members/florian/08_0341.webp",
+      "method": "nullface",
+      "ssim": 0.9945528986536596,
+      "lpips": 0.0019135433249175549
+    },
+    {
+      "relative_path": "day3/members/cathal/12_0524.webp",
+      "method": "nullface",
+      "ssim": 0.9957699031102818,
+      "lpips": 0.0027817776426672935
+    },
+    {
+      "relative_path": "day2/members/onanong/17_0009.webp",
+      "method": "nullface",
+      "ssim": 0.9793348437033265,
+      "lpips": 0.020521096885204315
+    },
+    {
+      "relative_path": "day3/members/klaus/12_0480.webp",
+      "method": "nullface",
+      "ssim": 0.9989062009316809,
+      "lpips": 0.0027441757265478373
+    },
+    {
+      "relative_path": "day1/members/werner/19_0255.webp",
+      "method": "nullface",
+      "ssim": 0.9864945606563773,
+      "lpips": 0.009809108451008797
+    },
+    {
+      "relative_path": "day1/members/werner/13_0606.webp",
+      "method": "nullface",
+      "ssim": 0.9943280194347625,
+      "lpips": 0.00250419438816607
+    },
+    {
+      "relative_path": "day4/members/bjorn/10_0076.webp",
+      "method": "nullface",
+      "ssim": 0.9947356566990225,
+      "lpips": 0.002351465169340372
+    },
+    {
+      "relative_path": "day3/members/luca/19_0582.webp",
+      "method": "nullface",
+      "ssim": 0.9959221158742633,
+      "lpips": 0.0025604183319956064
+    },
+    {
+      "relative_path": "day1/members/bjorn/18_0134.webp",
+      "method": "nullface",
+      "ssim": 0.8249332628080145,
+      "lpips": 0.08834423869848251
+    },
+    {
+      "relative_path": "day4/members/luca/10_0115.webp",
+      "method": "nullface",
+      "ssim": 0.9580531023903555,
+      "lpips": 0.030357731506228447
+    },
+    {
+      "relative_path": "day3/members/bjorn/18_0483.webp",
+      "method": "nullface",
+      "ssim": 0.97960311396595,
+      "lpips": 0.014732936397194862
+    },
+    {
+      "relative_path": "day2/members/tien/19_0512.webp",
+      "method": "nullface",
+      "ssim": 0.906860908802693,
+      "lpips": 0.0738498866558075
+    },
+    {
+      "relative_path": "day2/members/stevan/11_0452.webp",
+      "method": "nullface",
+      "ssim": 0.9388179825445347,
+      "lpips": 0.0461672842502594
+    },
+    {
+      "relative_path": "day1/members/tien/08_0068.webp",
+      "method": "nullface",
+      "ssim": 0.9953525025463167,
+      "lpips": 0.001605362631380558
+    },
+    {
+      "relative_path": "day1/members/florian/18_0328.webp",
+      "method": "nullface",
+      "ssim": 0.9945560766332826,
+      "lpips": 0.0020706753712147474
+    },
+    {
+      "relative_path": "day2/members/onanong/18_0325.webp",
+      "method": "nullface",
+      "ssim": 0.9716615440342427,
+      "lpips": 0.01947280764579773
+    },
+    {
+      "relative_path": "day2/members/cathal/10_0597.webp",
+      "method": "nullface",
+      "ssim": 0.969925502700912,
+      "lpips": 0.018435094505548477
+    },
+    {
+      "relative_path": "day3/members/klaus/11_0207.webp",
+      "method": "nullface",
+      "ssim": 0.9957029389492571,
+      "lpips": 0.0015506717609241605
+    },
+    {
+      "relative_path": "day2/members/bjorn/15_0627.webp",
+      "method": "nullface",
+      "ssim": 0.9954816971724103,
+      "lpips": 0.0013285850873216987
+    },
+    {
+      "relative_path": "day2/members/onanong/14_0193.webp",
+      "method": "nullface",
+      "ssim": 0.9781084698395356,
+      "lpips": 0.012730619870126247
+    },
+    {
+      "relative_path": "day2/members/onanong/10_0373.webp",
+      "method": "nullface",
+      "ssim": 0.9735847499455442,
+      "lpips": 0.01889212802052498
+    },
+    {
+      "relative_path": "day4/members/bao/11_0220.webp",
+      "method": "nullface",
+      "ssim": 0.977589715278879,
+      "lpips": 0.01672251522541046
+    },
+    {
+      "relative_path": "day2/members/klaus/15_0590.webp",
+      "method": "nullface",
+      "ssim": 0.996022734664078,
+      "lpips": 0.0010391772957518697
+    },
+    {
+      "relative_path": "day1/members/werner/11_0547.webp",
+      "method": "nullface",
+      "ssim": 0.9981085545354685,
+      "lpips": 0.0014314749278128147
+    },
+    {
+      "relative_path": "day3/members/klaus/18_0613.webp",
+      "method": "nullface",
+      "ssim": 0.9751622459371726,
+      "lpips": 0.015636896714568138
+    },
+    {
+      "relative_path": "day1/members/cathal/10_0708.webp",
+      "method": "nullface",
+      "ssim": 0.9868876272117042,
+      "lpips": 0.010114960372447968
+    },
+    {
+      "relative_path": "day1/members/tien/19_0392.webp",
+      "method": "nullface",
+      "ssim": 0.9065085168221546,
+      "lpips": 0.13666851818561554
+    },
+    {
+      "relative_path": "day4/members/luca/11_0464.webp",
+      "method": "nullface",
+      "ssim": 0.9313431791116183,
+      "lpips": 0.04722105711698532
+    },
+    {
+      "relative_path": "day3/members/allie/10_0655.webp",
+      "method": "nullface",
+      "ssim": 0.9935468086239893,
+      "lpips": 0.0021457383409142494
+    },
+    {
+      "relative_path": "day2/members/allie/13_0179.webp",
+      "method": "nullface",
+      "ssim": 0.9954556847326597,
+      "lpips": 0.0009577277232892811
+    },
+    {
+      "relative_path": "day1/members/florian/15_0647.webp",
+      "method": "nullface",
+      "ssim": 0.9950425851063791,
+      "lpips": 0.001537102391012013
+    },
+    {
+      "relative_path": "day2/members/klaus/12_0531.webp",
+      "method": "nullface",
+      "ssim": 0.9946627860033924,
+      "lpips": 0.0020833746530115604
+    },
+    {
+      "relative_path": "day1/members/bjorn/15_0586.webp",
+      "method": "nullface",
+      "ssim": 0.9954131844466817,
+      "lpips": 0.0016478669131174684
+    },
+    {
+      "relative_path": "day1/members/bjorn/09_0318.webp",
+      "method": "nullface",
+      "ssim": 0.9944845713947159,
+      "lpips": 0.002393950242549181
+    },
+    {
+      "relative_path": "day3/members/allie/12_0148.webp",
+      "method": "nullface",
+      "ssim": 0.9873313583002398,
+      "lpips": 0.009948804043233395
+    },
+    {
+      "relative_path": "day1/members/klaus/17_0521.webp",
+      "method": "nullface",
+      "ssim": 0.9595918043471077,
+      "lpips": 0.04670526832342148
+    },
+    {
+      "relative_path": "day2/members/luca/10_0586.webp",
+      "method": "nullface",
+      "ssim": 0.9807727462672022,
+      "lpips": 0.01118718832731247
+    },
+    {
+      "relative_path": "day4/members/onanong/11_0656.webp",
+      "method": "nullface",
+      "ssim": 0.9133274440573889,
+      "lpips": 0.06889301538467407
+    },
+    {
+      "relative_path": "day1/members/onanong/17_0468.webp",
+      "method": "nullface",
+      "ssim": 0.9907671693875418,
+      "lpips": 0.004249092191457748
+    },
+    {
+      "relative_path": "day2/members/werner/14_0229.webp",
+      "method": "nullface",
+      "ssim": 0.9929399101740274,
+      "lpips": 0.002494286745786667
+    },
+    {
+      "relative_path": "day3/members/allie/18_0514.webp",
+      "method": "nullface",
+      "ssim": 0.9791101929211846,
+      "lpips": 0.013247188180685043
+    },
+    {
+      "relative_path": "day1/members/bjorn/10_0130.webp",
+      "method": "nullface",
+      "ssim": 0.9355749431656157,
+      "lpips": 0.10286203026771545
+    },
+    {
+      "relative_path": "day2/members/onanong/16_0470.webp",
+      "method": "nullface",
+      "ssim": 0.9951112883928334,
+      "lpips": 0.002856416627764702
+    },
+    {
+      "relative_path": "day2/members/werner/20_0620.webp",
+      "method": "nullface",
+      "ssim": 0.9956137562677694,
+      "lpips": 0.002054385142400861
+    },
+    {
+      "relative_path": "day4/members/bjorn/08_0126.webp",
+      "method": "nullface",
+      "ssim": 0.9953662370132511,
+      "lpips": 0.002813905943185091
+    },
+    {
+      "relative_path": "day1/members/allie/10_0296.webp",
+      "method": "nullface",
+      "ssim": 0.9850654541121534,
+      "lpips": 0.008590754121541977
+    },
+    {
+      "relative_path": "day1/members/tien/08_0310.webp",
+      "method": "nullface",
+      "ssim": 0.990490826937345,
+      "lpips": 0.010320672765374184
+    },
+    {
+      "relative_path": "day1/members/florian/18_0375.webp",
+      "method": "nullface",
+      "ssim": 0.994712747405822,
+      "lpips": 0.0015207732794806361
+    },
+    {
+      "relative_path": "day1/members/bjorn/14_0017.webp",
+      "method": "nullface",
+      "ssim": 0.9950732142204952,
+      "lpips": 0.00167040282394737
+    },
+    {
+      "relative_path": "day4/members/luca/18_0521.webp",
+      "method": "nullface",
+      "ssim": 0.994674663565161,
+      "lpips": 0.0028475469443947077
+    },
+    {
+      "relative_path": "day3/members/onanong/12_0488.webp",
+      "method": "nullface",
+      "ssim": 0.9958554984009154,
+      "lpips": 0.002353390445932746
+    },
+    {
+      "relative_path": "day1/members/allie/10_0546.webp",
+      "method": "nullface",
+      "ssim": 0.9816430042438586,
+      "lpips": 0.012100188061594963
+    },
+    {
+      "relative_path": "day2/members/luca/20_0211.webp",
+      "method": "nullface",
+      "ssim": 0.9851587211985032,
+      "lpips": 0.011622336693108082
+    },
+    {
+      "relative_path": "day4/members/allie/11_0376.webp",
+      "method": "nullface",
+      "ssim": 0.9765676880079708,
+      "lpips": 0.014519794844090939
+    },
+    {
+      "relative_path": "day1/members/klaus/09_0268.webp",
+      "method": "nullface",
+      "ssim": 0.9764632666800884,
+      "lpips": 0.015792079269886017
+    },
+    {
+      "relative_path": "day1/members/tien/15_0093.webp",
+      "method": "nullface",
+      "ssim": 0.9771520445386148,
+      "lpips": 0.01644352450966835
+    },
+    {
+      "relative_path": "day3/members/florian/19_0282.webp",
+      "method": "nullface",
+      "ssim": 0.9961395812504068,
+      "lpips": 0.0010227630846202374
+    },
+    {
+      "relative_path": "day4/members/bjorn/12_0570.webp",
+      "method": "nullface",
+      "ssim": 0.9348811975492352,
+      "lpips": 0.09671059995889664
+    },
+    {
+      "relative_path": "day1/members/cathal/15_0298.webp",
+      "method": "nullface",
+      "ssim": 0.9674464909467937,
+      "lpips": 0.020444396883249283
+    },
+    {
+      "relative_path": "day4/members/cathal/17_0524.webp",
+      "method": "nullface",
+      "ssim": 0.9959989042980751,
+      "lpips": 0.0015584658831357956
+    },
+    {
+      "relative_path": "day4/members/luca/14_0018.webp",
+      "method": "nullface",
+      "ssim": 0.9773068683718572,
+      "lpips": 0.017377452924847603
+    },
+    {
+      "relative_path": "day1/members/bjorn/10_0501.webp",
+      "method": "nullface",
+      "ssim": 0.9476620676450968,
+      "lpips": 0.037624843418598175
+    },
+    {
+      "relative_path": "day1/members/allie/15_0458.webp",
+      "method": "nullface",
+      "ssim": 0.9797303384549246,
+      "lpips": 0.01570850796997547
+    },
+    {
+      "relative_path": "day4/members/klaus/14_0224.webp",
+      "method": "nullface",
+      "ssim": 0.9484787547860835,
+      "lpips": 0.03614461049437523
+    },
+    {
+      "relative_path": "day1/members/stevan/11_0011.webp",
+      "method": "nullface",
+      "ssim": 0.9893617592383933,
+      "lpips": 0.005858052521944046
+    },
+    {
+      "relative_path": "day1/members/cathal/13_0040.webp",
+      "method": "nullface",
+      "ssim": 0.40009531286777644,
+      "lpips": 0.7473722696304321
+    },
+    {
+      "relative_path": "day2/members/bjorn/20_0121.webp",
+      "method": "nullface",
+      "ssim": 0.9607371140677552,
+      "lpips": 0.028001703321933746
+    },
+    {
+      "relative_path": "day4/members/stevan/10_0044.webp",
+      "method": "nullface",
+      "ssim": 0.96132587808404,
+      "lpips": 0.03361845016479492
+    },
+    {
+      "relative_path": "day1/members/tien/13_0571.webp",
+      "method": "nullface",
+      "ssim": 0.9814941580954276,
+      "lpips": 0.01350750494748354
+    },
+    {
+      "relative_path": "day1/members/tien/14_0211.webp",
+      "method": "nullface",
+      "ssim": 0.975954950274518,
+      "lpips": 0.016033470630645752
+    },
+    {
+      "relative_path": "day2/members/cathal/19_0198.webp",
+      "method": "nullface",
+      "ssim": 0.9954849714136448,
+      "lpips": 0.001541840611025691
+    },
+    {
+      "relative_path": "day3/members/stevan/18_0537.webp",
+      "method": "nullface",
+      "ssim": 0.9675502579357498,
+      "lpips": 0.02630985900759697
+    },
+    {
+      "relative_path": "day2/members/florian/12_0439.webp",
+      "method": "nullface",
+      "ssim": 0.9965604375941789,
+      "lpips": 0.001143084024079144
+    },
+    {
+      "relative_path": "day2/members/allie/11_0505.webp",
+      "method": "nullface",
+      "ssim": 0.9669221202093082,
+      "lpips": 0.032326824963092804
+    },
+    {
+      "relative_path": "day3/members/stevan/08_0717.webp",
+      "method": "nullface",
+      "ssim": 0.9889626545147089,
+      "lpips": 0.010678740218281746
+    },
+    {
+      "relative_path": "day3/members/werner/08_0594.webp",
+      "method": "nullface",
+      "ssim": 0.9872621170645663,
+      "lpips": 0.010445879772305489
+    },
+    {
+      "relative_path": "day2/members/klaus/18_0665.webp",
+      "method": "nullface",
+      "ssim": 0.9890801390076778,
+      "lpips": 0.006763463839888573
+    },
+    {
+      "relative_path": "day4/members/allie/09_0451.webp",
+      "method": "nullface",
+      "ssim": 0.9643326987710691,
+      "lpips": 0.017880970612168312
+    },
+    {
+      "relative_path": "day3/members/allie/10_0210.webp",
+      "method": "nullface",
+      "ssim": 0.9940832168298407,
+      "lpips": 0.0025584374088793993
+    },
+    {
+      "relative_path": "day4/members/klaus/12_0644.webp",
+      "method": "nullface",
+      "ssim": 0.9541440675135325,
+      "lpips": 0.037486594170331955
+    },
+    {
+      "relative_path": "day2/members/allie/10_0243.webp",
+      "method": "nullface",
+      "ssim": 0.9785155351254272,
+      "lpips": 0.023893361911177635
+    },
+    {
+      "relative_path": "day3/members/stevan/17_0661.webp",
+      "method": "nullface",
+      "ssim": 0.918874167254458,
+      "lpips": 0.08407893776893616
+    },
+    {
+      "relative_path": "day1/members/klaus/16_0531.webp",
+      "method": "nullface",
+      "ssim": 0.9682517646017564,
+      "lpips": 0.027696039527654648
+    },
+    {
+      "relative_path": "day2/members/luca/17_0249.webp",
+      "method": "nullface",
+      "ssim": 0.996271929189807,
+      "lpips": 0.0010125590488314629
+    },
+    {
+      "relative_path": "day2/members/cathal/14_0361.webp",
+      "method": "nullface",
+      "ssim": 0.9867613136082443,
+      "lpips": 0.008890405297279358
+    },
+    {
+      "relative_path": "day4/members/werner/14_0045.webp",
+      "method": "nullface",
+      "ssim": 0.9736934064804336,
+      "lpips": 0.018526431173086166
+    },
+    {
+      "relative_path": "day3/members/tien/11_0464.webp",
+      "method": "nullface",
+      "ssim": 0.9358667144554533,
+      "lpips": 0.035485073924064636
+    },
+    {
+      "relative_path": "day3/members/werner/10_0468.webp",
+      "method": "nullface",
+      "ssim": 0.9898641093653175,
+      "lpips": 0.005018382333219051
+    },
+    {
+      "relative_path": "day3/members/allie/12_0237.webp",
+      "method": "nullface",
+      "ssim": 0.9961995636578859,
+      "lpips": 0.0011057101655751467
+    },
+    {
+      "relative_path": "day1/members/stevan/10_0250.webp",
+      "method": "nullface",
+      "ssim": 0.959224605720063,
+      "lpips": 0.05295100808143616
+    },
+    {
+      "relative_path": "day2/members/tien/18_0209.webp",
+      "method": "nullface",
+      "ssim": 0.9909505354001539,
+      "lpips": 0.006184868980199099
+    },
+    {
+      "relative_path": "day2/members/allie/17_0331.webp",
+      "method": "nullface",
+      "ssim": 0.958308943812669,
+      "lpips": 0.03163449466228485
+    },
+    {
+      "relative_path": "day1/members/onanong/16_0577.webp",
+      "method": "nullface",
+      "ssim": 0.9896686914211864,
+      "lpips": 0.005940873175859451
+    },
+    {
+      "relative_path": "day2/members/allie/11_0188.webp",
+      "method": "nullface",
+      "ssim": 0.9673680248667909,
+      "lpips": 0.020202992483973503
+    },
+    {
+      "relative_path": "day3/members/stevan/20_0667.webp",
+      "method": "nullface",
+      "ssim": 0.9643542236905196,
+      "lpips": 0.0333639420568943
+    },
+    {
+      "relative_path": "day4/members/luca/18_0590.webp",
+      "method": "nullface",
+      "ssim": 0.9829084671142984,
+      "lpips": 0.011637547053396702
+    },
+    {
+      "relative_path": "day1/members/onanong/18_0512.webp",
+      "method": "nullface",
+      "ssim": 0.7359491712426082,
+      "lpips": 0.1491272747516632
+    },
+    {
+      "relative_path": "day2/members/tien/20_0019.webp",
+      "method": "nullface",
+      "ssim": 0.9666716911538563,
+      "lpips": 0.02448783814907074
+    },
+    {
+      "relative_path": "day2/members/cathal/14_0312.webp",
+      "method": "nullface",
+      "ssim": 0.9710150904781587,
+      "lpips": 0.01880607195198536
+    },
+    {
+      "relative_path": "day2/members/bjorn/19_0139.webp",
+      "method": "nullface",
+      "ssim": 0.9812850258846083,
+      "lpips": 0.014791082590818405
+    },
+    {
+      "relative_path": "day2/members/klaus/10_0219.webp",
+      "method": "nullface",
+      "ssim": 0.9826408644023941,
+      "lpips": 0.014454459771513939
+    },
+    {
+      "relative_path": "day2/members/onanong/14_0331.webp",
+      "method": "nullface",
+      "ssim": 0.9746744631391563,
+      "lpips": 0.028511280193924904
+    },
+    {
+      "relative_path": "day1/members/luca/19_0006.webp",
+      "method": "nullface",
+      "ssim": 0.9888780202015569,
+      "lpips": 0.007239361759275198
+    },
+    {
+      "relative_path": "day4/members/onanong/10_0182.webp",
+      "method": "nullface",
+      "ssim": 0.9865895998027887,
+      "lpips": 0.0074015031568706036
+    },
+    {
+      "relative_path": "day3/members/onanong/16_0319.webp",
+      "method": "nullface",
+      "ssim": 0.9883653927057897,
+      "lpips": 0.006612815894186497
+    },
+    {
+      "relative_path": "day2/members/werner/12_0480.webp",
+      "method": "nullface",
+      "ssim": 0.962437787072446,
+      "lpips": 0.02658754028379917
+    },
+    {
+      "relative_path": "day1/members/tien/19_0050.webp",
+      "method": "nullface",
+      "ssim": 0.9957374462091612,
+      "lpips": 0.0009483867906965315
+    },
+    {
+      "relative_path": "day3/members/florian/20_0698.webp",
+      "method": "nullface",
+      "ssim": 0.9842155171047514,
+      "lpips": 0.011630107648670673
+    },
+    {
+      "relative_path": "day3/members/cathal/08_0097.webp",
+      "method": "nullface",
+      "ssim": 0.994676871529654,
+      "lpips": 0.001849501277320087
+    },
+    {
+      "relative_path": "day2/members/werner/20_0389.webp",
+      "method": "nullface",
+      "ssim": 0.99244428837657,
+      "lpips": 0.004190594423562288
+    },
+    {
+      "relative_path": "day3/members/onanong/14_0121.webp",
+      "method": "nullface",
+      "ssim": 0.9979249698154468,
+      "lpips": 0.0007482466753572226
+    },
+    {
+      "relative_path": "day3/members/werner/12_0583.webp",
+      "method": "nullface",
+      "ssim": 0.9976824676102573,
+      "lpips": 0.0015055453404784203
+    },
+    {
+      "relative_path": "day2/members/onanong/10_0518.webp",
+      "method": "nullface",
+      "ssim": 0.8854266641589956,
+      "lpips": 0.11779533326625824
+    },
+    {
+      "relative_path": "day3/members/onanong/16_0114.webp",
+      "method": "nullface",
+      "ssim": 0.9952009173880724,
+      "lpips": 0.0019227350130677223
+    },
+    {
+      "relative_path": "day2/members/stevan/09_0309.webp",
+      "method": "nullface",
+      "ssim": 0.9960852108600147,
+      "lpips": 0.0009795724181458354
+    },
+    {
+      "relative_path": "day3/members/tien/11_0628.webp",
+      "method": "nullface",
+      "ssim": 0.9743339932329037,
+      "lpips": 0.013156207278370857
+    },
+    {
+      "relative_path": "day3/members/allie/08_0398.webp",
+      "method": "nullface",
+      "ssim": 0.9955404136555587,
+      "lpips": 0.0011460345704108477
+    },
+    {
+      "relative_path": "day1/members/cathal/15_0162.webp",
+      "method": "nullface",
+      "ssim": 0.9772769000890742,
+      "lpips": 0.02454235590994358
+    },
+    {
+      "relative_path": "day2/members/klaus/13_0331.webp",
+      "method": "nullface",
+      "ssim": 0.9456558710613701,
+      "lpips": 0.037951305508613586
+    },
+    {
+      "relative_path": "day1/members/werner/11_0515.webp",
+      "method": "nullface",
+      "ssim": 0.9946920609845186,
+      "lpips": 0.003521284321323037
+    },
+    {
+      "relative_path": "day3/members/stevan/10_0619.webp",
+      "method": "nullface",
+      "ssim": 0.9952707652763181,
+      "lpips": 0.0019652629271149635
+    },
+    {
+      "relative_path": "day2/members/tien/13_0604.webp",
+      "method": "nullface",
+      "ssim": 0.9321221537675023,
+      "lpips": 0.08067002892494202
+    },
+    {
+      "relative_path": "day4/members/cathal/09_0426.webp",
+      "method": "nullface",
+      "ssim": 0.9939686601229428,
+      "lpips": 0.0014480222016572952
+    },
+    {
+      "relative_path": "day3/members/bjorn/12_0362.webp",
+      "method": "nullface",
+      "ssim": 0.9971236091972892,
+      "lpips": 0.003627389669418335
+    },
+    {
+      "relative_path": "day1/members/klaus/11_0523.webp",
+      "method": "nullface",
+      "ssim": 0.9857956947641253,
+      "lpips": 0.006225761026144028
+    },
+    {
+      "relative_path": "day1/members/tien/10_0032.webp",
+      "method": "nullface",
+      "ssim": 0.9905692225208527,
+      "lpips": 0.00668023806065321
+    },
+    {
+      "relative_path": "day1/members/onanong/11_0119.webp",
+      "method": "nullface",
+      "ssim": 0.9959054083262125,
+      "lpips": 0.0029024139512330294
+    },
+    {
+      "relative_path": "day4/members/cathal/13_0470.webp",
+      "method": "nullface",
+      "ssim": 0.9742032430764658,
+      "lpips": 0.037041012197732925
+    },
+    {
+      "relative_path": "day1/members/allie/09_0160.webp",
+      "method": "nullface",
+      "ssim": 0.9871377254143284,
+      "lpips": 0.009112735278904438
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0644.webp",
+      "method": "nullface",
+      "ssim": 0.9557149449915879,
+      "lpips": 0.033651288598775864
+    },
+    {
+      "relative_path": "day3/members/luca/20_0192.webp",
+      "method": "nullface",
+      "ssim": 0.9893769474857397,
+      "lpips": 0.008697859942913055
+    },
+    {
+      "relative_path": "day3/members/luca/17_0582.webp",
+      "method": "nullface",
+      "ssim": 0.9814474408317823,
+      "lpips": 0.010631302371621132
+    },
+    {
+      "relative_path": "day2/members/bjorn/17_0110.webp",
+      "method": "nullface",
+      "ssim": 0.9965293866515911,
+      "lpips": 0.0007988152792677283
+    },
+    {
+      "relative_path": "day2/members/allie/15_0703.webp",
+      "method": "nullface",
+      "ssim": 0.9939377348052364,
+      "lpips": 0.0018760848324745893
+    },
+    {
+      "relative_path": "day2/members/florian/14_0042.webp",
+      "method": "nullface",
+      "ssim": 0.9955884940406703,
+      "lpips": 0.0025620542000979185
+    },
+    {
+      "relative_path": "day3/members/werner/19_0360.webp",
+      "method": "nullface",
+      "ssim": 0.9927897756186747,
+      "lpips": 0.002638191683217883
+    },
+    {
+      "relative_path": "day2/members/florian/11_0279.webp",
+      "method": "nullface",
+      "ssim": 0.9810306626103603,
+      "lpips": 0.011355651542544365
+    },
+    {
+      "relative_path": "day4/members/florian/15_0498.webp",
+      "method": "nullface",
+      "ssim": 0.9955210481210836,
+      "lpips": 0.0015497831627726555
+    },
+    {
+      "relative_path": "day1/members/allie/12_0272.webp",
+      "method": "nullface",
+      "ssim": 0.9830459357641065,
+      "lpips": 0.011289356276392937
+    },
+    {
+      "relative_path": "day3/members/tien/11_0505.webp",
+      "method": "nullface",
+      "ssim": 0.9491162930273805,
+      "lpips": 0.026517320424318314
+    },
+    {
+      "relative_path": "day1/members/stevan/17_0340.webp",
+      "method": "nullface",
+      "ssim": 0.9931709821264079,
+      "lpips": 0.0054208445362746716
+    },
+    {
+      "relative_path": "day1/members/luca/11_0691.webp",
+      "method": "nullface",
+      "ssim": 0.99510771111358,
+      "lpips": 0.0012041718000546098
+    },
+    {
+      "relative_path": "day1/members/cathal/10_0676.webp",
+      "method": "nullface",
+      "ssim": 0.9859001320380466,
+      "lpips": 0.008396112360060215
+    },
+    {
+      "relative_path": "day3/members/florian/18_0329.webp",
+      "method": "nullface",
+      "ssim": 0.9567768721881547,
+      "lpips": 0.04093308001756668
+    },
+    {
+      "relative_path": "day2/members/cathal/11_0063.webp",
+      "method": "nullface",
+      "ssim": 0.9503922383759561,
+      "lpips": 0.039651792496442795
+    },
+    {
+      "relative_path": "day4/members/luca/18_0257.webp",
+      "method": "nullface",
+      "ssim": 0.9951404772586385,
+      "lpips": 0.0024949763901531696
+    },
+    {
+      "relative_path": "day3/members/cathal/11_0064.webp",
+      "method": "nullface",
+      "ssim": 0.9956478239260583,
+      "lpips": 0.001099268440157175
+    },
+    {
+      "relative_path": "day4/members/onanong/11_0635.webp",
+      "method": "nullface",
+      "ssim": 0.9797494207152316,
+      "lpips": 0.012760819867253304
+    },
+    {
+      "relative_path": "day2/members/klaus/10_0464.webp",
+      "method": "nullface",
+      "ssim": 0.7332893296011029,
+      "lpips": 0.13148032128810883
+    },
+    {
+      "relative_path": "day3/members/cathal/09_0625.webp",
+      "method": "nullface",
+      "ssim": 0.9722416206213707,
+      "lpips": 0.02398735284805298
+    },
+    {
+      "relative_path": "day4/members/bao/09_0694.webp",
+      "method": "nullface",
+      "ssim": 0.9746400202743418,
+      "lpips": 0.019982339814305305
+    },
+    {
+      "relative_path": "day2/members/allie/17_0093.webp",
+      "method": "nullface",
+      "ssim": 0.958571850616548,
+      "lpips": 0.025561386719346046
+    },
+    {
+      "relative_path": "day3/members/werner/08_0498.webp",
+      "method": "nullface",
+      "ssim": 0.9899589093847614,
+      "lpips": 0.007355183362960815
+    },
+    {
+      "relative_path": "day2/members/allie/16_0153.webp",
+      "method": "nullface",
+      "ssim": 0.9685327006081611,
+      "lpips": 0.025572912767529488
+    },
+    {
+      "relative_path": "day4/members/florian/11_0372.webp",
+      "method": "nullface",
+      "ssim": 0.9840774608755111,
+      "lpips": 0.009745924733579159
+    },
+    {
+      "relative_path": "day3/members/bjorn/12_0147.webp",
+      "method": "nullface",
+      "ssim": 0.9891305864741896,
+      "lpips": 0.006801791023463011
+    },
+    {
+      "relative_path": "day1/members/werner/15_0312.webp",
+      "method": "nullface",
+      "ssim": 0.9948116974852502,
+      "lpips": 0.0022613531909883022
+    },
+    {
+      "relative_path": "day3/members/stevan/09_0144.webp",
+      "method": "nullface",
+      "ssim": 0.9898604672806627,
+      "lpips": 0.005247216206043959
+    },
+    {
+      "relative_path": "day1/members/onanong/14_0681.webp",
+      "method": "nullface",
+      "ssim": 0.9721885021655531,
+      "lpips": 0.02835468202829361
+    },
+    {
+      "relative_path": "day2/members/allie/17_0175.webp",
+      "method": "nullface",
+      "ssim": 0.9621959028869852,
+      "lpips": 0.028470689430832863
+    },
+    {
+      "relative_path": "day2/members/tien/13_0043.webp",
+      "method": "nullface",
+      "ssim": 0.9933879474299517,
+      "lpips": 0.004269168712198734
+    },
+    {
+      "relative_path": "day4/members/cathal/18_0466.webp",
+      "method": "nullface",
+      "ssim": 0.9945965027650353,
+      "lpips": 0.00325521407648921
+    },
+    {
+      "relative_path": "day1/members/onanong/19_0261.webp",
+      "method": "nullface",
+      "ssim": 0.9945955711661857,
+      "lpips": 0.002559124259278178
+    },
+    {
+      "relative_path": "day4/members/allie/13_0245.webp",
+      "method": "nullface",
+      "ssim": 0.9847448496407661,
+      "lpips": 0.011803238652646542
+    },
+    {
+      "relative_path": "day1/members/tien/08_0483.webp",
+      "method": "nullface",
+      "ssim": 0.9952221774220137,
+      "lpips": 0.0011251786490902305
+    },
+    {
+      "relative_path": "day2/members/florian/14_0293.webp",
+      "method": "nullface",
+      "ssim": 0.9162313483163075,
+      "lpips": 0.11197559535503387
+    },
+    {
+      "relative_path": "day2/members/klaus/12_0153.webp",
+      "method": "nullface",
+      "ssim": 0.9956142594085025,
+      "lpips": 0.0016149847069755197
+    },
+    {
+      "relative_path": "day2/members/tien/19_0472.webp",
+      "method": "nullface",
+      "ssim": 0.7739149278222374,
+      "lpips": 0.26410067081451416
+    },
+    {
+      "relative_path": "day3/members/florian/14_0452.webp",
+      "method": "nullface",
+      "ssim": 0.9629253723640513,
+      "lpips": 0.035730019211769104
+    },
+    {
+      "relative_path": "day3/members/cathal/18_0053.webp",
+      "method": "nullface",
+      "ssim": 0.97499670901217,
+      "lpips": 0.016989639028906822
+    },
+    {
+      "relative_path": "day3/members/onanong/15_0609.webp",
+      "method": "nullface",
+      "ssim": 0.9952024505234297,
+      "lpips": 0.0013898368924856186
+    },
+    {
+      "relative_path": "day3/members/tien/18_0251.webp",
+      "method": "nullface",
+      "ssim": 0.9394456018584924,
+      "lpips": 0.05404820293188095
+    },
+    {
+      "relative_path": "day3/members/werner/10_0493.webp",
+      "method": "nullface",
+      "ssim": 0.9923041564879216,
+      "lpips": 0.004155260045081377
+    },
+    {
+      "relative_path": "day3/members/bjorn/15_0707.webp",
+      "method": "nullface",
+      "ssim": 0.9944459181147213,
+      "lpips": 0.0026534153148531914
+    },
+    {
+      "relative_path": "day1/members/werner/18_0011.webp",
+      "method": "nullface",
+      "ssim": 0.9710099807479997,
+      "lpips": 0.020135696977376938
+    },
+    {
+      "relative_path": "day3/members/cathal/09_0099.webp",
+      "method": "nullface",
+      "ssim": 0.9742640412362578,
+      "lpips": 0.035682737827301025
+    },
+    {
+      "relative_path": "day2/members/onanong/11_0590.webp",
+      "method": "nullface",
+      "ssim": 0.9770576834410075,
+      "lpips": 0.015153494663536549
+    },
+    {
+      "relative_path": "day4/members/bao/10_0060.webp",
+      "method": "nullface",
+      "ssim": 0.9678471125669087,
+      "lpips": 0.021754972636699677
+    },
+    {
+      "relative_path": "day2/members/luca/18_0188.webp",
+      "method": "nullface",
+      "ssim": 0.9953371526771838,
+      "lpips": 0.0013361041201278567
+    },
+    {
+      "relative_path": "day1/members/werner/17_0457.webp",
+      "method": "nullface",
+      "ssim": 0.9943734428812007,
+      "lpips": 0.0024852813221514225
+    },
+    {
+      "relative_path": "day4/members/bao/13_0536.webp",
+      "method": "nullface",
+      "ssim": 0.970309473984385,
+      "lpips": 0.01885278709232807
+    },
+    {
+      "relative_path": "day3/members/bjorn/10_0195.webp",
+      "method": "nullface",
+      "ssim": 0.961324455827711,
+      "lpips": 0.04561077803373337
+    },
+    {
+      "relative_path": "day4/members/florian/11_0305.webp",
+      "method": "nullface",
+      "ssim": 0.6917939017448479,
+      "lpips": 0.1710415929555893
+    },
+    {
+      "relative_path": "day3/members/tien/17_0282.webp",
+      "method": "nullface",
+      "ssim": 0.9946373144100629,
+      "lpips": 0.0016010223189368844
+    },
+    {
+      "relative_path": "day3/members/cathal/15_0606.webp",
+      "method": "nullface",
+      "ssim": 0.9954256336932636,
+      "lpips": 0.0010168420849367976
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0537.webp",
+      "method": "nullface",
+      "ssim": 0.97073790283375,
+      "lpips": 0.020879024639725685
+    },
+    {
+      "relative_path": "day3/members/cathal/20_0290.webp",
+      "method": "nullface",
+      "ssim": 0.9776281935086802,
+      "lpips": 0.01674121804535389
+    },
+    {
+      "relative_path": "day3/members/werner/17_0005.webp",
+      "method": "nullface",
+      "ssim": 0.9879779909841376,
+      "lpips": 0.007097724825143814
+    },
+    {
+      "relative_path": "day3/members/luca/10_0668.webp",
+      "method": "nullface",
+      "ssim": 0.9698472276473575,
+      "lpips": 0.02848604880273342
+    },
+    {
+      "relative_path": "day1/members/tien/15_0585.webp",
+      "method": "nullface",
+      "ssim": 0.9945934488334675,
+      "lpips": 0.0046954890713095665
+    },
+    {
+      "relative_path": "day2/members/florian/14_0717.webp",
+      "method": "nullface",
+      "ssim": 0.9829351535521349,
+      "lpips": 0.015883734449744225
+    },
+    {
+      "relative_path": "day3/members/florian/20_0281.webp",
+      "method": "nullface",
+      "ssim": 0.9744708389068371,
+      "lpips": 0.017917126417160034
+    },
+    {
+      "relative_path": "day4/members/bjorn/15_0170.webp",
+      "method": "nullface",
+      "ssim": 0.9930496028526125,
+      "lpips": 0.0024346031714230776
+    },
+    {
+      "relative_path": "day4/members/stevan/10_0720.webp",
+      "method": "nullface",
+      "ssim": 0.9756814068623175,
+      "lpips": 0.01862969808280468
+    },
+    {
+      "relative_path": "day4/members/stevan/10_0629.webp",
+      "method": "nullface",
+      "ssim": 0.9847739088291881,
+      "lpips": 0.018061496317386627
+    },
+    {
+      "relative_path": "day4/members/bao/13_0504.webp",
+      "method": "nullface",
+      "ssim": 0.9708371100566747,
+      "lpips": 0.02242458611726761
+    },
+    {
+      "relative_path": "day2/members/stevan/10_0281.webp",
+      "method": "nullface",
+      "ssim": 0.9894284951370739,
+      "lpips": 0.015458868816494942
+    },
+    {
+      "relative_path": "day3/members/florian/17_0490.webp",
+      "method": "nullface",
+      "ssim": 0.942681531493451,
+      "lpips": 0.03487134352326393
+    },
+    {
+      "relative_path": "day2/members/bjorn/12_0518.webp",
+      "method": "nullface",
+      "ssim": 0.9851718807452786,
+      "lpips": 0.007839454337954521
+    },
+    {
+      "relative_path": "day1/members/werner/10_0429.webp",
+      "method": "nullface",
+      "ssim": 0.9855784467726045,
+      "lpips": 0.009421070106327534
+    },
+    {
+      "relative_path": "day2/members/klaus/19_0493.webp",
+      "method": "nullface",
+      "ssim": 0.9781586397946014,
+      "lpips": 0.01509355939924717
+    },
+    {
+      "relative_path": "day2/members/werner/20_0007.webp",
+      "method": "nullface",
+      "ssim": 0.8375111264395088,
+      "lpips": 0.2098282277584076
+    },
+    {
+      "relative_path": "day2/members/stevan/20_0706.webp",
+      "method": "nullface",
+      "ssim": 0.9868403984086219,
+      "lpips": 0.010308139957487583
+    },
+    {
+      "relative_path": "day1/members/tien/14_0026.webp",
+      "method": "nullface",
+      "ssim": 0.9743770699048703,
+      "lpips": 0.02522604539990425
+    },
+    {
+      "relative_path": "day1/members/tien/09_0404.webp",
+      "method": "nullface",
+      "ssim": 0.9961811588794948,
+      "lpips": 0.003923273179680109
+    },
+    {
+      "relative_path": "day3/members/onanong/16_0351.webp",
+      "method": "nullface",
+      "ssim": 0.9958109365332833,
+      "lpips": 0.0009450846700929105
+    },
+    {
+      "relative_path": "day2/members/onanong/17_0489.webp",
+      "method": "nullface",
+      "ssim": 0.99582315962809,
+      "lpips": 0.001390628982335329
+    },
+    {
+      "relative_path": "day4/members/allie/09_0677.webp",
+      "method": "nullface",
+      "ssim": 0.9591828848040015,
+      "lpips": 0.03023577854037285
+    },
+    {
+      "relative_path": "day3/members/werner/20_0141.webp",
+      "method": "nullface",
+      "ssim": 0.9851489388120926,
+      "lpips": 0.014294076710939407
+    },
+    {
+      "relative_path": "day1/members/werner/13_0365.webp",
+      "method": "nullface",
+      "ssim": 0.994414819272364,
+      "lpips": 0.001421842142008245
+    },
+    {
+      "relative_path": "day3/members/bjorn/14_0678.webp",
+      "method": "nullface",
+      "ssim": 0.9914628155154541,
+      "lpips": 0.005215957295149565
+    },
+    {
+      "relative_path": "day4/members/allie/10_0446.webp",
+      "method": "nullface",
+      "ssim": 0.9332458947725146,
+      "lpips": 0.04273904114961624
+    },
+    {
+      "relative_path": "day1/members/stevan/08_0330.webp",
+      "method": "nullface",
+      "ssim": 0.9944431781178751,
+      "lpips": 0.0017586745088919997
+    },
+    {
+      "relative_path": "day3/members/stevan/18_0060.webp",
+      "method": "nullface",
+      "ssim": 0.9040223355641989,
+      "lpips": 0.07862144708633423
+    },
+    {
+      "relative_path": "day3/members/klaus/19_0688.webp",
+      "method": "nullface",
+      "ssim": 0.9929308416978554,
+      "lpips": 0.0034022072795778513
+    },
+    {
+      "relative_path": "day1/members/werner/08_0280.webp",
+      "method": "nullface",
+      "ssim": 0.9949958931963091,
+      "lpips": 0.002209792844951153
+    },
+    {
+      "relative_path": "day4/members/klaus/13_0393.webp",
+      "method": "nullface",
+      "ssim": 0.9772243379063941,
+      "lpips": 0.017910460010170937
+    },
+    {
+      "relative_path": "day1/members/florian/19_0244.webp",
+      "method": "nullface",
+      "ssim": 0.9956905676667444,
+      "lpips": 0.0012667406117543578
+    },
+    {
+      "relative_path": "day4/members/klaus/14_0702.webp",
+      "method": "nullface",
+      "ssim": 0.9954188908876525,
+      "lpips": 0.00296760443598032
+    },
+    {
+      "relative_path": "day1/members/klaus/12_0632.webp",
+      "method": "nullface",
+      "ssim": 0.9905606720331882,
+      "lpips": 0.004303964786231518
+    },
+    {
+      "relative_path": "day3/members/bjorn/19_0152.webp",
+      "method": "nullface",
+      "ssim": 0.9893587754448423,
+      "lpips": 0.009222546592354774
+    },
+    {
+      "relative_path": "day1/members/onanong/10_0422.webp",
+      "method": "nullface",
+      "ssim": 0.990558004062858,
+      "lpips": 0.004081370308995247
+    },
+    {
+      "relative_path": "day2/members/tien/12_0597.webp",
+      "method": "nullface",
+      "ssim": 0.9624192054078035,
+      "lpips": 0.03166592866182327
+    },
+    {
+      "relative_path": "day2/members/florian/15_0118.webp",
+      "method": "nullface",
+      "ssim": 0.873804894568595,
+      "lpips": 0.14443475008010864
+    },
+    {
+      "relative_path": "day3/members/tien/12_0164.webp",
+      "method": "nullface",
+      "ssim": 0.9900405774037014,
+      "lpips": 0.005682121496647596
+    },
+    {
+      "relative_path": "day2/members/bjorn/17_0327.webp",
+      "method": "nullface",
+      "ssim": 0.9944357915520642,
+      "lpips": 0.0034852190874516964
+    },
+    {
+      "relative_path": "day1/members/allie/10_0339.webp",
+      "method": "nullface",
+      "ssim": 0.9758469106583038,
+      "lpips": 0.025060025975108147
+    },
+    {
+      "relative_path": "day1/members/cathal/14_0484.webp",
+      "method": "nullface",
+      "ssim": 0.9881432471250786,
+      "lpips": 0.010221375152468681
+    },
+    {
+      "relative_path": "day1/members/cathal/18_0317.webp",
+      "method": "nullface",
+      "ssim": 0.984843753709915,
+      "lpips": 0.008792532607913017
+    },
+    {
+      "relative_path": "day2/members/cathal/10_0273.webp",
+      "method": "nullface",
+      "ssim": 0.9957672503872786,
+      "lpips": 0.0015357898082584143
+    },
+    {
+      "relative_path": "day2/members/allie/10_0201.webp",
+      "method": "nullface",
+      "ssim": 0.9778952803825204,
+      "lpips": 0.030872054398059845
+    },
+    {
+      "relative_path": "day3/members/werner/16_0328.webp",
+      "method": "nullface",
+      "ssim": 0.9892450979546163,
+      "lpips": 0.005391653627157211
+    },
+    {
+      "relative_path": "day3/members/luca/12_0481.webp",
+      "method": "nullface",
+      "ssim": 0.9960628578931011,
+      "lpips": 0.002519378438591957
+    },
+    {
+      "relative_path": "day2/members/onanong/12_0404.webp",
+      "method": "nullface",
+      "ssim": 0.9188786918007327,
+      "lpips": 0.08327070623636246
+    },
+    {
+      "relative_path": "day1/members/onanong/14_0406.webp",
+      "method": "nullface",
+      "ssim": 0.8891048257244044,
+      "lpips": 0.11190798133611679
+    },
+    {
+      "relative_path": "day1/members/florian/15_0199.webp",
+      "method": "nullface",
+      "ssim": 0.9630815185582398,
+      "lpips": 0.02206617034971714
+    },
+    {
+      "relative_path": "day2/members/tien/12_0017.webp",
+      "method": "nullface",
+      "ssim": 0.9544435315651184,
+      "lpips": 0.036553140729665756
+    },
+    {
+      "relative_path": "day4/members/stevan/11_0365.webp",
+      "method": "nullface",
+      "ssim": 0.987204643382842,
+      "lpips": 0.007826093584299088
+    },
+    {
+      "relative_path": "day3/members/tien/18_0355.webp",
+      "method": "nullface",
+      "ssim": 0.9739582878732033,
+      "lpips": 0.018908867612481117
+    },
+    {
+      "relative_path": "day2/members/florian/10_0103.webp",
+      "method": "nullface",
+      "ssim": 0.99019867958757,
+      "lpips": 0.005148562602698803
+    },
+    {
+      "relative_path": "day1/members/florian/09_0596.webp",
+      "method": "nullface",
+      "ssim": 0.9945222854638273,
+      "lpips": 0.0023374739103019238
+    },
+    {
+      "relative_path": "day4/members/werner/10_0441.webp",
+      "method": "nullface",
+      "ssim": 0.9951040515197276,
+      "lpips": 0.0016163159161806107
+    },
+    {
+      "relative_path": "day4/members/bao/08_0595.webp",
+      "method": "nullface",
+      "ssim": 0.9938627854458276,
+      "lpips": 0.002350625116378069
+    },
+    {
+      "relative_path": "day2/members/luca/17_0072.webp",
+      "method": "nullface",
+      "ssim": 0.995959918298882,
+      "lpips": 0.001802890095859766
+    },
+    {
+      "relative_path": "day3/members/bjorn/19_0607.webp",
+      "method": "nullface",
+      "ssim": 0.9931157495568416,
+      "lpips": 0.004045149777084589
+    },
+    {
+      "relative_path": "day2/members/werner/18_0289.webp",
+      "method": "nullface",
+      "ssim": 0.9954114493514972,
+      "lpips": 0.0012743272818624973
+    },
+    {
+      "relative_path": "day4/members/bao/12_0423.webp",
+      "method": "nullface",
+      "ssim": 0.9964330499405286,
+      "lpips": 0.0012126575456932187
+    },
+    {
+      "relative_path": "day1/members/allie/09_0673.webp",
+      "method": "nullface",
+      "ssim": 0.7534415190203424,
+      "lpips": 0.12109825015068054
+    },
+    {
+      "relative_path": "day2/members/werner/19_0608.webp",
+      "method": "nullface",
+      "ssim": 0.9936316080478148,
+      "lpips": 0.0026611853390932083
+    },
+    {
+      "relative_path": "day4/members/florian/13_0005.webp",
+      "method": "nullface",
+      "ssim": 0.9818301188041269,
+      "lpips": 0.010546381585299969
+    },
+    {
+      "relative_path": "day1/members/stevan/11_0456.webp",
+      "method": "nullface",
+      "ssim": 0.9973054387822792,
+      "lpips": 0.002730506705120206
+    },
+    {
+      "relative_path": "day2/members/onanong/16_0168.webp",
+      "method": "nullface",
+      "ssim": 0.9952363334735145,
+      "lpips": 0.0014384621754288673
+    },
+    {
+      "relative_path": "day4/members/bjorn/08_0088.webp",
+      "method": "nullface",
+      "ssim": 0.9955694884504749,
+      "lpips": 0.0020021903328597546
+    },
+    {
+      "relative_path": "day2/members/luca/18_0250.webp",
+      "method": "nullface",
+      "ssim": 0.984132708986677,
+      "lpips": 0.015125170350074768
+    },
+    {
+      "relative_path": "day2/members/cathal/11_0012.webp",
+      "method": "nullface",
+      "ssim": 0.9719983293219349,
+      "lpips": 0.022393297404050827
+    },
+    {
+      "relative_path": "day1/members/stevan/19_0205.webp",
+      "method": "nullface",
+      "ssim": 0.9944185911402613,
+      "lpips": 0.0014042515540495515
+    },
+    {
+      "relative_path": "day3/members/cathal/09_0355.webp",
+      "method": "nullface",
+      "ssim": 0.9655167566257269,
+      "lpips": 0.034898094832897186
+    },
+    {
+      "relative_path": "day2/members/luca/13_0250.webp",
+      "method": "nullface",
+      "ssim": 0.9723257669458727,
+      "lpips": 0.03121444582939148
+    },
+    {
+      "relative_path": "day1/members/klaus/15_0547.webp",
+      "method": "nullface",
+      "ssim": 0.995318942970777,
+      "lpips": 0.0012683023232966661
+    },
+    {
+      "relative_path": "day1/members/florian/20_0151.webp",
+      "method": "nullface",
+      "ssim": 0.994927102995304,
+      "lpips": 0.0025856606662273407
+    },
+    {
+      "relative_path": "day1/members/cathal/14_0708.webp",
+      "method": "nullface",
+      "ssim": 0.9653056465832579,
+      "lpips": 0.029865417629480362
+    },
+    {
+      "relative_path": "day3/members/allie/18_0433.webp",
+      "method": "nullface",
+      "ssim": 0.9791058549149535,
+      "lpips": 0.011301014572381973
+    },
+    {
+      "relative_path": "day3/members/klaus/17_0530.webp",
+      "method": "nullface",
+      "ssim": 0.9934869765621389,
+      "lpips": 0.00412758206948638
+    },
+    {
+      "relative_path": "day2/members/klaus/18_0506.webp",
+      "method": "nullface",
+      "ssim": 0.9863436776699682,
+      "lpips": 0.009516592137515545
+    },
+    {
+      "relative_path": "day4/members/florian/10_0427.webp",
+      "method": "nullface",
+      "ssim": 0.9840220011447661,
+      "lpips": 0.00825625192373991
+    },
+    {
+      "relative_path": "day1/members/cathal/14_0490.webp",
+      "method": "nullface",
+      "ssim": 0.9436657510993424,
+      "lpips": 0.044501014053821564
+    },
+    {
+      "relative_path": "day4/members/bjorn/14_0135.webp",
+      "method": "nullface",
+      "ssim": 0.9843794577902766,
+      "lpips": 0.011017159558832645
+    },
+    {
+      "relative_path": "day2/members/onanong/11_0615.webp",
+      "method": "nullface",
+      "ssim": 0.9955807350749302,
+      "lpips": 0.0014540404081344604
+    },
+    {
+      "relative_path": "day2/members/werner/17_0039.webp",
+      "method": "nullface",
+      "ssim": 0.9954187785281806,
+      "lpips": 0.0012507677311077714
+    },
+    {
+      "relative_path": "day3/members/bjorn/12_0222.webp",
+      "method": "nullface",
+      "ssim": 0.9966068825455937,
+      "lpips": 0.001206213142722845
+    },
+    {
+      "relative_path": "day2/members/bjorn/11_0031.webp",
+      "method": "nullface",
+      "ssim": 0.9740234435443694,
+      "lpips": 0.01902339793741703
+    },
+    {
+      "relative_path": "day4/members/bjorn/10_0048.webp",
+      "method": "nullface",
+      "ssim": 0.9869006382016957,
+      "lpips": 0.008580104447901249
+    },
+    {
+      "relative_path": "day1/members/werner/15_0198.webp",
+      "method": "nullface",
+      "ssim": 0.9951510489953036,
+      "lpips": 0.0013345187762752175
+    },
+    {
+      "relative_path": "day1/members/klaus/17_0002.webp",
+      "method": "nullface",
+      "ssim": 0.955180097865061,
+      "lpips": 0.050415508449077606
+    },
+    {
+      "relative_path": "day1/members/werner/15_0199.webp",
+      "method": "nullface",
+      "ssim": 0.994624038427995,
+      "lpips": 0.0019182092510163784
+    },
+    {
+      "relative_path": "day1/members/werner/18_0148.webp",
+      "method": "nullface",
+      "ssim": 0.9737331647441471,
+      "lpips": 0.021404340863227844
+    },
+    {
+      "relative_path": "day4/members/onanong/15_0400.webp",
+      "method": "nullface",
+      "ssim": 0.988581818410454,
+      "lpips": 0.008613988757133484
+    },
+    {
+      "relative_path": "day1/members/allie/08_0276.webp",
+      "method": "nullface",
+      "ssim": 0.9862768425363471,
+      "lpips": 0.008571023121476173
+    },
+    {
+      "relative_path": "day3/members/klaus/13_0098.webp",
+      "method": "nullface",
+      "ssim": 0.996131851950056,
+      "lpips": 0.0019044833024963737
+    },
+    {
+      "relative_path": "day4/members/luca/17_0685.webp",
+      "method": "nullface",
+      "ssim": 0.9956611139409093,
+      "lpips": 0.00208004261367023
+    },
+    {
+      "relative_path": "day1/members/klaus/12_0400.webp",
+      "method": "nullface",
+      "ssim": 0.9954663645802194,
+      "lpips": 0.003876809496432543
+    },
+    {
+      "relative_path": "day3/members/cathal/19_0263.webp",
+      "method": "nullface",
+      "ssim": 0.9911888862955033,
+      "lpips": 0.006067794747650623
+    },
+    {
+      "relative_path": "day1/members/bjorn/19_0016.webp",
+      "method": "nullface",
+      "ssim": 0.9951545931475226,
+      "lpips": 0.002696369541808963
+    },
+    {
+      "relative_path": "day2/members/bjorn/19_0187.webp",
+      "method": "nullface",
+      "ssim": 0.9304224742455952,
+      "lpips": 0.09750792384147644
+    },
+    {
+      "relative_path": "day1/members/cathal/11_0405.webp",
+      "method": "nullface",
+      "ssim": 0.9421669339156429,
+      "lpips": 0.03847774490714073
+    },
+    {
+      "relative_path": "day3/members/tien/20_0575.webp",
+      "method": "nullface",
+      "ssim": 0.9153298785799654,
+      "lpips": 0.12462745606899261
+    },
+    {
+      "relative_path": "day4/members/luca/08_0054.webp",
+      "method": "nullface",
+      "ssim": 0.9941462090726203,
+      "lpips": 0.003657291643321514
+    },
+    {
+      "relative_path": "day4/members/allie/11_0161.webp",
+      "method": "nullface",
+      "ssim": 0.9004442971033496,
+      "lpips": 0.13087914884090424
+    },
+    {
+      "relative_path": "day2/members/luca/14_0354.webp",
+      "method": "nullface",
+      "ssim": 0.9680917317014677,
+      "lpips": 0.023970965296030045
+    },
+    {
+      "relative_path": "day3/members/bjorn/10_0179.webp",
+      "method": "nullface",
+      "ssim": 0.9282575380707273,
+      "lpips": 0.11009848117828369
+    },
+    {
+      "relative_path": "day4/members/cathal/12_0648.webp",
+      "method": "nullface",
+      "ssim": 0.5983735874786192,
+      "lpips": 0.34368085861206055
+    },
+    {
+      "relative_path": "day4/members/bjorn/10_0670.webp",
+      "method": "nullface",
+      "ssim": 0.8746457823594699,
+      "lpips": 0.16710630059242249
+    },
+    {
+      "relative_path": "day3/members/luca/11_0192.webp",
+      "method": "nullface",
+      "ssim": 0.9324321707374147,
+      "lpips": 0.0723215788602829
+    },
+    {
+      "relative_path": "day2/members/stevan/11_0382.webp",
+      "method": "nullface",
+      "ssim": 0.9748785965026848,
+      "lpips": 0.020612232387065887
+    },
+    {
+      "relative_path": "day2/members/luca/19_0633.webp",
+      "method": "nullface",
+      "ssim": 0.868486258856627,
+      "lpips": 0.17977140843868256
+    },
+    {
+      "relative_path": "day2/members/luca/10_0406.webp",
+      "method": "nullface",
+      "ssim": 0.9961255055829157,
+      "lpips": 0.0010479248594492674
+    },
+    {
+      "relative_path": "day3/members/cathal/20_0443.webp",
+      "method": "nullface",
+      "ssim": 0.9792310257302669,
+      "lpips": 0.012367713265120983
+    },
+    {
+      "relative_path": "day4/members/klaus/13_0503.webp",
+      "method": "nullface",
+      "ssim": 0.9796778214049833,
+      "lpips": 0.011879581026732922
+    },
+    {
+      "relative_path": "day2/members/werner/15_0625.webp",
+      "method": "nullface",
+      "ssim": 0.967723264545541,
+      "lpips": 0.037712566554546356
+    },
+    {
+      "relative_path": "day4/members/stevan/10_0227.webp",
+      "method": "nullface",
+      "ssim": 0.9652712382877162,
+      "lpips": 0.030120085924863815
+    },
+    {
+      "relative_path": "day4/members/stevan/13_0462.webp",
+      "method": "nullface",
+      "ssim": 0.9338826955076095,
+      "lpips": 0.05951633304357529
+    },
+    {
+      "relative_path": "day3/members/cathal/20_0569.webp",
+      "method": "nullface",
+      "ssim": 0.7468901847751428,
+      "lpips": 0.2660130560398102
+    },
+    {
+      "relative_path": "day3/members/onanong/10_0301.webp",
+      "method": "nullface",
+      "ssim": 0.9897847552046821,
+      "lpips": 0.008128995075821877
+    },
+    {
+      "relative_path": "day3/members/allie/16_0683.webp",
+      "method": "nullface",
+      "ssim": 0.9599300134961632,
+      "lpips": 0.04824436455965042
+    },
+    {
+      "relative_path": "day2/members/klaus/13_0148.webp",
+      "method": "nullface",
+      "ssim": 0.9648585827308743,
+      "lpips": 0.02609940618276596
+    },
+    {
+      "relative_path": "day2/members/bjorn/16_0632.webp",
+      "method": "nullface",
+      "ssim": 0.9911575909261175,
+      "lpips": 0.004291783552616835
+    },
+    {
+      "relative_path": "day1/members/florian/11_0219.webp",
+      "method": "nullface",
+      "ssim": 0.9595647632422709,
+      "lpips": 0.033615339547395706
+    },
+    {
+      "relative_path": "day2/members/luca/18_0197.webp",
+      "method": "nullface",
+      "ssim": 0.9954139879666141,
+      "lpips": 0.001367625780403614
+    },
+    {
+      "relative_path": "day4/members/allie/09_0293.webp",
+      "method": "nullface",
+      "ssim": 0.9322362960547216,
+      "lpips": 0.051054783165454865
+    },
+    {
+      "relative_path": "day2/members/florian/14_0672.webp",
+      "method": "nullface",
+      "ssim": 0.9760304755644283,
+      "lpips": 0.017954260110855103
+    },
+    {
+      "relative_path": "day3/members/florian/19_0086.webp",
+      "method": "nullface",
+      "ssim": 0.9948952091780171,
+      "lpips": 0.001511341892182827
+    },
+    {
+      "relative_path": "day2/members/werner/13_0648.webp",
+      "method": "nullface",
+      "ssim": 0.9977166978097408,
+      "lpips": 0.0008868218283168972
+    },
+    {
+      "relative_path": "day1/members/stevan/18_0597.webp",
+      "method": "nullface",
+      "ssim": 0.978772083604627,
+      "lpips": 0.015493420884013176
+    },
+    {
+      "relative_path": "day1/members/florian/18_0042.webp",
+      "method": "nullface",
+      "ssim": 0.9670707751098676,
+      "lpips": 0.02041551098227501
+    },
+    {
+      "relative_path": "day3/members/werner/17_0301.webp",
+      "method": "nullface",
+      "ssim": 0.9772343594667019,
+      "lpips": 0.011059461161494255
+    },
+    {
+      "relative_path": "day1/members/allie/09_0647.webp",
+      "method": "nullface",
+      "ssim": 0.9274636936274615,
+      "lpips": 0.061543501913547516
+    },
+    {
+      "relative_path": "day4/members/cathal/15_0410.webp",
+      "method": "nullface",
+      "ssim": 0.9941851771146815,
+      "lpips": 0.0020240216981619596
+    },
+    {
+      "relative_path": "day4/members/stevan/11_0074.webp",
+      "method": "nullface",
+      "ssim": 0.9745257689170449,
+      "lpips": 0.01610148884356022
+    },
+    {
+      "relative_path": "day1/members/florian/16_0525.webp",
+      "method": "nullface",
+      "ssim": 0.9928055791713298,
+      "lpips": 0.0026984750293195248
+    },
+    {
+      "relative_path": "day4/members/bao/12_0438.webp",
+      "method": "nullface",
+      "ssim": 0.9137754382053833,
+      "lpips": 0.14263993501663208
+    },
+    {
+      "relative_path": "day1/members/luca/12_0202.webp",
+      "method": "nullface",
+      "ssim": 0.9950905886455108,
+      "lpips": 0.0017182417213916779
+    },
+    {
+      "relative_path": "day2/members/luca/14_0016.webp",
+      "method": "nullface",
+      "ssim": 0.9868038899259316,
+      "lpips": 0.0080336332321167
+    },
+    {
+      "relative_path": "day1/members/cathal/11_0477.webp",
+      "method": "nullface",
+      "ssim": 0.9957688960360783,
+      "lpips": 0.0010653749341145158
+    },
+    {
+      "relative_path": "day2/members/werner/16_0476.webp",
+      "method": "nullface",
+      "ssim": 0.9960660360940553,
+      "lpips": 0.0010453097056597471
+    },
+    {
+      "relative_path": "day4/members/bjorn/14_0715.webp",
+      "method": "nullface",
+      "ssim": 0.9842598616928061,
+      "lpips": 0.008793659508228302
+    },
+    {
+      "relative_path": "day3/members/stevan/13_0343.webp",
+      "method": "nullface",
+      "ssim": 0.9642830534352932,
+      "lpips": 0.027121352031826973
+    },
+    {
+      "relative_path": "day1/members/onanong/15_0060.webp",
+      "method": "nullface",
+      "ssim": 0.947330480737491,
+      "lpips": 0.04371313378214836
+    },
+    {
+      "relative_path": "day3/members/luca/11_0673.webp",
+      "method": "nullface",
+      "ssim": 0.45217686080677505,
+      "lpips": 0.6043155193328857
+    },
+    {
+      "relative_path": "day4/members/onanong/15_0191.webp",
+      "method": "nullface",
+      "ssim": 0.9643378337121383,
+      "lpips": 0.035044774413108826
+    },
+    {
+      "relative_path": "day1/members/florian/17_0649.webp",
+      "method": "nullface",
+      "ssim": 0.9596282391759532,
+      "lpips": 0.03147292137145996
+    },
+    {
+      "relative_path": "day3/members/luca/18_0524.webp",
+      "method": "nullface",
+      "ssim": 0.948669260311397,
+      "lpips": 0.04006463661789894
+    },
+    {
+      "relative_path": "day2/members/werner/13_0683.webp",
+      "method": "nullface",
+      "ssim": 0.9977608074412808,
+      "lpips": 0.0008667843649163842
+    },
+    {
+      "relative_path": "day2/members/tien/20_0651.webp",
+      "method": "nullface",
+      "ssim": 0.9746516336013599,
+      "lpips": 0.018697597086429596
+    },
+    {
+      "relative_path": "day1/members/bjorn/12_0196.webp",
+      "method": "nullface",
+      "ssim": 0.9974082278312705,
+      "lpips": 0.0020913395565003157
+    },
+    {
+      "relative_path": "day3/members/florian/10_0402.webp",
+      "method": "nullface",
+      "ssim": 0.995647524984775,
+      "lpips": 0.0014420740772038698
+    },
+    {
+      "relative_path": "day1/members/onanong/17_0253.webp",
+      "method": "nullface",
+      "ssim": 0.9952533791551176,
+      "lpips": 0.0018170092953369021
+    },
+    {
+      "relative_path": "day3/members/tien/09_0002.webp",
+      "method": "nullface",
+      "ssim": 0.9903237432373465,
+      "lpips": 0.006369980052113533
+    },
+    {
+      "relative_path": "day3/members/allie/12_0712.webp",
+      "method": "nullface",
+      "ssim": 0.9965421966653328,
+      "lpips": 0.0023122853599488735
+    },
+    {
+      "relative_path": "day2/members/cathal/19_0211.webp",
+      "method": "nullface",
+      "ssim": 0.993532364634452,
+      "lpips": 0.0030619720928370953
+    },
+    {
+      "relative_path": "day3/members/klaus/08_0380.webp",
+      "method": "nullface",
+      "ssim": 0.9823010898548331,
+      "lpips": 0.01089152880012989
+    },
+    {
+      "relative_path": "day4/members/werner/08_0208.webp",
+      "method": "nullface",
+      "ssim": 0.9939676254049941,
+      "lpips": 0.0027516663540154696
+    },
+    {
+      "relative_path": "day1/members/werner/14_0080.webp",
+      "method": "nullface",
+      "ssim": 0.9939634466592112,
+      "lpips": 0.001973128179088235
+    },
+    {
+      "relative_path": "day3/members/florian/15_0318.webp",
+      "method": "nullface",
+      "ssim": 0.968656911023395,
+      "lpips": 0.031706102192401886
+    },
+    {
+      "relative_path": "day4/members/onanong/14_0177.webp",
+      "method": "nullface",
+      "ssim": 0.9717613954700507,
+      "lpips": 0.01878972165286541
+    },
+    {
+      "relative_path": "day3/members/florian/11_0647.webp",
+      "method": "nullface",
+      "ssim": 0.995489306142404,
+      "lpips": 0.0015350095927715302
+    },
+    {
+      "relative_path": "day2/members/tien/12_0007.webp",
+      "method": "nullface",
+      "ssim": 0.984805214995666,
+      "lpips": 0.010743110440671444
+    },
+    {
+      "relative_path": "day1/members/florian/11_0210.webp",
+      "method": "nullface",
+      "ssim": 0.9906739883339597,
+      "lpips": 0.004467765800654888
+    },
+    {
+      "relative_path": "day3/members/stevan/11_0119.webp",
+      "method": "nullface",
+      "ssim": 0.974798254964559,
+      "lpips": 0.017509719356894493
+    },
+    {
+      "relative_path": "day1/members/florian/18_0275.webp",
+      "method": "nullface",
+      "ssim": 0.9637678882827165,
+      "lpips": 0.01931186392903328
+    },
+    {
+      "relative_path": "day4/members/klaus/09_0320.webp",
+      "method": "nullface",
+      "ssim": 0.9885999875022703,
+      "lpips": 0.006855240557342768
+    },
+    {
+      "relative_path": "day2/members/cathal/18_0081.webp",
+      "method": "nullface",
+      "ssim": 0.9719601190418277,
+      "lpips": 0.02792440913617611
+    },
+    {
+      "relative_path": "day4/members/florian/18_0559.webp",
+      "method": "nullface",
+      "ssim": 0.9953818138103697,
+      "lpips": 0.0022003105841577053
+    },
+    {
+      "relative_path": "day2/members/florian/12_0418.webp",
+      "method": "nullface",
+      "ssim": 0.9970712099071665,
+      "lpips": 0.0008283535717055202
+    },
+    {
+      "relative_path": "day4/members/werner/11_0358.webp",
+      "method": "nullface",
+      "ssim": 0.9121238156268485,
+      "lpips": 0.09335145354270935
+    },
+    {
+      "relative_path": "day2/members/florian/15_0395.webp",
+      "method": "nullface",
+      "ssim": 0.9956248758548251,
+      "lpips": 0.0012331780744716525
+    },
+    {
+      "relative_path": "day2/members/cathal/14_0185.webp",
+      "method": "nullface",
+      "ssim": 0.9888181179294877,
+      "lpips": 0.004868126939982176
+    },
+    {
+      "relative_path": "day1/members/klaus/10_0589.webp",
+      "method": "nullface",
+      "ssim": 0.9749290519417174,
+      "lpips": 0.03115323930978775
+    },
+    {
+      "relative_path": "day1/members/florian/10_0419.webp",
+      "method": "nullface",
+      "ssim": 0.9749465785503982,
+      "lpips": 0.02040012925863266
+    },
+    {
+      "relative_path": "day3/members/luca/14_0453.webp",
+      "method": "nullface",
+      "ssim": 0.9874848872243561,
+      "lpips": 0.009066641330718994
+    },
+    {
+      "relative_path": "day2/members/stevan/11_0699.webp",
+      "method": "nullface",
+      "ssim": 0.9757290972883074,
+      "lpips": 0.024339037016034126
+    },
+    {
+      "relative_path": "day2/members/werner/20_0424.webp",
+      "method": "nullface",
+      "ssim": 0.9655703824916118,
+      "lpips": 0.02703901194036007
+    },
+    {
+      "relative_path": "day1/members/bjorn/18_0660.webp",
+      "method": "nullface",
+      "ssim": 0.9955464276428945,
+      "lpips": 0.0018290525767952204
+    },
+    {
+      "relative_path": "day3/members/florian/10_0693.webp",
+      "method": "nullface",
+      "ssim": 0.9948171971508232,
+      "lpips": 0.002022121101617813
+    },
+    {
+      "relative_path": "day4/members/klaus/12_0118.webp",
+      "method": "nullface",
+      "ssim": 0.9617183996734084,
+      "lpips": 0.031568340957164764
+    },
+    {
+      "relative_path": "day2/members/bjorn/19_0586.webp",
+      "method": "nullface",
+      "ssim": 0.9749819167190715,
+      "lpips": 0.02522200159728527
+    },
+    {
+      "relative_path": "day3/members/allie/18_0535.webp",
+      "method": "nullface",
+      "ssim": 0.980780483260642,
+      "lpips": 0.00908282957971096
+    },
+    {
+      "relative_path": "day4/members/cathal/09_0257.webp",
+      "method": "nullface",
+      "ssim": 0.9399337159703354,
+      "lpips": 0.04532766342163086
+    },
+    {
+      "relative_path": "day2/members/florian/15_0006.webp",
+      "method": "nullface",
+      "ssim": 0.9944415151356064,
+      "lpips": 0.0015312626492232084
+    },
+    {
+      "relative_path": "day3/members/tien/10_0690.webp",
+      "method": "nullface",
+      "ssim": 0.9699919550351165,
+      "lpips": 0.0326533317565918
+    },
+    {
+      "relative_path": "day3/members/cathal/11_0181.webp",
+      "method": "nullface",
+      "ssim": 0.9584853877527548,
+      "lpips": 0.02269970253109932
+    },
+    {
+      "relative_path": "day4/members/bao/11_0055.webp",
+      "method": "nullface",
+      "ssim": 0.9661260354472457,
+      "lpips": 0.029229313135147095
+    },
+    {
+      "relative_path": "day3/members/luca/13_0160.webp",
+      "method": "nullface",
+      "ssim": 0.9915600082844768,
+      "lpips": 0.004616941791027784
+    },
+    {
+      "relative_path": "day2/members/werner/13_0432.webp",
+      "method": "nullface",
+      "ssim": 0.9979483504592706,
+      "lpips": 0.0007545480038970709
+    },
+    {
+      "relative_path": "day3/members/florian/19_0684.webp",
+      "method": "nullface",
+      "ssim": 0.9947775998532972,
+      "lpips": 0.0020742856431752443
+    },
+    {
+      "relative_path": "day2/members/allie/16_0556.webp",
+      "method": "nullface",
+      "ssim": 0.9935953759706889,
+      "lpips": 0.005209545139223337
+    },
+    {
+      "relative_path": "day1/members/werner/19_0438.webp",
+      "method": "nullface",
+      "ssim": 0.9747273668873496,
+      "lpips": 0.020236307755112648
+    },
+    {
+      "relative_path": "day2/members/allie/19_0622.webp",
+      "method": "nullface",
+      "ssim": 0.9554790181405166,
+      "lpips": 0.039931025356054306
+    },
+    {
+      "relative_path": "day3/members/onanong/12_0703.webp",
+      "method": "nullface",
+      "ssim": 0.9961987553263704,
+      "lpips": 0.002956370823085308
+    },
+    {
+      "relative_path": "day1/members/stevan/18_0567.webp",
+      "method": "nullface",
+      "ssim": 0.9741964616945297,
+      "lpips": 0.01979920268058777
+    },
+    {
+      "relative_path": "day3/members/stevan/20_0527.webp",
+      "method": "nullface",
+      "ssim": 0.9728679863425178,
+      "lpips": 0.029565982520580292
+    },
+    {
+      "relative_path": "day1/members/onanong/19_0481.webp",
+      "method": "nullface",
+      "ssim": 0.9950356822738883,
+      "lpips": 0.0021966034546494484
+    },
+    {
+      "relative_path": "day4/members/klaus/08_0554.webp",
+      "method": "nullface",
+      "ssim": 0.9949132471004903,
+      "lpips": 0.0015938576543703675
+    },
+    {
+      "relative_path": "day3/members/klaus/19_0704.webp",
+      "method": "nullface",
+      "ssim": 0.9919379330316308,
+      "lpips": 0.004227483179420233
+    },
+    {
+      "relative_path": "day2/members/luca/12_0565.webp",
+      "method": "nullface",
+      "ssim": 0.9952445122787866,
+      "lpips": 0.0010191545588895679
+    },
+    {
+      "relative_path": "day4/members/luca/08_0034.webp",
+      "method": "nullface",
+      "ssim": 0.9941358407752654,
+      "lpips": 0.0036313380114734173
+    },
+    {
+      "relative_path": "day1/members/tien/10_0152.webp",
+      "method": "nullface",
+      "ssim": 0.9859492572034467,
+      "lpips": 0.00878042820841074
+    },
+    {
+      "relative_path": "day4/members/werner/13_0537.webp",
+      "method": "nullface",
+      "ssim": 0.9811421769277887,
+      "lpips": 0.011936495080590248
+    },
+    {
+      "relative_path": "day1/members/bjorn/09_0300.webp",
+      "method": "nullface",
+      "ssim": 0.9010216746159613,
+      "lpips": 0.08895885944366455
+    },
+    {
+      "relative_path": "day2/members/florian/14_0303.webp",
+      "method": "nullface",
+      "ssim": 0.9628193888206827,
+      "lpips": 0.02655952423810959
+    },
+    {
+      "relative_path": "day1/members/luca/14_0698.webp",
+      "method": "nullface",
+      "ssim": 0.9755701774184132,
+      "lpips": 0.01725255884230137
+    },
+    {
+      "relative_path": "day1/members/stevan/18_0660.webp",
+      "method": "nullface",
+      "ssim": 0.9945436852179933,
+      "lpips": 0.002213460858911276
+    },
+    {
+      "relative_path": "day3/members/allie/13_0693.webp",
+      "method": "nullface",
+      "ssim": 0.9927084280804914,
+      "lpips": 0.005041887983679771
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0248.webp",
+      "method": "nullface",
+      "ssim": 0.9500877492888901,
+      "lpips": 0.05213458091020584
+    },
+    {
+      "relative_path": "day4/members/cathal/13_0210.webp",
+      "method": "nullface",
+      "ssim": 0.9251665580362932,
+      "lpips": 0.06731811165809631
+    },
+    {
+      "relative_path": "day1/members/stevan/18_0014.webp",
+      "method": "nullface",
+      "ssim": 0.9744347349466009,
+      "lpips": 0.019740689545869827
+    }
+  ]
+}

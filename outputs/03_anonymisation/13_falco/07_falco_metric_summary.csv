@@ -1,0 +1,2 @@
+method,n_input_frames,n_success,n_failure,face_crops,SSIM_mean,LPIPS_mean,AdaFace_cosine_mean,AdaFace_reid_rate,ArcFace_cosine_mean,ArcFace_reid_rate,runtime_mean_seconds,runtime_total_seconds,peak_vram_gib,gpu_name,metric_scope
+falco,500,500,0,1279,0.9826336914746457,0.02032221682369709,0.08198235183954239,0.001563721657544957,0.07227626442909241,0.001563721657544957,16.623069160474,8311.534580237,47.74036264419556,cuda_accelerator_80gb,reviewed_500_frames_full_resolution_1279_face_protocol

@@ -1,0 +1,3017 @@
+{
+  "summary": {
+    "falco": {
+      "ssim_mean": 0.9826336914746457,
+      "ssim_std": 0.008828244929820117,
+      "lpips_mean": 0.02032221682369709,
+      "lpips_std": 0.01294868539594644,
+      "sample_count": 500,
+      "evaluation_resolution": "3840x2160",
+      "lpips_device": "cuda",
+      "lpips_batch_size": 16,
+      "lpips_peak_vram_gib": 32.21861457824707
+    }
+  },
+  "detailed": [
+    {
+      "relative_path": "day3/members/stevan/20_0682.webp",
+      "method": "falco",
+      "ssim": 0.9764878388630777,
+      "lpips": 0.03552214801311493
+    },
+    {
+      "relative_path": "day1/members/luca/12_0078.webp",
+      "method": "falco",
+      "ssim": 0.9936715049721955,
+      "lpips": 0.010981852188706398
+    },
+    {
+      "relative_path": "day3/members/tien/14_0649.webp",
+      "method": "falco",
+      "ssim": 0.9726095444927519,
+      "lpips": 0.039099905639886856
+    },
+    {
+      "relative_path": "day2/members/bjorn/16_0250.webp",
+      "method": "falco",
+      "ssim": 0.9899613777360207,
+      "lpips": 0.005888502113521099
+    },
+    {
+      "relative_path": "day1/members/stevan/10_0179.webp",
+      "method": "falco",
+      "ssim": 0.9844674420110828,
+      "lpips": 0.017262259498238564
+    },
+    {
+      "relative_path": "day3/members/werner/08_0619.webp",
+      "method": "falco",
+      "ssim": 0.9821934101754852,
+      "lpips": 0.016020679846405983
+    },
+    {
+      "relative_path": "day3/members/tien/10_0512.webp",
+      "method": "falco",
+      "ssim": 0.9929181592827246,
+      "lpips": 0.012436398304998875
+    },
+    {
+      "relative_path": "day1/members/werner/14_0048.webp",
+      "method": "falco",
+      "ssim": 0.9908644504951288,
+      "lpips": 0.012364692986011505
+    },
+    {
+      "relative_path": "day1/members/klaus/17_0206.webp",
+      "method": "falco",
+      "ssim": 0.9784022981319014,
+      "lpips": 0.031175650656223297
+    },
+    {
+      "relative_path": "day4/members/florian/11_0412.webp",
+      "method": "falco",
+      "ssim": 0.9788164609871405,
+      "lpips": 0.018746640533208847
+    },
+    {
+      "relative_path": "day1/members/allie/18_0412.webp",
+      "method": "falco",
+      "ssim": 0.9832872450712707,
+      "lpips": 0.031285714358091354
+    },
+    {
+      "relative_path": "day2/members/klaus/18_0601.webp",
+      "method": "falco",
+      "ssim": 0.9844946164489395,
+      "lpips": 0.01302166935056448
+    },
+    {
+      "relative_path": "day4/members/allie/12_0604.webp",
+      "method": "falco",
+      "ssim": 0.9861135915235862,
+      "lpips": 0.01933898776769638
+    },
+    {
+      "relative_path": "day1/members/onanong/08_0572.webp",
+      "method": "falco",
+      "ssim": 0.9850095812761858,
+      "lpips": 0.016401223838329315
+    },
+    {
+      "relative_path": "day3/members/stevan/09_0286.webp",
+      "method": "falco",
+      "ssim": 0.9860881646549852,
+      "lpips": 0.017484087496995926
+    },
+    {
+      "relative_path": "day3/members/tien/20_0434.webp",
+      "method": "falco",
+      "ssim": 0.9863368024319422,
+      "lpips": 0.01699855551123619
+    },
+    {
+      "relative_path": "day4/members/werner/18_0362.webp",
+      "method": "falco",
+      "ssim": 0.9921165676821625,
+      "lpips": 0.009353501722216606
+    },
+    {
+      "relative_path": "day1/members/cathal/12_0342.webp",
+      "method": "falco",
+      "ssim": 0.9730440920420412,
+      "lpips": 0.02949567325413227
+    },
+    {
+      "relative_path": "day3/members/florian/19_0198.webp",
+      "method": "falco",
+      "ssim": 0.9883494818507508,
+      "lpips": 0.011211235076189041
+    },
+    {
+      "relative_path": "day4/members/allie/18_0334.webp",
+      "method": "falco",
+      "ssim": 0.9793952062402748,
+      "lpips": 0.0315857008099556
+    },
+    {
+      "relative_path": "day4/members/werner/09_0017.webp",
+      "method": "falco",
+      "ssim": 0.9904811144750081,
+      "lpips": 0.008217998780310154
+    },
+    {
+      "relative_path": "day4/members/werner/12_0528.webp",
+      "method": "falco",
+      "ssim": 0.9865782128853396,
+      "lpips": 0.013442469760775566
+    },
+    {
+      "relative_path": "day3/members/bjorn/20_0140.webp",
+      "method": "falco",
+      "ssim": 0.9875029113826326,
+      "lpips": 0.019424058496952057
+    },
+    {
+      "relative_path": "day3/members/onanong/15_0413.webp",
+      "method": "falco",
+      "ssim": 0.9744058362211585,
+      "lpips": 0.029215721413493156
+    },
+    {
+      "relative_path": "day1/members/luca/13_0044.webp",
+      "method": "falco",
+      "ssim": 0.9841174570212804,
+      "lpips": 0.019060278311371803
+    },
+    {
+      "relative_path": "day4/members/luca/11_0578.webp",
+      "method": "falco",
+      "ssim": 0.9817243642562558,
+      "lpips": 0.020232874900102615
+    },
+    {
+      "relative_path": "day4/members/werner/18_0672.webp",
+      "method": "falco",
+      "ssim": 0.9800284787452584,
+      "lpips": 0.02227521501481533
+    },
+    {
+      "relative_path": "day2/members/luca/11_0416.webp",
+      "method": "falco",
+      "ssim": 0.9768654208439962,
+      "lpips": 0.026402752846479416
+    },
+    {
+      "relative_path": "day1/members/stevan/08_0631.webp",
+      "method": "falco",
+      "ssim": 0.9900783427543353,
+      "lpips": 0.007378804963082075
+    },
+    {
+      "relative_path": "day3/members/luca/17_0412.webp",
+      "method": "falco",
+      "ssim": 0.976776694641191,
+      "lpips": 0.03296413645148277
+    },
+    {
+      "relative_path": "day4/members/onanong/13_0378.webp",
+      "method": "falco",
+      "ssim": 0.9778558933523566,
+      "lpips": 0.02913709357380867
+    },
+    {
+      "relative_path": "day3/members/luca/11_0126.webp",
+      "method": "falco",
+      "ssim": 0.9718565400095261,
+      "lpips": 0.03658132255077362
+    },
+    {
+      "relative_path": "day4/members/cathal/13_0074.webp",
+      "method": "falco",
+      "ssim": 0.9748967818047994,
+      "lpips": 0.02668621577322483
+    },
+    {
+      "relative_path": "day2/members/cathal/19_0687.webp",
+      "method": "falco",
+      "ssim": 0.9833537623642051,
+      "lpips": 0.02174084074795246
+    },
+    {
+      "relative_path": "day1/members/allie/09_0273.webp",
+      "method": "falco",
+      "ssim": 0.9780392712626848,
+      "lpips": 0.025421036407351494
+    },
+    {
+      "relative_path": "day3/members/luca/13_0698.webp",
+      "method": "falco",
+      "ssim": 0.9816867275959852,
+      "lpips": 0.020066307857632637
+    },
+    {
+      "relative_path": "day4/members/allie/09_0480.webp",
+      "method": "falco",
+      "ssim": 0.9884245016286121,
+      "lpips": 0.011160786263644695
+    },
+    {
+      "relative_path": "day1/members/luca/18_0040.webp",
+      "method": "falco",
+      "ssim": 0.9815504398033997,
+      "lpips": 0.014458207413554192
+    },
+    {
+      "relative_path": "day2/members/luca/10_0654.webp",
+      "method": "falco",
+      "ssim": 0.9762395768777797,
+      "lpips": 0.02617068588733673
+    },
+    {
+      "relative_path": "day1/members/klaus/10_0063.webp",
+      "method": "falco",
+      "ssim": 0.9703475062570726,
+      "lpips": 0.05482083931565285
+    },
+    {
+      "relative_path": "day3/members/tien/20_0155.webp",
+      "method": "falco",
+      "ssim": 0.9828047442815769,
+      "lpips": 0.024414168670773506
+    },
+    {
+      "relative_path": "day1/members/onanong/08_0611.webp",
+      "method": "falco",
+      "ssim": 0.9836379325912193,
+      "lpips": 0.01783014088869095
+    },
+    {
+      "relative_path": "day4/members/stevan/13_0714.webp",
+      "method": "falco",
+      "ssim": 0.983883044127844,
+      "lpips": 0.018997065722942352
+    },
+    {
+      "relative_path": "day2/members/florian/12_0020.webp",
+      "method": "falco",
+      "ssim": 0.9879286944297073,
+      "lpips": 0.009021887555718422
+    },
+    {
+      "relative_path": "day1/members/cathal/09_0001.webp",
+      "method": "falco",
+      "ssim": 0.9616615573125301,
+      "lpips": 0.05386592075228691
+    },
+    {
+      "relative_path": "day1/members/luca/08_0225.webp",
+      "method": "falco",
+      "ssim": 0.9885711031742028,
+      "lpips": 0.011104770004749298
+    },
+    {
+      "relative_path": "day1/members/allie/14_0135.webp",
+      "method": "falco",
+      "ssim": 0.9831070577317996,
+      "lpips": 0.019983835518360138
+    },
+    {
+      "relative_path": "day1/members/allie/10_0099.webp",
+      "method": "falco",
+      "ssim": 0.9836739382227385,
+      "lpips": 0.015527170151472092
+    },
+    {
+      "relative_path": "day4/members/bao/08_0028.webp",
+      "method": "falco",
+      "ssim": 0.9923522811276896,
+      "lpips": 0.007545824628323317
+    },
+    {
+      "relative_path": "day1/members/bjorn/18_0340.webp",
+      "method": "falco",
+      "ssim": 0.9918242912524041,
+      "lpips": 0.010810047388076782
+    },
+    {
+      "relative_path": "day1/members/luca/15_0236.webp",
+      "method": "falco",
+      "ssim": 0.9823261302657765,
+      "lpips": 0.023202665150165558
+    },
+    {
+      "relative_path": "day2/members/florian/19_0363.webp",
+      "method": "falco",
+      "ssim": 0.9919499825558941,
+      "lpips": 0.00802979338914156
+    },
+    {
+      "relative_path": "day1/members/werner/18_0484.webp",
+      "method": "falco",
+      "ssim": 0.9783850359528601,
+      "lpips": 0.0275430828332901
+    },
+    {
+      "relative_path": "day4/members/allie/08_0040.webp",
+      "method": "falco",
+      "ssim": 0.9719457716772814,
+      "lpips": 0.05072788521647453
+    },
+    {
+      "relative_path": "day2/members/klaus/12_0264.webp",
+      "method": "falco",
+      "ssim": 0.9885664118331429,
+      "lpips": 0.009812192991375923
+    },
+    {
+      "relative_path": "day1/members/florian/08_0717.webp",
+      "method": "falco",
+      "ssim": 0.9682730820141773,
+      "lpips": 0.038157254457473755
+    },
+    {
+      "relative_path": "day2/members/allie/13_0355.webp",
+      "method": "falco",
+      "ssim": 0.9893467054372773,
+      "lpips": 0.008128214627504349
+    },
+    {
+      "relative_path": "day1/members/bjorn/15_0004.webp",
+      "method": "falco",
+      "ssim": 0.9840439247415734,
+      "lpips": 0.01659812591969967
+    },
+    {
+      "relative_path": "day2/members/klaus/10_0629.webp",
+      "method": "falco",
+      "ssim": 0.9788716441682404,
+      "lpips": 0.01682833582162857
+    },
+    {
+      "relative_path": "day1/members/luca/08_0069.webp",
+      "method": "falco",
+      "ssim": 0.9930678754330078,
+      "lpips": 0.005089340265840292
+    },
+    {
+      "relative_path": "day4/members/werner/08_0337.webp",
+      "method": "falco",
+      "ssim": 0.9867073244469617,
+      "lpips": 0.013800757005810738
+    },
+    {
+      "relative_path": "day2/members/werner/17_0115.webp",
+      "method": "falco",
+      "ssim": 0.9848739773264903,
+      "lpips": 0.013908149674534798
+    },
+    {
+      "relative_path": "day3/members/klaus/12_0484.webp",
+      "method": "falco",
+      "ssim": 0.9950349839318403,
+      "lpips": 0.004384445026516914
+    },
+    {
+      "relative_path": "day4/members/stevan/13_0149.webp",
+      "method": "falco",
+      "ssim": 0.9829519274344606,
+      "lpips": 0.024709897115826607
+    },
+    {
+      "relative_path": "day1/members/luca/08_0716.webp",
+      "method": "falco",
+      "ssim": 0.9807906786443702,
+      "lpips": 0.01796693354845047
+    },
+    {
+      "relative_path": "day1/members/cathal/08_0346.webp",
+      "method": "falco",
+      "ssim": 0.9915945722976174,
+      "lpips": 0.012818132527172565
+    },
+    {
+      "relative_path": "day4/members/florian/10_0112.webp",
+      "method": "falco",
+      "ssim": 0.9747850840505161,
+      "lpips": 0.02708059921860695
+    },
+    {
+      "relative_path": "day1/members/florian/13_0133.webp",
+      "method": "falco",
+      "ssim": 0.9857247681663983,
+      "lpips": 0.011160258203744888
+    },
+    {
+      "relative_path": "day2/members/tien/19_0311.webp",
+      "method": "falco",
+      "ssim": 0.9869860861038267,
+      "lpips": 0.020121801644563675
+    },
+    {
+      "relative_path": "day3/members/werner/08_0688.webp",
+      "method": "falco",
+      "ssim": 0.9851964091385427,
+      "lpips": 0.015847131609916687
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0042.webp",
+      "method": "falco",
+      "ssim": 0.9786595386282682,
+      "lpips": 0.029058299958705902
+    },
+    {
+      "relative_path": "day3/members/luca/18_0573.webp",
+      "method": "falco",
+      "ssim": 0.9844723680332494,
+      "lpips": 0.018268048763275146
+    },
+    {
+      "relative_path": "day3/members/allie/17_0205.webp",
+      "method": "falco",
+      "ssim": 0.9819683733782716,
+      "lpips": 0.029192082583904266
+    },
+    {
+      "relative_path": "day3/members/bjorn/18_0629.webp",
+      "method": "falco",
+      "ssim": 0.963378523375337,
+      "lpips": 0.05880553275346756
+    },
+    {
+      "relative_path": "day3/members/florian/19_0349.webp",
+      "method": "falco",
+      "ssim": 0.9913807541056103,
+      "lpips": 0.008503545075654984
+    },
+    {
+      "relative_path": "day3/members/cathal/11_0509.webp",
+      "method": "falco",
+      "ssim": 0.9928011303518193,
+      "lpips": 0.005584000609815121
+    },
+    {
+      "relative_path": "day3/members/allie/17_0399.webp",
+      "method": "falco",
+      "ssim": 0.97939106045787,
+      "lpips": 0.024949725717306137
+    },
+    {
+      "relative_path": "day1/members/klaus/09_0114.webp",
+      "method": "falco",
+      "ssim": 0.9678773484616189,
+      "lpips": 0.03489169850945473
+    },
+    {
+      "relative_path": "day4/members/klaus/11_0401.webp",
+      "method": "falco",
+      "ssim": 0.9827092038954118,
+      "lpips": 0.02041991800069809
+    },
+    {
+      "relative_path": "day4/members/luca/14_0559.webp",
+      "method": "falco",
+      "ssim": 0.9894585584504944,
+      "lpips": 0.009240461513400078
+    },
+    {
+      "relative_path": "day2/members/bjorn/19_0429.webp",
+      "method": "falco",
+      "ssim": 0.9884056942504716,
+      "lpips": 0.01116857212036848
+    },
+    {
+      "relative_path": "day1/members/luca/12_0168.webp",
+      "method": "falco",
+      "ssim": 0.9903369856074979,
+      "lpips": 0.009359551593661308
+    },
+    {
+      "relative_path": "day4/members/onanong/12_0450.webp",
+      "method": "falco",
+      "ssim": 0.9924560060076617,
+      "lpips": 0.00779213011264801
+    },
+    {
+      "relative_path": "day2/members/cathal/12_0044.webp",
+      "method": "falco",
+      "ssim": 0.982156107288998,
+      "lpips": 0.02935958094894886
+    },
+    {
+      "relative_path": "day3/members/klaus/15_0375.webp",
+      "method": "falco",
+      "ssim": 0.989811115257313,
+      "lpips": 0.0081332391127944
+    },
+    {
+      "relative_path": "day1/members/onanong/10_0201.webp",
+      "method": "falco",
+      "ssim": 0.9854733881108357,
+      "lpips": 0.015317792072892189
+    },
+    {
+      "relative_path": "day2/members/florian/14_0324.webp",
+      "method": "falco",
+      "ssim": 0.9462025883400536,
+      "lpips": 0.0675349235534668
+    },
+    {
+      "relative_path": "day4/members/bao/11_0549.webp",
+      "method": "falco",
+      "ssim": 0.9702262785628406,
+      "lpips": 0.03712378442287445
+    },
+    {
+      "relative_path": "day3/members/florian/12_0302.webp",
+      "method": "falco",
+      "ssim": 0.9905076836040009,
+      "lpips": 0.006731738336384296
+    },
+    {
+      "relative_path": "day3/members/allie/12_0570.webp",
+      "method": "falco",
+      "ssim": 0.9948884720936276,
+      "lpips": 0.009460393339395523
+    },
+    {
+      "relative_path": "day3/members/tien/09_0391.webp",
+      "method": "falco",
+      "ssim": 0.991490450395483,
+      "lpips": 0.007975989021360874
+    },
+    {
+      "relative_path": "day4/members/luca/10_0077.webp",
+      "method": "falco",
+      "ssim": 0.9823915609204805,
+      "lpips": 0.01930314674973488
+    },
+    {
+      "relative_path": "day3/members/stevan/20_0090.webp",
+      "method": "falco",
+      "ssim": 0.993571584740665,
+      "lpips": 0.007836548611521721
+    },
+    {
+      "relative_path": "day3/members/klaus/18_0283.webp",
+      "method": "falco",
+      "ssim": 0.9666473630556691,
+      "lpips": 0.03582616522908211
+    },
+    {
+      "relative_path": "day4/members/bjorn/08_0670.webp",
+      "method": "falco",
+      "ssim": 0.9858471905688612,
+      "lpips": 0.012657050043344498
+    },
+    {
+      "relative_path": "day3/members/luca/18_0517.webp",
+      "method": "falco",
+      "ssim": 0.9793105111669923,
+      "lpips": 0.021235989406704903
+    },
+    {
+      "relative_path": "day1/members/onanong/14_0049.webp",
+      "method": "falco",
+      "ssim": 0.9763363173105564,
+      "lpips": 0.028587622568011284
+    },
+    {
+      "relative_path": "day1/members/luca/15_0372.webp",
+      "method": "falco",
+      "ssim": 0.9719174359623058,
+      "lpips": 0.03435593470931053
+    },
+    {
+      "relative_path": "day4/members/cathal/13_0418.webp",
+      "method": "falco",
+      "ssim": 0.9738992115252018,
+      "lpips": 0.02255295217037201
+    },
+    {
+      "relative_path": "day1/members/bjorn/10_0088.webp",
+      "method": "falco",
+      "ssim": 0.9845922374747614,
+      "lpips": 0.01260642521083355
+    },
+    {
+      "relative_path": "day2/members/werner/10_0252.webp",
+      "method": "falco",
+      "ssim": 0.9749733685009255,
+      "lpips": 0.04005786404013634
+    },
+    {
+      "relative_path": "day4/members/bjorn/13_0126.webp",
+      "method": "falco",
+      "ssim": 0.9774787153753244,
+      "lpips": 0.024790333583950996
+    },
+    {
+      "relative_path": "day1/members/bjorn/11_0116.webp",
+      "method": "falco",
+      "ssim": 0.9838255169751523,
+      "lpips": 0.021758830174803734
+    },
+    {
+      "relative_path": "day3/members/klaus/09_0194.webp",
+      "method": "falco",
+      "ssim": 0.986470798147446,
+      "lpips": 0.008168315514922142
+    },
+    {
+      "relative_path": "day3/members/klaus/20_0128.webp",
+      "method": "falco",
+      "ssim": 0.9873747546043562,
+      "lpips": 0.017131324857473373
+    },
+    {
+      "relative_path": "day1/members/florian/08_0341.webp",
+      "method": "falco",
+      "ssim": 0.9909748349746578,
+      "lpips": 0.009846936911344528
+    },
+    {
+      "relative_path": "day3/members/cathal/12_0524.webp",
+      "method": "falco",
+      "ssim": 0.9934360006868702,
+      "lpips": 0.007088717073202133
+    },
+    {
+      "relative_path": "day2/members/onanong/17_0009.webp",
+      "method": "falco",
+      "ssim": 0.9890054928544222,
+      "lpips": 0.014020103961229324
+    },
+    {
+      "relative_path": "day3/members/klaus/12_0480.webp",
+      "method": "falco",
+      "ssim": 0.9970936561786231,
+      "lpips": 0.0034606873523443937
+    },
+    {
+      "relative_path": "day1/members/werner/19_0255.webp",
+      "method": "falco",
+      "ssim": 0.9876967100793131,
+      "lpips": 0.01472756639122963
+    },
+    {
+      "relative_path": "day1/members/werner/13_0606.webp",
+      "method": "falco",
+      "ssim": 0.9909381896640442,
+      "lpips": 0.008218849077820778
+    },
+    {
+      "relative_path": "day4/members/bjorn/10_0076.webp",
+      "method": "falco",
+      "ssim": 0.9915671319342753,
+      "lpips": 0.010355697013437748
+    },
+    {
+      "relative_path": "day3/members/luca/19_0582.webp",
+      "method": "falco",
+      "ssim": 0.9941493399666896,
+      "lpips": 0.007402298506349325
+    },
+    {
+      "relative_path": "day1/members/bjorn/18_0134.webp",
+      "method": "falco",
+      "ssim": 0.9689042770662301,
+      "lpips": 0.04375211521983147
+    },
+    {
+      "relative_path": "day4/members/luca/10_0115.webp",
+      "method": "falco",
+      "ssim": 0.9799124422651544,
+      "lpips": 0.022613586857914925
+    },
+    {
+      "relative_path": "day3/members/bjorn/18_0483.webp",
+      "method": "falco",
+      "ssim": 0.9750324140996608,
+      "lpips": 0.02949102595448494
+    },
+    {
+      "relative_path": "day2/members/tien/19_0512.webp",
+      "method": "falco",
+      "ssim": 0.9573040619331947,
+      "lpips": 0.05621098354458809
+    },
+    {
+      "relative_path": "day2/members/stevan/11_0452.webp",
+      "method": "falco",
+      "ssim": 0.9663505418735602,
+      "lpips": 0.04068130999803543
+    },
+    {
+      "relative_path": "day1/members/tien/08_0068.webp",
+      "method": "falco",
+      "ssim": 0.9909659014410016,
+      "lpips": 0.007476543541997671
+    },
+    {
+      "relative_path": "day1/members/florian/18_0328.webp",
+      "method": "falco",
+      "ssim": 0.9905274054458878,
+      "lpips": 0.009556896984577179
+    },
+    {
+      "relative_path": "day2/members/onanong/18_0325.webp",
+      "method": "falco",
+      "ssim": 0.9734726327169723,
+      "lpips": 0.031753141433000565
+    },
+    {
+      "relative_path": "day2/members/cathal/10_0597.webp",
+      "method": "falco",
+      "ssim": 0.9794788070791641,
+      "lpips": 0.02714831568300724
+    },
+    {
+      "relative_path": "day3/members/klaus/11_0207.webp",
+      "method": "falco",
+      "ssim": 0.9929813402513026,
+      "lpips": 0.006659829057753086
+    },
+    {
+      "relative_path": "day2/members/bjorn/15_0627.webp",
+      "method": "falco",
+      "ssim": 0.9910701040587161,
+      "lpips": 0.0070180874317884445
+    },
+    {
+      "relative_path": "day2/members/onanong/14_0193.webp",
+      "method": "falco",
+      "ssim": 0.9730444138874174,
+      "lpips": 0.024473607540130615
+    },
+    {
+      "relative_path": "day2/members/onanong/10_0373.webp",
+      "method": "falco",
+      "ssim": 0.9787746376402223,
+      "lpips": 0.02617860957980156
+    },
+    {
+      "relative_path": "day4/members/bao/11_0220.webp",
+      "method": "falco",
+      "ssim": 0.9823130497519004,
+      "lpips": 0.020602043718099594
+    },
+    {
+      "relative_path": "day2/members/klaus/15_0590.webp",
+      "method": "falco",
+      "ssim": 0.9904643270348427,
+      "lpips": 0.006749059073626995
+    },
+    {
+      "relative_path": "day1/members/werner/11_0547.webp",
+      "method": "falco",
+      "ssim": 0.9960826456047059,
+      "lpips": 0.003983712755143642
+    },
+    {
+      "relative_path": "day3/members/klaus/18_0613.webp",
+      "method": "falco",
+      "ssim": 0.9731678112064451,
+      "lpips": 0.025499746203422546
+    },
+    {
+      "relative_path": "day1/members/cathal/10_0708.webp",
+      "method": "falco",
+      "ssim": 0.9853154674944354,
+      "lpips": 0.018524372950196266
+    },
+    {
+      "relative_path": "day1/members/tien/19_0392.webp",
+      "method": "falco",
+      "ssim": 0.9706382388234279,
+      "lpips": 0.049432478845119476
+    },
+    {
+      "relative_path": "day4/members/luca/11_0464.webp",
+      "method": "falco",
+      "ssim": 0.973114744625267,
+      "lpips": 0.027411583811044693
+    },
+    {
+      "relative_path": "day3/members/allie/10_0655.webp",
+      "method": "falco",
+      "ssim": 0.9900513359761721,
+      "lpips": 0.009145595133304596
+    },
+    {
+      "relative_path": "day2/members/allie/13_0179.webp",
+      "method": "falco",
+      "ssim": 0.9862729915299563,
+      "lpips": 0.008616924285888672
+    },
+    {
+      "relative_path": "day1/members/florian/15_0647.webp",
+      "method": "falco",
+      "ssim": 0.9914054465851376,
+      "lpips": 0.0075807124376297
+    },
+    {
+      "relative_path": "day2/members/klaus/12_0531.webp",
+      "method": "falco",
+      "ssim": 0.9890394301295468,
+      "lpips": 0.010634535923600197
+    },
+    {
+      "relative_path": "day1/members/bjorn/15_0586.webp",
+      "method": "falco",
+      "ssim": 0.9905626450926598,
+      "lpips": 0.008574824780225754
+    },
+    {
+      "relative_path": "day1/members/bjorn/09_0318.webp",
+      "method": "falco",
+      "ssim": 0.9901510961118302,
+      "lpips": 0.009658665396273136
+    },
+    {
+      "relative_path": "day3/members/allie/12_0148.webp",
+      "method": "falco",
+      "ssim": 0.981916259816106,
+      "lpips": 0.017729587852954865
+    },
+    {
+      "relative_path": "day1/members/klaus/17_0521.webp",
+      "method": "falco",
+      "ssim": 0.9794517826954312,
+      "lpips": 0.027275405824184418
+    },
+    {
+      "relative_path": "day2/members/luca/10_0586.webp",
+      "method": "falco",
+      "ssim": 0.9792579519821206,
+      "lpips": 0.01931055262684822
+    },
+    {
+      "relative_path": "day4/members/onanong/11_0656.webp",
+      "method": "falco",
+      "ssim": 0.9660731507240654,
+      "lpips": 0.04326527193188667
+    },
+    {
+      "relative_path": "day1/members/onanong/17_0468.webp",
+      "method": "falco",
+      "ssim": 0.9878787767971398,
+      "lpips": 0.01277354545891285
+    },
+    {
+      "relative_path": "day2/members/werner/14_0229.webp",
+      "method": "falco",
+      "ssim": 0.9858613485990242,
+      "lpips": 0.009640037082135677
+    },
+    {
+      "relative_path": "day3/members/allie/18_0514.webp",
+      "method": "falco",
+      "ssim": 0.972403266388187,
+      "lpips": 0.024796169251203537
+    },
+    {
+      "relative_path": "day1/members/bjorn/10_0130.webp",
+      "method": "falco",
+      "ssim": 0.9818154579837822,
+      "lpips": 0.022081902250647545
+    },
+    {
+      "relative_path": "day2/members/onanong/16_0470.webp",
+      "method": "falco",
+      "ssim": 0.9922181848990541,
+      "lpips": 0.012737574055790901
+    },
+    {
+      "relative_path": "day2/members/werner/20_0620.webp",
+      "method": "falco",
+      "ssim": 0.9898599470089615,
+      "lpips": 0.008860665373504162
+    },
+    {
+      "relative_path": "day4/members/bjorn/08_0126.webp",
+      "method": "falco",
+      "ssim": 0.9938048032312518,
+      "lpips": 0.010137687437236309
+    },
+    {
+      "relative_path": "day1/members/allie/10_0296.webp",
+      "method": "falco",
+      "ssim": 0.9853271785076544,
+      "lpips": 0.01547856442630291
+    },
+    {
+      "relative_path": "day1/members/tien/08_0310.webp",
+      "method": "falco",
+      "ssim": 0.9920521552331669,
+      "lpips": 0.01086957473307848
+    },
+    {
+      "relative_path": "day1/members/florian/18_0375.webp",
+      "method": "falco",
+      "ssim": 0.9898563771062467,
+      "lpips": 0.008495504967868328
+    },
+    {
+      "relative_path": "day1/members/bjorn/14_0017.webp",
+      "method": "falco",
+      "ssim": 0.9902665102793303,
+      "lpips": 0.008313966915011406
+    },
+    {
+      "relative_path": "day4/members/luca/18_0521.webp",
+      "method": "falco",
+      "ssim": 0.9911584516492411,
+      "lpips": 0.013578762300312519
+    },
+    {
+      "relative_path": "day3/members/onanong/12_0488.webp",
+      "method": "falco",
+      "ssim": 0.9904077611114156,
+      "lpips": 0.007719023153185844
+    },
+    {
+      "relative_path": "day1/members/allie/10_0546.webp",
+      "method": "falco",
+      "ssim": 0.9826397394906475,
+      "lpips": 0.017736809328198433
+    },
+    {
+      "relative_path": "day2/members/luca/20_0211.webp",
+      "method": "falco",
+      "ssim": 0.9845802098334717,
+      "lpips": 0.019005270674824715
+    },
+    {
+      "relative_path": "day4/members/allie/11_0376.webp",
+      "method": "falco",
+      "ssim": 0.9790877862660329,
+      "lpips": 0.022791650146245956
+    },
+    {
+      "relative_path": "day1/members/klaus/09_0268.webp",
+      "method": "falco",
+      "ssim": 0.9732410504629777,
+      "lpips": 0.028069855645298958
+    },
+    {
+      "relative_path": "day1/members/tien/15_0093.webp",
+      "method": "falco",
+      "ssim": 0.9766309789020037,
+      "lpips": 0.022345751523971558
+    },
+    {
+      "relative_path": "day3/members/florian/19_0282.webp",
+      "method": "falco",
+      "ssim": 0.9898811363947412,
+      "lpips": 0.006675258278846741
+    },
+    {
+      "relative_path": "day4/members/bjorn/12_0570.webp",
+      "method": "falco",
+      "ssim": 0.978708651330409,
+      "lpips": 0.030998388305306435
+    },
+    {
+      "relative_path": "day1/members/cathal/15_0298.webp",
+      "method": "falco",
+      "ssim": 0.9684363912332697,
+      "lpips": 0.03342169150710106
+    },
+    {
+      "relative_path": "day4/members/cathal/17_0524.webp",
+      "method": "falco",
+      "ssim": 0.990445189122323,
+      "lpips": 0.008096743375062943
+    },
+    {
+      "relative_path": "day4/members/luca/14_0018.webp",
+      "method": "falco",
+      "ssim": 0.975870295383527,
+      "lpips": 0.025480173528194427
+    },
+    {
+      "relative_path": "day1/members/bjorn/10_0501.webp",
+      "method": "falco",
+      "ssim": 0.9755761592126925,
+      "lpips": 0.03333662077784538
+    },
+    {
+      "relative_path": "day1/members/allie/15_0458.webp",
+      "method": "falco",
+      "ssim": 0.9821551543928257,
+      "lpips": 0.02401825413107872
+    },
+    {
+      "relative_path": "day4/members/klaus/14_0224.webp",
+      "method": "falco",
+      "ssim": 0.9690973344818293,
+      "lpips": 0.03320925310254097
+    },
+    {
+      "relative_path": "day1/members/stevan/11_0011.webp",
+      "method": "falco",
+      "ssim": 0.9856744306649253,
+      "lpips": 0.013762494549155235
+    },
+    {
+      "relative_path": "day1/members/cathal/13_0040.webp",
+      "method": "falco",
+      "ssim": 0.9416803205495411,
+      "lpips": 0.09553791582584381
+    },
+    {
+      "relative_path": "day2/members/bjorn/20_0121.webp",
+      "method": "falco",
+      "ssim": 0.9747493807643441,
+      "lpips": 0.02722797729074955
+    },
+    {
+      "relative_path": "day4/members/stevan/10_0044.webp",
+      "method": "falco",
+      "ssim": 0.9732010898576556,
+      "lpips": 0.032555218786001205
+    },
+    {
+      "relative_path": "day1/members/tien/13_0571.webp",
+      "method": "falco",
+      "ssim": 0.986307728266271,
+      "lpips": 0.02077549882233143
+    },
+    {
+      "relative_path": "day1/members/tien/14_0211.webp",
+      "method": "falco",
+      "ssim": 0.975306428726404,
+      "lpips": 0.023863406851887703
+    },
+    {
+      "relative_path": "day2/members/cathal/19_0198.webp",
+      "method": "falco",
+      "ssim": 0.9900720264001527,
+      "lpips": 0.008904929272830486
+    },
+    {
+      "relative_path": "day3/members/stevan/18_0537.webp",
+      "method": "falco",
+      "ssim": 0.9743955753330508,
+      "lpips": 0.028618309646844864
+    },
+    {
+      "relative_path": "day2/members/florian/12_0439.webp",
+      "method": "falco",
+      "ssim": 0.9914734009088259,
+      "lpips": 0.0057090651243925095
+    },
+    {
+      "relative_path": "day2/members/allie/11_0505.webp",
+      "method": "falco",
+      "ssim": 0.9734789162989462,
+      "lpips": 0.030344977974891663
+    },
+    {
+      "relative_path": "day3/members/stevan/08_0717.webp",
+      "method": "falco",
+      "ssim": 0.9877119803306379,
+      "lpips": 0.014229103922843933
+    },
+    {
+      "relative_path": "day3/members/werner/08_0594.webp",
+      "method": "falco",
+      "ssim": 0.9843801515253424,
+      "lpips": 0.014742642641067505
+    },
+    {
+      "relative_path": "day2/members/klaus/18_0665.webp",
+      "method": "falco",
+      "ssim": 0.9832652287080971,
+      "lpips": 0.015890734270215034
+    },
+    {
+      "relative_path": "day4/members/allie/09_0451.webp",
+      "method": "falco",
+      "ssim": 0.9770413814528589,
+      "lpips": 0.026804177090525627
+    },
+    {
+      "relative_path": "day3/members/allie/10_0210.webp",
+      "method": "falco",
+      "ssim": 0.9893223124006211,
+      "lpips": 0.008872107602655888
+    },
+    {
+      "relative_path": "day4/members/klaus/12_0644.webp",
+      "method": "falco",
+      "ssim": 0.9690501078408955,
+      "lpips": 0.0351661741733551
+    },
+    {
+      "relative_path": "day2/members/allie/10_0243.webp",
+      "method": "falco",
+      "ssim": 0.9864185651020684,
+      "lpips": 0.023732313886284828
+    },
+    {
+      "relative_path": "day3/members/stevan/17_0661.webp",
+      "method": "falco",
+      "ssim": 0.9731763724127074,
+      "lpips": 0.03193822130560875
+    },
+    {
+      "relative_path": "day1/members/klaus/16_0531.webp",
+      "method": "falco",
+      "ssim": 0.9837112194113331,
+      "lpips": 0.02513142302632332
+    },
+    {
+      "relative_path": "day2/members/luca/17_0249.webp",
+      "method": "falco",
+      "ssim": 0.9889469366640465,
+      "lpips": 0.007146147079765797
+    },
+    {
+      "relative_path": "day2/members/cathal/14_0361.webp",
+      "method": "falco",
+      "ssim": 0.9852815700435583,
+      "lpips": 0.018118688836693764
+    },
+    {
+      "relative_path": "day4/members/werner/14_0045.webp",
+      "method": "falco",
+      "ssim": 0.9813750394060804,
+      "lpips": 0.020464802160859108
+    },
+    {
+      "relative_path": "day3/members/tien/11_0464.webp",
+      "method": "falco",
+      "ssim": 0.9727329880661185,
+      "lpips": 0.03232293203473091
+    },
+    {
+      "relative_path": "day3/members/werner/10_0468.webp",
+      "method": "falco",
+      "ssim": 0.9859559297714297,
+      "lpips": 0.010262440890073776
+    },
+    {
+      "relative_path": "day3/members/allie/12_0237.webp",
+      "method": "falco",
+      "ssim": 0.9930640893730828,
+      "lpips": 0.004772842861711979
+    },
+    {
+      "relative_path": "day1/members/stevan/10_0250.webp",
+      "method": "falco",
+      "ssim": 0.9825326045504156,
+      "lpips": 0.02029561810195446
+    },
+    {
+      "relative_path": "day2/members/tien/18_0209.webp",
+      "method": "falco",
+      "ssim": 0.9894177784807024,
+      "lpips": 0.011850962415337563
+    },
+    {
+      "relative_path": "day2/members/allie/17_0331.webp",
+      "method": "falco",
+      "ssim": 0.9689463347288151,
+      "lpips": 0.042198292911052704
+    },
+    {
+      "relative_path": "day1/members/onanong/16_0577.webp",
+      "method": "falco",
+      "ssim": 0.9881383958129204,
+      "lpips": 0.01158225443214178
+    },
+    {
+      "relative_path": "day2/members/allie/11_0188.webp",
+      "method": "falco",
+      "ssim": 0.9740966931927493,
+      "lpips": 0.029364226385951042
+    },
+    {
+      "relative_path": "day3/members/stevan/20_0667.webp",
+      "method": "falco",
+      "ssim": 0.975825498406314,
+      "lpips": 0.03318942338228226
+    },
+    {
+      "relative_path": "day4/members/luca/18_0590.webp",
+      "method": "falco",
+      "ssim": 0.9847795668546669,
+      "lpips": 0.01771370694041252
+    },
+    {
+      "relative_path": "day1/members/onanong/18_0512.webp",
+      "method": "falco",
+      "ssim": 0.9677150717469926,
+      "lpips": 0.04799894616007805
+    },
+    {
+      "relative_path": "day2/members/tien/20_0019.webp",
+      "method": "falco",
+      "ssim": 0.9767489228776306,
+      "lpips": 0.03051042929291725
+    },
+    {
+      "relative_path": "day2/members/cathal/14_0312.webp",
+      "method": "falco",
+      "ssim": 0.9742056787990272,
+      "lpips": 0.031540460884571075
+    },
+    {
+      "relative_path": "day2/members/bjorn/19_0139.webp",
+      "method": "falco",
+      "ssim": 0.9834123336056398,
+      "lpips": 0.02138322778046131
+    },
+    {
+      "relative_path": "day2/members/klaus/10_0219.webp",
+      "method": "falco",
+      "ssim": 0.9838201651414957,
+      "lpips": 0.014888221397995949
+    },
+    {
+      "relative_path": "day2/members/onanong/14_0331.webp",
+      "method": "falco",
+      "ssim": 0.9801545144605367,
+      "lpips": 0.02438027784228325
+    },
+    {
+      "relative_path": "day1/members/luca/19_0006.webp",
+      "method": "falco",
+      "ssim": 0.9866986959632579,
+      "lpips": 0.01608131267130375
+    },
+    {
+      "relative_path": "day4/members/onanong/10_0182.webp",
+      "method": "falco",
+      "ssim": 0.9827251732329767,
+      "lpips": 0.015469801612198353
+    },
+    {
+      "relative_path": "day3/members/onanong/16_0319.webp",
+      "method": "falco",
+      "ssim": 0.9879586349664137,
+      "lpips": 0.008505179546773434
+    },
+    {
+      "relative_path": "day2/members/werner/12_0480.webp",
+      "method": "falco",
+      "ssim": 0.97504164290122,
+      "lpips": 0.03196243196725845
+    },
+    {
+      "relative_path": "day1/members/tien/19_0050.webp",
+      "method": "falco",
+      "ssim": 0.987487258626088,
+      "lpips": 0.007884467020630836
+    },
+    {
+      "relative_path": "day3/members/florian/20_0698.webp",
+      "method": "falco",
+      "ssim": 0.9794141307012664,
+      "lpips": 0.019910339266061783
+    },
+    {
+      "relative_path": "day3/members/cathal/08_0097.webp",
+      "method": "falco",
+      "ssim": 0.9919161210841586,
+      "lpips": 0.008569298312067986
+    },
+    {
+      "relative_path": "day2/members/werner/20_0389.webp",
+      "method": "falco",
+      "ssim": 0.989589647234313,
+      "lpips": 0.012690441682934761
+    },
+    {
+      "relative_path": "day3/members/onanong/14_0121.webp",
+      "method": "falco",
+      "ssim": 0.9951812861953592,
+      "lpips": 0.0032521614339202642
+    },
+    {
+      "relative_path": "day3/members/werner/12_0583.webp",
+      "method": "falco",
+      "ssim": 0.9934542286179444,
+      "lpips": 0.005305224563926458
+    },
+    {
+      "relative_path": "day2/members/onanong/10_0518.webp",
+      "method": "falco",
+      "ssim": 0.9710070176545545,
+      "lpips": 0.03679027780890465
+    },
+    {
+      "relative_path": "day3/members/onanong/16_0114.webp",
+      "method": "falco",
+      "ssim": 0.9920649182536465,
+      "lpips": 0.009837917052209377
+    },
+    {
+      "relative_path": "day2/members/stevan/09_0309.webp",
+      "method": "falco",
+      "ssim": 0.9889924381508459,
+      "lpips": 0.007633221801370382
+    },
+    {
+      "relative_path": "day3/members/tien/11_0628.webp",
+      "method": "falco",
+      "ssim": 0.9854303845813922,
+      "lpips": 0.016799423843622208
+    },
+    {
+      "relative_path": "day3/members/allie/08_0398.webp",
+      "method": "falco",
+      "ssim": 0.9892688045125304,
+      "lpips": 0.0074732801876962185
+    },
+    {
+      "relative_path": "day1/members/cathal/15_0162.webp",
+      "method": "falco",
+      "ssim": 0.9783392913763614,
+      "lpips": 0.028557732701301575
+    },
+    {
+      "relative_path": "day2/members/klaus/13_0331.webp",
+      "method": "falco",
+      "ssim": 0.9651183461874814,
+      "lpips": 0.04115225374698639
+    },
+    {
+      "relative_path": "day1/members/werner/11_0515.webp",
+      "method": "falco",
+      "ssim": 0.9894298615265652,
+      "lpips": 0.009547781199216843
+    },
+    {
+      "relative_path": "day3/members/stevan/10_0619.webp",
+      "method": "falco",
+      "ssim": 0.9926037528849639,
+      "lpips": 0.007776618469506502
+    },
+    {
+      "relative_path": "day2/members/tien/13_0604.webp",
+      "method": "falco",
+      "ssim": 0.9747725550912162,
+      "lpips": 0.03380126133561134
+    },
+    {
+      "relative_path": "day4/members/cathal/09_0426.webp",
+      "method": "falco",
+      "ssim": 0.9889714924906761,
+      "lpips": 0.007337562739849091
+    },
+    {
+      "relative_path": "day3/members/bjorn/12_0362.webp",
+      "method": "falco",
+      "ssim": 0.9951400129436191,
+      "lpips": 0.007208560593426228
+    },
+    {
+      "relative_path": "day1/members/klaus/11_0523.webp",
+      "method": "falco",
+      "ssim": 0.982604604863909,
+      "lpips": 0.014823800884187222
+    },
+    {
+      "relative_path": "day1/members/tien/10_0032.webp",
+      "method": "falco",
+      "ssim": 0.9887293197006671,
+      "lpips": 0.012290805578231812
+    },
+    {
+      "relative_path": "day1/members/onanong/11_0119.webp",
+      "method": "falco",
+      "ssim": 0.9937954978635198,
+      "lpips": 0.00826537236571312
+    },
+    {
+      "relative_path": "day4/members/cathal/13_0470.webp",
+      "method": "falco",
+      "ssim": 0.9817304162957448,
+      "lpips": 0.02213488519191742
+    },
+    {
+      "relative_path": "day1/members/allie/09_0160.webp",
+      "method": "falco",
+      "ssim": 0.9858182074234242,
+      "lpips": 0.016835123300552368
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0644.webp",
+      "method": "falco",
+      "ssim": 0.9749444917680345,
+      "lpips": 0.03505228832364082
+    },
+    {
+      "relative_path": "day3/members/luca/20_0192.webp",
+      "method": "falco",
+      "ssim": 0.9878106057769179,
+      "lpips": 0.011812332086265087
+    },
+    {
+      "relative_path": "day3/members/luca/17_0582.webp",
+      "method": "falco",
+      "ssim": 0.9826787106269279,
+      "lpips": 0.01888095773756504
+    },
+    {
+      "relative_path": "day2/members/bjorn/17_0110.webp",
+      "method": "falco",
+      "ssim": 0.9897946994315424,
+      "lpips": 0.005329134874045849
+    },
+    {
+      "relative_path": "day2/members/allie/15_0703.webp",
+      "method": "falco",
+      "ssim": 0.9895280106245498,
+      "lpips": 0.00837722234427929
+    },
+    {
+      "relative_path": "day2/members/florian/14_0042.webp",
+      "method": "falco",
+      "ssim": 0.9909034898934488,
+      "lpips": 0.008724994957447052
+    },
+    {
+      "relative_path": "day3/members/werner/19_0360.webp",
+      "method": "falco",
+      "ssim": 0.9908658203914203,
+      "lpips": 0.009604456834495068
+    },
+    {
+      "relative_path": "day2/members/florian/11_0279.webp",
+      "method": "falco",
+      "ssim": 0.9791478356919141,
+      "lpips": 0.019235685467720032
+    },
+    {
+      "relative_path": "day4/members/florian/15_0498.webp",
+      "method": "falco",
+      "ssim": 0.9929320200758958,
+      "lpips": 0.007119127549231052
+    },
+    {
+      "relative_path": "day1/members/allie/12_0272.webp",
+      "method": "falco",
+      "ssim": 0.9840305917795248,
+      "lpips": 0.017231140285730362
+    },
+    {
+      "relative_path": "day3/members/tien/11_0505.webp",
+      "method": "falco",
+      "ssim": 0.984169918720523,
+      "lpips": 0.018868500366806984
+    },
+    {
+      "relative_path": "day1/members/stevan/17_0340.webp",
+      "method": "falco",
+      "ssim": 0.992361496677344,
+      "lpips": 0.01141391322016716
+    },
+    {
+      "relative_path": "day1/members/luca/11_0691.webp",
+      "method": "falco",
+      "ssim": 0.9895088523796775,
+      "lpips": 0.006573249585926533
+    },
+    {
+      "relative_path": "day1/members/cathal/10_0676.webp",
+      "method": "falco",
+      "ssim": 0.9838513735777443,
+      "lpips": 0.017687492072582245
+    },
+    {
+      "relative_path": "day3/members/florian/18_0329.webp",
+      "method": "falco",
+      "ssim": 0.9684861296339796,
+      "lpips": 0.03611623868346214
+    },
+    {
+      "relative_path": "day2/members/cathal/11_0063.webp",
+      "method": "falco",
+      "ssim": 0.9705185928388579,
+      "lpips": 0.039381273090839386
+    },
+    {
+      "relative_path": "day4/members/luca/18_0257.webp",
+      "method": "falco",
+      "ssim": 0.9917927849166338,
+      "lpips": 0.009827710688114166
+    },
+    {
+      "relative_path": "day3/members/cathal/11_0064.webp",
+      "method": "falco",
+      "ssim": 0.9879821279019031,
+      "lpips": 0.01066921278834343
+    },
+    {
+      "relative_path": "day4/members/onanong/11_0635.webp",
+      "method": "falco",
+      "ssim": 0.9811263792178507,
+      "lpips": 0.017140300944447517
+    },
+    {
+      "relative_path": "day2/members/klaus/10_0464.webp",
+      "method": "falco",
+      "ssim": 0.957701333266863,
+      "lpips": 0.0577850416302681
+    },
+    {
+      "relative_path": "day3/members/cathal/09_0625.webp",
+      "method": "falco",
+      "ssim": 0.9842220803461009,
+      "lpips": 0.028506765142083168
+    },
+    {
+      "relative_path": "day4/members/bao/09_0694.webp",
+      "method": "falco",
+      "ssim": 0.9806474406628304,
+      "lpips": 0.022794947028160095
+    },
+    {
+      "relative_path": "day2/members/allie/17_0093.webp",
+      "method": "falco",
+      "ssim": 0.970279966390242,
+      "lpips": 0.036421533674001694
+    },
+    {
+      "relative_path": "day3/members/werner/08_0498.webp",
+      "method": "falco",
+      "ssim": 0.9913428510491255,
+      "lpips": 0.007202347740530968
+    },
+    {
+      "relative_path": "day2/members/allie/16_0153.webp",
+      "method": "falco",
+      "ssim": 0.9717213785671285,
+      "lpips": 0.03322219103574753
+    },
+    {
+      "relative_path": "day4/members/florian/11_0372.webp",
+      "method": "falco",
+      "ssim": 0.981442533150935,
+      "lpips": 0.015269494615495205
+    },
+    {
+      "relative_path": "day3/members/bjorn/12_0147.webp",
+      "method": "falco",
+      "ssim": 0.9867441982903499,
+      "lpips": 0.014552989974617958
+    },
+    {
+      "relative_path": "day1/members/werner/15_0312.webp",
+      "method": "falco",
+      "ssim": 0.9916464041081944,
+      "lpips": 0.011583372950553894
+    },
+    {
+      "relative_path": "day3/members/stevan/09_0144.webp",
+      "method": "falco",
+      "ssim": 0.9871480997402617,
+      "lpips": 0.013618063181638718
+    },
+    {
+      "relative_path": "day1/members/onanong/14_0681.webp",
+      "method": "falco",
+      "ssim": 0.9777678424594513,
+      "lpips": 0.031631436198949814
+    },
+    {
+      "relative_path": "day2/members/allie/17_0175.webp",
+      "method": "falco",
+      "ssim": 0.9758521919550533,
+      "lpips": 0.032081279903650284
+    },
+    {
+      "relative_path": "day2/members/tien/13_0043.webp",
+      "method": "falco",
+      "ssim": 0.9904902748548731,
+      "lpips": 0.014194484800100327
+    },
+    {
+      "relative_path": "day4/members/cathal/18_0466.webp",
+      "method": "falco",
+      "ssim": 0.9919127975414993,
+      "lpips": 0.01051718182861805
+    },
+    {
+      "relative_path": "day1/members/onanong/19_0261.webp",
+      "method": "falco",
+      "ssim": 0.9925344296666898,
+      "lpips": 0.010183538310229778
+    },
+    {
+      "relative_path": "day4/members/allie/13_0245.webp",
+      "method": "falco",
+      "ssim": 0.9866475660580188,
+      "lpips": 0.019477006047964096
+    },
+    {
+      "relative_path": "day1/members/tien/08_0483.webp",
+      "method": "falco",
+      "ssim": 0.9893203012432134,
+      "lpips": 0.007348677609115839
+    },
+    {
+      "relative_path": "day2/members/florian/14_0293.webp",
+      "method": "falco",
+      "ssim": 0.9641930458296196,
+      "lpips": 0.04039892181754112
+    },
+    {
+      "relative_path": "day2/members/klaus/12_0153.webp",
+      "method": "falco",
+      "ssim": 0.9912630350148596,
+      "lpips": 0.00721187237650156
+    },
+    {
+      "relative_path": "day2/members/tien/19_0472.webp",
+      "method": "falco",
+      "ssim": 0.9613380212041068,
+      "lpips": 0.057812049984931946
+    },
+    {
+      "relative_path": "day3/members/florian/14_0452.webp",
+      "method": "falco",
+      "ssim": 0.9839868515467775,
+      "lpips": 0.013134966604411602
+    },
+    {
+      "relative_path": "day3/members/cathal/18_0053.webp",
+      "method": "falco",
+      "ssim": 0.9765307930389046,
+      "lpips": 0.022957056760787964
+    },
+    {
+      "relative_path": "day3/members/onanong/15_0609.webp",
+      "method": "falco",
+      "ssim": 0.9915790748331563,
+      "lpips": 0.007776674814522266
+    },
+    {
+      "relative_path": "day3/members/tien/18_0251.webp",
+      "method": "falco",
+      "ssim": 0.9705227348894065,
+      "lpips": 0.03852669894695282
+    },
+    {
+      "relative_path": "day3/members/werner/10_0493.webp",
+      "method": "falco",
+      "ssim": 0.9886671138099127,
+      "lpips": 0.011128783226013184
+    },
+    {
+      "relative_path": "day3/members/bjorn/15_0707.webp",
+      "method": "falco",
+      "ssim": 0.9918569710971958,
+      "lpips": 0.008727828972041607
+    },
+    {
+      "relative_path": "day1/members/werner/18_0011.webp",
+      "method": "falco",
+      "ssim": 0.9748486404139879,
+      "lpips": 0.029845915734767914
+    },
+    {
+      "relative_path": "day3/members/cathal/09_0099.webp",
+      "method": "falco",
+      "ssim": 0.984534495681208,
+      "lpips": 0.019311144948005676
+    },
+    {
+      "relative_path": "day2/members/onanong/11_0590.webp",
+      "method": "falco",
+      "ssim": 0.9849482794221521,
+      "lpips": 0.0170236025005579
+    },
+    {
+      "relative_path": "day4/members/bao/10_0060.webp",
+      "method": "falco",
+      "ssim": 0.973594443785292,
+      "lpips": 0.030730916187167168
+    },
+    {
+      "relative_path": "day2/members/luca/18_0188.webp",
+      "method": "falco",
+      "ssim": 0.9913951806812425,
+      "lpips": 0.006953303702175617
+    },
+    {
+      "relative_path": "day1/members/werner/17_0457.webp",
+      "method": "falco",
+      "ssim": 0.9902925540160851,
+      "lpips": 0.010036762803792953
+    },
+    {
+      "relative_path": "day4/members/bao/13_0536.webp",
+      "method": "falco",
+      "ssim": 0.9736164760092821,
+      "lpips": 0.029908133670687675
+    },
+    {
+      "relative_path": "day3/members/bjorn/10_0195.webp",
+      "method": "falco",
+      "ssim": 0.9864300217853925,
+      "lpips": 0.019330572336912155
+    },
+    {
+      "relative_path": "day4/members/florian/11_0305.webp",
+      "method": "falco",
+      "ssim": 0.9607137579457383,
+      "lpips": 0.045201852917671204
+    },
+    {
+      "relative_path": "day3/members/tien/17_0282.webp",
+      "method": "falco",
+      "ssim": 0.9898625967387426,
+      "lpips": 0.008741247467696667
+    },
+    {
+      "relative_path": "day3/members/cathal/15_0606.webp",
+      "method": "falco",
+      "ssim": 0.9882461627319675,
+      "lpips": 0.007420910522341728
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0537.webp",
+      "method": "falco",
+      "ssim": 0.9738438890389879,
+      "lpips": 0.027527693659067154
+    },
+    {
+      "relative_path": "day3/members/cathal/20_0290.webp",
+      "method": "falco",
+      "ssim": 0.9808719200091733,
+      "lpips": 0.02599741891026497
+    },
+    {
+      "relative_path": "day3/members/werner/17_0005.webp",
+      "method": "falco",
+      "ssim": 0.9877759068761698,
+      "lpips": 0.016187742352485657
+    },
+    {
+      "relative_path": "day3/members/luca/10_0668.webp",
+      "method": "falco",
+      "ssim": 0.9796463053962086,
+      "lpips": 0.02643635682761669
+    },
+    {
+      "relative_path": "day1/members/tien/15_0585.webp",
+      "method": "falco",
+      "ssim": 0.9929018419627359,
+      "lpips": 0.010333288460969925
+    },
+    {
+      "relative_path": "day2/members/florian/14_0717.webp",
+      "method": "falco",
+      "ssim": 0.9813044942290693,
+      "lpips": 0.022107534110546112
+    },
+    {
+      "relative_path": "day3/members/florian/20_0281.webp",
+      "method": "falco",
+      "ssim": 0.9723374969729535,
+      "lpips": 0.0268099308013916
+    },
+    {
+      "relative_path": "day4/members/bjorn/15_0170.webp",
+      "method": "falco",
+      "ssim": 0.9891567789809504,
+      "lpips": 0.010539239272475243
+    },
+    {
+      "relative_path": "day4/members/stevan/10_0720.webp",
+      "method": "falco",
+      "ssim": 0.977549160617453,
+      "lpips": 0.02434854954481125
+    },
+    {
+      "relative_path": "day4/members/stevan/10_0629.webp",
+      "method": "falco",
+      "ssim": 0.9839014738507679,
+      "lpips": 0.024648889899253845
+    },
+    {
+      "relative_path": "day4/members/bao/13_0504.webp",
+      "method": "falco",
+      "ssim": 0.9782991180917396,
+      "lpips": 0.025959180667996407
+    },
+    {
+      "relative_path": "day2/members/stevan/10_0281.webp",
+      "method": "falco",
+      "ssim": 0.9908258943721343,
+      "lpips": 0.01146119087934494
+    },
+    {
+      "relative_path": "day3/members/florian/17_0490.webp",
+      "method": "falco",
+      "ssim": 0.9725067136769171,
+      "lpips": 0.03188855201005936
+    },
+    {
+      "relative_path": "day2/members/bjorn/12_0518.webp",
+      "method": "falco",
+      "ssim": 0.9851674929806107,
+      "lpips": 0.017835773527622223
+    },
+    {
+      "relative_path": "day1/members/werner/10_0429.webp",
+      "method": "falco",
+      "ssim": 0.9839972615660871,
+      "lpips": 0.013412363827228546
+    },
+    {
+      "relative_path": "day2/members/klaus/19_0493.webp",
+      "method": "falco",
+      "ssim": 0.9771673631145777,
+      "lpips": 0.022632628679275513
+    },
+    {
+      "relative_path": "day2/members/werner/20_0007.webp",
+      "method": "falco",
+      "ssim": 0.9688362171980494,
+      "lpips": 0.039472825825214386
+    },
+    {
+      "relative_path": "day2/members/stevan/20_0706.webp",
+      "method": "falco",
+      "ssim": 0.9874666431405071,
+      "lpips": 0.01923622004687786
+    },
+    {
+      "relative_path": "day1/members/tien/14_0026.webp",
+      "method": "falco",
+      "ssim": 0.9839710915567851,
+      "lpips": 0.027487896382808685
+    },
+    {
+      "relative_path": "day1/members/tien/09_0404.webp",
+      "method": "falco",
+      "ssim": 0.9940966078148792,
+      "lpips": 0.010690729133784771
+    },
+    {
+      "relative_path": "day3/members/onanong/16_0351.webp",
+      "method": "falco",
+      "ssim": 0.9905088058451991,
+      "lpips": 0.006310083903372288
+    },
+    {
+      "relative_path": "day2/members/onanong/17_0489.webp",
+      "method": "falco",
+      "ssim": 0.9912765692545941,
+      "lpips": 0.007298762444406748
+    },
+    {
+      "relative_path": "day4/members/allie/09_0677.webp",
+      "method": "falco",
+      "ssim": 0.9768969094332357,
+      "lpips": 0.031028324738144875
+    },
+    {
+      "relative_path": "day3/members/werner/20_0141.webp",
+      "method": "falco",
+      "ssim": 0.9898460429667576,
+      "lpips": 0.013583507388830185
+    },
+    {
+      "relative_path": "day1/members/werner/13_0365.webp",
+      "method": "falco",
+      "ssim": 0.9905794145593623,
+      "lpips": 0.007696238812059164
+    },
+    {
+      "relative_path": "day3/members/bjorn/14_0678.webp",
+      "method": "falco",
+      "ssim": 0.98322765722759,
+      "lpips": 0.0195629745721817
+    },
+    {
+      "relative_path": "day4/members/allie/10_0446.webp",
+      "method": "falco",
+      "ssim": 0.9717643716007703,
+      "lpips": 0.037070538848638535
+    },
+    {
+      "relative_path": "day1/members/stevan/08_0330.webp",
+      "method": "falco",
+      "ssim": 0.9904254366735609,
+      "lpips": 0.00767648546025157
+    },
+    {
+      "relative_path": "day3/members/stevan/18_0060.webp",
+      "method": "falco",
+      "ssim": 0.9557061962347442,
+      "lpips": 0.05703577399253845
+    },
+    {
+      "relative_path": "day3/members/klaus/19_0688.webp",
+      "method": "falco",
+      "ssim": 0.9920345480653244,
+      "lpips": 0.007595397531986237
+    },
+    {
+      "relative_path": "day1/members/werner/08_0280.webp",
+      "method": "falco",
+      "ssim": 0.9810583417531431,
+      "lpips": 0.023915160447359085
+    },
+    {
+      "relative_path": "day4/members/klaus/13_0393.webp",
+      "method": "falco",
+      "ssim": 0.9737576644252934,
+      "lpips": 0.02377004735171795
+    },
+    {
+      "relative_path": "day1/members/florian/19_0244.webp",
+      "method": "falco",
+      "ssim": 0.990959461508267,
+      "lpips": 0.00822738092392683
+    },
+    {
+      "relative_path": "day4/members/klaus/14_0702.webp",
+      "method": "falco",
+      "ssim": 0.9932192162734187,
+      "lpips": 0.011916834861040115
+    },
+    {
+      "relative_path": "day1/members/klaus/12_0632.webp",
+      "method": "falco",
+      "ssim": 0.9878654222886372,
+      "lpips": 0.012386688031256199
+    },
+    {
+      "relative_path": "day3/members/bjorn/19_0152.webp",
+      "method": "falco",
+      "ssim": 0.9886742024245834,
+      "lpips": 0.015319881960749626
+    },
+    {
+      "relative_path": "day1/members/onanong/10_0422.webp",
+      "method": "falco",
+      "ssim": 0.9875375286686178,
+      "lpips": 0.012239338830113411
+    },
+    {
+      "relative_path": "day2/members/tien/12_0597.webp",
+      "method": "falco",
+      "ssim": 0.9788695256788186,
+      "lpips": 0.026091553270816803
+    },
+    {
+      "relative_path": "day2/members/florian/15_0118.webp",
+      "method": "falco",
+      "ssim": 0.9802606881961111,
+      "lpips": 0.02834400162100792
+    },
+    {
+      "relative_path": "day3/members/tien/12_0164.webp",
+      "method": "falco",
+      "ssim": 0.9842455159546836,
+      "lpips": 0.014047589153051376
+    },
+    {
+      "relative_path": "day2/members/bjorn/17_0327.webp",
+      "method": "falco",
+      "ssim": 0.9910365781115239,
+      "lpips": 0.013529982417821884
+    },
+    {
+      "relative_path": "day1/members/allie/10_0339.webp",
+      "method": "falco",
+      "ssim": 0.9849594803635507,
+      "lpips": 0.01668774150311947
+    },
+    {
+      "relative_path": "day1/members/cathal/14_0484.webp",
+      "method": "falco",
+      "ssim": 0.9864584027105064,
+      "lpips": 0.015196037478744984
+    },
+    {
+      "relative_path": "day1/members/cathal/18_0317.webp",
+      "method": "falco",
+      "ssim": 0.9802171565907067,
+      "lpips": 0.019440896809101105
+    },
+    {
+      "relative_path": "day2/members/cathal/10_0273.webp",
+      "method": "falco",
+      "ssim": 0.9796528288319167,
+      "lpips": 0.033553414046764374
+    },
+    {
+      "relative_path": "day2/members/allie/10_0201.webp",
+      "method": "falco",
+      "ssim": 0.9878429971000391,
+      "lpips": 0.019785718992352486
+    },
+    {
+      "relative_path": "day3/members/werner/16_0328.webp",
+      "method": "falco",
+      "ssim": 0.9877646501590508,
+      "lpips": 0.014973051846027374
+    },
+    {
+      "relative_path": "day3/members/luca/12_0481.webp",
+      "method": "falco",
+      "ssim": 0.9909067786750372,
+      "lpips": 0.00829746201634407
+    },
+    {
+      "relative_path": "day2/members/onanong/12_0404.webp",
+      "method": "falco",
+      "ssim": 0.9603011537467228,
+      "lpips": 0.05827914923429489
+    },
+    {
+      "relative_path": "day1/members/onanong/14_0406.webp",
+      "method": "falco",
+      "ssim": 0.9702246175411201,
+      "lpips": 0.03680981323122978
+    },
+    {
+      "relative_path": "day1/members/florian/15_0199.webp",
+      "method": "falco",
+      "ssim": 0.9726261360911672,
+      "lpips": 0.02781759947538376
+    },
+    {
+      "relative_path": "day2/members/tien/12_0017.webp",
+      "method": "falco",
+      "ssim": 0.9779831101492741,
+      "lpips": 0.028886886313557625
+    },
+    {
+      "relative_path": "day4/members/stevan/11_0365.webp",
+      "method": "falco",
+      "ssim": 0.9860498088586582,
+      "lpips": 0.014979802072048187
+    },
+    {
+      "relative_path": "day3/members/tien/18_0355.webp",
+      "method": "falco",
+      "ssim": 0.9815558214676811,
+      "lpips": 0.022752603515982628
+    },
+    {
+      "relative_path": "day2/members/florian/10_0103.webp",
+      "method": "falco",
+      "ssim": 0.983871578875367,
+      "lpips": 0.01591893658041954
+    },
+    {
+      "relative_path": "day1/members/florian/09_0596.webp",
+      "method": "falco",
+      "ssim": 0.9917370238693866,
+      "lpips": 0.010286197997629642
+    },
+    {
+      "relative_path": "day4/members/werner/10_0441.webp",
+      "method": "falco",
+      "ssim": 0.9909968623812633,
+      "lpips": 0.009454002603888512
+    },
+    {
+      "relative_path": "day4/members/bao/08_0595.webp",
+      "method": "falco",
+      "ssim": 0.9912117850590384,
+      "lpips": 0.009932073764503002
+    },
+    {
+      "relative_path": "day2/members/luca/17_0072.webp",
+      "method": "falco",
+      "ssim": 0.9892518728374275,
+      "lpips": 0.010627761483192444
+    },
+    {
+      "relative_path": "day3/members/bjorn/19_0607.webp",
+      "method": "falco",
+      "ssim": 0.9918993605647629,
+      "lpips": 0.010860562324523926
+    },
+    {
+      "relative_path": "day2/members/werner/18_0289.webp",
+      "method": "falco",
+      "ssim": 0.9930412532228065,
+      "lpips": 0.0070841810666024685
+    },
+    {
+      "relative_path": "day4/members/bao/12_0423.webp",
+      "method": "falco",
+      "ssim": 0.9939007391586637,
+      "lpips": 0.0066215237602591515
+    },
+    {
+      "relative_path": "day1/members/allie/09_0673.webp",
+      "method": "falco",
+      "ssim": 0.9655835698297186,
+      "lpips": 0.04600539058446884
+    },
+    {
+      "relative_path": "day2/members/werner/19_0608.webp",
+      "method": "falco",
+      "ssim": 0.9848944848810187,
+      "lpips": 0.01858772709965706
+    },
+    {
+      "relative_path": "day4/members/florian/13_0005.webp",
+      "method": "falco",
+      "ssim": 0.9757845089193172,
+      "lpips": 0.021625760942697525
+    },
+    {
+      "relative_path": "day1/members/stevan/11_0456.webp",
+      "method": "falco",
+      "ssim": 0.9950295278759901,
+      "lpips": 0.008672758936882019
+    },
+    {
+      "relative_path": "day2/members/onanong/16_0168.webp",
+      "method": "falco",
+      "ssim": 0.9919953985445004,
+      "lpips": 0.006978518329560757
+    },
+    {
+      "relative_path": "day4/members/bjorn/08_0088.webp",
+      "method": "falco",
+      "ssim": 0.9927025757284973,
+      "lpips": 0.008853946812450886
+    },
+    {
+      "relative_path": "day2/members/luca/18_0250.webp",
+      "method": "falco",
+      "ssim": 0.9869532995910132,
+      "lpips": 0.012810171581804752
+    },
+    {
+      "relative_path": "day2/members/cathal/11_0012.webp",
+      "method": "falco",
+      "ssim": 0.976377434698685,
+      "lpips": 0.027894265949726105
+    },
+    {
+      "relative_path": "day1/members/stevan/19_0205.webp",
+      "method": "falco",
+      "ssim": 0.9889184041362461,
+      "lpips": 0.008494582027196884
+    },
+    {
+      "relative_path": "day3/members/cathal/09_0355.webp",
+      "method": "falco",
+      "ssim": 0.9759848951806783,
+      "lpips": 0.039733536541461945
+    },
+    {
+      "relative_path": "day2/members/luca/13_0250.webp",
+      "method": "falco",
+      "ssim": 0.980043687765468,
+      "lpips": 0.021388987079262733
+    },
+    {
+      "relative_path": "day1/members/klaus/15_0547.webp",
+      "method": "falco",
+      "ssim": 0.9899992635953275,
+      "lpips": 0.008591700345277786
+    },
+    {
+      "relative_path": "day1/members/florian/20_0151.webp",
+      "method": "falco",
+      "ssim": 0.991151370661885,
+      "lpips": 0.01276937872171402
+    },
+    {
+      "relative_path": "day1/members/cathal/14_0708.webp",
+      "method": "falco",
+      "ssim": 0.9700946432885863,
+      "lpips": 0.030389970168471336
+    },
+    {
+      "relative_path": "day3/members/allie/18_0433.webp",
+      "method": "falco",
+      "ssim": 0.9730734809105798,
+      "lpips": 0.023995142430067062
+    },
+    {
+      "relative_path": "day3/members/klaus/17_0530.webp",
+      "method": "falco",
+      "ssim": 0.9911892125532464,
+      "lpips": 0.010967238806188107
+    },
+    {
+      "relative_path": "day2/members/klaus/18_0506.webp",
+      "method": "falco",
+      "ssim": 0.981941320816298,
+      "lpips": 0.018293024972081184
+    },
+    {
+      "relative_path": "day4/members/florian/10_0427.webp",
+      "method": "falco",
+      "ssim": 0.9833703558974346,
+      "lpips": 0.015964915975928307
+    },
+    {
+      "relative_path": "day1/members/cathal/14_0490.webp",
+      "method": "falco",
+      "ssim": 0.9681792276439355,
+      "lpips": 0.036736056208610535
+    },
+    {
+      "relative_path": "day4/members/bjorn/14_0135.webp",
+      "method": "falco",
+      "ssim": 0.9776270211663475,
+      "lpips": 0.020272236317396164
+    },
+    {
+      "relative_path": "day2/members/onanong/11_0615.webp",
+      "method": "falco",
+      "ssim": 0.9899700582346044,
+      "lpips": 0.008736266754567623
+    },
+    {
+      "relative_path": "day2/members/werner/17_0039.webp",
+      "method": "falco",
+      "ssim": 0.9911035019730529,
+      "lpips": 0.006572438403964043
+    },
+    {
+      "relative_path": "day3/members/bjorn/12_0222.webp",
+      "method": "falco",
+      "ssim": 0.9923679399172652,
+      "lpips": 0.006279135122895241
+    },
+    {
+      "relative_path": "day2/members/bjorn/11_0031.webp",
+      "method": "falco",
+      "ssim": 0.9764922389697871,
+      "lpips": 0.022029723972082138
+    },
+    {
+      "relative_path": "day4/members/bjorn/10_0048.webp",
+      "method": "falco",
+      "ssim": 0.9846727998293754,
+      "lpips": 0.01664040982723236
+    },
+    {
+      "relative_path": "day1/members/werner/15_0198.webp",
+      "method": "falco",
+      "ssim": 0.9903108953730341,
+      "lpips": 0.00789868738502264
+    },
+    {
+      "relative_path": "day1/members/klaus/17_0002.webp",
+      "method": "falco",
+      "ssim": 0.9706319427254994,
+      "lpips": 0.04521527141332626
+    },
+    {
+      "relative_path": "day1/members/werner/15_0199.webp",
+      "method": "falco",
+      "ssim": 0.9910455357939537,
+      "lpips": 0.008693229407072067
+    },
+    {
+      "relative_path": "day1/members/werner/18_0148.webp",
+      "method": "falco",
+      "ssim": 0.9788439519598918,
+      "lpips": 0.024413293227553368
+    },
+    {
+      "relative_path": "day4/members/onanong/15_0400.webp",
+      "method": "falco",
+      "ssim": 0.9895685858721741,
+      "lpips": 0.012549973092973232
+    },
+    {
+      "relative_path": "day1/members/allie/08_0276.webp",
+      "method": "falco",
+      "ssim": 0.9814253639695631,
+      "lpips": 0.019982656463980675
+    },
+    {
+      "relative_path": "day3/members/klaus/13_0098.webp",
+      "method": "falco",
+      "ssim": 0.9921800698964353,
+      "lpips": 0.008002938702702522
+    },
+    {
+      "relative_path": "day4/members/luca/17_0685.webp",
+      "method": "falco",
+      "ssim": 0.9925163794083657,
+      "lpips": 0.008016854524612427
+    },
+    {
+      "relative_path": "day1/members/klaus/12_0400.webp",
+      "method": "falco",
+      "ssim": 0.994742837793923,
+      "lpips": 0.010198538191616535
+    },
+    {
+      "relative_path": "day3/members/cathal/19_0263.webp",
+      "method": "falco",
+      "ssim": 0.9896595288096011,
+      "lpips": 0.012494191527366638
+    },
+    {
+      "relative_path": "day1/members/bjorn/19_0016.webp",
+      "method": "falco",
+      "ssim": 0.9918477317794093,
+      "lpips": 0.010893224738538265
+    },
+    {
+      "relative_path": "day2/members/bjorn/19_0187.webp",
+      "method": "falco",
+      "ssim": 0.9823253462520328,
+      "lpips": 0.024197062477469444
+    },
+    {
+      "relative_path": "day1/members/cathal/11_0405.webp",
+      "method": "falco",
+      "ssim": 0.9729047480470544,
+      "lpips": 0.032822370529174805
+    },
+    {
+      "relative_path": "day3/members/tien/20_0575.webp",
+      "method": "falco",
+      "ssim": 0.968217751917269,
+      "lpips": 0.05191005766391754
+    },
+    {
+      "relative_path": "day4/members/luca/08_0054.webp",
+      "method": "falco",
+      "ssim": 0.9884056800706619,
+      "lpips": 0.010548451915383339
+    },
+    {
+      "relative_path": "day4/members/allie/11_0161.webp",
+      "method": "falco",
+      "ssim": 0.973693168644623,
+      "lpips": 0.031200755387544632
+    },
+    {
+      "relative_path": "day2/members/luca/14_0354.webp",
+      "method": "falco",
+      "ssim": 0.9710384368587137,
+      "lpips": 0.032404739409685135
+    },
+    {
+      "relative_path": "day3/members/bjorn/10_0179.webp",
+      "method": "falco",
+      "ssim": 0.980793683931505,
+      "lpips": 0.03465142101049423
+    },
+    {
+      "relative_path": "day4/members/cathal/12_0648.webp",
+      "method": "falco",
+      "ssim": 0.9581705849705946,
+      "lpips": 0.05019999295473099
+    },
+    {
+      "relative_path": "day4/members/bjorn/10_0670.webp",
+      "method": "falco",
+      "ssim": 0.9702081914121967,
+      "lpips": 0.034878700971603394
+    },
+    {
+      "relative_path": "day3/members/luca/11_0192.webp",
+      "method": "falco",
+      "ssim": 0.9725352758417855,
+      "lpips": 0.03986796736717224
+    },
+    {
+      "relative_path": "day2/members/stevan/11_0382.webp",
+      "method": "falco",
+      "ssim": 0.9811198227053363,
+      "lpips": 0.02089749649167061
+    },
+    {
+      "relative_path": "day2/members/luca/19_0633.webp",
+      "method": "falco",
+      "ssim": 0.9703258529009918,
+      "lpips": 0.03768526017665863
+    },
+    {
+      "relative_path": "day2/members/luca/10_0406.webp",
+      "method": "falco",
+      "ssim": 0.9908042611223712,
+      "lpips": 0.005813123658299446
+    },
+    {
+      "relative_path": "day3/members/cathal/20_0443.webp",
+      "method": "falco",
+      "ssim": 0.9749777291606475,
+      "lpips": 0.02347896248102188
+    },
+    {
+      "relative_path": "day4/members/klaus/13_0503.webp",
+      "method": "falco",
+      "ssim": 0.9764588705348102,
+      "lpips": 0.01989142596721649
+    },
+    {
+      "relative_path": "day2/members/werner/15_0625.webp",
+      "method": "falco",
+      "ssim": 0.9836971207362661,
+      "lpips": 0.016252027824521065
+    },
+    {
+      "relative_path": "day4/members/stevan/10_0227.webp",
+      "method": "falco",
+      "ssim": 0.974353636017517,
+      "lpips": 0.03192523121833801
+    },
+    {
+      "relative_path": "day4/members/stevan/13_0462.webp",
+      "method": "falco",
+      "ssim": 0.9636679153630907,
+      "lpips": 0.049999307841062546
+    },
+    {
+      "relative_path": "day3/members/cathal/20_0569.webp",
+      "method": "falco",
+      "ssim": 0.9605625189425594,
+      "lpips": 0.05395042151212692
+    },
+    {
+      "relative_path": "day3/members/onanong/10_0301.webp",
+      "method": "falco",
+      "ssim": 0.9876364169923066,
+      "lpips": 0.011735261417925358
+    },
+    {
+      "relative_path": "day3/members/allie/16_0683.webp",
+      "method": "falco",
+      "ssim": 0.9861531417390025,
+      "lpips": 0.01617990992963314
+    },
+    {
+      "relative_path": "day2/members/klaus/13_0148.webp",
+      "method": "falco",
+      "ssim": 0.9701742242584656,
+      "lpips": 0.038075558841228485
+    },
+    {
+      "relative_path": "day2/members/bjorn/16_0632.webp",
+      "method": "falco",
+      "ssim": 0.9860208406178422,
+      "lpips": 0.011985043063759804
+    },
+    {
+      "relative_path": "day1/members/florian/11_0219.webp",
+      "method": "falco",
+      "ssim": 0.9769579128792572,
+      "lpips": 0.030735883861780167
+    },
+    {
+      "relative_path": "day2/members/luca/18_0197.webp",
+      "method": "falco",
+      "ssim": 0.9919819731400447,
+      "lpips": 0.007170436903834343
+    },
+    {
+      "relative_path": "day4/members/allie/09_0293.webp",
+      "method": "falco",
+      "ssim": 0.9737592533522436,
+      "lpips": 0.035350944846868515
+    },
+    {
+      "relative_path": "day2/members/florian/14_0672.webp",
+      "method": "falco",
+      "ssim": 0.9786669079587683,
+      "lpips": 0.022008633241057396
+    },
+    {
+      "relative_path": "day3/members/florian/19_0086.webp",
+      "method": "falco",
+      "ssim": 0.9901162661179969,
+      "lpips": 0.007960794493556023
+    },
+    {
+      "relative_path": "day2/members/werner/13_0648.webp",
+      "method": "falco",
+      "ssim": 0.9961401639158867,
+      "lpips": 0.003249761648476124
+    },
+    {
+      "relative_path": "day1/members/stevan/18_0597.webp",
+      "method": "falco",
+      "ssim": 0.9828157699203218,
+      "lpips": 0.020714357495307922
+    },
+    {
+      "relative_path": "day1/members/florian/18_0042.webp",
+      "method": "falco",
+      "ssim": 0.9736442099078877,
+      "lpips": 0.03379069268703461
+    },
+    {
+      "relative_path": "day3/members/werner/17_0301.webp",
+      "method": "falco",
+      "ssim": 0.980759909291788,
+      "lpips": 0.01986144483089447
+    },
+    {
+      "relative_path": "day1/members/allie/09_0647.webp",
+      "method": "falco",
+      "ssim": 0.959922224712083,
+      "lpips": 0.05284108221530914
+    },
+    {
+      "relative_path": "day4/members/cathal/15_0410.webp",
+      "method": "falco",
+      "ssim": 0.9910185684978886,
+      "lpips": 0.008895809762179852
+    },
+    {
+      "relative_path": "day4/members/stevan/11_0074.webp",
+      "method": "falco",
+      "ssim": 0.9762233589471058,
+      "lpips": 0.026050476357340813
+    },
+    {
+      "relative_path": "day1/members/florian/16_0525.webp",
+      "method": "falco",
+      "ssim": 0.9868870554910943,
+      "lpips": 0.011875712312757969
+    },
+    {
+      "relative_path": "day4/members/bao/12_0438.webp",
+      "method": "falco",
+      "ssim": 0.977522843141073,
+      "lpips": 0.030397426337003708
+    },
+    {
+      "relative_path": "day1/members/luca/12_0202.webp",
+      "method": "falco",
+      "ssim": 0.9893674624372623,
+      "lpips": 0.008800971321761608
+    },
+    {
+      "relative_path": "day2/members/luca/14_0016.webp",
+      "method": "falco",
+      "ssim": 0.9836627881616491,
+      "lpips": 0.015126742422580719
+    },
+    {
+      "relative_path": "day1/members/cathal/11_0477.webp",
+      "method": "falco",
+      "ssim": 0.9894040651171263,
+      "lpips": 0.006822238210588694
+    },
+    {
+      "relative_path": "day2/members/werner/16_0476.webp",
+      "method": "falco",
+      "ssim": 0.9895623604003081,
+      "lpips": 0.006958873942494392
+    },
+    {
+      "relative_path": "day4/members/bjorn/14_0715.webp",
+      "method": "falco",
+      "ssim": 0.9836963822453249,
+      "lpips": 0.019279824569821358
+    },
+    {
+      "relative_path": "day3/members/stevan/13_0343.webp",
+      "method": "falco",
+      "ssim": 0.9663754772741718,
+      "lpips": 0.040641359984874725
+    },
+    {
+      "relative_path": "day1/members/onanong/15_0060.webp",
+      "method": "falco",
+      "ssim": 0.9702315969305525,
+      "lpips": 0.03277380019426346
+    },
+    {
+      "relative_path": "day3/members/luca/11_0673.webp",
+      "method": "falco",
+      "ssim": 0.9495752264558618,
+      "lpips": 0.09470517933368683
+    },
+    {
+      "relative_path": "day4/members/onanong/15_0191.webp",
+      "method": "falco",
+      "ssim": 0.9748044589786379,
+      "lpips": 0.03382442519068718
+    },
+    {
+      "relative_path": "day1/members/florian/17_0649.webp",
+      "method": "falco",
+      "ssim": 0.9751710510975343,
+      "lpips": 0.029545867815613747
+    },
+    {
+      "relative_path": "day3/members/luca/18_0524.webp",
+      "method": "falco",
+      "ssim": 0.9712263658003866,
+      "lpips": 0.037408553063869476
+    },
+    {
+      "relative_path": "day2/members/werner/13_0683.webp",
+      "method": "falco",
+      "ssim": 0.9961032505088663,
+      "lpips": 0.003335411660373211
+    },
+    {
+      "relative_path": "day2/members/tien/20_0651.webp",
+      "method": "falco",
+      "ssim": 0.9795131926425666,
+      "lpips": 0.028858177363872528
+    },
+    {
+      "relative_path": "day1/members/bjorn/12_0196.webp",
+      "method": "falco",
+      "ssim": 0.9930562130857993,
+      "lpips": 0.007749906741082668
+    },
+    {
+      "relative_path": "day3/members/florian/10_0402.webp",
+      "method": "falco",
+      "ssim": 0.9929214748238909,
+      "lpips": 0.007195590063929558
+    },
+    {
+      "relative_path": "day1/members/onanong/17_0253.webp",
+      "method": "falco",
+      "ssim": 0.9928524911329664,
+      "lpips": 0.007765606511384249
+    },
+    {
+      "relative_path": "day3/members/tien/09_0002.webp",
+      "method": "falco",
+      "ssim": 0.9891201242403665,
+      "lpips": 0.01579022780060768
+    },
+    {
+      "relative_path": "day3/members/allie/12_0712.webp",
+      "method": "falco",
+      "ssim": 0.9956113211106464,
+      "lpips": 0.0063947029411792755
+    },
+    {
+      "relative_path": "day2/members/cathal/19_0211.webp",
+      "method": "falco",
+      "ssim": 0.9885792178536095,
+      "lpips": 0.00915665365755558
+    },
+    {
+      "relative_path": "day3/members/klaus/08_0380.webp",
+      "method": "falco",
+      "ssim": 0.9803916102071429,
+      "lpips": 0.019402937963604927
+    },
+    {
+      "relative_path": "day4/members/werner/08_0208.webp",
+      "method": "falco",
+      "ssim": 0.9895629595128907,
+      "lpips": 0.00916392169892788
+    },
+    {
+      "relative_path": "day1/members/werner/14_0080.webp",
+      "method": "falco",
+      "ssim": 0.9905234058680942,
+      "lpips": 0.009040918201208115
+    },
+    {
+      "relative_path": "day3/members/florian/15_0318.webp",
+      "method": "falco",
+      "ssim": 0.9811377707317002,
+      "lpips": 0.015743043273687363
+    },
+    {
+      "relative_path": "day4/members/onanong/14_0177.webp",
+      "method": "falco",
+      "ssim": 0.9779560831289239,
+      "lpips": 0.024416159838438034
+    },
+    {
+      "relative_path": "day3/members/florian/11_0647.webp",
+      "method": "falco",
+      "ssim": 0.9929717125953103,
+      "lpips": 0.00515080988407135
+    },
+    {
+      "relative_path": "day2/members/tien/12_0007.webp",
+      "method": "falco",
+      "ssim": 0.9854951836671756,
+      "lpips": 0.01708276756107807
+    },
+    {
+      "relative_path": "day1/members/florian/11_0210.webp",
+      "method": "falco",
+      "ssim": 0.9872163269406343,
+      "lpips": 0.012244245037436485
+    },
+    {
+      "relative_path": "day3/members/stevan/11_0119.webp",
+      "method": "falco",
+      "ssim": 0.9752822187820142,
+      "lpips": 0.03325740993022919
+    },
+    {
+      "relative_path": "day1/members/florian/18_0275.webp",
+      "method": "falco",
+      "ssim": 0.9773212519012366,
+      "lpips": 0.029932567849755287
+    },
+    {
+      "relative_path": "day4/members/klaus/09_0320.webp",
+      "method": "falco",
+      "ssim": 0.9881906169648214,
+      "lpips": 0.014493903145194054
+    },
+    {
+      "relative_path": "day2/members/cathal/18_0081.webp",
+      "method": "falco",
+      "ssim": 0.980733330396281,
+      "lpips": 0.028044501319527626
+    },
+    {
+      "relative_path": "day4/members/florian/18_0559.webp",
+      "method": "falco",
+      "ssim": 0.9905435801827777,
+      "lpips": 0.009502421133220196
+    },
+    {
+      "relative_path": "day2/members/florian/12_0418.webp",
+      "method": "falco",
+      "ssim": 0.9908595324898943,
+      "lpips": 0.005212453193962574
+    },
+    {
+      "relative_path": "day4/members/werner/11_0358.webp",
+      "method": "falco",
+      "ssim": 0.9772319239693358,
+      "lpips": 0.031001169234514236
+    },
+    {
+      "relative_path": "day2/members/florian/15_0395.webp",
+      "method": "falco",
+      "ssim": 0.9892673703911766,
+      "lpips": 0.00902555137872696
+    },
+    {
+      "relative_path": "day2/members/cathal/14_0185.webp",
+      "method": "falco",
+      "ssim": 0.984503519152799,
+      "lpips": 0.013172904960811138
+    },
+    {
+      "relative_path": "day1/members/klaus/10_0589.webp",
+      "method": "falco",
+      "ssim": 0.9790643646646239,
+      "lpips": 0.021108530461788177
+    },
+    {
+      "relative_path": "day1/members/florian/10_0419.webp",
+      "method": "falco",
+      "ssim": 0.9769551860053269,
+      "lpips": 0.025068525224924088
+    },
+    {
+      "relative_path": "day3/members/luca/14_0453.webp",
+      "method": "falco",
+      "ssim": 0.9833610800372125,
+      "lpips": 0.015722626820206642
+    },
+    {
+      "relative_path": "day2/members/stevan/11_0699.webp",
+      "method": "falco",
+      "ssim": 0.9841947925466151,
+      "lpips": 0.022750450298190117
+    },
+    {
+      "relative_path": "day2/members/werner/20_0424.webp",
+      "method": "falco",
+      "ssim": 0.9743474529728907,
+      "lpips": 0.026616182178258896
+    },
+    {
+      "relative_path": "day1/members/bjorn/18_0660.webp",
+      "method": "falco",
+      "ssim": 0.9927529860927375,
+      "lpips": 0.008271796628832817
+    },
+    {
+      "relative_path": "day3/members/florian/10_0693.webp",
+      "method": "falco",
+      "ssim": 0.9864289830673574,
+      "lpips": 0.016200024634599686
+    },
+    {
+      "relative_path": "day4/members/klaus/12_0118.webp",
+      "method": "falco",
+      "ssim": 0.9755422162614984,
+      "lpips": 0.03264663740992546
+    },
+    {
+      "relative_path": "day2/members/bjorn/19_0586.webp",
+      "method": "falco",
+      "ssim": 0.9834256022505828,
+      "lpips": 0.023996639996767044
+    },
+    {
+      "relative_path": "day3/members/allie/18_0535.webp",
+      "method": "falco",
+      "ssim": 0.9746756993493483,
+      "lpips": 0.022225409746170044
+    },
+    {
+      "relative_path": "day4/members/cathal/09_0257.webp",
+      "method": "falco",
+      "ssim": 0.9743843468378367,
+      "lpips": 0.03218776360154152
+    },
+    {
+      "relative_path": "day2/members/florian/15_0006.webp",
+      "method": "falco",
+      "ssim": 0.9888517931685775,
+      "lpips": 0.010235542431473732
+    },
+    {
+      "relative_path": "day3/members/tien/10_0690.webp",
+      "method": "falco",
+      "ssim": 0.9804913321517829,
+      "lpips": 0.026257656514644623
+    },
+    {
+      "relative_path": "day3/members/cathal/11_0181.webp",
+      "method": "falco",
+      "ssim": 0.9777639712507312,
+      "lpips": 0.025406600907444954
+    },
+    {
+      "relative_path": "day4/members/bao/11_0055.webp",
+      "method": "falco",
+      "ssim": 0.9702658020520397,
+      "lpips": 0.04040546715259552
+    },
+    {
+      "relative_path": "day3/members/luca/13_0160.webp",
+      "method": "falco",
+      "ssim": 0.9878730530333014,
+      "lpips": 0.01037130132317543
+    },
+    {
+      "relative_path": "day2/members/werner/13_0432.webp",
+      "method": "falco",
+      "ssim": 0.9963727104687831,
+      "lpips": 0.0027794032357633114
+    },
+    {
+      "relative_path": "day3/members/florian/19_0684.webp",
+      "method": "falco",
+      "ssim": 0.9907533056650025,
+      "lpips": 0.00856496300548315
+    },
+    {
+      "relative_path": "day2/members/allie/16_0556.webp",
+      "method": "falco",
+      "ssim": 0.9888788823284064,
+      "lpips": 0.015750247985124588
+    },
+    {
+      "relative_path": "day1/members/werner/19_0438.webp",
+      "method": "falco",
+      "ssim": 0.9743179786217228,
+      "lpips": 0.026123540475964546
+    },
+    {
+      "relative_path": "day2/members/allie/19_0622.webp",
+      "method": "falco",
+      "ssim": 0.9731972059450348,
+      "lpips": 0.03403395414352417
+    },
+    {
+      "relative_path": "day3/members/onanong/12_0703.webp",
+      "method": "falco",
+      "ssim": 0.994297186128119,
+      "lpips": 0.0072563220746815205
+    },
+    {
+      "relative_path": "day1/members/stevan/18_0567.webp",
+      "method": "falco",
+      "ssim": 0.979700351367104,
+      "lpips": 0.026239467784762383
+    },
+    {
+      "relative_path": "day3/members/stevan/20_0527.webp",
+      "method": "falco",
+      "ssim": 0.98421748917798,
+      "lpips": 0.019927414134144783
+    },
+    {
+      "relative_path": "day1/members/onanong/19_0481.webp",
+      "method": "falco",
+      "ssim": 0.9917749607911911,
+      "lpips": 0.00933106429874897
+    },
+    {
+      "relative_path": "day4/members/klaus/08_0554.webp",
+      "method": "falco",
+      "ssim": 0.9908198996340248,
+      "lpips": 0.0075093531049788
+    },
+    {
+      "relative_path": "day3/members/klaus/19_0704.webp",
+      "method": "falco",
+      "ssim": 0.9910131790779274,
+      "lpips": 0.008829429745674133
+    },
+    {
+      "relative_path": "day2/members/luca/12_0565.webp",
+      "method": "falco",
+      "ssim": 0.9877295016843978,
+      "lpips": 0.008683312684297562
+    },
+    {
+      "relative_path": "day4/members/luca/08_0034.webp",
+      "method": "falco",
+      "ssim": 0.9925061944102423,
+      "lpips": 0.009212614968419075
+    },
+    {
+      "relative_path": "day1/members/tien/10_0152.webp",
+      "method": "falco",
+      "ssim": 0.9868192053561816,
+      "lpips": 0.015025706961750984
+    },
+    {
+      "relative_path": "day4/members/werner/13_0537.webp",
+      "method": "falco",
+      "ssim": 0.9790591398049101,
+      "lpips": 0.019989311695098877
+    },
+    {
+      "relative_path": "day1/members/bjorn/09_0300.webp",
+      "method": "falco",
+      "ssim": 0.9592286858250253,
+      "lpips": 0.05418958514928818
+    },
+    {
+      "relative_path": "day2/members/florian/14_0303.webp",
+      "method": "falco",
+      "ssim": 0.9695334078977487,
+      "lpips": 0.03456587344408035
+    },
+    {
+      "relative_path": "day1/members/luca/14_0698.webp",
+      "method": "falco",
+      "ssim": 0.9798623763003654,
+      "lpips": 0.024809416383504868
+    },
+    {
+      "relative_path": "day1/members/stevan/18_0660.webp",
+      "method": "falco",
+      "ssim": 0.9912241863989396,
+      "lpips": 0.010734949260950089
+    },
+    {
+      "relative_path": "day3/members/allie/13_0693.webp",
+      "method": "falco",
+      "ssim": 0.9893714767906095,
+      "lpips": 0.012797802686691284
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0248.webp",
+      "method": "falco",
+      "ssim": 0.9753465080045288,
+      "lpips": 0.028738876804709435
+    },
+    {
+      "relative_path": "day4/members/cathal/13_0210.webp",
+      "method": "falco",
+      "ssim": 0.965215960822408,
+      "lpips": 0.05371583625674248
+    },
+    {
+      "relative_path": "day1/members/stevan/18_0014.webp",
+      "method": "falco",
+      "ssim": 0.9791042627489807,
+      "lpips": 0.02441621944308281
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "status": "provenance_only",
+  "n_records": 940,
+  "provenance_counts": {
+    "genuine_manual_partner_review": 175,
+    "heuristic_or_automatically_generated": 404,
+    "inherited_or_reused_review_result": 26,
+    "structured_author_inspection": 335
+  },
+  "agreement_statistics": "not_computed_mixed_non_independent_sources",
+  "canonical_claim": "The author and project partner manually inspected and corrected annotations and relevant outputs using dedicated review applications. This was a structured project review process, not a blinded human-participant study."
+}

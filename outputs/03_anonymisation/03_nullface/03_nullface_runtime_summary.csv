@@ -1,0 +1,5 @@
+segment,sample_count,status_breakdown,mean_runtime_seconds,mean_ok_runtime_seconds,mean_copied_runtime_seconds,total_runtime_seconds,runtime_boundary,note
+compute_constrained_remaining_298,298,"{""copied"": 90, ""ok"": 208}",20.167529,28.528778,0.843753,6009.923559,full_per_frame_runtime_available,Recovered from worker logs after successful constrained-compute shard execution.
+shard_01_100,100,"{""completed"": 100}",,,,,runtime_unavailable,"Execution completed, but per-frame runtime was not preserved in the recovered retained summary."
+remaining_102,102,"{""completed"": 102}",,,,,runtime_unavailable,"Output files exist, but the retained log did not retain usable per-frame runtime data."
+combined_500,500,"{""processed_anonymised"": 353, ""copy_through"": 147}",20.389381,28.528778,0.843753,10194.690325,full_500_timestamped_runtime_calculation,Full 500-frame timing reconstructed from the timestamped execution log using the recorded processed-frame and copy-through means; no rerun required.

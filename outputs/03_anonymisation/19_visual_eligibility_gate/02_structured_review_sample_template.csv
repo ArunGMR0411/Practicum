@@ -1,0 +1,3 @@
+item_id,relative_path,method,stratum_face_count,stratum_scale,stratum_pose,stratum_quality,reviewer_id,score_identity,score_geometry,score_expression,score_compositing,score_egocentric,flag_pose_collapse,flag_multi_face_bleed,flag_background_corruption,flag_identity_leak_obvious,item_verdict,notes
+# Structured manual review completed by project author + project partner (see 03_manual_author_partner_review_completion.md).
+# Item-level private score sheets may remain local; method-level outcome is recorded in the completion note.

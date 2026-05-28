@@ -1,0 +1,12 @@
+{
+  "method": "adaptive_artifact_gated_policy",
+  "face_crop_count": 1279,
+  "adaface_cosine_sim_mean": 0.1160009428858757,
+  "adaface_reid_rate": 0.003909304143862392,
+  "arcface_cosine_sim_mean": 0.13064539432525635,
+  "arcface_reid_rate": 0.006254886630179828,
+  "device": "cuda",
+  "batch_size": 64,
+  "arcface_available": true,
+  "skipped_rows": []
+}

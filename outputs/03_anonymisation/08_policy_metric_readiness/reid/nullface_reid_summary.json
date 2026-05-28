@@ -1,0 +1,12 @@
+{
+  "method": "nullface",
+  "face_crop_count": 1279,
+  "adaface_cosine_sim_mean": 0.2677311599254608,
+  "adaface_reid_rate": 0.053166536356528536,
+  "arcface_cosine_sim_mean": 0.1636551320552826,
+  "arcface_reid_rate": 0.0836591086786552,
+  "device": "cuda",
+  "batch_size": 32,
+  "arcface_available": true,
+  "skipped_rows": []
+}

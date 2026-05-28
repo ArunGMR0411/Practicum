@@ -1,0 +1,19 @@
+relative_path,retry_status,raw_status,box_count,runtime_seconds,output_path,error,retry_variant
+day3/members/onanong/11_0042.webp,FAILED_AFTER_RETRY,error,2,70.87539,,No face detected in <PIL.Image.Image image mode=RGB size=512x512 at 0x7EA94140AC50>.,padding040_det005_face512_two_shards
+day2/members/cathal/10_0597.webp,FAILED_AFTER_RETRY,error,4,103.491657,,No face detected in <PIL.Image.Image image mode=RGB size=512x512 at 0x7EA94140BB20>.,padding040_det005_face512_two_shards
+day4/members/klaus/14_0224.webp,FAILED_AFTER_RETRY,error,9,173.324321,,No face detected in <PIL.Image.Image image mode=RGB size=512x512 at 0x7EA9414345E0>.,padding040_det005_face512_two_shards
+day3/members/stevan/18_0060.webp,FAILED_AFTER_RETRY,error,11,312.844943,,No face detected in <PIL.Image.Image image mode=RGB size=512x512 at 0x7EA94140AD40>.,padding040_det005_face512_two_shards
+day3/members/luca/11_0192.webp,FAILED_AFTER_RETRY,error,4,101.806374,,No face detected in <PIL.Image.Image image mode=RGB size=512x512 at 0x7EA941471F60>.,padding040_det005_face512_two_shards
+day4/members/werner/11_0358.webp,FAILED_AFTER_RETRY,error,6,137.150519,,No face detected in <PIL.Image.Image image mode=RGB size=512x512 at 0x7EA94140BB20>.,padding040_det005_face512_two_shards
+day3/members/cathal/20_0569.webp,FAILED_AFTER_RETRY,error,8,207.985563,,No face detected in <PIL.Image.Image image mode=RGB size=512x512 at 0x7EA94145B9A0>.,padding040_det005_face512_two_shards
+day3/members/tien/10_0690.webp,FAILED_AFTER_RETRY,error,3,0.15706,,No face detected in <PIL.Image.Image image mode=RGB size=512x512 at 0x7EA94146FFD0>.,padding040_det005_face512_two_shards
+day3/members/onanong/11_0248.webp,FAILED_AFTER_RETRY,error,2,0.183454,,No face detected in <PIL.Image.Image image mode=RGB size=512x512 at 0x7EA9414826E0>.,padding040_det005_face512_two_shards
+day4/members/bao/11_0549.webp,FAILED_AFTER_RETRY,error,9,247.106036,,No face detected in <PIL.Image.Image image mode=RGB size=512x512 at 0x7DFA70EB88B0>.,padding040_det005_face512_two_shards
+day1/members/klaus/17_0521.webp,FAILED_AFTER_RETRY,error,4,70.42338,,No face detected in <PIL.Image.Image image mode=RGB size=512x512 at 0x7DF91F9085B0>.,padding040_det005_face512_two_shards
+day2/members/werner/14_0229.webp,FAILED_AFTER_RETRY,error,1,0.188822,,No face detected in <PIL.Image.Image image mode=RGB size=512x512 at 0x7DF91F9085B0>.,padding040_det005_face512_two_shards
+day2/members/onanong/14_0331.webp,FAILED_AFTER_RETRY,error,3,34.705491,,No face detected in <PIL.Image.Image image mode=RGB size=512x512 at 0x7DF91F9085B0>.,padding040_det005_face512_two_shards
+day4/members/stevan/10_0629.webp,FAILED_AFTER_RETRY,error,4,35.556187,,No face detected in <PIL.Image.Image image mode=RGB size=512x512 at 0x7DF91F946B60>.,padding040_det005_face512_two_shards
+day2/members/klaus/19_0493.webp,FAILED_AFTER_RETRY,error,5,105.29649,,No face detected in <PIL.Image.Image image mode=RGB size=512x512 at 0x7DF91F93F550>.,padding040_det005_face512_two_shards
+day2/members/tien/12_0017.webp,FAILED_AFTER_RETRY,error,2,35.039201,,No face detected in <PIL.Image.Image image mode=RGB size=512x512 at 0x7DF91F92BC40>.,padding040_det005_face512_two_shards
+day2/members/florian/14_0672.webp,FAILED_AFTER_RETRY,error,2,34.964731,,No face detected in <PIL.Image.Image image mode=RGB size=512x512 at 0x7DF91F953700>.,padding040_det005_face512_two_shards
+day3/members/florian/10_0693.webp,FAILED_AFTER_RETRY,error,1,0.177192,,No face detected in <PIL.Image.Image image mode=RGB size=512x512 at 0x7DF91F93F550>.,padding040_det005_face512_two_shards

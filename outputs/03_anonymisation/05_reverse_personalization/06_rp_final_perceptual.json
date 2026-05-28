@@ -1,0 +1,2905 @@
+{
+  "summary": {
+    "reverse_personalization": {
+      "ssim_mean": 0.9911991509981355,
+      "ssim_std": 0.004202973220777665,
+      "lpips_mean": 0.005231636088352101,
+      "lpips_std": 0.0038788983903766346,
+      "sample_count": 482
+    }
+  },
+  "detailed": [
+    {
+      "relative_path": "day3/members/stevan/20_0682.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9825074679300485,
+      "lpips": 0.017564203590154648
+    },
+    {
+      "relative_path": "day1/members/luca/12_0078.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9960238566748004,
+      "lpips": 0.002488519065082073
+    },
+    {
+      "relative_path": "day3/members/tien/14_0649.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9883540020523339,
+      "lpips": 0.008544716984033585
+    },
+    {
+      "relative_path": "day2/members/bjorn/16_0250.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9963648491866116,
+      "lpips": 0.0009683627868071198
+    },
+    {
+      "relative_path": "day1/members/stevan/10_0179.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9932699713490902,
+      "lpips": 0.0031664781272411346
+    },
+    {
+      "relative_path": "day3/members/werner/08_0619.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9928413813438902,
+      "lpips": 0.002274125814437866
+    },
+    {
+      "relative_path": "day3/members/tien/10_0512.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9948492255821112,
+      "lpips": 0.004438134375959635
+    },
+    {
+      "relative_path": "day1/members/werner/14_0048.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9938649149959374,
+      "lpips": 0.004068748094141483
+    },
+    {
+      "relative_path": "day1/members/klaus/17_0206.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9867740574583242,
+      "lpips": 0.010660686530172825
+    },
+    {
+      "relative_path": "day4/members/florian/11_0412.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9915263284572337,
+      "lpips": 0.0033322712406516075
+    },
+    {
+      "relative_path": "day1/members/allie/18_0412.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.984070685418784,
+      "lpips": 0.016672233119606972
+    },
+    {
+      "relative_path": "day2/members/klaus/18_0601.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9942462582327837,
+      "lpips": 0.002163778990507126
+    },
+    {
+      "relative_path": "day4/members/allie/12_0604.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9900253005661952,
+      "lpips": 0.008243203163146973
+    },
+    {
+      "relative_path": "day1/members/onanong/08_0572.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9907949041761469,
+      "lpips": 0.0038698872085660696
+    },
+    {
+      "relative_path": "day3/members/stevan/09_0286.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9908895343205487,
+      "lpips": 0.008899077773094177
+    },
+    {
+      "relative_path": "day3/members/tien/20_0434.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9910963164683971,
+      "lpips": 0.006151009816676378
+    },
+    {
+      "relative_path": "day4/members/werner/18_0362.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9953119741863,
+      "lpips": 0.0023704443592578173
+    },
+    {
+      "relative_path": "day1/members/cathal/12_0342.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.988222039257398,
+      "lpips": 0.0072172642685472965
+    },
+    {
+      "relative_path": "day3/members/florian/19_0198.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9955742640407056,
+      "lpips": 0.0016665341099724174
+    },
+    {
+      "relative_path": "day4/members/allie/18_0334.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9841695403230567,
+      "lpips": 0.014604492112994194
+    },
+    {
+      "relative_path": "day4/members/werner/09_0017.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9948159719157313,
+      "lpips": 0.0011807357659563422
+    },
+    {
+      "relative_path": "day4/members/werner/12_0528.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9928564997315256,
+      "lpips": 0.003815764794126153
+    },
+    {
+      "relative_path": "day3/members/bjorn/20_0140.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9893560242630818,
+      "lpips": 0.010634276084601879
+    },
+    {
+      "relative_path": "day3/members/onanong/15_0413.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9851220566602915,
+      "lpips": 0.008245222270488739
+    },
+    {
+      "relative_path": "day1/members/luca/13_0044.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9920959640593434,
+      "lpips": 0.0036887680180370808
+    },
+    {
+      "relative_path": "day4/members/luca/11_0578.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9896977125831503,
+      "lpips": 0.00486455112695694
+    },
+    {
+      "relative_path": "day4/members/werner/18_0672.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9923133268848537,
+      "lpips": 0.004386842716485262
+    },
+    {
+      "relative_path": "day2/members/luca/11_0416.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9882802133285503,
+      "lpips": 0.005096184555441141
+    },
+    {
+      "relative_path": "day1/members/stevan/08_0631.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9955351426695113,
+      "lpips": 0.001305116107687354
+    },
+    {
+      "relative_path": "day3/members/luca/17_0412.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9878336351776728,
+      "lpips": 0.00808587297797203
+    },
+    {
+      "relative_path": "day4/members/onanong/13_0378.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9858873892745702,
+      "lpips": 0.012127087451517582
+    },
+    {
+      "relative_path": "day3/members/luca/11_0126.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9865457514333139,
+      "lpips": 0.0074274190701544285
+    },
+    {
+      "relative_path": "day4/members/cathal/13_0074.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9890469367592205,
+      "lpips": 0.005335536319762468
+    },
+    {
+      "relative_path": "day2/members/cathal/19_0687.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9902315114067061,
+      "lpips": 0.009379206225275993
+    },
+    {
+      "relative_path": "day1/members/allie/09_0273.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9916352713457725,
+      "lpips": 0.004071961622685194
+    },
+    {
+      "relative_path": "day3/members/luca/13_0698.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9927965711259938,
+      "lpips": 0.0034470176324248314
+    },
+    {
+      "relative_path": "day4/members/allie/09_0480.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9943830044142445,
+      "lpips": 0.0023276684805750847
+    },
+    {
+      "relative_path": "day1/members/luca/18_0040.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9930544602892422,
+      "lpips": 0.002121696947142482
+    },
+    {
+      "relative_path": "day2/members/luca/10_0654.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9869566651098345,
+      "lpips": 0.005593316629528999
+    },
+    {
+      "relative_path": "day1/members/klaus/10_0063.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9902313029710798,
+      "lpips": 0.0035719650331884623
+    },
+    {
+      "relative_path": "day3/members/tien/20_0155.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9897109968050465,
+      "lpips": 0.009363273158669472
+    },
+    {
+      "relative_path": "day1/members/onanong/08_0611.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9904912607944493,
+      "lpips": 0.004172457382082939
+    },
+    {
+      "relative_path": "day4/members/stevan/13_0714.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.990362447107949,
+      "lpips": 0.00578296510502696
+    },
+    {
+      "relative_path": "day2/members/florian/12_0020.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9954847344477841,
+      "lpips": 0.0011223825858905911
+    },
+    {
+      "relative_path": "day1/members/cathal/09_0001.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9812613986486971,
+      "lpips": 0.013028465211391449
+    },
+    {
+      "relative_path": "day1/members/luca/08_0225.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9948354670231238,
+      "lpips": 0.0023736278526484966
+    },
+    {
+      "relative_path": "day1/members/allie/14_0135.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9899002974935199,
+      "lpips": 0.007452291436493397
+    },
+    {
+      "relative_path": "day1/members/allie/10_0099.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9925063467072422,
+      "lpips": 0.0028402460739016533
+    },
+    {
+      "relative_path": "day4/members/bao/08_0028.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9957676187036117,
+      "lpips": 0.0013773527462035418
+    },
+    {
+      "relative_path": "day1/members/bjorn/18_0340.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9935810543684589,
+      "lpips": 0.004331654869019985
+    },
+    {
+      "relative_path": "day1/members/luca/15_0236.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.988055024607041,
+      "lpips": 0.006390225607901812
+    },
+    {
+      "relative_path": "day2/members/florian/19_0363.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9952137951304741,
+      "lpips": 0.0015639405464753509
+    },
+    {
+      "relative_path": "day1/members/werner/18_0484.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9867464238659172,
+      "lpips": 0.006673282012343407
+    },
+    {
+      "relative_path": "day4/members/allie/08_0040.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.982537631929843,
+      "lpips": 0.014825756661593914
+    },
+    {
+      "relative_path": "day2/members/klaus/12_0264.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9952134462606539,
+      "lpips": 0.001915850443765521
+    },
+    {
+      "relative_path": "day1/members/florian/08_0717.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9856130415114732,
+      "lpips": 0.010563992895185947
+    },
+    {
+      "relative_path": "day2/members/allie/13_0355.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9955678892290826,
+      "lpips": 0.0011861837701871991
+    },
+    {
+      "relative_path": "day1/members/bjorn/15_0004.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.99191297415942,
+      "lpips": 0.004020174499601126
+    },
+    {
+      "relative_path": "day2/members/klaus/10_0629.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9908827505762535,
+      "lpips": 0.003978789784014225
+    },
+    {
+      "relative_path": "day1/members/luca/08_0069.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9957208181560913,
+      "lpips": 0.0014688451774418354
+    },
+    {
+      "relative_path": "day4/members/werner/08_0337.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9922366360259046,
+      "lpips": 0.0037484788335859776
+    },
+    {
+      "relative_path": "day2/members/werner/17_0115.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9955381302049346,
+      "lpips": 0.001348780351690948
+    },
+    {
+      "relative_path": "day3/members/klaus/12_0484.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.998476801802011,
+      "lpips": 0.002057887613773346
+    },
+    {
+      "relative_path": "day4/members/stevan/13_0149.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.988939356222467,
+      "lpips": 0.0141175901517272
+    },
+    {
+      "relative_path": "day1/members/luca/08_0716.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9909657266295118,
+      "lpips": 0.0036528005730360746
+    },
+    {
+      "relative_path": "day1/members/cathal/08_0346.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9945877274114706,
+      "lpips": 0.005164829082787037
+    },
+    {
+      "relative_path": "day4/members/florian/10_0112.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9888360258370339,
+      "lpips": 0.0058526769280433655
+    },
+    {
+      "relative_path": "day1/members/florian/13_0133.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9917808170868089,
+      "lpips": 0.002782482421025634
+    },
+    {
+      "relative_path": "day2/members/tien/19_0311.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9909458748103233,
+      "lpips": 0.011171442456543446
+    },
+    {
+      "relative_path": "day3/members/werner/08_0688.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9927636068706418,
+      "lpips": 0.0038158432580530643
+    },
+    {
+      "relative_path": "day3/members/luca/18_0573.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9887869996970357,
+      "lpips": 0.0076008690521121025
+    },
+    {
+      "relative_path": "day3/members/allie/17_0205.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9867149200832293,
+      "lpips": 0.013436447829008102
+    },
+    {
+      "relative_path": "day3/members/bjorn/18_0629.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9773692549048922,
+      "lpips": 0.018860813230276108
+    },
+    {
+      "relative_path": "day3/members/florian/19_0349.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9946024050414675,
+      "lpips": 0.0017519374378025532
+    },
+    {
+      "relative_path": "day3/members/cathal/11_0509.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9959388260428875,
+      "lpips": 0.0012692695017904043
+    },
+    {
+      "relative_path": "day3/members/allie/17_0399.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9879842394181075,
+      "lpips": 0.008554846048355103
+    },
+    {
+      "relative_path": "day1/members/klaus/09_0114.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9864427002785129,
+      "lpips": 0.009337201714515686
+    },
+    {
+      "relative_path": "day4/members/klaus/11_0401.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9904390901065238,
+      "lpips": 0.005031118169426918
+    },
+    {
+      "relative_path": "day4/members/luca/14_0559.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9942157738902931,
+      "lpips": 0.003098930697888136
+    },
+    {
+      "relative_path": "day2/members/bjorn/19_0429.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9943870317553446,
+      "lpips": 0.0021885663736611605
+    },
+    {
+      "relative_path": "day1/members/luca/12_0168.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9943469583116911,
+      "lpips": 0.0017022937536239624
+    },
+    {
+      "relative_path": "day4/members/onanong/12_0450.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9955691112813607,
+      "lpips": 0.001702499925158918
+    },
+    {
+      "relative_path": "day2/members/cathal/12_0044.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9882830905132871,
+      "lpips": 0.006356331519782543
+    },
+    {
+      "relative_path": "day3/members/klaus/15_0375.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9948843724178883,
+      "lpips": 0.0012381987180560827
+    },
+    {
+      "relative_path": "day1/members/onanong/10_0201.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.991925348547151,
+      "lpips": 0.003355494001880288
+    },
+    {
+      "relative_path": "day2/members/florian/14_0324.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9863359389136415,
+      "lpips": 0.008570706471800804
+    },
+    {
+      "relative_path": "day3/members/florian/12_0302.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9962124128124404,
+      "lpips": 0.0011308134999126196
+    },
+    {
+      "relative_path": "day3/members/allie/12_0570.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9965661585013685,
+      "lpips": 0.0028488507959991693
+    },
+    {
+      "relative_path": "day3/members/tien/09_0391.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9952831704099291,
+      "lpips": 0.0016573420725762844
+    },
+    {
+      "relative_path": "day4/members/luca/10_0077.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9910151130963282,
+      "lpips": 0.0066093564964830875
+    },
+    {
+      "relative_path": "day3/members/stevan/20_0090.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9953888149709958,
+      "lpips": 0.0020620394498109818
+    },
+    {
+      "relative_path": "day3/members/klaus/18_0283.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9858093189000039,
+      "lpips": 0.007747516501694918
+    },
+    {
+      "relative_path": "day4/members/bjorn/08_0670.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9915445984407921,
+      "lpips": 0.002751708496361971
+    },
+    {
+      "relative_path": "day3/members/luca/18_0517.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9884809094082126,
+      "lpips": 0.006643897853791714
+    },
+    {
+      "relative_path": "day1/members/onanong/14_0049.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9866661558670579,
+      "lpips": 0.006170548498630524
+    },
+    {
+      "relative_path": "day1/members/luca/15_0372.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9842314464715152,
+      "lpips": 0.008190969936549664
+    },
+    {
+      "relative_path": "day4/members/cathal/13_0418.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9906997579769246,
+      "lpips": 0.004009377211332321
+    },
+    {
+      "relative_path": "day1/members/bjorn/10_0088.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9936981348782618,
+      "lpips": 0.0021226205863058567
+    },
+    {
+      "relative_path": "day2/members/werner/10_0252.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9856007153051705,
+      "lpips": 0.012609602883458138
+    },
+    {
+      "relative_path": "day4/members/bjorn/13_0126.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9881382090761005,
+      "lpips": 0.008633159101009369
+    },
+    {
+      "relative_path": "day1/members/bjorn/11_0116.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9891062618507341,
+      "lpips": 0.0067923483438789845
+    },
+    {
+      "relative_path": "day3/members/klaus/09_0194.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9940005030739861,
+      "lpips": 0.0018299408257007599
+    },
+    {
+      "relative_path": "day3/members/klaus/20_0128.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9909643319001576,
+      "lpips": 0.006599235348403454
+    },
+    {
+      "relative_path": "day1/members/florian/08_0341.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9945528986536596,
+      "lpips": 0.0019135300535708666
+    },
+    {
+      "relative_path": "day3/members/cathal/12_0524.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9957699031102818,
+      "lpips": 0.0027818805538117886
+    },
+    {
+      "relative_path": "day2/members/onanong/17_0009.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9935092870564487,
+      "lpips": 0.0027030000928789377
+    },
+    {
+      "relative_path": "day3/members/klaus/12_0480.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9989062009316809,
+      "lpips": 0.002744267461821437
+    },
+    {
+      "relative_path": "day1/members/werner/19_0255.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9932958345817321,
+      "lpips": 0.0025981925427913666
+    },
+    {
+      "relative_path": "day1/members/werner/13_0606.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9943280194347625,
+      "lpips": 0.0025040891487151384
+    },
+    {
+      "relative_path": "day4/members/bjorn/10_0076.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9947356566990225,
+      "lpips": 0.002351518254727125
+    },
+    {
+      "relative_path": "day3/members/luca/19_0582.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9959221158742633,
+      "lpips": 0.002560389693826437
+    },
+    {
+      "relative_path": "day1/members/bjorn/18_0134.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9923411637944236,
+      "lpips": 0.003650486236438155
+    },
+    {
+      "relative_path": "day4/members/luca/10_0115.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9885431831827637,
+      "lpips": 0.006282890681177378
+    },
+    {
+      "relative_path": "day3/members/bjorn/18_0483.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9863030720441149,
+      "lpips": 0.009154703468084335
+    },
+    {
+      "relative_path": "day2/members/tien/19_0512.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9865239332889716,
+      "lpips": 0.009953773580491543
+    },
+    {
+      "relative_path": "day2/members/stevan/11_0452.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9881076831743051,
+      "lpips": 0.006875247694551945
+    },
+    {
+      "relative_path": "day1/members/tien/08_0068.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9953525025463167,
+      "lpips": 0.001605456811375916
+    },
+    {
+      "relative_path": "day1/members/florian/18_0328.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9945560766332826,
+      "lpips": 0.002070714719593525
+    },
+    {
+      "relative_path": "day2/members/onanong/18_0325.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9833620099626809,
+      "lpips": 0.009360238909721375
+    },
+    {
+      "relative_path": "day3/members/klaus/11_0207.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9957029389492571,
+      "lpips": 0.001550617627799511
+    },
+    {
+      "relative_path": "day2/members/bjorn/15_0627.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9954816971724103,
+      "lpips": 0.0013286028988659382
+    },
+    {
+      "relative_path": "day2/members/onanong/14_0193.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9874457882935804,
+      "lpips": 0.005667420104146004
+    },
+    {
+      "relative_path": "day2/members/onanong/10_0373.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9873275098600646,
+      "lpips": 0.007040474563837051
+    },
+    {
+      "relative_path": "day4/members/bao/11_0220.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.989267741511617,
+      "lpips": 0.006892587058246136
+    },
+    {
+      "relative_path": "day2/members/klaus/15_0590.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.996022734664078,
+      "lpips": 0.0010391948744654655
+    },
+    {
+      "relative_path": "day1/members/werner/11_0547.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9981085545354685,
+      "lpips": 0.0014314512955024838
+    },
+    {
+      "relative_path": "day3/members/klaus/18_0613.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9872858703972165,
+      "lpips": 0.006322677247226238
+    },
+    {
+      "relative_path": "day1/members/cathal/10_0708.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9901101264139283,
+      "lpips": 0.008833725936710835
+    },
+    {
+      "relative_path": "day1/members/tien/19_0392.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9824811392327178,
+      "lpips": 0.024821313098073006
+    },
+    {
+      "relative_path": "day4/members/luca/11_0464.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.987829289506382,
+      "lpips": 0.005358276888728142
+    },
+    {
+      "relative_path": "day3/members/allie/10_0655.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9935468086239893,
+      "lpips": 0.0021457187831401825
+    },
+    {
+      "relative_path": "day2/members/allie/13_0179.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9954556847326597,
+      "lpips": 0.0009577076998539269
+    },
+    {
+      "relative_path": "day1/members/florian/15_0647.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9950425851063791,
+      "lpips": 0.0015370810870081186
+    },
+    {
+      "relative_path": "day2/members/klaus/12_0531.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9946627860033924,
+      "lpips": 0.002083361614495516
+    },
+    {
+      "relative_path": "day1/members/bjorn/15_0586.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9954131844466817,
+      "lpips": 0.001647783792577684
+    },
+    {
+      "relative_path": "day1/members/bjorn/09_0318.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9944845713947159,
+      "lpips": 0.002394018229097128
+    },
+    {
+      "relative_path": "day3/members/allie/12_0148.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9932066060174956,
+      "lpips": 0.00293200695887208
+    },
+    {
+      "relative_path": "day2/members/luca/10_0586.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9900415191211364,
+      "lpips": 0.003732418641448021
+    },
+    {
+      "relative_path": "day4/members/onanong/11_0656.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9871821490454815,
+      "lpips": 0.007636465132236481
+    },
+    {
+      "relative_path": "day1/members/onanong/17_0468.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9929288346374863,
+      "lpips": 0.002922186627984047
+    },
+    {
+      "relative_path": "day3/members/allie/18_0514.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9894253277976898,
+      "lpips": 0.004836879670619965
+    },
+    {
+      "relative_path": "day1/members/bjorn/10_0130.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9912266289731774,
+      "lpips": 0.0065023284405469894
+    },
+    {
+      "relative_path": "day2/members/onanong/16_0470.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9951112883928334,
+      "lpips": 0.0028564422391355038
+    },
+    {
+      "relative_path": "day2/members/werner/20_0620.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9956137562677694,
+      "lpips": 0.002054388402029872
+    },
+    {
+      "relative_path": "day4/members/bjorn/08_0126.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9953662370132511,
+      "lpips": 0.0028139231726527214
+    },
+    {
+      "relative_path": "day1/members/allie/10_0296.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9915523255106247,
+      "lpips": 0.0035414358135312796
+    },
+    {
+      "relative_path": "day1/members/tien/08_0310.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9953464770787807,
+      "lpips": 0.003920658491551876
+    },
+    {
+      "relative_path": "day1/members/florian/18_0375.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.994712747405822,
+      "lpips": 0.00152069132309407
+    },
+    {
+      "relative_path": "day1/members/bjorn/14_0017.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9950732142204952,
+      "lpips": 0.0016704339068382978
+    },
+    {
+      "relative_path": "day4/members/luca/18_0521.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.994674663565161,
+      "lpips": 0.002847486175596714
+    },
+    {
+      "relative_path": "day3/members/onanong/12_0488.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9962659318029505,
+      "lpips": 0.0018523860489949584
+    },
+    {
+      "relative_path": "day1/members/allie/10_0546.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.991972424868483,
+      "lpips": 0.003424251452088356
+    },
+    {
+      "relative_path": "day2/members/luca/20_0211.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9891725016217546,
+      "lpips": 0.007496596314013004
+    },
+    {
+      "relative_path": "day4/members/allie/11_0376.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9871244308382376,
+      "lpips": 0.006327684037387371
+    },
+    {
+      "relative_path": "day1/members/klaus/09_0268.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9879659363319394,
+      "lpips": 0.0067292493768036366
+    },
+    {
+      "relative_path": "day1/members/tien/15_0093.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9890439144899713,
+      "lpips": 0.0060382722876966
+    },
+    {
+      "relative_path": "day3/members/florian/19_0282.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9961395812504068,
+      "lpips": 0.0010227430611848831
+    },
+    {
+      "relative_path": "day4/members/bjorn/12_0570.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9897171241654422,
+      "lpips": 0.008010104298591614
+    },
+    {
+      "relative_path": "day1/members/cathal/15_0298.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9825841784969652,
+      "lpips": 0.007798975333571434
+    },
+    {
+      "relative_path": "day4/members/cathal/17_0524.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9959989042980751,
+      "lpips": 0.001558421179652214
+    },
+    {
+      "relative_path": "day4/members/luca/14_0018.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9883567428178998,
+      "lpips": 0.006349996663630009
+    },
+    {
+      "relative_path": "day1/members/bjorn/10_0501.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9881112476229963,
+      "lpips": 0.006268218159675598
+    },
+    {
+      "relative_path": "day1/members/allie/15_0458.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9859171955384486,
+      "lpips": 0.008451610803604126
+    },
+    {
+      "relative_path": "day1/members/stevan/11_0011.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9924703983463293,
+      "lpips": 0.003561020828783512
+    },
+    {
+      "relative_path": "day1/members/cathal/13_0040.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.98868737608659,
+      "lpips": 0.006829907651990652
+    },
+    {
+      "relative_path": "day2/members/bjorn/20_0121.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9887884909173733,
+      "lpips": 0.005967213772237301
+    },
+    {
+      "relative_path": "day4/members/stevan/10_0044.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9854072550143916,
+      "lpips": 0.009262348525226116
+    },
+    {
+      "relative_path": "day1/members/tien/13_0571.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9914523348569113,
+      "lpips": 0.0062147690914571285
+    },
+    {
+      "relative_path": "day1/members/tien/14_0211.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9866087121919449,
+      "lpips": 0.006643497385084629
+    },
+    {
+      "relative_path": "day2/members/cathal/19_0198.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9954849714136448,
+      "lpips": 0.0015418605180457234
+    },
+    {
+      "relative_path": "day3/members/stevan/18_0537.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9861226385412735,
+      "lpips": 0.007829676382243633
+    },
+    {
+      "relative_path": "day2/members/florian/12_0439.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9965604375941789,
+      "lpips": 0.0011430480517446995
+    },
+    {
+      "relative_path": "day2/members/allie/11_0505.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9851812845287696,
+      "lpips": 0.009749094024300575
+    },
+    {
+      "relative_path": "day3/members/stevan/08_0717.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9930741667436432,
+      "lpips": 0.004184417892247438
+    },
+    {
+      "relative_path": "day3/members/werner/08_0594.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.991495109861669,
+      "lpips": 0.006180647294968367
+    },
+    {
+      "relative_path": "day2/members/klaus/18_0665.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9922315024481282,
+      "lpips": 0.004116131458431482
+    },
+    {
+      "relative_path": "day4/members/allie/09_0451.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9893336576882872,
+      "lpips": 0.004117337055504322
+    },
+    {
+      "relative_path": "day3/members/allie/10_0210.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9940832168298407,
+      "lpips": 0.002558415289968252
+    },
+    {
+      "relative_path": "day4/members/klaus/12_0644.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9865498726456615,
+      "lpips": 0.011652451008558273
+    },
+    {
+      "relative_path": "day2/members/allie/10_0243.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9886586247144141,
+      "lpips": 0.008062330074608326
+    },
+    {
+      "relative_path": "day3/members/stevan/17_0661.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9895030371749091,
+      "lpips": 0.006007034331560135
+    },
+    {
+      "relative_path": "day1/members/klaus/16_0531.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9869405452880827,
+      "lpips": 0.010085705667734146
+    },
+    {
+      "relative_path": "day2/members/luca/17_0249.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.996271929189807,
+      "lpips": 0.0010125231929123402
+    },
+    {
+      "relative_path": "day2/members/cathal/14_0361.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9909976066726003,
+      "lpips": 0.0046783494763076305
+    },
+    {
+      "relative_path": "day4/members/werner/14_0045.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.989474987746141,
+      "lpips": 0.006834912113845348
+    },
+    {
+      "relative_path": "day3/members/tien/11_0464.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9887804939826719,
+      "lpips": 0.006501023191958666
+    },
+    {
+      "relative_path": "day3/members/werner/10_0468.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9940459055127432,
+      "lpips": 0.0017016417114064097
+    },
+    {
+      "relative_path": "day3/members/allie/12_0237.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9961995636578859,
+      "lpips": 0.001105709932744503
+    },
+    {
+      "relative_path": "day1/members/stevan/10_0250.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9925625778928441,
+      "lpips": 0.004148493055254221
+    },
+    {
+      "relative_path": "day2/members/tien/18_0209.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9936696173034326,
+      "lpips": 0.004165584687143564
+    },
+    {
+      "relative_path": "day2/members/allie/17_0331.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9842420404893478,
+      "lpips": 0.011910399422049522
+    },
+    {
+      "relative_path": "day1/members/onanong/16_0577.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9943235513501686,
+      "lpips": 0.0018107451032847166
+    },
+    {
+      "relative_path": "day2/members/allie/11_0188.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9880929757225877,
+      "lpips": 0.006757121067494154
+    },
+    {
+      "relative_path": "day3/members/stevan/20_0667.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9837725716068627,
+      "lpips": 0.012828679755330086
+    },
+    {
+      "relative_path": "day4/members/luca/18_0590.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9915504901828677,
+      "lpips": 0.005090269260108471
+    },
+    {
+      "relative_path": "day1/members/onanong/18_0512.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9883821987764021,
+      "lpips": 0.009554767981171608
+    },
+    {
+      "relative_path": "day2/members/tien/20_0019.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9871987346902987,
+      "lpips": 0.009926974773406982
+    },
+    {
+      "relative_path": "day2/members/cathal/14_0312.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9865119964612926,
+      "lpips": 0.006771771237254143
+    },
+    {
+      "relative_path": "day2/members/bjorn/19_0139.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9896236237393642,
+      "lpips": 0.004521398805081844
+    },
+    {
+      "relative_path": "day2/members/klaus/10_0219.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9916935295310562,
+      "lpips": 0.003821211401373148
+    },
+    {
+      "relative_path": "day1/members/luca/19_0006.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9929854983799321,
+      "lpips": 0.004246396943926811
+    },
+    {
+      "relative_path": "day4/members/onanong/10_0182.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9917467988701754,
+      "lpips": 0.003402216825634241
+    },
+    {
+      "relative_path": "day3/members/onanong/16_0319.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.995799434495891,
+      "lpips": 0.0009298310615122318
+    },
+    {
+      "relative_path": "day2/members/werner/12_0480.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9878127338196688,
+      "lpips": 0.007375035434961319
+    },
+    {
+      "relative_path": "day1/members/tien/19_0050.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9957374462091612,
+      "lpips": 0.0009483879548497498
+    },
+    {
+      "relative_path": "day3/members/florian/20_0698.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9894530532063707,
+      "lpips": 0.006201499607414007
+    },
+    {
+      "relative_path": "day3/members/cathal/08_0097.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.994676871529654,
+      "lpips": 0.001849471591413021
+    },
+    {
+      "relative_path": "day2/members/werner/20_0389.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.99244428837657,
+      "lpips": 0.00419070478528738
+    },
+    {
+      "relative_path": "day3/members/onanong/14_0121.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9979249698154468,
+      "lpips": 0.0007481924258172512
+    },
+    {
+      "relative_path": "day3/members/werner/12_0583.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9976824676102573,
+      "lpips": 0.001505469437688589
+    },
+    {
+      "relative_path": "day2/members/onanong/10_0518.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9860054887533464,
+      "lpips": 0.008750099688768387
+    },
+    {
+      "relative_path": "day3/members/onanong/16_0114.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9952009173880724,
+      "lpips": 0.0019227054435759783
+    },
+    {
+      "relative_path": "day2/members/stevan/09_0309.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9960852108600147,
+      "lpips": 0.0009795714868232608
+    },
+    {
+      "relative_path": "day3/members/tien/11_0628.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9926672257874429,
+      "lpips": 0.0039820256642997265
+    },
+    {
+      "relative_path": "day3/members/allie/08_0398.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9955404136555587,
+      "lpips": 0.0011460413224995136
+    },
+    {
+      "relative_path": "day1/members/cathal/15_0162.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9858060145057559,
+      "lpips": 0.013569241389632225
+    },
+    {
+      "relative_path": "day2/members/klaus/13_0331.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9830801208611599,
+      "lpips": 0.008328116498887539
+    },
+    {
+      "relative_path": "day1/members/werner/11_0515.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9952201216850529,
+      "lpips": 0.002867628587409854
+    },
+    {
+      "relative_path": "day3/members/stevan/10_0619.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9952707652763181,
+      "lpips": 0.0019652266055345535
+    },
+    {
+      "relative_path": "day2/members/tien/13_0604.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9877434085854144,
+      "lpips": 0.007633881643414497
+    },
+    {
+      "relative_path": "day4/members/cathal/09_0426.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9939686601229428,
+      "lpips": 0.0014479837846010923
+    },
+    {
+      "relative_path": "day3/members/bjorn/12_0362.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9971236091972892,
+      "lpips": 0.003627367317676544
+    },
+    {
+      "relative_path": "day1/members/klaus/11_0523.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9941828090503685,
+      "lpips": 0.0018987619550898671
+    },
+    {
+      "relative_path": "day1/members/tien/10_0032.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9931245622805532,
+      "lpips": 0.004547392949461937
+    },
+    {
+      "relative_path": "day1/members/onanong/11_0119.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9959054083262125,
+      "lpips": 0.002902488224208355
+    },
+    {
+      "relative_path": "day4/members/cathal/13_0470.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.987665693087756,
+      "lpips": 0.011818423867225647
+    },
+    {
+      "relative_path": "day1/members/allie/09_0160.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9914921975658103,
+      "lpips": 0.005151705350726843
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0644.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9868030066002825,
+      "lpips": 0.006965942680835724
+    },
+    {
+      "relative_path": "day3/members/luca/20_0192.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9937304159064521,
+      "lpips": 0.0030964429024606943
+    },
+    {
+      "relative_path": "day3/members/luca/17_0582.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9892873639785661,
+      "lpips": 0.006619542371481657
+    },
+    {
+      "relative_path": "day2/members/bjorn/17_0110.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9965293866515911,
+      "lpips": 0.000798794673755765
+    },
+    {
+      "relative_path": "day2/members/allie/15_0703.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9939377348052364,
+      "lpips": 0.0018760907696560025
+    },
+    {
+      "relative_path": "day2/members/florian/14_0042.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9955884940406703,
+      "lpips": 0.002562041627243161
+    },
+    {
+      "relative_path": "day3/members/werner/19_0360.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9927897756186747,
+      "lpips": 0.0026381835341453552
+    },
+    {
+      "relative_path": "day2/members/florian/11_0279.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9901189105786715,
+      "lpips": 0.003850592765957117
+    },
+    {
+      "relative_path": "day4/members/florian/15_0498.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9955210481210836,
+      "lpips": 0.0015497360145673156
+    },
+    {
+      "relative_path": "day1/members/allie/12_0272.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9923145315794901,
+      "lpips": 0.004584345500916243
+    },
+    {
+      "relative_path": "day3/members/tien/11_0505.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9913184479180673,
+      "lpips": 0.005424750503152609
+    },
+    {
+      "relative_path": "day1/members/stevan/17_0340.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9948804482223514,
+      "lpips": 0.0026602325960993767
+    },
+    {
+      "relative_path": "day1/members/luca/11_0691.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.995486031877109,
+      "lpips": 0.0011535293888300657
+    },
+    {
+      "relative_path": "day1/members/cathal/10_0676.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9892732036275026,
+      "lpips": 0.00671591330319643
+    },
+    {
+      "relative_path": "day3/members/florian/18_0329.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9879414339572051,
+      "lpips": 0.007453649304807186
+    },
+    {
+      "relative_path": "day2/members/cathal/11_0063.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9844121944155549,
+      "lpips": 0.01232239231467247
+    },
+    {
+      "relative_path": "day4/members/luca/18_0257.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9953825237552533,
+      "lpips": 0.002298697829246521
+    },
+    {
+      "relative_path": "day3/members/cathal/11_0064.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.994791492577615,
+      "lpips": 0.0013721614377573133
+    },
+    {
+      "relative_path": "day4/members/onanong/11_0635.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9901771193935097,
+      "lpips": 0.0049224477261304855
+    },
+    {
+      "relative_path": "day2/members/klaus/10_0464.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9771624315233135,
+      "lpips": 0.016593893989920616
+    },
+    {
+      "relative_path": "day3/members/cathal/09_0625.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9878367053930964,
+      "lpips": 0.00859150942414999
+    },
+    {
+      "relative_path": "day4/members/bao/09_0694.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9896848110563621,
+      "lpips": 0.005044599063694477
+    },
+    {
+      "relative_path": "day2/members/allie/17_0093.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9846794156078316,
+      "lpips": 0.007871001958847046
+    },
+    {
+      "relative_path": "day3/members/werner/08_0498.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9961609160624709,
+      "lpips": 0.0013894174480810761
+    },
+    {
+      "relative_path": "day2/members/allie/16_0153.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9886992028061733,
+      "lpips": 0.00604968098923564
+    },
+    {
+      "relative_path": "day4/members/florian/11_0372.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9902946259502553,
+      "lpips": 0.003929523751139641
+    },
+    {
+      "relative_path": "day3/members/bjorn/12_0147.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9911629656927489,
+      "lpips": 0.004876338876783848
+    },
+    {
+      "relative_path": "day1/members/werner/15_0312.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9948116974852502,
+      "lpips": 0.0022613676264882088
+    },
+    {
+      "relative_path": "day3/members/stevan/09_0144.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.993094248830224,
+      "lpips": 0.003740989835932851
+    },
+    {
+      "relative_path": "day1/members/onanong/14_0681.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9881379301442538,
+      "lpips": 0.011311006732285023
+    },
+    {
+      "relative_path": "day2/members/allie/17_0175.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9845996991703355,
+      "lpips": 0.010982638224959373
+    },
+    {
+      "relative_path": "day2/members/tien/13_0043.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9933879474299517,
+      "lpips": 0.0042690858244895935
+    },
+    {
+      "relative_path": "day4/members/cathal/18_0466.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9948865763497817,
+      "lpips": 0.0031031938269734383
+    },
+    {
+      "relative_path": "day1/members/onanong/19_0261.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9945955711661857,
+      "lpips": 0.0025591475423425436
+    },
+    {
+      "relative_path": "day4/members/allie/13_0245.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.991806120417776,
+      "lpips": 0.005593004170805216
+    },
+    {
+      "relative_path": "day1/members/tien/08_0483.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9952221774220137,
+      "lpips": 0.0011251983232796192
+    },
+    {
+      "relative_path": "day2/members/florian/14_0293.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9860661644845742,
+      "lpips": 0.01035018265247345
+    },
+    {
+      "relative_path": "day2/members/klaus/12_0153.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9956142594085025,
+      "lpips": 0.0016150246374309063
+    },
+    {
+      "relative_path": "day2/members/tien/19_0472.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9865466836386291,
+      "lpips": 0.010158812627196312
+    },
+    {
+      "relative_path": "day3/members/florian/14_0452.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.993558772516396,
+      "lpips": 0.0034803557209670544
+    },
+    {
+      "relative_path": "day3/members/cathal/18_0053.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9879200660256274,
+      "lpips": 0.008083835244178772
+    },
+    {
+      "relative_path": "day3/members/onanong/15_0609.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9952024505234297,
+      "lpips": 0.001389807090163231
+    },
+    {
+      "relative_path": "day3/members/tien/18_0251.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9853372453357583,
+      "lpips": 0.011981550604104996
+    },
+    {
+      "relative_path": "day3/members/werner/10_0493.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9945769988702446,
+      "lpips": 0.002596004866063595
+    },
+    {
+      "relative_path": "day3/members/bjorn/15_0707.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9944459181147213,
+      "lpips": 0.0026534125208854675
+    },
+    {
+      "relative_path": "day1/members/werner/18_0011.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9866524117689731,
+      "lpips": 0.008671892806887627
+    },
+    {
+      "relative_path": "day3/members/cathal/09_0099.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9900088371663065,
+      "lpips": 0.010080279782414436
+    },
+    {
+      "relative_path": "day2/members/onanong/11_0590.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9934696728305402,
+      "lpips": 0.0021555961575359106
+    },
+    {
+      "relative_path": "day4/members/bao/10_0060.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9853174523635717,
+      "lpips": 0.00827768538147211
+    },
+    {
+      "relative_path": "day2/members/luca/18_0188.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9953371526771838,
+      "lpips": 0.0013361151795834303
+    },
+    {
+      "relative_path": "day1/members/werner/17_0457.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9943734428812007,
+      "lpips": 0.002485258039087057
+    },
+    {
+      "relative_path": "day4/members/bao/13_0536.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9866793944527936,
+      "lpips": 0.006944453809410334
+    },
+    {
+      "relative_path": "day3/members/bjorn/10_0195.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9930172948531143,
+      "lpips": 0.0036993224639445543
+    },
+    {
+      "relative_path": "day4/members/florian/11_0305.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9795315750860768,
+      "lpips": 0.012083162553608418
+    },
+    {
+      "relative_path": "day3/members/tien/17_0282.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9946373144100629,
+      "lpips": 0.0016009844839572906
+    },
+    {
+      "relative_path": "day3/members/cathal/15_0606.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9954256336932636,
+      "lpips": 0.0010168016888201237
+    },
+    {
+      "relative_path": "day3/members/onanong/11_0537.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9858244976295375,
+      "lpips": 0.006370039191097021
+    },
+    {
+      "relative_path": "day3/members/cathal/20_0290.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9899666968970138,
+      "lpips": 0.009309226647019386
+    },
+    {
+      "relative_path": "day3/members/werner/17_0005.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9921580548513326,
+      "lpips": 0.0037883827462792397
+    },
+    {
+      "relative_path": "day3/members/luca/10_0668.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9897292937028683,
+      "lpips": 0.0069724335335195065
+    },
+    {
+      "relative_path": "day1/members/tien/15_0585.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9952991244152285,
+      "lpips": 0.004231026861816645
+    },
+    {
+      "relative_path": "day2/members/florian/14_0717.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9885216956482507,
+      "lpips": 0.007526873145252466
+    },
+    {
+      "relative_path": "day3/members/florian/20_0281.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9873076408604152,
+      "lpips": 0.007908862084150314
+    },
+    {
+      "relative_path": "day4/members/bjorn/15_0170.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9931452344008743,
+      "lpips": 0.0023740159813314676
+    },
+    {
+      "relative_path": "day4/members/stevan/10_0720.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9877926305153508,
+      "lpips": 0.008247529156506062
+    },
+    {
+      "relative_path": "day4/members/bao/13_0504.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9887284014473404,
+      "lpips": 0.007787428330630064
+    },
+    {
+      "relative_path": "day2/members/stevan/10_0281.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9950411726782367,
+      "lpips": 0.0027943141758441925
+    },
+    {
+      "relative_path": "day3/members/florian/17_0490.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.989385385777075,
+      "lpips": 0.00536132138222456
+    },
+    {
+      "relative_path": "day2/members/bjorn/12_0518.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9929581938570228,
+      "lpips": 0.003086706390604377
+    },
+    {
+      "relative_path": "day1/members/werner/10_0429.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9916461839211038,
+      "lpips": 0.003959109075367451
+    },
+    {
+      "relative_path": "day2/members/werner/20_0007.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9864750062855566,
+      "lpips": 0.009108178317546844
+    },
+    {
+      "relative_path": "day2/members/stevan/20_0706.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.991077853899697,
+      "lpips": 0.005268918816000223
+    },
+    {
+      "relative_path": "day1/members/tien/14_0026.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9893466041202442,
+      "lpips": 0.012902447022497654
+    },
+    {
+      "relative_path": "day1/members/tien/09_0404.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9961811588794948,
+      "lpips": 0.003923105541616678
+    },
+    {
+      "relative_path": "day3/members/onanong/16_0351.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9958109365332833,
+      "lpips": 0.0009450496872887015
+    },
+    {
+      "relative_path": "day2/members/onanong/17_0489.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.99582315962809,
+      "lpips": 0.0013906860258430243
+    },
+    {
+      "relative_path": "day4/members/allie/09_0677.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9874541820229972,
+      "lpips": 0.009823772124946117
+    },
+    {
+      "relative_path": "day3/members/werner/20_0141.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9931485638251253,
+      "lpips": 0.003908290062099695
+    },
+    {
+      "relative_path": "day1/members/werner/13_0365.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.994414819272364,
+      "lpips": 0.001421849592588842
+    },
+    {
+      "relative_path": "day3/members/bjorn/14_0678.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9922569327510741,
+      "lpips": 0.0054152775555849075
+    },
+    {
+      "relative_path": "day4/members/allie/10_0446.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9818265098871973,
+      "lpips": 0.010424936190247536
+    },
+    {
+      "relative_path": "day1/members/stevan/08_0330.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9944431781178751,
+      "lpips": 0.0017587037291377783
+    },
+    {
+      "relative_path": "day3/members/klaus/19_0688.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9929308416978554,
+      "lpips": 0.0034021995961666107
+    },
+    {
+      "relative_path": "day1/members/werner/08_0280.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.993108121453021,
+      "lpips": 0.00421844981610775
+    },
+    {
+      "relative_path": "day4/members/klaus/13_0393.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9881921930033147,
+      "lpips": 0.007234648335725069
+    },
+    {
+      "relative_path": "day1/members/florian/19_0244.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9956905676667444,
+      "lpips": 0.0012667507398873568
+    },
+    {
+      "relative_path": "day4/members/klaus/14_0702.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9954188908876525,
+      "lpips": 0.002967491978779435
+    },
+    {
+      "relative_path": "day1/members/klaus/12_0632.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9922496428982804,
+      "lpips": 0.0031819408759474754
+    },
+    {
+      "relative_path": "day3/members/bjorn/19_0152.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9919977103007139,
+      "lpips": 0.005671083927154541
+    },
+    {
+      "relative_path": "day1/members/onanong/10_0422.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.993095780789878,
+      "lpips": 0.002720976946875453
+    },
+    {
+      "relative_path": "day2/members/tien/12_0597.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9914797825777101,
+      "lpips": 0.004343550652265549
+    },
+    {
+      "relative_path": "day2/members/florian/15_0118.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9939909657520838,
+      "lpips": 0.003244137391448021
+    },
+    {
+      "relative_path": "day3/members/tien/12_0164.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9931129062584393,
+      "lpips": 0.0026227841153740883
+    },
+    {
+      "relative_path": "day2/members/bjorn/17_0327.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9944357915520642,
+      "lpips": 0.0034851524978876114
+    },
+    {
+      "relative_path": "day1/members/allie/10_0339.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9916396973178516,
+      "lpips": 0.003531437600031495
+    },
+    {
+      "relative_path": "day1/members/cathal/14_0484.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9917272760312364,
+      "lpips": 0.0075993589125573635
+    },
+    {
+      "relative_path": "day1/members/cathal/18_0317.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9935059942766528,
+      "lpips": 0.002360801212489605
+    },
+    {
+      "relative_path": "day2/members/cathal/10_0273.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9931702252966156,
+      "lpips": 0.0035268606152385473
+    },
+    {
+      "relative_path": "day2/members/allie/10_0201.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9926516481311135,
+      "lpips": 0.007675793953239918
+    },
+    {
+      "relative_path": "day3/members/werner/16_0328.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9929763625458806,
+      "lpips": 0.003408371703699231
+    },
+    {
+      "relative_path": "day3/members/luca/12_0481.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9960628578931011,
+      "lpips": 0.002519355621188879
+    },
+    {
+      "relative_path": "day2/members/onanong/12_0404.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9792699368379002,
+      "lpips": 0.012573996558785439
+    },
+    {
+      "relative_path": "day1/members/onanong/14_0406.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9876791990450201,
+      "lpips": 0.007064172066748142
+    },
+    {
+      "relative_path": "day1/members/florian/15_0199.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9855977512736397,
+      "lpips": 0.00653300154954195
+    },
+    {
+      "relative_path": "day4/members/stevan/11_0365.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9921618049552848,
+      "lpips": 0.004136806353926659
+    },
+    {
+      "relative_path": "day3/members/tien/18_0355.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9888903029334183,
+      "lpips": 0.01311757043004036
+    },
+    {
+      "relative_path": "day2/members/florian/10_0103.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9932578841346557,
+      "lpips": 0.0033873398788273335
+    },
+    {
+      "relative_path": "day1/members/florian/09_0596.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9945222854638273,
+      "lpips": 0.002337526995688677
+    },
+    {
+      "relative_path": "day4/members/werner/10_0441.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9951040515197276,
+      "lpips": 0.0016163133550435305
+    },
+    {
+      "relative_path": "day4/members/bao/08_0595.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9938627854458276,
+      "lpips": 0.0023505492135882378
+    },
+    {
+      "relative_path": "day2/members/luca/17_0072.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.995959918298882,
+      "lpips": 0.0018028476042672992
+    },
+    {
+      "relative_path": "day3/members/bjorn/19_0607.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9931157495568416,
+      "lpips": 0.004045216832309961
+    },
+    {
+      "relative_path": "day2/members/werner/18_0289.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9954114493514972,
+      "lpips": 0.001274344976991415
+    },
+    {
+      "relative_path": "day4/members/bao/12_0423.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9964330499405286,
+      "lpips": 0.0012126417132094502
+    },
+    {
+      "relative_path": "day1/members/allie/09_0673.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9810973353696745,
+      "lpips": 0.022169025614857674
+    },
+    {
+      "relative_path": "day2/members/werner/19_0608.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9911062757738699,
+      "lpips": 0.006189368665218353
+    },
+    {
+      "relative_path": "day4/members/florian/13_0005.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.989554069752717,
+      "lpips": 0.005023060832172632
+    },
+    {
+      "relative_path": "day1/members/stevan/11_0456.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9973054387822792,
+      "lpips": 0.002730635227635503
+    },
+    {
+      "relative_path": "day2/members/onanong/16_0168.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9952363334735145,
+      "lpips": 0.0014384426176548004
+    },
+    {
+      "relative_path": "day4/members/bjorn/08_0088.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9955694884504749,
+      "lpips": 0.002002164488658309
+    },
+    {
+      "relative_path": "day2/members/luca/18_0250.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9925132905442772,
+      "lpips": 0.003057525958865881
+    },
+    {
+      "relative_path": "day2/members/cathal/11_0012.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9854817722734904,
+      "lpips": 0.009731988422572613
+    },
+    {
+      "relative_path": "day1/members/stevan/19_0205.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9944185911402613,
+      "lpips": 0.0014042521361261606
+    },
+    {
+      "relative_path": "day3/members/cathal/09_0355.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.981150977333687,
+      "lpips": 0.01964670419692993
+    },
+    {
+      "relative_path": "day2/members/luca/13_0250.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9923915172288625,
+      "lpips": 0.004218447022140026
+    },
+    {
+      "relative_path": "day1/members/klaus/15_0547.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.995318942970777,
+      "lpips": 0.0012683396926149726
+    },
+    {
+      "relative_path": "day1/members/florian/20_0151.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.994927102995304,
+      "lpips": 0.0025857125874608755
+    },
+    {
+      "relative_path": "day1/members/cathal/14_0708.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9827124307417078,
+      "lpips": 0.009628981351852417
+    },
+    {
+      "relative_path": "day3/members/allie/18_0433.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9881768996723362,
+      "lpips": 0.006401019170880318
+    },
+    {
+      "relative_path": "day3/members/klaus/17_0530.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9934869765621389,
+      "lpips": 0.004127581603825092
+    },
+    {
+      "relative_path": "day2/members/klaus/18_0506.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9921754158459452,
+      "lpips": 0.005111990962177515
+    },
+    {
+      "relative_path": "day4/members/florian/10_0427.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.993251050729497,
+      "lpips": 0.0023281145840883255
+    },
+    {
+      "relative_path": "day1/members/cathal/14_0490.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9837147946313136,
+      "lpips": 0.010285529308021069
+    },
+    {
+      "relative_path": "day4/members/bjorn/14_0135.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9903781300863881,
+      "lpips": 0.004811648279428482
+    },
+    {
+      "relative_path": "day2/members/onanong/11_0615.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9955807350749302,
+      "lpips": 0.001454017823562026
+    },
+    {
+      "relative_path": "day2/members/werner/17_0039.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9954187785281806,
+      "lpips": 0.0012507576029747725
+    },
+    {
+      "relative_path": "day3/members/bjorn/12_0222.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9966068825455937,
+      "lpips": 0.0012061353772878647
+    },
+    {
+      "relative_path": "day2/members/bjorn/11_0031.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9900572870942262,
+      "lpips": 0.004837341606616974
+    },
+    {
+      "relative_path": "day4/members/bjorn/10_0048.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9933940628035295,
+      "lpips": 0.002322062384337187
+    },
+    {
+      "relative_path": "day1/members/werner/15_0198.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9951510489953036,
+      "lpips": 0.001334482105448842
+    },
+    {
+      "relative_path": "day1/members/klaus/17_0002.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9784029145810442,
+      "lpips": 0.018692024052143097
+    },
+    {
+      "relative_path": "day1/members/werner/15_0199.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.994624038427995,
+      "lpips": 0.0019182729301974177
+    },
+    {
+      "relative_path": "day1/members/werner/18_0148.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9882573300048111,
+      "lpips": 0.005648315884172916
+    },
+    {
+      "relative_path": "day4/members/onanong/15_0400.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9950845549072292,
+      "lpips": 0.0022965867538005114
+    },
+    {
+      "relative_path": "day1/members/allie/08_0276.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9916691193570122,
+      "lpips": 0.003865547478199005
+    },
+    {
+      "relative_path": "day3/members/klaus/13_0098.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.996131851950056,
+      "lpips": 0.0019045727094635367
+    },
+    {
+      "relative_path": "day4/members/luca/17_0685.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9956611139409093,
+      "lpips": 0.0020801026839762926
+    },
+    {
+      "relative_path": "day1/members/klaus/12_0400.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9954663645802194,
+      "lpips": 0.0038768132217228413
+    },
+    {
+      "relative_path": "day3/members/cathal/19_0263.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9927566819901014,
+      "lpips": 0.005138996057212353
+    },
+    {
+      "relative_path": "day1/members/bjorn/19_0016.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9951545931475226,
+      "lpips": 0.002696398412808776
+    },
+    {
+      "relative_path": "day2/members/bjorn/19_0187.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9929892013625193,
+      "lpips": 0.004908057861030102
+    },
+    {
+      "relative_path": "day1/members/cathal/11_0405.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9863954768529642,
+      "lpips": 0.006876085884869099
+    },
+    {
+      "relative_path": "day3/members/tien/20_0575.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9830966942177454,
+      "lpips": 0.021501652896404266
+    },
+    {
+      "relative_path": "day4/members/luca/08_0054.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9954851126282526,
+      "lpips": 0.0027325705159455538
+    },
+    {
+      "relative_path": "day4/members/allie/11_0161.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9863417674530702,
+      "lpips": 0.006231535691767931
+    },
+    {
+      "relative_path": "day2/members/luca/14_0354.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9838312828171792,
+      "lpips": 0.008996540680527687
+    },
+    {
+      "relative_path": "day3/members/bjorn/10_0179.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9878055974151868,
+      "lpips": 0.009855266660451889
+    },
+    {
+      "relative_path": "day4/members/cathal/12_0648.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9844675175374448,
+      "lpips": 0.011767297983169556
+    },
+    {
+      "relative_path": "day4/members/bjorn/10_0670.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9902272099211112,
+      "lpips": 0.005421144887804985
+    },
+    {
+      "relative_path": "day2/members/stevan/11_0382.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9887558122091841,
+      "lpips": 0.007941393181681633
+    },
+    {
+      "relative_path": "day2/members/luca/19_0633.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9848157670137718,
+      "lpips": 0.0091847013682127
+    },
+    {
+      "relative_path": "day2/members/luca/10_0406.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9961255055829157,
+      "lpips": 0.0010479380143806338
+    },
+    {
+      "relative_path": "day3/members/cathal/20_0443.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9880401561549191,
+      "lpips": 0.00612039165571332
+    },
+    {
+      "relative_path": "day4/members/klaus/13_0503.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9909983573982771,
+      "lpips": 0.003624902106821537
+    },
+    {
+      "relative_path": "day2/members/werner/15_0625.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9927801578886717,
+      "lpips": 0.0028046322986483574
+    },
+    {
+      "relative_path": "day4/members/stevan/10_0227.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9856428235947009,
+      "lpips": 0.008444533683359623
+    },
+    {
+      "relative_path": "day4/members/stevan/13_0462.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9819497584708667,
+      "lpips": 0.014067558571696281
+    },
+    {
+      "relative_path": "day3/members/onanong/10_0301.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9941114772253165,
+      "lpips": 0.002536552958190441
+    },
+    {
+      "relative_path": "day3/members/allie/16_0683.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9940311660017218,
+      "lpips": 0.0022341643925756216
+    },
+    {
+      "relative_path": "day2/members/klaus/13_0148.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9817351668433778,
+      "lpips": 0.011806494556367397
+    },
+    {
+      "relative_path": "day2/members/bjorn/16_0632.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9937940236228435,
+      "lpips": 0.0026546581648290157
+    },
+    {
+      "relative_path": "day1/members/florian/11_0219.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9902257583500272,
+      "lpips": 0.005443463567644358
+    },
+    {
+      "relative_path": "day2/members/luca/18_0197.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9954139879666141,
+      "lpips": 0.0013676265953108668
+    },
+    {
+      "relative_path": "day4/members/allie/09_0293.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9812278247609086,
+      "lpips": 0.011609558947384357
+    },
+    {
+      "relative_path": "day3/members/florian/19_0086.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9948952091780171,
+      "lpips": 0.0015112976543605328
+    },
+    {
+      "relative_path": "day2/members/werner/13_0648.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9977166978097408,
+      "lpips": 0.0008867923752404749
+    },
+    {
+      "relative_path": "day1/members/stevan/18_0597.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9881541922915207,
+      "lpips": 0.008304836228489876
+    },
+    {
+      "relative_path": "day1/members/florian/18_0042.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9868126696837632,
+      "lpips": 0.007975747808814049
+    },
+    {
+      "relative_path": "day3/members/werner/17_0301.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9894198541414084,
+      "lpips": 0.003828342305496335
+    },
+    {
+      "relative_path": "day1/members/allie/09_0647.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9819759458403007,
+      "lpips": 0.01238720491528511
+    },
+    {
+      "relative_path": "day4/members/cathal/15_0410.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9941851771146815,
+      "lpips": 0.0020241071470081806
+    },
+    {
+      "relative_path": "day4/members/stevan/11_0074.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9865580939265953,
+      "lpips": 0.00770779000595212
+    },
+    {
+      "relative_path": "day1/members/florian/16_0525.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9951150683855924,
+      "lpips": 0.0013729153433814645
+    },
+    {
+      "relative_path": "day4/members/bao/12_0438.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9884939293490133,
+      "lpips": 0.007542633451521397
+    },
+    {
+      "relative_path": "day1/members/luca/12_0202.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9958138482519742,
+      "lpips": 0.0012651944998651743
+    },
+    {
+      "relative_path": "day2/members/luca/14_0016.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9921742911813536,
+      "lpips": 0.0035478309728205204
+    },
+    {
+      "relative_path": "day1/members/cathal/11_0477.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9957688960360783,
+      "lpips": 0.001065417774952948
+    },
+    {
+      "relative_path": "day2/members/werner/16_0476.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9960660360940553,
+      "lpips": 0.0010453067952767015
+    },
+    {
+      "relative_path": "day4/members/bjorn/14_0715.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.990657634859029,
+      "lpips": 0.003549652174115181
+    },
+    {
+      "relative_path": "day3/members/stevan/13_0343.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9867314879463159,
+      "lpips": 0.008123909123241901
+    },
+    {
+      "relative_path": "day1/members/onanong/15_0060.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9860158635189262,
+      "lpips": 0.007222279906272888
+    },
+    {
+      "relative_path": "day3/members/luca/11_0673.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.980585152508127,
+      "lpips": 0.01684657484292984
+    },
+    {
+      "relative_path": "day4/members/onanong/15_0191.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9815180666079671,
+      "lpips": 0.009268909692764282
+    },
+    {
+      "relative_path": "day1/members/florian/17_0649.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9874204745413585,
+      "lpips": 0.007486661896109581
+    },
+    {
+      "relative_path": "day3/members/luca/18_0524.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9839548096431732,
+      "lpips": 0.011516215279698372
+    },
+    {
+      "relative_path": "day2/members/werner/13_0683.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9977608074412808,
+      "lpips": 0.0008668089285492897
+    },
+    {
+      "relative_path": "day2/members/tien/20_0651.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9913704288792444,
+      "lpips": 0.005043238401412964
+    },
+    {
+      "relative_path": "day1/members/bjorn/12_0196.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9974082278312705,
+      "lpips": 0.0020913961343467236
+    },
+    {
+      "relative_path": "day3/members/florian/10_0402.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.995647524984775,
+      "lpips": 0.0014421021332964301
+    },
+    {
+      "relative_path": "day1/members/onanong/17_0253.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9952533791551176,
+      "lpips": 0.0018170683179050684
+    },
+    {
+      "relative_path": "day3/members/tien/09_0002.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.993005883999119,
+      "lpips": 0.004641002044081688
+    },
+    {
+      "relative_path": "day3/members/allie/12_0712.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9965421966653328,
+      "lpips": 0.0023123810533434153
+    },
+    {
+      "relative_path": "day2/members/cathal/19_0211.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9942825371283335,
+      "lpips": 0.002144264755770564
+    },
+    {
+      "relative_path": "day3/members/klaus/08_0380.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9920525147609883,
+      "lpips": 0.0035658865235745907
+    },
+    {
+      "relative_path": "day4/members/werner/08_0208.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9951679746374188,
+      "lpips": 0.0017309554386883974
+    },
+    {
+      "relative_path": "day1/members/werner/14_0080.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9939634466592112,
+      "lpips": 0.001973141683265567
+    },
+    {
+      "relative_path": "day3/members/florian/15_0318.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.992784482978593,
+      "lpips": 0.003238328266888857
+    },
+    {
+      "relative_path": "day4/members/onanong/14_0177.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9883840149543882,
+      "lpips": 0.0065078879706561565
+    },
+    {
+      "relative_path": "day3/members/florian/11_0647.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.995489306142404,
+      "lpips": 0.001534974784590304
+    },
+    {
+      "relative_path": "day2/members/tien/12_0007.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9922846312576595,
+      "lpips": 0.0037753749638795853
+    },
+    {
+      "relative_path": "day1/members/florian/11_0210.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9942897675557424,
+      "lpips": 0.002208487130701542
+    },
+    {
+      "relative_path": "day3/members/stevan/11_0119.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9860810592818741,
+      "lpips": 0.008123941719532013
+    },
+    {
+      "relative_path": "day1/members/florian/18_0275.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9871631126231984,
+      "lpips": 0.008412580005824566
+    },
+    {
+      "relative_path": "day4/members/klaus/09_0320.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9917996193797363,
+      "lpips": 0.003912030253559351
+    },
+    {
+      "relative_path": "day2/members/cathal/18_0081.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9885625704144382,
+      "lpips": 0.009057584218680859
+    },
+    {
+      "relative_path": "day4/members/florian/18_0559.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9953818138103697,
+      "lpips": 0.002200307557359338
+    },
+    {
+      "relative_path": "day2/members/florian/12_0418.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9970712099071665,
+      "lpips": 0.0008283861679956317
+    },
+    {
+      "relative_path": "day2/members/florian/15_0395.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9956248758548251,
+      "lpips": 0.0012331742327660322
+    },
+    {
+      "relative_path": "day2/members/cathal/14_0185.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9934591321374566,
+      "lpips": 0.0018978789448738098
+    },
+    {
+      "relative_path": "day1/members/klaus/10_0589.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9907022092489265,
+      "lpips": 0.005774247460067272
+    },
+    {
+      "relative_path": "day1/members/florian/10_0419.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9878186139830966,
+      "lpips": 0.006708461791276932
+    },
+    {
+      "relative_path": "day3/members/luca/14_0453.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9928339928480735,
+      "lpips": 0.004562587942928076
+    },
+    {
+      "relative_path": "day2/members/stevan/11_0699.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9899859596104909,
+      "lpips": 0.007525119464844465
+    },
+    {
+      "relative_path": "day2/members/werner/20_0424.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9912202038088541,
+      "lpips": 0.004412062931805849
+    },
+    {
+      "relative_path": "day1/members/bjorn/18_0660.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9955464276428945,
+      "lpips": 0.0018290329026058316
+    },
+    {
+      "relative_path": "day4/members/klaus/12_0118.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9869100911565362,
+      "lpips": 0.011548440903425217
+    },
+    {
+      "relative_path": "day2/members/bjorn/19_0586.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9900420068169608,
+      "lpips": 0.007545336149632931
+    },
+    {
+      "relative_path": "day3/members/allie/18_0535.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9892875770718654,
+      "lpips": 0.004331840202212334
+    },
+    {
+      "relative_path": "day4/members/cathal/09_0257.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9858871544476805,
+      "lpips": 0.008179059252142906
+    },
+    {
+      "relative_path": "day2/members/florian/15_0006.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9944415151356064,
+      "lpips": 0.001531320158392191
+    },
+    {
+      "relative_path": "day3/members/cathal/11_0181.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9870706909952447,
+      "lpips": 0.006790768820792437
+    },
+    {
+      "relative_path": "day4/members/bao/11_0055.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9850108364619827,
+      "lpips": 0.01321052759885788
+    },
+    {
+      "relative_path": "day3/members/luca/13_0160.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9950660542131873,
+      "lpips": 0.0021434109658002853
+    },
+    {
+      "relative_path": "day2/members/werner/13_0432.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9979483504592706,
+      "lpips": 0.0007545372936874628
+    },
+    {
+      "relative_path": "day3/members/florian/19_0684.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9947775998532972,
+      "lpips": 0.002074266318231821
+    },
+    {
+      "relative_path": "day2/members/allie/16_0556.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9935953759706889,
+      "lpips": 0.0052095213904976845
+    },
+    {
+      "relative_path": "day1/members/werner/19_0438.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9884790899246689,
+      "lpips": 0.007285588420927525
+    },
+    {
+      "relative_path": "day2/members/allie/19_0622.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9863022882600948,
+      "lpips": 0.009415611624717712
+    },
+    {
+      "relative_path": "day3/members/onanong/12_0703.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9961987553263704,
+      "lpips": 0.002956386422738433
+    },
+    {
+      "relative_path": "day1/members/stevan/18_0567.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9881500243504225,
+      "lpips": 0.008684299886226654
+    },
+    {
+      "relative_path": "day3/members/stevan/20_0527.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9914885867887778,
+      "lpips": 0.006570986472070217
+    },
+    {
+      "relative_path": "day1/members/onanong/19_0481.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9950356822738883,
+      "lpips": 0.0021966719068586826
+    },
+    {
+      "relative_path": "day4/members/klaus/08_0554.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9949132471004903,
+      "lpips": 0.001593803521245718
+    },
+    {
+      "relative_path": "day3/members/klaus/19_0704.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9926823063522168,
+      "lpips": 0.003924554213881493
+    },
+    {
+      "relative_path": "day2/members/luca/12_0565.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9952445122787866,
+      "lpips": 0.0010191734181717038
+    },
+    {
+      "relative_path": "day4/members/luca/08_0034.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9941358407752654,
+      "lpips": 0.003631346393376589
+    },
+    {
+      "relative_path": "day1/members/tien/10_0152.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9920210521768437,
+      "lpips": 0.005040944553911686
+    },
+    {
+      "relative_path": "day4/members/werner/13_0537.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9899071116923398,
+      "lpips": 0.004891465418040752
+    },
+    {
+      "relative_path": "day1/members/bjorn/09_0300.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9821494344740896,
+      "lpips": 0.009701662696897984
+    },
+    {
+      "relative_path": "day2/members/florian/14_0303.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9865392242307541,
+      "lpips": 0.009258254431188107
+    },
+    {
+      "relative_path": "day1/members/luca/14_0698.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.986467613805443,
+      "lpips": 0.007131331600248814
+    },
+    {
+      "relative_path": "day1/members/stevan/18_0660.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9945436852179933,
+      "lpips": 0.0022134592290967703
+    },
+    {
+      "relative_path": "day3/members/allie/13_0693.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9927084280804914,
+      "lpips": 0.005041838623583317
+    },
+    {
+      "relative_path": "day4/members/cathal/13_0210.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9820496019648143,
+      "lpips": 0.01774686761200428
+    },
+    {
+      "relative_path": "day1/members/stevan/18_0014.webp",
+      "method": "reverse_personalization",
+      "ssim": 0.9880969035358381,
+      "lpips": 0.00831094104796648
+    }
+  ]
+}

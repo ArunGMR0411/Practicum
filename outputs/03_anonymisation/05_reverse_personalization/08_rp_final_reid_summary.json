@@ -1,0 +1,11 @@
+{
+  "method": "reverse_personalization",
+  "face_crop_count": 1199,
+  "adaface_cosine_sim_mean": 0.2887554168701172,
+  "adaface_reid_rate": 0.14762301918265222,
+  "arcface_cosine_sim_mean": 0.2340392768383026,
+  "arcface_reid_rate": 0.176814011676397,
+  "arcface_available": true,
+  "device": "cuda",
+  "batch_size": 512
+}

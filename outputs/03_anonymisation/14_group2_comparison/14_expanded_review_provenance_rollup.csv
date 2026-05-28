@@ -1,0 +1,8 @@
+method,n_records,manual_author_records,manual_partner_records,joint_records,inherited_records,heuristic_records,structured_author_fail_rate,agreement_statistics,default_route_recommendation
+diffusion_low_step,240,105,105,0,0,30,0.419048,not_computed,RESEARCH_ONLY_NOT_DEFAULT
+falco,210,105,25,0,15,65,0.257143,not_computed,RESEARCH_ONLY_NOT_DEFAULT
+fams,50,5,5,0,0,40,1.0,not_computed,RESEARCH_ONLY_NOT_DEFAULT
+nullface,90,5,5,0,0,80,1.0,not_computed,RESEARCH_ONLY_NOT_DEFAULT
+reverse_personalization,90,5,5,0,0,80,1.0,not_computed,RESEARCH_ONLY_NOT_DEFAULT
+riddle,210,105,25,0,11,69,0.180952,not_computed,RESEARCH_ONLY_NOT_DEFAULT
+styleid_stylegan,50,5,5,0,0,40,1.0,not_computed,RESEARCH_ONLY_NOT_DEFAULT

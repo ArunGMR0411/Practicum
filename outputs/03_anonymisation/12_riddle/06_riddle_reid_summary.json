@@ -1,0 +1,12 @@
+{
+  "method": "riddle",
+  "face_crop_count": 1279,
+  "adaface_cosine_sim_mean": 0.0961068868637085,
+  "adaface_reid_rate": 0.003909304143862392,
+  "arcface_cosine_sim_mean": 0.09620065242052078,
+  "arcface_reid_rate": 0.001563721657544957,
+  "device": "cuda",
+  "batch_size": 256,
+  "arcface_available": true,
+  "skipped_rows": []
+}

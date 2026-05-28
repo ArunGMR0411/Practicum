@@ -1,0 +1,10 @@
+method,failure_rate,gate_failure,visual_eligibility,gate_visual_not_eligible,mean_max_reid,gate_privacy_floor_fail_balanced,gate_privacy_floor_fail_strict,eligible_default_policy,eligible_privacy_first,oapr_deployment_face_anonymisation_score
+reverse_personalization,0.036,False,RESEARCH_ONLY_NOT_DEFAULT,True,0.176814011676397,False,True,False,False,0.8486602972400444
+solid_mask_black,0.0,False,ELIGIBLE,False,0.29273333333333335,False,True,True,False,0.8142197061568615
+riddle,0.0,False,RESEARCH_COMPARABLE_NOT_DEFAULT,True,0.2967,False,True,False,False,0.813025068553892
+layered_blur_downscale_noise,0.0,False,ELIGIBLE,False,0.3275095238095238,False,True,True,False,0.8047286744071428
+diffusion_low_step,0.0,False,RESEARCH_ONLY_NOT_DEFAULT,True,0.3319635642135642,False,True,False,False,0.7829428221411716
+blur,0.0,False,ELIGIBLE,False,0.3921777777777778,False,True,True,False,0.770820416626832
+falco,0.0,False,RESEARCH_COMPARABLE_NOT_DEFAULT,True,0.29564999999999997,False,True,False,False,0.76609510389819
+nullface,0.0,False,RESEARCH_ONLY_NOT_DEFAULT,True,0.3740603896103896,False,True,False,False,0.7218289124305768
+pixelate,0.0,False,ELIGIBLE,False,0.6081247474747474,True,True,False,False,0.6539920323408726

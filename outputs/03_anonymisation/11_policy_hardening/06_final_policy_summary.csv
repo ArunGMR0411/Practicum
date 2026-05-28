@@ -1,0 +1,5 @@
+policy,n_images,mean_score,privacy_score,utility_score,n_methods,method_distribution
+current_condition_policy,500,0.8880325560936972,0.9839433862433863,0.6742681782249078,3,"{""layered_blur_downscale_noise"": 286, ""no_action_copy"": 133, ""solid_mask_black"": 81}"
+grouped_heldout_category_policy,500,0.8944090233848975,0.9733521164021164,0.7144274015591582,4,"{""blur"": 175, ""layered_blur_downscale_noise"": 186, ""no_action_copy"": 133, ""pixelate"": 6}"
+privacy_constrained_pareto,500,0.8836203233522235,0.9949708994708995,0.7983846133977683,8,"{""blur"": 46, ""diffusion_low_step"": 50, ""layered_blur_downscale_noise"": 15, ""no_action_copy"": 133, ""nullface"": 90, ""pixelate"": 9, ""reverse_personalization"": 146, ""solid_mask_black"": 11}"
+privacy_verifying_cascade,500,0.9008627325591113,0.9951111111111111,0.7150018950234929,7,"{""blur"": 159, ""diffusion_low_step"": 35, ""layered_blur_downscale_noise"": 42, ""no_action_copy"": 133, ""nullface"": 11, ""pixelate"": 84, ""solid_mask_black"": 36}"

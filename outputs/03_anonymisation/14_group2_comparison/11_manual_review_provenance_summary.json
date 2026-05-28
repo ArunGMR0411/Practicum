@@ -1,0 +1,19 @@
+{
+  "status": "terminology_corrected",
+  "review_type": "author_partner_manual_confirmation_sample",
+  "not_a_study": "Not dual-blind; not a blinded independent inter-rater reliability study.",
+  "methods": {
+    "riddle": {
+      "first_pass_author_plausible_rate_note": "Author first-pass operational rates retained in Group2 tables (e.g. 86/100 style operational review).",
+      "confirmation_sample": "20-crop author/partner confirmation sample exists in 10_manual_author_partner_20crop.csv",
+      "note": "Partner confirmation rows are manual project review, not blinded independent ratings."
+    },
+    "falco": {
+      "first_pass_author_plausible_rate_note": "Author first-pass operational rates retained in Group2 tables (e.g. 78/100 style operational review).",
+      "confirmation_sample": "20-crop author/partner confirmation sample exists in 10_manual_author_partner_20crop.csv",
+      "note": "Partner confirmation rows are manual project review, not blinded independent ratings."
+    }
+  },
+  "process": "Author and project partner manually inspected outputs using review applications/worksheets. Mixed-source agreement numerics are withdrawn as independent-rater claims. Canonical provenance: outputs/03_anonymisation/19_visual_eligibility_gate/05_manual_review_provenance.csv",
+  "canonical_claim": "The author and project partner manually inspected and corrected annotations and relevant outputs using dedicated review applications. This was a structured project review process, not a blinded human-participant study."
+}

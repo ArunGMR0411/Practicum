@@ -1,0 +1,10 @@
+{
+  "method": "adaptive_artifact_gated_policy",
+  "face_crop_count": 1279,
+  "facenet_cosine_similarity_mean": 0.10674848407506943,
+  "facenet_reid_rate_050": 0.02580140734949179,
+  "facenet_reid_rate_060": 0.007818608287724784,
+  "facenet_reid_rate_070": 0.0007818608287724785,
+  "device": "cuda",
+  "batch_size": 64
+}
