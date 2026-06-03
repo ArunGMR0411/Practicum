@@ -1,0 +1,65 @@
+{
+  "oapr_compute_profile_adaptive": {
+    "face_crop_count": 1279,
+    "adaface_cosine_sim_mean": 0.2532927393913269,
+    "adaface_reid_rate": 0.02580140734949179,
+    "arcface_cosine_sim_mean": 0.33295413851737976,
+    "arcface_reid_rate": 0.05551211884284597,
+    "arcface_available": true,
+    "status": "ok"
+  },
+  "oapr_failure_avoidance": {
+    "face_crop_count": 1279,
+    "adaface_cosine_sim_mean": 0.21745136380195618,
+    "adaface_reid_rate": 0.010164190774042221,
+    "arcface_cosine_sim_mean": 0.3047976791858673,
+    "arcface_reid_rate": 0.028146989835809225,
+    "arcface_available": true,
+    "status": "ok"
+  },
+  "oapr_multimodal_risk": {
+    "face_crop_count": 1279,
+    "adaface_cosine_sim_mean": 0.2532927393913269,
+    "adaface_reid_rate": 0.02580140734949179,
+    "arcface_cosine_sim_mean": 0.33295413851737976,
+    "arcface_reid_rate": 0.05551211884284597,
+    "arcface_available": true,
+    "status": "ok"
+  },
+  "oapr_privacy_first": {
+    "face_crop_count": 1279,
+    "adaface_cosine_sim_mean": 0.05312811955809593,
+    "adaface_reid_rate": 0.0007818608287724785,
+    "arcface_cosine_sim_mean": 0.18063730001449585,
+    "arcface_reid_rate": 0.0007818608287724785,
+    "arcface_available": true,
+    "status": "ok"
+  },
+  "oapr_runtime_aware": {
+    "face_crop_count": 1279,
+    "adaface_cosine_sim_mean": 0.2188291698694229,
+    "adaface_reid_rate": 0.01641907740422205,
+    "arcface_cosine_sim_mean": 0.3070889711380005,
+    "arcface_reid_rate": 0.03440187646598905,
+    "arcface_available": true,
+    "status": "ok"
+  },
+  "oapr_utility_priority": {
+    "face_crop_count": 1279,
+    "adaface_cosine_sim_mean": 0.2532927393913269,
+    "adaface_reid_rate": 0.02580140734949179,
+    "arcface_cosine_sim_mean": 0.33295413851737976,
+    "arcface_reid_rate": 0.05551211884284597,
+    "arcface_available": true,
+    "status": "ok"
+  },
+  "oapr_utility_under_privacy_floor": {
+    "face_crop_count": 1279,
+    "adaface_cosine_sim_mean": 0.2532927393913269,
+    "adaface_reid_rate": 0.02580140734949179,
+    "arcface_cosine_sim_mean": 0.33295413851737976,
+    "arcface_reid_rate": 0.05551211884284597,
+    "arcface_available": true,
+    "status": "ok"
+  }
+}

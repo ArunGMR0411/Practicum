@@ -1,0 +1,8 @@
+objective_mode,privacy_wins_AdaFace_vs_fixed_methods,privacy_losses_AdaFace_vs_fixed_methods,privacy_ties_AdaFace_vs_fixed_methods,privacy_wins_ArcFace_vs_fixed_methods,privacy_losses_ArcFace_vs_fixed_methods,privacy_ties_ArcFace_vs_fixed_methods,utility_wins_SSIM_vs_fixed_methods,utility_losses_SSIM_vs_fixed_methods,utility_ties_SSIM_vs_fixed_methods,utility_wins_LPIPS_vs_fixed_methods,utility_losses_LPIPS_vs_fixed_methods,utility_ties_LPIPS_vs_fixed_methods,interpretation
+compute_profile_adaptive,4,3,0,4,3,0,6,1,0,5,2,0,Objective-specific routed-output evidence; use to support bounded routing claims only.
+failure_avoidance,6,1,0,6,1,0,5,2,0,5,2,0,Objective-specific routed-output evidence; use to support bounded routing claims only.
+multimodal_risk,4,3,0,4,3,0,6,1,0,5,2,0,Objective-specific routed-output evidence; use to support bounded routing claims only.
+privacy_first,7,0,0,7,0,0,2,5,0,2,5,0,Objective-specific routed-output evidence; use to support bounded routing claims only.
+runtime_aware,5,2,0,5,2,0,6,1,0,5,2,0,Objective-specific routed-output evidence; use to support bounded routing claims only.
+utility_priority,4,3,0,4,3,0,6,1,0,5,2,0,Objective-specific routed-output evidence; use to support bounded routing claims only.
+utility_under_privacy_floor,4,3,0,4,3,0,6,1,0,5,2,0,Objective-specific routed-output evidence; use to support bounded routing claims only.

@@ -1,0 +1,4 @@
+modality,variant,split,image_count,tp,fp,fn,tn,precision,recall,f1,oapr_multimodal_score
+text_or_screen,craft_recall_4k+yolo+text_cluster_hyp+strict_edge_phone,development,175,116,33,2,24,0.7785234899328859,0.9830508474576272,0.8689138576779026,0.9340638642602219
+text_or_screen,craft_recall_4k+yolo+text_cluster_hyp+strict_edge_phone,test,75,50,10,1,14,0.8333333333333334,0.9803921568627451,0.9009009009009009,0.9458134605193429
+text_or_screen,craft_recall_4k+yolo+text_cluster_hyp+strict_edge_phone,all,250,166,43,3,38,0.7942583732057417,0.9822485207100592,0.8783068783068784,0.9374640953588323

@@ -1,0 +1,8 @@
+objective_mode,frames_requested,frames_ok,frames_failed,method_counts,runtime_total_seconds,runtime_mean_seconds,runtime_median_seconds
+compute_profile_adaptive,500,500,0,"{""blur"": 354, ""copy"": 146}",204.757875,0.409516,0.521043
+failure_avoidance,500,500,0,"{""blur"": 21, ""copy"": 146, ""layered"": 333}",215.616281,0.431233,0.545895
+multimodal_risk,500,500,0,"{""blur"": 354, ""copy"": 146}",201.899763,0.4038,0.513624
+privacy_first,500,500,0,"{""copy"": 146, ""solid_mask"": 354}",200.281812,0.400564,0.506453
+runtime_aware,500,500,0,"{""blur"": 79, ""copy"": 146, ""layered"": 275}",210.665566,0.421331,0.535217
+utility_priority,500,500,0,"{""blur"": 354, ""copy"": 146}",198.331498,0.396663,0.502833
+utility_under_privacy_floor,500,500,0,"{""blur"": 354, ""copy"": 146}",197.670841,0.395342,0.502247

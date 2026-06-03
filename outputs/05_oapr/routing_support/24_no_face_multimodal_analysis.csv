@@ -1,0 +1,9 @@
+relative_path,pii_channel,manual_presence,legible_or_sensitive,evidence_note
+day1/members/allie/08_0072.webp,text,yes,yes,No-face frame still contains non-face PII.
+day1/members/bjorn/08_0210.webp,text,yes,yes,No-face frame still contains non-face PII.
+day1/members/cathal/08_0085.webp,text,yes,yes,No-face frame still contains non-face PII.
+day2/members/onanong/10_0088.webp,text,yes,yes,No-face frame still contains non-face PII.
+day2/members/tien/10_0307.webp,text,yes,yes,No-face frame still contains non-face PII.
+day2/members/werner/08_0079.webp,text,yes,no,No-face frame still contains non-face PII.
+day3/members/klaus/08_0343.webp,text,yes,no,No-face frame still contains non-face PII.
+day4/members/florian/10_0044.webp,text,yes,yes,No-face frame still contains non-face PII.

@@ -1,0 +1,5 @@
+predicted_risk_state,selected_variant,role,reason
+no_text_screen_risk,no_action_copy,default,No predicted text/screen boxes; preserve the image.
+screen_present,text_blur_screen_fill,default,"Privacy-weighted held-out winner among defensible operators; solid screen fill + text blur."
+text_and_screen_present,text_blur_screen_fill,default,Same privacy-weighted default as screen_present (strongest privacy under competitive score).
+text_present,text_blur_screen_fill,default,"Simplified default: text blur with no screen action needed; fill/area-aware ablations demoted from default."

@@ -1,0 +1,2 @@
+policy,split,privacy_deployment,utility_deployment,oapr_deployment_multimodal_redaction_score,exploratory_privacy,exploratory_utility,exploratory_score,missed_screen,missed_text
+adaptive_multimodal_policy,test,0.8700424823850551,0.870362700479676,0.8831342995749358,0.8679548827101864,0.6633512044632398,0.8320468760780286,0,2

@@ -1,0 +1,12 @@
+== Face detection ==
+  wrote face detection rows: 47
+== Condition router ==
+  wrote condition rows: 32
+== Multimodal detection ==
+  mm detection deployment: [{'split': 'test', 'selection_split': 'development', 'screen_variant': 'yolo11n_coco_640_1280_union', 'text_variant': 'craft_recall_4k', 'combined_variant': 'craft_recall_4k+yolo+text_cluster_hyp+strict_edge_phone', 'screen_iou50_recall': 0.6428571428571429, 'screen_iou50_precision': 0.4426229508196721, 'text_region_recall': 0.84, 'text_region_precision': 0.0177215189873417, 'combined_presence_recall': 0.9803921568627452, 'combined_presence_precision': 0.8333333333333334, 'exploratory_combined_oapr': 0.9458134605193428, 'oapr_deployment_multimodal_detection_score': 0.6333476673508166, 'selection_source': 'development_locked_protocol'}]
+== Face anonymisation ==
+  face methods: ['reverse_personalization', 'solid_mask_black', 'riddle', 'layered_blur_downscale_noise', 'diffusion_low_step', 'blur', 'falco', 'nullface', 'pixelate']
+== Multimodal redaction ==
+  mm redaction variants: ['text_blur_screen_blur', 'text_blur_screen_fill', 'text_fill_screen_blur', 'text_fill_screen_fill', 'text_pixelate_screen_blur', 'text_pixelate_screen_pixelate']
+== Pareto + sensitivity ==
+  synced stage mirrors under 02/15, 03/18, 04/15 deployment_selection

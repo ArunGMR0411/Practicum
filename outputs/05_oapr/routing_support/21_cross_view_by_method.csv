@@ -1,0 +1,4 @@
+method,pairs_total,pairs_evaluated,mean_max_cross_view_cosine,delta_vs_original,evidence_boundary
+original,80,80,0.36443826369941235,0.0,medium_slice_evidence
+blur,80,80,0.31697147076483817,-0.04746679293457419,medium_slice_evidence
+pixelate,80,80,0.3701806113589555,0.005742347659543156,medium_slice_evidence

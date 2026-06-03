@@ -1,0 +1,14 @@
+{
+  "canonical_config": "configs/scoring_definitions.json",
+  "recall_floor": 0.85,
+  "face_detection_exploratory_weights": {
+    "recall": 0.65,
+    "f1": 0.25,
+    "precision": 0.1
+  },
+  "face_detection_deployment_weights": {
+    "recall": 0.65,
+    "f2": 0.25,
+    "precision": 0.1
+  }
+}

@@ -1,0 +1,5 @@
+modality,profile,split,ground_truth_regions,tp,fp,fn,region_precision,region_recall,region_f1,presence_precision,presence_recall,presence_f1,role
+screen,research_high_recall,test,42,27,32,15,0.457627,0.642857,0.534653,,,,RQ3 presence and recall evidence
+screen,production_precision,test,42,26,0,16,1.000000,0.619048,0.764706,1.000000,0.684211,0.812500,displayed and redacted screen boxes
+text,research_high_recall,test,25,19,261,6,0.067857,0.760000,0.124590,,,,RQ3 presence and recall evidence
+text,production_recognition_gate,test,25,2,7,23,0.222222,0.080000,0.117647,0.750000,0.400000,0.521739,precision-oriented review proposals

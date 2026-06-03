@@ -1,0 +1,5 @@
+predicted_risk_state,selected_variant,development_score,development_privacy,development_utility,reason
+no_text_screen_risk,no_action_copy,,,,No predicted text/screen boxes; preserve the image.
+screen_present,text_blur_screen_fill,0.7985542115993058,0.8697445191791854,0.5489964932676584,Highest development-split measured score; privacy breaks score ties.
+text_and_screen_present,text_blur_screen_fill,0.7886146292954855,0.8767786672627965,0.5054003469407292,Highest development-split measured score; privacy breaks score ties.
+text_present,text_blur_screen_blur,0.8846471036429296,0.8117482799356492,0.9329613477816701,Highest development-split measured score; privacy breaks score ties.

@@ -1,0 +1,2 @@
+policy,n_test,mean_privacy,mean_utility,mean_score,utility_below_050,utility_below_050_rate,baseline_utility_below_050,baseline_mean_score
+soft_utility_privacy_floor_0.80,75,0.8648629028436039,0.6661949541921351,0.8311519448620579,37,0.49333333333333335,37,0.832

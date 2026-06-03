@@ -1,0 +1,8 @@
+objective_mode,frames_requested,frames_ok,frames_failed,method_counts,runtime_total_seconds,wall_seconds,mean_runtime_seconds,compute_profile
+privacy_first,500,500,0,"{""copy"": 146, ""solid_mask"": 354}",26.587093,26.608738,0.053174,cpu_or_very_low_resource
+utility_priority,500,500,0,"{""blur"": 354, ""copy"": 146}",27.627628,27.648676,0.055255,cpu_or_very_low_resource
+utility_under_privacy_floor,500,500,0,"{""blur"": 354, ""copy"": 146}",27.460147,27.481048,0.05492,cpu_or_very_low_resource
+runtime_aware,500,500,0,"{""blur"": 79, ""copy"": 146, ""layered"": 275}",27.547525,27.568842,0.055095,cpu_or_very_low_resource
+compute_profile_adaptive,500,500,0,"{""blur"": 354, ""copy"": 146}",27.554389,27.575537,0.055109,cpu_or_very_low_resource
+failure_avoidance,500,500,0,"{""blur"": 21, ""copy"": 146, ""layered"": 333}",27.601387,27.62265,0.055203,cpu_or_very_low_resource
+multimodal_risk,500,500,0,"{""blur"": 354, ""copy"": 146}",27.523185,27.544329,0.055046,cpu_or_very_low_resource

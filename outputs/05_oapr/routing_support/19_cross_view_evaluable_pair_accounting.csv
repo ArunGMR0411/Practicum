@@ -1,0 +1,8 @@
+metric,value,note
+total_candidate_pairs,200,Broad candidate pack before face-positive filtering.
+evaluable_pairs,85,Pairs with usable detected faces under all compared defended methods.
+skipped_pairs,115,Pairs blocked by detector or evaluability failure.
+skip_reason_counts,"{""missing_detected_faces"": 115}",Current broad-pack skip reasons.
+no_face_or_detector_failure_cases,115,Dominant reason current broad pack is not fully evaluable.
+anonymiser_failure_cases,0,No blur/pixelate anonymiser-specific evaluation failure recorded in the current cross-view pack.
+face_positive_subset_evaluable_pairs,80,All 80 reviewed face-positive proxy pairs evaluated successfully.

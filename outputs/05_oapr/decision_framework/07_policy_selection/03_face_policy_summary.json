@@ -1,0 +1,6 @@
+{
+  "default_recommendation": "solid_mask_black",
+  "n_eligible": 3,
+  "n_research_or_excluded": 6,
+  "note": "Gates: failure_rate, visual eligibility ELIGIBLE, privacy floor on max Re-ID."
+}

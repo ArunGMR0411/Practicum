@@ -1,0 +1,5 @@
+predicted_risk_state,selected_variant,development_score,development_privacy,development_utility,reason
+no_text_screen_risk,no_action_copy,,,,hybrid max_score text + utility_aware screen
+screen_present,text_blur_screen_fill,,,,hybrid max_score text + utility_aware screen
+text_and_screen_present,text_blur_screen_fill,,,,hybrid max_score text + utility_aware screen
+text_present,text_blur_screen_blur,,,,hybrid max_score text + utility_aware screen

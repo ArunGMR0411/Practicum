@@ -1,0 +1,24 @@
+criterion,status,implemented_detail
+input validation,DONE,PIL loadability checked; errors are logged per image.
+compute profile,DONE,build_compute_policy() classifies supported compute profile and logs device summary.
+resource-derived concurrency,DONE,worker count derives from compute policy unless explicitly overridden.
+detector mode gate,DONE,detector mode is an argument and logged; cached YOLO+SCRFD is default.
+resolution path gate,DONE,native/half/quarter processing supported and logged.
+face count,DONE,face_count and boxes_available are logged and used.
+face size / small face,DONE,dominant face height and area ratio are computed and logged.
+pose/downward/extreme pose,DONE,condition labels/recommendation tokens are parsed where available; otherwise unknown is logged.
+motion blur / source quality,DONE,visual_disruption/source quality field is used and logged.
+visible text risk,DONE,visible text risk triggers multimodal demo redaction action and log.
+visible screen risk,DONE,visible screen risk triggers multimodal demo redaction action and log.
+mixed PII face+text+screen,DONE,multimodal_actions supports combined face and text/screen actions.
+method availability gate,DONE,eligible and rejected methods are logged with rejection reasons.
+privacy floor,DONE,privacy_floor_status is assigned per objective/method decision.
+utility ranking under privacy floor,DONE,utility objectives route only with privacy/risk constraints and log utility status.
+runtime feasibility,DONE,"runtime-aware mode, expected_runtime_cost, actual runtime, and runtime_status are logged."
+failure avoidance,DONE,failure_avoidance objective and artifact/source-quality gates are implemented.
+apparent demographic consistency,DONE_BOUNDARY,logged as not_applicable for deterministic methods; advanced face-changing methods remain rejected until validated.
+quality consistency,DONE,quality_gate_status and source_quality_condition are logged and used.
+evidence boundary label,DONE,evidence_level and source_artifacts are logged per image.
+selector objective mode,DONE,seven objective modes are implemented and validated.
+explanation logging,DONE,"route reason, explanation, residual risk, and rejection reasons are logged."
+oracle/ablation connection,DONE,separate oracle/ablation artifacts are preserved and table-mapped; app validation produces comparable selector distributions.

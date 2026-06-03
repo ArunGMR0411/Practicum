@@ -1,0 +1,7 @@
+metric,value
+mean_original_max_cross_view_cosine,0.370034070225323
+mean_blur_max_cross_view_cosine,0.33131982241483293
+mean_pixelate_max_cross_view_cosine,0.3953797407448292
+mean_original_gap_vs_control,0.0014874120074582413
+mean_blur_gap_vs_control,-0.02818361858287489
+mean_pixelate_gap_vs_control,0.005168491637850381

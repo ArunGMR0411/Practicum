@@ -1,0 +1,4 @@
+objective,oracle_method,evidence_file,privacy_rate,lpips,report_safe_claim
+privacy_first,solid_mask_black,outputs/03_anonymisation/01_all_methods_comparison.csv,0.000782,0.019534,Objective-specific oracle identifies role-specific methods; it does not imply one global winner.
+utility_first,pixelate,outputs/03_anonymisation/01_all_methods_comparison.csv,0.215012,0.007239,Objective-specific oracle identifies role-specific methods; it does not imply one global winner.
+practical_balanced,blur,outputs/03_anonymisation/01_all_methods_comparison.csv,0.032838,0.009332,Objective-specific oracle identifies role-specific methods; it does not imply one global winner.

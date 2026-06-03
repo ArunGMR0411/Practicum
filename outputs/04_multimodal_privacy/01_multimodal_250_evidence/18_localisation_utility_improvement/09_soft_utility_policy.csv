@@ -1,0 +1,5 @@
+predicted_risk_state,selected_variant,reason,development_privacy,development_utility,development_score
+no_text_screen_risk,no_action_copy,no risk,,,
+screen_present,text_fill_screen_area_aware_t10,soft_privacy_floor_0.80 max_utility (text_fill_screen_area_aware_t10),0.8072952885336965,0.5580361379449489,0.7691254525061925
+text_and_screen_present,text_blur_screen_fill,soft_privacy_floor_0.80 max_utility (text_blur_screen_fill),0.8767786672627965,0.5054003469407292,0.7886146292954855
+text_present,text_blur_screen_area_aware_t10,soft_privacy_floor_0.80 max_utility (text_blur_screen_area_aware_t10),0.8117482799356492,0.9329613477816701,0.8848638299554398

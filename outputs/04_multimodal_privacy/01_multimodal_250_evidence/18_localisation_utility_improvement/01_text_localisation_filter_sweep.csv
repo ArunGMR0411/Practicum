@@ -1,0 +1,11 @@
+name,min_area,max_aspect,max_n,split,tp,fp,fn,n_pred_boxes,n_gt_boxes,text_precision,text_recall,text_f1,gt_source
+baseline_craft_unfiltered,0,1000000000.0,999,development,23,1458,68,1481,91,0.015530047265361242,0.25274725274725274,0.02926208651399491,outputs/01_protocol/annotations/multimodal_250/reviewed_multimodal_250_with_boxes.csv
+baseline_craft_unfiltered,0,1000000000.0,999,test,12,140,13,152,25,0.07894736842105263,0.48,0.13559322033898302,outputs/01_protocol/annotations/multimodal_250/reviewed_multimodal_250_with_boxes.csv
+improved_minarea_2k_nms,2000,12.0,30,development,16,457,75,473,91,0.03382663847780127,0.17582417582417584,0.056737588652482275,outputs/01_protocol/annotations/multimodal_250/reviewed_multimodal_250_with_boxes.csv
+improved_minarea_2k_nms,2000,12.0,30,test,11,116,14,127,25,0.08661417322834646,0.44,0.14473684210526314,outputs/01_protocol/annotations/multimodal_250/reviewed_multimodal_250_with_boxes.csv
+improved_minarea_4k_aspect8_max12,4000,8.0,12,development,14,303,77,317,91,0.04416403785488959,0.15384615384615385,0.06862745098039216,outputs/01_protocol/annotations/multimodal_250/reviewed_multimodal_250_with_boxes.csv
+improved_minarea_4k_aspect8_max12,4000,8.0,12,test,11,92,14,103,25,0.10679611650485436,0.44,0.171875,outputs/01_protocol/annotations/multimodal_250/reviewed_multimodal_250_with_boxes.csv
+improved_minarea_6k_aspect6_max8,6000,6.0,8,development,14,237,77,251,91,0.055776892430278883,0.15384615384615385,0.08187134502923978,outputs/01_protocol/annotations/multimodal_250/reviewed_multimodal_250_with_boxes.csv
+improved_minarea_6k_aspect6_max8,6000,6.0,8,test,7,71,18,78,25,0.08974358974358974,0.28,0.13592233009708737,outputs/01_protocol/annotations/multimodal_250/reviewed_multimodal_250_with_boxes.csv
+improved_minarea_8k_aspect5_max6,8000,5.0,6,development,12,194,79,206,91,0.05825242718446602,0.13186813186813187,0.08080808080808081,outputs/01_protocol/annotations/multimodal_250/reviewed_multimodal_250_with_boxes.csv
+improved_minarea_8k_aspect5_max6,8000,5.0,6,test,4,62,21,66,25,0.06060606060606061,0.16,0.0879120879120879,outputs/01_protocol/annotations/multimodal_250/reviewed_multimodal_250_with_boxes.csv

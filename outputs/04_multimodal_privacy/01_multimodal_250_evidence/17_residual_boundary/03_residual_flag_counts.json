@@ -1,0 +1,10 @@
+{
+  "n_test": 75,
+  "missed_text": 2,
+  "missed_screen": 0,
+  "residual_text_readability": 6,
+  "insufficient_screen_obscuration": 1,
+  "utility_below_050": 37,
+  "any_flag": 42,
+  "ledger_rows": 42
+}
