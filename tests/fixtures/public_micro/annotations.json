@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "images": [
+    {
+      "image_id": "synthetic_face",
+      "path": "images/synthetic_face.png",
+      "faces": [
+        [
+          110,
+          50,
+          210,
+          180
+        ]
+      ],
+      "text_boxes": [],
+      "screen_boxes": [],
+      "expected_face_action_if_balanced": "layered"
+    },
+    {
+      "image_id": "synthetic_noface",
+      "path": "images/synthetic_noface.png",
+      "faces": [],
+      "text_boxes": [],
+      "screen_boxes": [],
+      "expected_face_action_if_balanced": "copy"
+    },
+    {
+      "image_id": "synthetic_screen_text",
+      "path": "images/synthetic_screen_text.png",
+      "faces": [],
+      "text_boxes": [
+        [
+          60,
+          60,
+          260,
+          90
+        ],
+        [
+          60,
+          100,
+          200,
+          120
+        ]
+      ],
+      "screen_boxes": [
+        [
+          40,
+          40,
+          280,
+          180
+        ]
+      ],
+      "expected_face_action_if_balanced": "copy",
+      "expected_screen_operator": "fill",
+      "expected_text_operator": "blur"
+    }
+  ]
+}
