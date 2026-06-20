@@ -1,0 +1,21 @@
+{
+  "compute_policy": {
+    "accelerator_available_gb": 7.4061,
+    "accelerator_total_gb": 7.5253,
+    "detection_num_workers": 1,
+    "device": "cuda",
+    "generative_control_max_workers": 1,
+    "host_ram_available_gb": 6.7891,
+    "host_ram_total_gb": 15.2216,
+    "resource_concurrency_policy": "resource-derived concurrency rather than a fixed cap"
+  },
+  "cpu_count": 24,
+  "cuda_available": true,
+  "cwd": "/home/arun-gmr/MSC_Projects/Practicum",
+  "device": "cuda",
+  "generated_at": "2026-07-20T23:41:44.296723+00:00",
+  "gpu_name": "NVIDIA GeForce RTX 5060 Laptop GPU",
+  "python": "/home/arun-gmr/MSC_Projects/Practicum/.venv/bin/python",
+  "torch_version": "2.12.1+cu130",
+  "vram_total_mb": 7705
+}

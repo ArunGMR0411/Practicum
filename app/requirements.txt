@@ -1,0 +1,20 @@
+# App demonstrator environment.
+# Install from the repository root with:
+#   python -m pip install -r app/requirements.txt
+
+gradio==6.19.0
+easyocr==1.7.2
+numpy==2.2.6
+pandas
+Pillow
+psutil
+pyyaml
+insightface==0.7.3
+onnxruntime-gpu==1.22.0
+opencv-python-headless==4.13.0.92
+rfdetr==1.8.3
+ultralytics==8.4.62
+
+# CUDA inference stack used by the evidence-selected detector policy.
+torch==2.12.1
+torchvision==0.27.1

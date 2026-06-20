@@ -1,0 +1,32 @@
+{
+  "app_policy_id": "objective_profile",
+  "eta_seconds": 0.0,
+  "eta_source": "hardware-tier estimate; recalibrates after the first run",
+  "face_method": "layered",
+  "focus": "balanced",
+  "n_images": 0,
+  "objective": "utility_under_privacy_floor",
+  "plan_title": "Balanced",
+  "runtime_policy": {
+    "estimated_seconds_per_image": 20.0,
+    "face_display_name": "RF-DETR + SCRFD",
+    "face_evidence": "Deployment score 0.9145, within 0.0021 of the full fusion score.",
+    "face_policy_id": "fusion_rfdetr_scrfd10g",
+    "multimodal_display_name": "Reviewed screen detector + recognised text OCR",
+    "multimodal_image_size": 1280,
+    "multimodal_policy_id": "reviewed_screen_yolo11s_1280",
+    "policy_id": "accelerated_efficient",
+    "text_canvas_size": 2560,
+    "text_confidence": 0.3,
+    "text_use_gpu": true,
+    "tier": "accelerated efficient"
+  },
+  "scientific_policy_id": "oapr_visual_safe_balanced_500",
+  "simplification": [
+    "App uses fixed per-objective face operators (not the scientific 286/81/133 condition-aware OAPR materialisation).",
+    "No live OAPR condition profiler or category-conditioned method switching in the Gradio App path.",
+    "Generative methods are optional overrides; defaults stay visual-safe deterministic methods.",
+    "Accelerated full hardware uses the bounded three-source hardened-RF runtime approximation; scientific detector metrics remain separate."
+  ],
+  "source_dir": "/home/arun-gmr/MSC_Projects/Practicum/app/inputs"
+}

@@ -1,0 +1,146 @@
+{
+  "anonymise_summary": {},
+  "detect_summary": {},
+  "eta_seconds": 0.0,
+  "fixed_method": "layered",
+  "focus": "balanced",
+  "include_multimodal": true,
+  "message": "Scan complete: 0 images.",
+  "n_faces": 0,
+  "n_images": 0,
+  "n_images_with_faces": 0,
+  "n_images_with_screen": 0,
+  "n_images_with_text": 0,
+  "n_screens": 0,
+  "n_texts": 0,
+  "objective": "utility_under_privacy_floor",
+  "plan": {
+    "app_policy_id": "objective_profile",
+    "focus": "balanced",
+    "objective_id": "utility_under_privacy_floor",
+    "runtime_policy": {
+      "estimated_seconds_per_image": 20.0,
+      "face_display_name": "RF-DETR + SCRFD",
+      "face_evidence": "Typically needs about 6 GB+ GPU memory",
+      "face_policy_id": "fusion_rfdetr_scrfd10g",
+      "multimodal_display_name": "Screen YOLO 1280 + text OCR",
+      "multimodal_image_size": 1280,
+      "multimodal_policy_id": "reviewed_screen_yolo11s_1280",
+      "policy_id": "accelerated_efficient",
+      "text_canvas_size": 2560,
+      "text_confidence": 0.3,
+      "text_use_gpu": true,
+      "tier": "accelerated efficient"
+    },
+    "runtime_policy_id": "accelerated_efficient",
+    "scientific_policy_id": "oapr_visual_safe_balanced_500",
+    "simplification": [
+      "App uses fixed per-objective face operators (not the scientific 286/81/133 condition-aware OAPR materialisation).",
+      "No live OAPR condition profiler or category-conditioned method switching in the Gradio App path.",
+      "Generative methods are optional overrides; defaults stay visual-safe deterministic methods.",
+      "Accelerated full hardware uses the bounded three-source hardened-RF runtime approximation; scientific detector metrics remain separate."
+    ],
+    "stages": [
+      {
+        "display_name": "RF-DETR + SCRFD",
+        "eta_seconds_per_image": 1.2,
+        "evidence": "Typically needs about 6 GB+ GPU memory",
+        "method_id": "fusion_rfdetr_scrfd10g",
+        "recommendation": "Recommended",
+        "stage": "Face detection",
+        "user_selected": true,
+        "why": "Strong face finding"
+      },
+      {
+        "display_name": "Screen YOLO 1280 + text OCR",
+        "eta_seconds_per_image": 2.0,
+        "evidence": "Typically needs about 6 GB+ GPU memory",
+        "method_id": "reviewed_screen_yolo11s_1280",
+        "recommendation": "Recommended",
+        "stage": "Screen and text detection",
+        "user_selected": true,
+        "why": "Better at finding screens and text"
+      },
+      {
+        "display_name": "Layered blur",
+        "eta_seconds_per_image": 0.12,
+        "evidence": "Negligible GPU need",
+        "method_id": "layered",
+        "recommendation": "Recommended",
+        "stage": "Face anonymisation",
+        "user_selected": true,
+        "why": "Strong privacy with some structure kept"
+      },
+      {
+        "display_name": "Solid fill",
+        "eta_seconds_per_image": 0.02,
+        "evidence": "Negligible GPU need",
+        "method_id": "fill",
+        "recommendation": "Recommended",
+        "stage": "Screen redaction",
+        "user_selected": true,
+        "why": "Strong wipe of display content"
+      },
+      {
+        "display_name": "Gaussian blur",
+        "eta_seconds_per_image": 0.02,
+        "evidence": "Negligible GPU need",
+        "method_id": "blur",
+        "recommendation": "Recommended",
+        "stage": "Text redaction",
+        "user_selected": true,
+        "why": "Good text hide"
+      }
+    ],
+    "stretch_methods": [],
+    "summary": "Balanced objective profile (App policy id=`objective_profile`). Not the scientific condition-aware OAPR 286/81/133 materialisation.",
+    "title": "Balanced",
+    "user_method_selections": {
+      "face_anonymisation": "layered",
+      "face_detection": "fusion_rfdetr_scrfd10g",
+      "multimodal_detection": "reviewed_screen_yolo11s_1280",
+      "screen_operator": "fill",
+      "text_operator": "blur"
+    }
+  },
+  "preflight_accepted": false,
+  "recommendation": "Accelerated Efficient runtime policy selected from available compute.",
+  "recursive": false,
+  "run_dir": "/home/arun-gmr/MSC_Projects/Practicum/app/outputs/runs/20260720T234144Z",
+  "run_id": "20260720T234144Z",
+  "scan_summary": {
+    "eta_minutes": 0.0,
+    "eta_seconds": 0.0,
+    "eta_source": "hardware-tier estimate; recalibrates after the first run",
+    "extensions": {},
+    "manifest": "/home/arun-gmr/MSC_Projects/Practicum/app/outputs/runs/20260720T234144Z/input_manifest.csv",
+    "n_images": 0,
+    "recommendation": "Accelerated Efficient runtime policy selected from available compute.",
+    "runtime_policy": {
+      "estimated_seconds_per_image": 20.0,
+      "face_display_name": "RF-DETR + SCRFD",
+      "face_evidence": "Deployment score 0.9145, within 0.0021 of the full fusion score.",
+      "face_policy_id": "fusion_rfdetr_scrfd10g",
+      "multimodal_display_name": "Reviewed screen detector + recognised text OCR",
+      "multimodal_image_size": 1280,
+      "multimodal_policy_id": "reviewed_screen_yolo11s_1280",
+      "policy_id": "accelerated_efficient",
+      "text_canvas_size": 2560,
+      "text_confidence": 0.3,
+      "text_use_gpu": true,
+      "tier": "accelerated efficient"
+    },
+    "source_dir": "/home/arun-gmr/MSC_Projects/Practicum/app/inputs"
+  },
+  "source_dir": "/home/arun-gmr/MSC_Projects/Practicum/app/inputs",
+  "stages_done": {
+    "anonymise": false,
+    "detect": false,
+    "report": false,
+    "review": false,
+    "scan": true,
+    "setup": true
+  },
+  "strategy": "objective_profile",
+  "updated_at": "2026-07-20T23:41:46.890843+00:00"
+}

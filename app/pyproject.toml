@@ -1,0 +1,10 @@
+[project]
+name = "castle-privacy-pipeline-app"
+version = "0.1.0"
+description = "Research demonstrator for evidence-bounded CASTLE privacy-risk reduction."
+requires-python = ">=3.10"
+readme = "README.md"
+
+[tool.pytest.ini_options]
+pythonpath = ["src", ".."]
+testpaths = ["tests"]

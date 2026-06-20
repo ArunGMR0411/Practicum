@@ -1,0 +1,24 @@
+{
+  "eta_minutes": 0.0,
+  "eta_seconds": 0.0,
+  "eta_source": "hardware-tier estimate; recalibrates after the first run",
+  "extensions": {},
+  "manifest": "/home/arun-gmr/MSC_Projects/Practicum/app/outputs/runs/20260720T234144Z/input_manifest.csv",
+  "n_images": 0,
+  "recommendation": "Accelerated Efficient runtime policy selected from available compute.",
+  "runtime_policy": {
+    "estimated_seconds_per_image": 20.0,
+    "face_display_name": "RF-DETR + SCRFD",
+    "face_evidence": "Deployment score 0.9145, within 0.0021 of the full fusion score.",
+    "face_policy_id": "fusion_rfdetr_scrfd10g",
+    "multimodal_display_name": "Reviewed screen detector + recognised text OCR",
+    "multimodal_image_size": 1280,
+    "multimodal_policy_id": "reviewed_screen_yolo11s_1280",
+    "policy_id": "accelerated_efficient",
+    "text_canvas_size": 2560,
+    "text_confidence": 0.3,
+    "text_use_gpu": true,
+    "tier": "accelerated efficient"
+  },
+  "source_dir": "/home/arun-gmr/MSC_Projects/Practicum/app/inputs"
+}
