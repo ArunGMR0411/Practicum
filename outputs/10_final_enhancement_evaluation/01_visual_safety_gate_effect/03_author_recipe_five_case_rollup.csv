@@ -1,0 +1,8 @@
+method,n_cases,n_pass,pass_rate
+diffusion_low_step,5,0,0.0
+falco,5,0,0.0
+fams,5,0,0.0
+nullface,5,0,0.0
+reverse_personalization,5,0,0.0
+riddle,5,0,0.0
+styleid,5,0,0.0

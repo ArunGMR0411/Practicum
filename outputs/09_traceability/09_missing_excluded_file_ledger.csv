@@ -1,0 +1,8 @@
+class,item,status,reason,canonical_reference
+private_excluded,Raw CASTLE images,INTENTIONALLY_EXCLUDED,Private identifiable dataset; redistribution prohibited,README.md
+private_excluded,Identifiable item-level review images and private sheets,INTENTIONALLY_EXCLUDED,Review provenance retained without redistributing private pixels or sheets,outputs/03_anonymisation/19_visual_eligibility_gate/05_manual_review_provenance.csv
+model_weight_excluded,Large face and third-party model weights,INTENTIONALLY_EXCLUDED_FROM_GIT,Licensing and repository-size boundary; local paths and hashes retained where allowed,outputs/09_traceability/07_core_weight_sha256.csv
+asset_compute_dependent,Advanced generative checkpoints and reruns,NOT_REQUIRED_FOR_FREEZE,Third-party access and GPU-heavy execution; frozen outputs and negative findings retained,README.md
+not_bit_identical,Stochastic generative outputs,NOT_GUARANTEED,Randomness and hardware sensitivity,README.md
+generated_excluded,App run image folders outside canonical examples,INTENTIONALLY_EXCLUDED,Run-local outputs are reproducible and not scientific evidence,app/outputs/README.md
+model_rerun_skipped,Fresh final face/text/screen detector inference,NOT_RERUN,Retained app and model evidence is used,outputs/07_app_validation/06_final_demonstrator_validation.json

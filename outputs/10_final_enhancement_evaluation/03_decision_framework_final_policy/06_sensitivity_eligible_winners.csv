@@ -1,0 +1,6 @@
+privacy_weight,utility_weight,method,score,eligible_default_policy
+0.4,0.5,layered_blur_downscale_noise,0.8435291398862084,True
+0.5,0.4,solid_mask_black,0.8171240792096413,True
+0.55,0.35,solid_mask_black,0.806516943448436,True
+0.6,0.30000000000000004,solid_mask_black,0.7959098076872311,True
+0.7,0.20000000000000007,solid_mask_black,0.7746955361648207,True

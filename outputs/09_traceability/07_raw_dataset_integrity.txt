@@ -1,0 +1,29 @@
+CASTLE 2024 Integrity Report
+Manifest: data/castle2024/raw_dataset_index.csv
+Raw dataset root: data/castle2024/raw
+
+Summary
+Total manifest rows: 416542
+Validated image opens: 416542
+Files flagged: 0
+
+File statistics
+Mean file size bytes: 258338.12
+Min file size bytes: 80898
+Max file size bytes: 2823292
+
+Counts by extension
+webp: 416542
+
+Resolution distribution
+3840x2160: 416542
+
+Native 4K proportion
+Native 4K files: 416542
+Native 4K proportion among successfully opened files: 1.000000
+
+Issue counts
+none
+
+Flagged files
+none

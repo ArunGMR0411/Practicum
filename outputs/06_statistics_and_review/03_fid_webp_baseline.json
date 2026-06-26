@@ -1,0 +1,11 @@
+{
+  "metric": "fid",
+  "baseline_type": "webp_self_fid_split_half",
+  "interpretation": "Split-half FID across disjoint unanonymised CASTLE WebP face crops. Use later anonymised FID values relative to this baseline.",
+  "reference_crop_count": 5000,
+  "comparison_crop_count": 5000,
+  "total_crop_count": 10000,
+  "fid_value": 6.880108829983669,
+  "metadata_source": "outputs/01_protocol/supporting_protocols/03_fid_source_50000.csv",
+  "retention_note": "The 10,000 generated crop files and crop-level metadata were not retained; regenerate them from the deterministic 50,000-frame source protocol."
+}

@@ -1,0 +1,19 @@
+{
+  "final_policy_layer": "gated_decision_framework_progressive_evaluation",
+  "exploratory_layer": "exploratory_composite_scores_for_method_comparison",
+  "n_default_eligible_face_methods": 3,
+  "default_recommendation": "solid_mask_black",
+  "n_research_only_face_methods": 6,
+  "top_research_only_by_score": "riddle",
+  "components": [
+    "atomic_metrics",
+    "hard_safety_gates",
+    "privacy_floors",
+    "visual_eligibility",
+    "multimodal_miss_to_zero_privacy",
+    "sensitivity_analysis",
+    "pareto_analysis",
+    "deployment_eligibility"
+  ],
+  "canonical_path": "outputs/05_oapr/decision_framework/"
+}

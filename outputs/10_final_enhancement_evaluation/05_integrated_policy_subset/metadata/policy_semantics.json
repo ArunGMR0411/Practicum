@@ -1,0 +1,23 @@
+{
+  "scientific_policy_id": "oapr_visual_safe_balanced_500",
+  "app_policy_id": "objective_profile",
+  "legacy_aliases": [
+    "oapr",
+    "OAPR"
+  ],
+  "display_name": "Objective profile (App demonstrator)",
+  "simplification": [
+    "App uses fixed per-objective face operators (not the scientific 286/81/133 condition-aware OAPR materialisation).",
+    "No live OAPR condition profiler or category-conditioned method switching in the Gradio App path.",
+    "Generative methods are optional overrides; defaults stay visual-safe deterministic methods.",
+    "Accelerated full hardware uses the bounded three-source hardened-RF runtime approximation; scientific detector metrics remain separate."
+  ],
+  "scientific_route_counts": {
+    "layered_blur_downscale_noise": 286,
+    "solid_mask_black": 81,
+    "no_action_copy": 133
+  },
+  "scientific_display_name": "OAPR visual-safe balanced (locked 500)",
+  "registry_path": "configs/policy_registry.json",
+  "schema_version": "1.0.0"
+}

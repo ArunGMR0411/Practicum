@@ -1,0 +1,10 @@
+method,exploratory_balanced_score,deployment_score,mean_max_reid,privacy_max_reid,visual_eligibility,final_role,uniform_visually_plausible_rate,uniform_obvious_artifact_rate,author_recipe_default_route_pass_rate,passes_visual_gate_for_default,eligible_default_policy,blocked_despite_strong_numerics,gate_effect
+solid_mask_black,0.9324310352859834,0.8142197061568615,0.2927333333333333,0.7072666666666666,ELIGIBLE,privacy-first terminal action,,,,True,True,False,DEFAULT_ELIGIBLE
+layered_blur_downscale_noise,0.9520045539444724,0.8047286744071428,0.3275095238095238,0.6724904761904762,ELIGIBLE,default balanced action,,,,True,True,False,DEFAULT_ELIGIBLE
+blur,0.9359917948835658,0.770820416626832,0.3921777777777778,0.6078222222222222,ELIGIBLE,utility-oriented deterministic candidate,,,,True,True,False,DEFAULT_ELIGIBLE
+riddle,0.9030561813295034,0.813025068553892,0.2967,0.7032999999999999,RESEARCH_COMPARABLE_NOT_DEFAULT,full comparable evidence,0.86,0.14,0.0,False,False,True,BLOCKED_BY_VISUAL_GATE
+diffusion_low_step,0.9127037184993366,0.7829428221411716,0.3319635642135642,0.6680364357864359,RESEARCH_ONLY_NOT_DEFAULT,negative/conditional evidence,0.05,0.7,0.0,False,False,True,BLOCKED_BY_VISUAL_GATE
+falco,0.8106769135141331,0.76609510389819,0.2956499999999999,0.70435,RESEARCH_COMPARABLE_NOT_DEFAULT,full comparable evidence,0.78,0.22,0.0,False,False,True,BLOCKED_BY_VISUAL_GATE
+nullface,0.8179418872861857,0.7218289124305768,0.3740603896103896,0.6259396103896104,RESEARCH_ONLY_NOT_DEFAULT,research comparison,,,0.0,False,False,True,BLOCKED_BY_VISUAL_GATE
+reverse_personalization,0.7413826479806911,0.65939989335003,0.4879936507936507,0.5120063492063492,RESEARCH_ONLY_NOT_DEFAULT,research comparison,,,0.0,False,False,False,BLOCKED_BY_VISUAL_GATE
+pixelate,0.8439795621180424,0.6539920323408726,0.6081247474747474,0.3918752525252525,ELIGIBLE,utility-oriented deterministic candidate,,,,False,False,False,BLOCKED_OTHER_GATE

@@ -1,0 +1,18 @@
+failure_mode,description,RQ/component,evidence_boundary
+detector_miss,Face detector misses a true face or returns an unusable region,RQ1/RQ2,Bounded by the reviewed 500-frame detection evidence
+residual_text_leakage,Visible text remains after processing or is missed by the detector,RQ3,Tracked by the residual-leakage review
+residual_screen_leakage,Visible screen content remains or screen detection is incomplete,RQ3,Tracked by the residual-leakage review
+privacy_residual,Face identity signal remains after a weak anonymisation method,RQ2,Measured by AdaFace and ArcFace where available
+utility_collapse,Privacy protection destroys face-region visual utility,RQ2,Solid-mask and severe-obfuscation boundary
+identity_artefact,Generated or replaced face creates visible artefacts or apparent visual inconsistency,RQ2,StyleID/FAMS/NullFace/diffusion quality boundary
+runtime_failure,Method is too slow or unstable for routine execution,RQ2/RQ4,Reverse Personalization practicality boundary
+dependency_checkpoint_failure,Method cannot be reproduced because required checkpoints or dependencies are inaccessible,RQ2,Method-accessibility evidence cards
+app_failure,Demonstrator execution exception or missing output,Demonstrator,Zero failures across 11 runs and 1100 processing events
+selector_fallback,OAPR chooses a safe fallback because a candidate fails evidence or risk gates,RQ4,OAPR routing log and decision explanations
+diffusion_visual_quality_gate,"Diffusion produces mask-like, patch-like, partial, or visually inconsistent face edits in egocentric cases",RQ2/RQ4,100-case diffusion visual review and full 500 metric evidence
+rp_residual_failure,Reverse Personalization improved from 444 to 482 outputs but 18 frames still failed after targeted retry,RQ2,Final retry manifest and recomputed metrics
+styleid_fams_quality_failure,StyleID and FAMS remained visually unsuitable after systematic tuning and a 25-frame pilot,RQ2,Final tuning decision and pilot evidence
+oapr_objective_boundary,OAPR has actual routed-output metrics but does not dominate fixed blur globally,RQ4,Seven 500-frame objective-mode evaluations and fixed-method comparison
+detector_incapable_text_region,Annotated text region not recovered by CRAFT/EAST/docTR/MSER on locked protocol,RQ3,Frozen residual after residual hard-miss campaign; not open default-stack work.
+low_iou_screen_presence_hyp,Screen presence predicted with low IoU to GT (wrong cluster/box),RQ3,Retained residual; obscuration flag; not closed by R8.
+screen_fill_utility_collapse,Large utility loss from privacy-first screen fill redaction,RQ3,Expected under privacy-weighted objective; area-aware operators not promoted.

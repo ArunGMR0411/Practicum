@@ -1,0 +1,2 @@
+split,n_images,vlm_proxy_any_sensitive_inference_rate,vlm_proxy_identity_rate,vlm_proxy_text_document_rate,vlm_proxy_screen_rate,vlm_proxy_activity_context_rate,note
+test,75,0.10666666666666667,0.05333333333333334,0.09333333333333334,0.013333333333333334,0.06666666666666667,Rule-based adversarial privacy-question proxy over residual flags and privacy scores; not a commercial VLM API evaluation. Complements OCR/Re-ID metrics.

@@ -1,0 +1,72 @@
+{
+  "generated_at_utc": "2026-07-20T11:21:08.544032+00:00",
+  "app_policy_id": "objective_profile",
+  "scientific_policy_id": "oapr_visual_safe_balanced_500",
+  "simplification": [
+    "App uses fixed per-objective face operators (not the scientific 286/81/133 condition-aware OAPR materialisation).",
+    "No live OAPR condition profiler or category-conditioned method switching in the Gradio App path.",
+    "Generative methods are optional overrides; defaults stay visual-safe deterministic methods.",
+    "Accelerated full hardware uses the bounded three-source hardened-RF runtime approximation; scientific detector metrics remain separate."
+  ],
+  "selected_compute_tier": "accelerated_efficient",
+  "tier_default_face_detector_policy": "fusion_rfdetr_scrfd10g",
+  "selected_face_detector_policy": "runtime_3_source_all_raw_rf_approximation",
+  "preferred_face_detector_policy": "runtime_3_source_all_raw_rf_approximation",
+  "face_detector_runtime": {
+    "policy_id": "runtime_3_source_all_raw_rf_approximation",
+    "candidate_sources": [
+      "rfdetr_medium_face_030",
+      "yolo11s_widerface_1280",
+      "scrfd_10g_current_640"
+    ],
+    "model_path": "outputs/02_face_detection/12_detector_error_hardening/deploy_error_hardened_all_raw_rf_iou0_45.joblib",
+    "model_sha256": "98b6ef8180c30b82745c225857e78fd3330a8e15f2b6656fc5bd91b466b0767c",
+    "fallback_applied": false,
+    "scientific_score_assigned": false,
+    "preflight_mode": "static_no_model_execution"
+  },
+  "balanced_profile_defaults": {
+    "face_detection": "runtime_3_source_all_raw_rf_approximation",
+    "multimodal_detection": "reviewed_screen_yolo11s_1280",
+    "face_anonymisation": "layered",
+    "screen_operator": "fill",
+    "text_operator": "blur"
+  },
+  "fallback_face_detector_order": [
+    "runtime_3_source_all_raw_rf_approximation",
+    "fusion_rfdetr_yolo11s_scrfd10g",
+    "fusion_rfdetr_scrfd10g",
+    "fixed_fusion_yolo11s1280_scrfd10g",
+    "yolo11s_face"
+  ],
+  "assets": [
+    {
+      "asset": "screen_yolo",
+      "path": "app/models/multimodal_screen_yolo11s.pt",
+      "present": true
+    },
+    {
+      "asset": "yolo11_face",
+      "path": "data/models/face_detection_candidates/yolo11s_widerface.pt",
+      "present": true
+    },
+    {
+      "asset": "rfdetr",
+      "path": "data/models/face_detection_candidates/rfdetr_medium_face.pth",
+      "present": true
+    },
+    {
+      "asset": "hardened_rf_deploy",
+      "path": "outputs/02_face_detection/12_detector_error_hardening/deploy_error_hardened_all_raw_rf_iou0_45.joblib",
+      "present": true
+    }
+  ],
+  "missing_required_for_full_accelerated": [],
+  "ready_for_visual_safe_demo": true,
+  "ready_for_public_smoke_without_weights": true,
+  "notes": [
+    "Visual-safe App path uses objective_profile defaults (not scientific 286/81/133 OAPR).",
+    "Public smoke protocol does not require CASTLE or detector weights.",
+    "ready_for_visual_safe_demo requires screen YOLO + YOLO face weights; smoke path is always available."
+  ]
+}

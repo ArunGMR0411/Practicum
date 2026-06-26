@@ -1,0 +1,6 @@
+gate,blocks,effect,supports_safer_policy
+visual_eligibility,generative methods with high numeric scores,prevents default promotion of RiDDLE/FALCO/NullFace/diffusion/RP,True
+privacy_reid_floor,methods with high residual max Re-ID,keeps balanced defaults privacy-aware,True
+failure_rate_gate,incomplete materialisations,prevents partial-coverage defaults,True
+detector_recall_floor,balanced-looking low-recall detectors,privacy-critical misses cannot win deployment selection,True
+multimodal_miss_to_zero,averaging over modality misses,missed text/screen cannot hide in composite privacy,True

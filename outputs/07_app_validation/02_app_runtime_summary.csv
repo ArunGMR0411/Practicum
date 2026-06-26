@@ -1,0 +1,8 @@
+run,mode,objective,workers,compute_profile,frames_ok,frames_failed,mean_runtime_seconds,method_counts,output_dir
+objective_profile_balanced,objective_profile,utility_under_privacy_floor,1,unknown_or_unstable_profile,100,0,0.155645,"{""copy"": 25, ""layered"": 75}",outputs/07_app_validation/run_logs/objective_profile_balanced
+objective_profile_privacy,objective_profile,privacy_first,1,unknown_or_unstable_profile,100,0,0.142015,"{""copy"": 25, ""solid_mask"": 75}",outputs/07_app_validation/run_logs/objective_profile_privacy
+objective_profile_utility,objective_profile,utility_priority,1,unknown_or_unstable_profile,100,0,0.142779,"{""blur"": 75, ""copy"": 25}",outputs/07_app_validation/run_logs/objective_profile_utility
+blur,blur,privacy_first,1,unknown_or_unstable_profile,100,0,0.142727,"{""blur"": 100}",outputs/07_app_validation/run_logs/blur
+layered,layered,privacy_first,1,unknown_or_unstable_profile,100,0,0.153541,"{""layered"": 100}",outputs/07_app_validation/run_logs/layered
+pixelate,pixelate,privacy_first,1,unknown_or_unstable_profile,100,0,0.146985,"{""pixelate"": 100}",outputs/07_app_validation/run_logs/pixelate
+solid_mask,solid_mask,privacy_first,1,unknown_or_unstable_profile,100,0,0.146868,"{""solid_mask"": 100}",outputs/07_app_validation/run_logs/solid_mask

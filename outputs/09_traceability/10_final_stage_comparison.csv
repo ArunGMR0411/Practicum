@@ -1,0 +1,8 @@
+stage,final_winner_policy,fallback,key_limitation
+Face Detection,error_hardened_all_raw_rf_iou0_45 (balanced 0.9172); RF-DETR reranker recall-first (0.9129),SCRFD no_face; high-recall fusion,Recall floor for deployment selection; some FN not in candidate pool
+Scene-Condition Router,Hybrid SCR+telemetry → profile 0.9255,Rule / no route for weak labels,Only route-eligible labels
+Multimodal Detection,CRAFT4k+YOLO+text-cluster+strict edge-phone; presence 0.9458; screen FN 0,YOLO-only,Localisation ~0.62; low-IoU + detector-incapable text residual
+Face Anonymisation,Visual-safe: layered balanced / solid_mask privacy-first; eligible solid/layered/blur,No-face copy,Generative research-only under gates
+Multimodal Anonymisation,Adaptive 0.8320 priv 0.8680,Fixed blur/fill 0.8319,Not statistically superior; residual text/low-IoU
+End-to-End Policy,OAPR visual-safe deterministic + deployment gates,Fixed layered,Objective-specific not universal
+Evaluation framework,gated OAPR decision framework (exploratory scores then gated selection),exploratory composites alone,Must report paired multimodal scores carefully
