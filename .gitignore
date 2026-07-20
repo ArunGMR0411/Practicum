@@ -44,7 +44,6 @@ Thumbs.db
 # ----- Caches / logs -----
 .cache/
 cache/
-wandb/
 logs/
 *.log
 *.aux

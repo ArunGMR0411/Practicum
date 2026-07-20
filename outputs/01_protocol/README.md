@@ -12,12 +12,16 @@ Protocols are **frozen membership lists**. Regeneration must **not** re-sample C
 
 ### Construction / provenance
 
-1. **Subset definition (construction logic):**  
-   `src/data/subset_definitions.py` — `DETECTION_EVAL_SUBSET`, `ANONYMISATION_EVAL_SUBSET`  
-2. **Materialise scripts (historical builders):**  
-   `scripts/data_protocol/build_eval_subsets.py`  
-   (writes under `data/thesis_manifests/` in older layouts; thesis-canonical copies live under `outputs/01_protocol/thesis_manifests/`)  
-   Supporting builders: `build_dev_set.py`, `build_calibration_set.py`, `build_fid_subset.py`  
+1. **Subset definitions:**
+
+   `src/data/subset_definitions.py` provides `DETECTION_EVAL_SUBSET` and
+   `ANONYMISATION_EVAL_SUBSET`.
+
+2. **Materialisation scripts:**
+
+   `scripts/data_protocol/build_eval_subsets.py`, with supporting development,
+   calibration, and FID builders in the same directory. Canonical locked
+   manifests are retained under `outputs/01_protocol/thesis_manifests/`.
 3. **Verification (do not re-sample):**  
    `scripts/data_protocol/verify_locked_protocols.py`  
    Writes `outputs/01_protocol/02_locked_protocol_verification.json`

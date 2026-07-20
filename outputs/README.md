@@ -214,13 +214,13 @@ defaults.
 This stage records demonstrator validation evidence.
 
 1. `01_app_validation_manifest.csv` links every validation mode to its logs.
-2. `02_app_runtime_summary.csv` records 11 validation modes and 1,100
+2. `02_app_runtime_summary.csv` records seven validation modes and 700
    processing events.
 3. `03_app_failure_log.csv` records failures; the retained validation completed
    with zero processing failures.
-4. `run_logs/` contains per-mode routing logs, image manifests, and runtime
-   summaries. Rendered demonstrator images were removed after accounting
-   because they are deterministically reproducible.
+4. Bulk per-run logs and rendered demonstrator images are not retained in this
+   compact package; their aggregate accounting remains in the manifest,
+   runtime summary, and failure log.
 
 The app evidence supports a bounded research demonstrator, not production
 deployment or complete anonymisation.
@@ -236,8 +236,9 @@ deterministic policy supersedes it as the runtime default.
 
 ### 08 Figures
 
-The five numbered figures present the privacy–utility frontier, multimodal
-leakage, failure taxonomy, selector/oracle comparison, and selector ablation.
+`08_figures/` is reserved for reproducible figures generated from the retained
+tables. Figures used by the final paper are maintained in
+`docs/thesis_papers/images/`.
 Their source tables are mapped in stage `09`.
 
 ### 09 Traceability

@@ -27,7 +27,6 @@ evaluation_switches:
   run_multimodal_eval: true
   run_routing_eval: true
   run_ablation_eval: true
-  enable_wandb: false
 
 statistical_test_settings:
   primary_test: "paired_t_test"

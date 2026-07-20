@@ -12,7 +12,9 @@ Run scripts from the repository root with the project virtual environment.
 - `oapr_routing/`: build and evaluate routing policies.
 - `metrics_statistics/`: compute shared privacy, utility, and statistical metrics.
 - `reporting_traceability/`: generate tables, plots, and evidence maps.
+- `reporting/`: build the aligned cross-stage comparison.
 - `app_validation/`: validate the demonstrator workflow.
+- `smoke/`: run the public synthetic integration protocol.
 
 ## Core checks
 

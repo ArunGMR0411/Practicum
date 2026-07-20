@@ -195,7 +195,7 @@ explicit privacy, utility, runtime, failure, and visual-quality gates.
 
 ```bash
 .venv/bin/python scripts/oapr_routing/run_decision_framework_evaluation.py
-.venv/bin/python scripts/oapr_routing/materialize_and_evaluate_oapr_500.py
+.venv/bin/python scripts/oapr_routing/run_frozen_scientific_oapr_route_replay.py --use-offline-routes
 ```
 
 Retained routing tables are under `outputs/05_oapr/`. Final policy and residual

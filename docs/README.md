@@ -1,12 +1,13 @@
-All of your documentation should be placed in subdirectories of this directory.
+# Documentation
 
-- Use the `proposal` sub-directory for your project proposal.
-- Use the `documentation` sub-directory for your user manual and technical documentation.
+Formal project documents and their maintained source files:
 
-There are additional instructions in each of those sub-directories.  Please read them.
+| Path | Contents |
+| --- | --- |
+| `documentation/` | Submission-ready report and literature-review PDFs |
+| `literature_review/` | Brief and comprehensive literature-review sources |
+| `proposal/` | Approved practicum proposal |
+| `thesis_papers/` | Final IEEE paper, bibliography, figures, and source papers |
 
-**The general rule of thumb that you should adopt is that documents should be converted
-to PDF when finalised - and available for collection from your repo in time for the
-appropriate deadlines. While templates are provided in MS Word format, individual 
-students may select whichever editing software they prefer - the only constraint is that
-the final revision of these documents should be converted to PDF.**
+The canonical thesis source is `thesis_papers/main.tex`. Rebuild instructions
+are provided in `thesis_papers/README.md`.
