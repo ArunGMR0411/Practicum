@@ -16,3 +16,9 @@ Stage mirrors (navigation next to domain evidence):
 .venv/bin/python scripts/oapr_routing/run_decision_framework_evaluation.py
 .venv/bin/python scripts/oapr_routing/build_decision_framework_figure.py
 ```
+
+The evaluation runner regenerates `09_run_logs/run_trace.txt`,
+`09_run_logs/01_run_report.md`, and
+`09_run_logs/03_evidence_source_priority.json`. These transient run snapshots
+are not retained in the repository. The referenced validation record remains
+under `09_run_logs/02_validation_pass.md`.
