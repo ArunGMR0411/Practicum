@@ -18,9 +18,9 @@ from src.data.subset_definitions import FID_SUBSET, no_overlap_check, resolve_su
 
 
 DEFAULT_MANIFEST = PROJECT_ROOT / "data" / "castle2024" / "raw_dataset_index.csv"
-DEFAULT_OUTPUT = PROJECT_ROOT / "outputs" / "submission_evidence" / "01_protocol" / "supporting_protocols" / "03_fid_source_50000.csv"
-DEV_SET_PATH = PROJECT_ROOT / "outputs" / "submission_evidence" / "01_protocol" / "supporting_protocols" / "01_development_300.csv"
-CALIBRATION_SET_PATH = PROJECT_ROOT / "outputs" / "submission_evidence" / "01_protocol" / "supporting_protocols" / "02_calibration_200.csv"
+DEFAULT_OUTPUT = PROJECT_ROOT / "outputs" / "01_protocol" / "supporting_protocols" / "03_fid_source_50000.csv"
+DEV_SET_PATH = PROJECT_ROOT / "outputs" / "01_protocol" / "supporting_protocols" / "01_development_300.csv"
+CALIBRATION_SET_PATH = PROJECT_ROOT / "outputs" / "01_protocol" / "supporting_protocols" / "02_calibration_200.csv"
 
 
 def parse_args() -> argparse.Namespace:

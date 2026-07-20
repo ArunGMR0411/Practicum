@@ -1,15 +1,14 @@
 # App Tests
 
-App-level tests live in the repository-level `tests/` directory so they can reuse the shared CASTLE pipeline fixtures.
+App tests live in the repository-level `tests/pipeline_app/` directory so they
+can reuse shared pipeline fixtures. Compute-policy structure tests are under
+`tests/core_structure/`.
 
-Relevant tests:
-
-- `tests/pipeline_app/test_app.py`
-- `tests/pipeline_app/test_pipeline_e2e.py`
-- `tests/core_structure/test_compute_policy.py`
-
-Run from the repository root:
+Run the App test group from the repository root:
 
 ```bash
-.venv/bin/python -m pytest tests/pipeline_app/test_app.py tests/core_structure/test_compute_policy.py
+.venv/bin/python -m pytest tests/pipeline_app -m "not e2e_assets"
 ```
+
+Run the full local group, including tests that require installed model assets,
+with `.venv/bin/python -m pytest tests/pipeline_app`.

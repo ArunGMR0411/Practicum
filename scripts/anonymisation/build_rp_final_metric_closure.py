@@ -26,14 +26,12 @@ from src.utils.compute_policy import build_compute_policy
 DEFAULT_RP_DIR = (
     PROJECT_ROOT
     / "outputs"
-    / "submission_evidence"
     / "03_anonymisation"
     / "05_reverse_personalization"
 )
 DEFAULT_ORIGINAL_MANIFEST = (
     PROJECT_ROOT
     / "outputs"
-    / "submission_evidence"
     / "03_anonymisation"
     / "05_reverse_personalization"
     / "01_rp_final_manifest.csv"
@@ -41,7 +39,6 @@ DEFAULT_ORIGINAL_MANIFEST = (
 DEFAULT_LOCKED_MANIFEST = (
     PROJECT_ROOT
     / "outputs"
-    / "submission_evidence"
     / "01_protocol"
     / "01_locked_500_input_manifest.csv"
 )
@@ -49,7 +46,6 @@ DEFAULT_RETRY_RESULTS = DEFAULT_RP_DIR / "02_rp_retry_results.csv"
 DEFAULT_DETECTIONS = (
     PROJECT_ROOT
     / "outputs"
-    / "submission_evidence"
     / "02_face_detection"
     / "13_anonymisation_protocol_face_boxes.csv"
 )

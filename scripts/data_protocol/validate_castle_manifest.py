@@ -17,7 +17,7 @@ PROJECT_ROOT = Path(__file__).resolve().parents[2]
 DATASET_ROOT = PROJECT_ROOT / "data" / "castle2024"
 RAW_ROOT = DATASET_ROOT / "raw"
 MANIFEST_PATH = DATASET_ROOT / "raw_dataset_index.csv"
-REPORT_PATH = PROJECT_ROOT / "outputs" / "submission_evidence" / "09_traceability" / "07_raw_dataset_integrity.txt"
+REPORT_PATH = PROJECT_ROOT / "outputs" / "09_traceability" / "07_raw_dataset_integrity.txt"
 MAX_WORKERS = min(8, os.cpu_count() or 1)
 
 

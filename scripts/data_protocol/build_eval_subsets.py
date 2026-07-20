@@ -23,11 +23,11 @@ from src.data.subset_definitions import (
 
 
 DEFAULT_MANIFEST = PROJECT_ROOT / "data" / "castle2024" / "raw_dataset_index.csv"
-DEV_SET_PATH = PROJECT_ROOT / "outputs" / "submission_evidence" / "01_protocol" / "supporting_protocols" / "01_development_300.csv"
-CALIBRATION_SET_PATH = PROJECT_ROOT / "outputs" / "submission_evidence" / "01_protocol" / "supporting_protocols" / "02_calibration_200.csv"
-FID_SET_PATH = PROJECT_ROOT / "outputs" / "submission_evidence" / "01_protocol" / "supporting_protocols" / "03_fid_source_50000.csv"
-DETECTION_OUTPUT = PROJECT_ROOT / "data" / "thesis_manifests" / "final_face_detection_500.csv"
-ANONYMISATION_OUTPUT = PROJECT_ROOT / "data" / "thesis_manifests" / "final_face_anonymisation_500.csv"
+DEV_SET_PATH = PROJECT_ROOT / "outputs" / "01_protocol" / "supporting_protocols" / "01_development_300.csv"
+CALIBRATION_SET_PATH = PROJECT_ROOT / "outputs" / "01_protocol" / "supporting_protocols" / "02_calibration_200.csv"
+FID_SET_PATH = PROJECT_ROOT / "outputs" / "01_protocol" / "supporting_protocols" / "03_fid_source_50000.csv"
+DETECTION_OUTPUT = PROJECT_ROOT / "outputs" / "01_protocol" / "thesis_manifests" / "final_face_detection_500.csv"
+ANONYMISATION_OUTPUT = PROJECT_ROOT / "outputs" / "01_protocol" / "thesis_manifests" / "final_face_anonymisation_500.csv"
 
 
 def parse_args() -> argparse.Namespace:

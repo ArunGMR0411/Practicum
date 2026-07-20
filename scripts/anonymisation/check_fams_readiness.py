@@ -65,7 +65,6 @@ def _latest_smoke_summary() -> dict[str, object] | None:
     retained_output_dir = (
         PROJECT_ROOT
         / "outputs"
-        / "submission_evidence"
         / "03_anonymisation"
         / "06_styleid_fams"
         / "fams_images"
@@ -74,7 +73,6 @@ def _latest_smoke_summary() -> dict[str, object] | None:
     retained_comparison = (
         PROJECT_ROOT
         / "outputs"
-        / "submission_evidence"
         / "03_anonymisation"
         / "06_styleid_fams"
         / "03_pilot_summary.json"

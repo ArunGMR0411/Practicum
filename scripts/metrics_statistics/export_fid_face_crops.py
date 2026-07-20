@@ -21,7 +21,7 @@ from scripts.detection.run_detector_inference import build_detector
 from src.data.castle_loader import CASTLEDataset
 
 
-DEFAULT_MANIFEST = PROJECT_ROOT / "outputs" / "submission_evidence" / "01_protocol" / "supporting_protocols" / "03_fid_source_50000.csv"
+DEFAULT_MANIFEST = PROJECT_ROOT / "outputs" / "01_protocol" / "supporting_protocols" / "03_fid_source_50000.csv"
 DEFAULT_OUTPUT_ROOT = PROJECT_ROOT / "outputs" / "fid_webp_baseline_crops"
 DEFAULT_METADATA = PROJECT_ROOT / "outputs" / "fid_webp_baseline_crops.csv"
 DEFAULT_MODEL = PROJECT_ROOT / "data" / "models" / "yolov8n.pt"

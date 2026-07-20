@@ -18,7 +18,6 @@ for path in (PROJECT_ROOT, APP_SRC):
 # Relative path snippets (posix) for tests that need CASTLE/weights/App inputs.
 _E2E_PATH_SNIPPETS = (
     "tests/annotation_review/",
-    "tests/anonymisation/test_generative_control_batch.py",
     "tests/core_structure/test_repository_structure.py",
     "tests/data_protocol/",
     "tests/detection/test_screen_detection.py",

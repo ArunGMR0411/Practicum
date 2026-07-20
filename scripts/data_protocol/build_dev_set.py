@@ -30,9 +30,9 @@ from src.data.subset_definitions import DEV_SET, no_overlap_check
 
 
 DEFAULT_MANIFEST = PROJECT_ROOT / "data" / "castle2024" / "raw_dataset_index.csv"
-DEFAULT_OUTPUT = PROJECT_ROOT / "outputs" / "submission_evidence" / "01_protocol" / "supporting_protocols" / "01_development_300.csv"
+DEFAULT_OUTPUT = PROJECT_ROOT / "outputs" / "01_protocol" / "supporting_protocols" / "01_development_300.csv"
 DEFAULT_INSPECTION_NOTE = PROJECT_ROOT / "outputs" / "dev_set_inspection_note.txt"
-CALIBRATION_SET_PATH = PROJECT_ROOT / "outputs" / "submission_evidence" / "01_protocol" / "supporting_protocols" / "02_calibration_200.csv"
+CALIBRATION_SET_PATH = PROJECT_ROOT / "outputs" / "01_protocol" / "supporting_protocols" / "02_calibration_200.csv"
 RAW_ROOT = PROJECT_ROOT / "data" / "castle2024" / "raw"
 CACHE_PATH = PROJECT_ROOT / "outputs" / "cache" / "castle2024_selection_support" / "subset_analysis_cache.csv"
 REFINEMENT_CACHE_DIR = PROJECT_ROOT / "outputs" / "cache" / "castle2024_selection_support" / "dev_face_refinement_cache"
